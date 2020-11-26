@@ -1,4 +1,4 @@
 # SMS Guide (Drafts)
 
-[**Bianco 4**](/shines/b4)  
-[**Misc**](/misc)
+[**Bianco 4**](/sms-guide/shines/b4)  
+[**Misc**](/sms-guide/misc)
