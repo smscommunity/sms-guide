@@ -6,6 +6,7 @@ nav_order: 2
 ---
 
 # Video Tools
+{: .no_toc }
 
 1. TOC
 {:toc}
@@ -19,7 +20,10 @@ You can stream to Twitch, post a message in your chat when you PB, then go back 
 2. **OBS Replay Buffer + YouTube**  
 **OBS Replay Buffer** is a feature you can enable via its tab in OBS output settings (also available in [Streamlabs OBS](https://streamlabs.com/content-hub/post/instant-replays-in-streamlabs-obs)). It records your video in a fixed-size space in RAM that's cyclically overwritten, meaning the previous few minutes are available at any given time. Set the replay size to be longer than the IL, and bind a hotkey to **save replay**. Then, pressing the hotkey will save the last few minutes of recording onto your file system. Hence, when you PB, you just press the button to save a video. Make sure to check the size beforehand, and you must start the replay buffer in OBS before using it! These videos can then be put on a throwaway YouTube account; no need to present them or even title them. You may optionally crop the video before uploading (see below), but if not, please timestamp the link. *This is a good option for recording ILs offline, but requires more clicks to put them up online*.
 
+<details markdown="block">
+<summary> How to Streamline Uploading to YouTube </summary> {: .text-delta }
 To streamline uploading clips to YouTube, edit a few default settings. In [YouTube Studio](https://studio.youtube.com/), click on Settings in the sidebar. Then in Channel > Advanced Settings, set your channel as "not made for kids", and in Upload Defaults, set Visibility to Public or Unlisted. Then, to upload videos, you can put them all in a folder and upload them all at the same time, but have to publish them one by one (but you receive a link once you complete the wizard each time, ready to paste in a sheet).
+</details>
 
 ## Cropping Videos
 Use [**LosslessCut**](https://github.com/mifi/lossless-cut) (download the latest release [here](https://github.com/mifi/lossless-cut/releases)). This is a simple GUI wrapper around the FFMPEG video tool library, which allows you to trim videos without re-encoding them. Encoding is the slow process of turning a video from a sequence of frames of pixels, which takes up enormous disk space, into files of manageable size, and has been done to every video you have. Encoded videos can't be split easily on a specific frame, but can on **keyframes**, which occur every few seconds in the video. LosslessCut picks these out and creates a cropped copy of your video, *instantly* and with *no quality degradation*. That's not possible if you just use a video editor or player. It is also lighter than such software.
