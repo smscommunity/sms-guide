@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Shines
+permalink: /shines
 has_children: true
 nav_order: 2
 ---

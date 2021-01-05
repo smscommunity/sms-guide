@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Bianco
+permalink: /shines/bianco
 parent: Shines
 has_children: true
 nav_order: 1
