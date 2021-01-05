@@ -1,4 +1,8 @@
-# Misc Links
+---
+layout: default
+title: Misc Links
+nav_order: 2
+---
 
 **Pianta Entry**  
 [Beginner](https://www.youtube.com/watch?v=57gviq3JLoI)  
