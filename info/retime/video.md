@@ -8,7 +8,7 @@ nav_order: 1
 
 # Video Retime
 
-To convert an IL without video into SGT timing, take the number of frames between the *start* and *end* frame, then divide by the frame-rate of the video, and round the result *down* to 2dp. *Check* what the correct frame-rate is, e.g. if it's 30 or 29.97. If it's 29.97, you may divide by the exact number (30/1.001) for complete accuracy.
+To convert an IL without video into SGT timing, take the number of frames between the *start* and *end* frame, then divide by the frame-rate of the video, and round the result *down* to 2dp. *Check* that you have the correct frame-rate, particularly if it's 30 or 29.97. If it's 29.97 or 59.94, divide by the exact number (30/1.001 or 60/1.001) for complete accuracy.
 
 This "number of frames" is a whole number equal to the difference between the absolute frame numbers you see in VirtualDub, and by the nature of discrete arithmetic, counts the number of frames from the start to the end *including* the start but *excluding* the end. That is, if the start is frame 2 and the end is frame 6, the difference (=4) counts frames 2,3,4,5.
 
