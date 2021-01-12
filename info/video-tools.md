@@ -8,8 +8,11 @@ nav_order: 2
 # Video Tools
 {: .no_toc }
 
+<details open markdown="block">
+<summary>Table of contents</summary> {: .text-delta }
 1. TOC
 {:toc}
+</details>
 
 ## Recording Short Videos
 There are 2 options for recording videos (of, say, length <10 mins) that both make recording SMS ILs very low-effort. Both rely on you having already set up OBS to record/stream in general.
