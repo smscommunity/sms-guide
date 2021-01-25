@@ -13,7 +13,10 @@ A spreadsheet tool to convert your split file into world segment history and bes
 **[Petey Pattern Tool](https://naosanpoyo.github.io/PeteyPattern/)**  
 An app tool to analyse the probability of a Bianco 5 Petey pattern.
 
-**[Bingo Resources](https://docs.google.com/spreadsheets/d/1aHYajg1T9VhlgK6MgS-n-54CHeD7gY__JA4kA-41-Lg/)**  
+**[Text Timing](https://github.com/mariosunshineexpert9000/Sunshine-Text-Stuff)**  
+Algorithms to count text length by simulating it, and resulting timings.
+
+**[Bingo Resources](https://docs.google.com/spreadsheets/d/1b8QYMr8DeSAtjjIhWHQ0JRY52W-bqknXQ1iyfqEzMiQ/)**  
 Info on blue coins, nozzle/Yoshi locations, and bingo strats.
 
 **[IL Sheet Archive](https://drive.google.com/drive/folders/14mht3IvI2_HHumptD8eeihrlWf0XpARV)**  
