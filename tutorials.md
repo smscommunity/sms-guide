@@ -80,11 +80,13 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**r7: Beginner** (Dutchj \| 2015/07/28)](https://youtu.be/5tIUuA1-Blg)  
 
 **Gelato**  
+[**gbs: Yossy Spot** (Jpep \| 2020/12/12)](https://youtu.be/I-P6he1nSQY)  
 [**gbs: Basic** (Samura1man \| 2019/09/08)](https://youtu.be/KDajrXdneXI)  
-[**gbs: Basic Stickless** (Trustfall \| 2017/06/08)](https://youtu.be/DPn6m8YF8hk) *(learning stick adjustment recommended)*  
+[**gbs: Basic Stickless** (Trustfall \| 2017/06/08)](https://youtu.be/DPn6m8YF8hk)  
 [**gbs: Backflip** (Dutchj \| 2017/05/16)](https://youtu.be/SxE0zDYr_fs) *(advanced)*  
 [**gbs: Basic** (Bounceyboy \| 2014/11/25)](https://youtu.be/DovjgxRbEjE)  
 [**g7: Beginner** (Dutchj \| 2015/11/29)](https://youtu.be/jJSVc_VMEc4)  
+[**g3: Wiggler** (AverageTrey \| 2021/01/22)](https://www.twitch.tv/videos/883250765)  
 [**g3: Wiggler 3rd Hit** (Pogonateur \| 2020/11/03)](https://youtu.be/RE-fUCuGjtk)  
 
 **Pinna**  
@@ -98,6 +100,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**eyg: 2-Stu** (Dutchj \| 2017/05/17)](https://youtu.be/tvq-WY7YFsc)  
 [**eyg: 2-Stu 5YG (in brief)** (Dutchj \| 2016/08/22)](https://youtu.be/PrfQ5FUUhNQ)  
 [**eyg: 2-Stu** (Strongman Lin \| 2016/05/23)](https://www.youtube.com/watch?v=0xm2-QkrL4M)  
+[**p8** (GravityBeatle \| 2021/02/15)](https://youtu.be/WgudrGUDW9g) *(beginner)*  
 
 **Sirena**  
 [**s1: Manta 2nd Phase** (Dutchj \| 2017/05/17)](https://youtu.be/LbS5JZQ3oRM)  
@@ -111,6 +114,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**n4: Eel** (Metacor \| 2019/07/07)](https://gist.github.com/Metacor/48d83d1765083cc45c71b1545f3ca292)  
 [**n4: Eel** (Dutchj \| 2017/05/18)](https://youtu.be/xwcDh99nKyA)  
 [**n4: Eel 6-Tooth** (Stelzig \| 2016/09/10)](https://youtu.be/tdz2Deg92-M)  
+[**n6s: Galapagos Cycle** (Jpep \| 2020/12/07)](https://youtu.be/FYjgyYxh_y8)  
 [**n6s: Green Cycle** (Metacor \| 2020/04/02)](https://youtu.be/n4EsVB13wuE)  
 [**n6s: Blue Cycle** (Dutchj \| 2017/05/18)](https://youtu.be/OI-8ONnKMyU)  
 [**n7** (Metacor \| 2019/01/24)](https://youtu.be/4EDWHLlORi0)  
