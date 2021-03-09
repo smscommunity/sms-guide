@@ -7,8 +7,12 @@ nav_order: 3
 ---
 
 # Bianco 2 | Windmill
-The windmill turns one full circle in 60.06s *(that's 60×30 frames at 29.97fps)*, meaning its cycles repeat every 15s. We'll look at 3 setups for windmill wallkicks, covering different cycles and difficulties.
+{: .no_toc }
 
+1. TOC
+{:toc}
+
+The windmill turns one full circle in 60.06s *(that's 60×30 frames at 29.97fps)*, meaning its cycles repeat every 15s. We'll look at 3 setups for windmill wallkicks, covering different cycles and difficulties.
 ## Grab Setups
 The first step before each wallkick setup is to ledge-grab the windmill's alcove. Where exactly depends on the setup, but the methods are the same. Here are two:
 
