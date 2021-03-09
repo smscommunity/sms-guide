@@ -17,19 +17,19 @@ We'll look at what we're aiming to do, what inputs we need to have down, and the
 ## Big Picture
 *Paragraphs that beginners should consider are marked with ☼.*
 
-☼ | The most important thing is to make it across, and that's not possible from every **spider position**. Imagining a line from the closest part of the pond to the windmill to the furthest, it's the back 1/3 that's dangerous, but even when it's possible to make it from further back, it leads to a huge hover that loses many seconds. We can make it more safely by:
+☼ \| The most important thing is to make it across, and that's not possible from every **spider position**. Imagining a line from the closest part of the pond to the windmill to the furthest, it's the back 1/3 that's dangerous, but even when it's possible to make it from further back, it leads to a huge hover that loses many seconds. We can make it more safely by:
 * Diving onto the spider (also faster), since this gives extra speed.
 * Spinning in midair if it looks like we're falling short, though this is slower – it reduces Mario's gravity on *falling only*, so gives a little more air-time but isn't that useful.
 
-☼ | The next most important thing is your **angle of approach onto the spider** – this has a big effect where you end up after the jump, and so the hover duration to the windmill. This tests your spatial awareness – to orient yourself, bear in mind the [imaginary line](https://cdn.discordapp.com/attachments/529145099003887618/817481323349671997/unknown.png) from the (lake) entry-point to the corner in the back wall.
+☼ \| The next most important thing is your **angle of approach onto the spider** – this has a big effect where you end up after the jump, and so the hover duration to the windmill. This tests your spatial awareness – to orient yourself, bear in mind the [imaginary line](https://cdn.discordapp.com/attachments/529145099003887618/817481323349671997/unknown.png) from the (lake) entry-point to the corner in the back wall.
 
 Mario can travel along the left shore without influencing the spider, which is faster than air and water-based travel, so for fast execution, it helps to **enter the water at the point of the shore closest to the spider**.
 
-☼ | Conversely, once in the water, the spider homes in on Mario's position, which means that **baiting it closer to the windmill** is a slow but reliable strategy, particularly for handling otherwise slow/difficult/impossible positions. A non-beginner should also foresee when the spider is first triggered by Mario landing in water, as part of the plan.
+☼ \| Conversely, once in the water, the spider homes in on Mario's position, which means that **baiting it closer to the windmill** is a slow but reliable strategy, particularly for handling otherwise slow/difficult/impossible positions. A non-beginner should also foresee when the spider is first triggered by Mario landing in water, as part of the plan.
 
-When deciding between water or air (hover) travel, it tends to be that water is faster but air is easier – when the spider is very close to Mario then air is also faster. Many strategies that are done by quickly diving out of hovers can instead be done by skipping the water re-entry and setting up the final angle onto the spider during the previous hover.
+When deciding between water or air (hover) travel, it tends to be that **water is faster but air is easier** – when the spider is very close to Mario then air is also faster. Many strategies that are done by quickly diving out of hovers can instead be done by skipping the water re-entry and setting up the final angle onto the spider during the previous hover.
 
-When travelling far to get to the spider before first entering the water, the spider becomes more likely to shoot off in a different (entirely random) direction. This can negatively impact the idea of approaching the spider on land first, but can be mollified with spam-sprays from high up, which cover a large area.
+You may need to travel far along the shore to get close to the spider. **Travelling far means the spider becomes more likely to shoot off** in a different (entirely random) direction, because the travel costs enough time. This can negatively impact the idea of approaching the spider on land first, but can be mollified with spam-sprays from high up, which cover a large area.
 
 ### Beginner Strategy
 The ☼ paragraphs above are all we need to come up with a linear beginner strategy. Make sure to start practising the normal reaction-based strategy detailed below asap, however, since it's key to getting a good (first) windmill cycle and building consistency on Bianco 2.
@@ -39,10 +39,18 @@ Spin-jump-dive off the shore after the waterslide to get close to the back wall,
 
 ## Inputs
 There are a number of non-trivial inputs to practise that are used for different spiders.
-* **Water jump-dive (WJD)**: *this is the fastest method for swimming in the game*. Mario can only jump out of the water when the left stick is neutral. As soon as you jump, hold forward and press B – sliding thumb from A to B in 1 frame is ideal. After landing, you can hit neutral again and repeat, but multiple swims are rarely needed in Bianco 2.
-* **Water spam-spray (WSS)**: we can exploit the above mechanic to spam-spray without jumping out of the water – we just need to spam-spray while holding up. These are great for immobilising a spider that's coming towards you from in front.
-* **Spam-spray dive (SSD)**: this is the same as the normal movement option for starting a waterslide from a spam-spray while having the spray nozzle active (e.g. used in Ricco 5 and Gelato 1 to clear bloopers/cataquacks). Jump out of the water, hold digital R, then slide thumb from A to B. Doing the spam-spray sooner into the jump will make this move cover more distance, but harder to input.
-* **Spam-spray hover (SSH)**: similarly to the above, jump out of the water, hold digital R, then slide thumb from A to X. The hover takes a few more frames to come out, so these inputs must be somewhat fast.
+
+**Water jump-dive (WJD)**  
+*This is the fastest method for swimming in the game*. Mario can only jump out of the water when the left stick is neutral. As soon as you jump, hold forward and press B – sliding thumb from A to B in 1 frame is ideal. After landing, you can hit neutral again and repeat, but multiple swims are rarely needed in Bianco 2.
+
+**Water spam-spray (WSS)**  
+We can exploit the above mechanic to spam-spray without jumping out of the water – we just need to spam-spray while holding up. These are great for immobilising a spider that's coming towards you from in front.
+
+**Spam-spray dive (SSD)**  
+This is the same as the normal movement option for starting a waterslide from a spam-spray while having the spray nozzle active (e.g. used in Ricco 5 and Gelato 1 to clear bloopers/cataquacks). Jump out of the water, hold digital R, then slide thumb from A to B. Doing the spam-spray sooner into the jump will make this move cover more distance, but harder to input.
+
+**Spam-spray hover (SSH)**  
+Similarly to SSD: jump out of the water, hold digital R, then slide thumb from A to X. The hover takes a few more frames to come out, so these inputs must be somewhat fast.
 
 ## Spider Flowchart
 *Explained with a sample of 20 spider reactions from EquivocalGenius.*
@@ -86,10 +94,11 @@ This is best in this region because the spider is either:
     * **three-point turn**: hover on top of the spider at loosely the right angle, then back-hover and refine angle, then dive onto it. *Example: #5*.
 
 *Modifications for intermediate/beginner level:*
-    * the range of spiders you would insta-dive onto increases to beyond just those with bad positions – the region moves much further right. This increases the amount of time spent hovering, which, while losing a few seconds, still lets you catch a decent windmill cycle, and gives you much more time to react and line up the angle.
-    * you would do the spiders in zone B/C using the bait strat (see next section).
+* The range of spiders you would insta-dive onto increases to beyond just those with bad positions – the region moves much further right. This increases the amount of time spent hovering, which, while losing a few seconds, still lets you catch a decent windmill cycle, and gives you much more time to react and line up the angle.
+* You would do the spiders in zone B/C using the bait strat (see next section).
+
 ### Zone C: Bait
-In this region, we give up on the spider's position and bait it close to the windmill; this is very slow. In zone C, it's impossible to jump from the spider to the windmill, and in zone B/C, it's hard to adjust the angle using the zone-B strat (previous section), so we opted for an easier option. After one jump-dive-rollout along the shore, at which point you've decided to bait the spider:
+In this region, we give up on the spider's position and **bait it close to the windmill**; this is very slow. In zone C, it's impossible to jump from the spider to the windmill, and in zone B/C, it's hard to adjust the angle using the zone-B strat (previous section), so we opted for an easier option. After one jump-dive-rollout along the shore, at which point you've decided to bait the spider:
 1. Spin-jump-dive directly towards the windmill (the bait starts upon landing).
 2. WJD further towards the windmill.
 3. Jump emptily out of the water while waiting for the spider to arrive.
