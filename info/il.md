@@ -29,7 +29,7 @@ SMS has leaderboards on this spreadsheet for various individual-level–based ca
 If you want to! Do them if you're naturally interested and motivated. But for a more strategic answer, check out [this essay](il/essay) I wrote.
 
 ### Using the Sheet
-First, **join** the sheet by messaging one of the admins mentioned on the sheet's front page on Discord with your Google account's email address. Be warned that **the name on your Google account will be clearly visible in the sheet's activity**. One given access, you can freely edit the space at the end of each sheet – take out a row (column in the case of RTA Strat ILs) on any sheet you want by typing in your name, and now, you can submit times – see the [submission guide](#submission-guide-ils-sheet). A mod will later protect your row so only you and the mods can edit it.
+First, **join** the sheet by messaging one of the admins mentioned on the sheet's front page on Discord with your Google account's email address. Be warned that **the name on your Google account will be clearly visible in the sheet's activity**. One given access, you can freely edit the space at the end of each sheet – take out a row (column in the case of RTA Strat ILs) on any sheet you want by typing in your name, and now, you can submit times – see the [submission guide](#submission-guide-ils-sheet). A mod will later protect your row so only you and the mods can edit it. Don't take out a row unless you'll enter a time right away! Empty rows get removed from time to time.
 
 [ILs Sheet Rules](il/rules){: .btn }
 
