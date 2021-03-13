@@ -22,7 +22,9 @@ nav_order: 2
 
 5. If you want to link something that isn't a valid video, you may put it in a note – e.g. a link to a video of a worse time. You can choose between reporting a worse time with link or a better one without – a choice between more points or a medal maybe – but it's nice to keep the other time/video in a note.
 
-6. All **practice codes are generally allowed**; some levels have specific restrictions **posted in the note on the level's name**, and you should check a video to see where timing starts. General rules:
+6. ILs must be played on **60Hz** (30 fps). NTSC-J and -U always run at 60Hz; PAL will also run at 60 if you hold B during the game boot and select 60Hz from the menu before the title screen appears. If this menu doesn't appear, ensure that the Intro Skip practice code is off.
+
+7. All **practice codes are generally allowed**; some levels have specific restrictions **posted in the note on the level's name**, and you should check a video to see where timing starts. General rules:
     - **Free Pause** is allowed but midair pausing is banned.
     - **Fast Text (DPad Functions)** is allowed except for Pianta 5 Full and Secret.
     - **Any Fruit Opens Yoshi Eggs** is allowed.

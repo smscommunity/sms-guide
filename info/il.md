@@ -31,6 +31,7 @@ If you want to! Do them if you're naturally interested and motivated. But for a 
 ### Using the Sheet
 First, **join** the sheet by messaging one of the admins mentioned on the sheet's front page on Discord with your Google account's email address. Be warned that **the name on your Google account will be clearly visible in the sheet's activity**. One given access, you can freely edit the space at the end of each sheet – take out a row (column in the case of RTA Strat ILs) on any sheet you want by typing in your name, and now, you can submit times – see the [submission guide](#submission-guide-ils-sheet). A mod will later protect your row so only you and the mods can edit it. Don't take out a row unless you'll enter a time right away! Empty rows get removed from time to time.
 
+### Sheet Rules
 [ILs Sheet Rules](il/rules){: .btn }
 
 Ensure that you abide by the leaderboard rules specified at this link. These are for the (main) ILs tab only; they loosely apply to the other sheets, which have informal rules whereby you're expected to check some example videos and ask in the Discord's #help channel if still unclear.
