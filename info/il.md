@@ -43,15 +43,15 @@ ILs in SMS are based around the infrastructure of these cheat codes. This makes 
 
 [Practice Codes Guide](https://gct.zint.ch/guide.html){: .btn }
 
-Here's the installation guide. Please make sure to follow it exactly – particularly when it recommends something, you should see it as *mandatory* unless you know what you're doing. In particular, check that:
+Here's the installation guide. Please make sure to follow it exactly – particularly when it recommends something, you should see it as *mandatory* unless you know what you're doing or otherwise got things working. In particular, check that:
 - (console) **your Homebrew installation did everything mentioned in the [linked guide](https://wii.guide)**;
-- (console) **you're using a [recent (Nov 2019+) version of Nintendont](https://share.zint.ch/nintendont/latest/Nintendont.zip)**;
+- (console) **you're using a [2019 version of Nintendont](https://share.zint.ch/nintendont/6.489/Nintendont.zip)**;
 - (emulator) **you're using a [recent (Dec 2019+) beta version of Dolphin](https://dolphin-emu.org/download/)**.
 
 ILs in SMS are less accessible in (mostly) requiring cheat codes and hacked Wiis, but this is necessary practically. Having to retime every IL from video is an unmanageable amount of work that sets back the accessibility (and popularity) of doing ILs far more. Having fast resets is also a substantial buff to how much they can get optimised, and like the previous point, how enjoyable and healthy they are to play, learn with and compete in.
 
 ## Submission Guide (ILs Sheet)
-*These guidelines apply largely to the other spreadsheet tabs, but aren't currently rigidly enforced.*
+*These guidelines largely apply to the spreadsheet tabs other than "ILs" as well, but not entirely, and aren't currently rigidly enforced. Check examples from the sheet you want to submit to, and ask in the Discord for clarification.*
 ### Formatting
 Make sure your time is formatted as `4.51` or `16.30` or `1:39.22`. This is different to what the timer looks like in-game – there's a `.` between the seconds and centiseconds, and a `:` after the minutes if required. 1 decimal-place (e.g. `16.3`) is accepted for now but I wouldn't bet on it being accepted in future. Check back 10s after typing in a time; if it gets highlighted red then the formatting needs to be fixed. Misformatted times don't count for points.
 
