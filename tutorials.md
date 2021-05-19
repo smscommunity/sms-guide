@@ -17,15 +17,17 @@ nav_order: 2
 ## Full-Game (Recommended)
 This is a set of all-in-one video playlists and shine-breakdown spreadsheets covering the whole game (Any% or even 120 Shines). These ones are usually recommended.
 
-**[120 Shines Tutorial Playlist (Switchmaster64 \| 2021/01/02)](https://www.youtube.com/playlist?list=PLvopRyTdDkBZTFJLtl3g5SknLBNuCLEws)**  
-
 **[Any% Tutorial Playlist (Samura1man \| 2019/09/13)](https://www.youtube.com/playlist?list=PLh58B1tN_ac1c6-J3j1wu9dmkRJuFcOn1)**  
+Best place to start.
 
-**[Any% Shines Index (Metacor, EquivocalGenius, Nebuladiv \| 2020/06)](https://docs.google.com/spreadsheets/d/1lS-6raJt_Dws8e5NvX3wXOTf1DEebYzU7IAF8ctT108/)**  
-More-recent strats but very incomplete.
+**[120 Shines Tutorial Playlist (Switchmaster64 \| 2021/01/02)](https://www.youtube.com/playlist?list=PLvopRyTdDkBZTFJLtl3g5SknLBNuCLEws)**  
+Best place to start; assumes knowledge of the Any% tutorial playlist.
+
+**[Any% Shines List (EquivocalGenius, Jpep, Nebuladiv \| 2020/06 – ongoing)](https://docs.google.com/document/d/1_1X5CcJWKzbonuj6GGYcIv25VCPwkxIE1GylmYaFVhM)**  
+The latest recommendations for strats at all levels; incomplete work-in-progress.
 
 **[All Shines Index (Milk, Dutchj + others \| 2015/07/26 – 2016/02/06 + updates)](https://docs.google.com/spreadsheets/d/19wxG81nHkHlGVPRJZJKp8VcxSeGbRZnKmR9lN7jJSwM/edit#gid=1779352269)**  
-
+A good but old set of strats, often better alternatives to the ones in the Any% tutorial playlist.
 
 ## Full-Game (Backup)
 Like the previous section, but more useful for alternative takes if you get stuck. Note that the older the tutorial, the more likely things are to be out-of-date.
@@ -44,12 +46,17 @@ Full game; deprecated form of EYG (2YG).
 Full game except Airstrip; missing EYG.
 
 ### Spreadsheet Indices
+**[Any% Shines Index (Metacor, EquivocalGenius, Nebuladiv \| 2020/06)](https://docs.google.com/spreadsheets/d/1lS-6raJt_Dws8e5NvX3wXOTf1DEebYzU7IAF8ctT108/)**  
+A precursor to the Any% shines list with most of the same content + some other useful bits.
+
 **[Any% Shines Guide (mwolfe11 \| 2018/05–07)](http://learnsunshine.com/)**  
 "LearnSunshine" – has a lot of prose.
 
-**[Any% Shines Index – 2014 (Milk, Dutchj + others \| pre–2015/07/26)](https://docs.google.com/spreadsheets/d/19wxG81nHkHlGVPRJZJKp8VcxSeGbRZnKmR9lN7jJSwM/edit#gid=1905484894)**
+**[Any% Shines Index – 2014 (Milk, Dutchj + others \| pre–2015/07/26)](https://docs.google.com/spreadsheets/d/19wxG81nHkHlGVPRJZJKp8VcxSeGbRZnKmR9lN7jJSwM/edit#gid=1905484894)**  
+Probably too old to be useful.
 
 **[Any% Shines Index – 2013 (Toufool31 ft. Samura1man, Hiddenpower13 \| 2013)](https://docs.google.com/spreadsheets/d/1isgE_xwTIL0T4nZ3bA4af0aCJhTOv7SPFATB4mZcndg/edit#gid=0)**  
+Almost certainly too old to be useful. Largely grandma movement.
 
 
 ## Individual Shines/Generic
