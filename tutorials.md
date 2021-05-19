@@ -97,9 +97,10 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**g3: Wiggler 3rd Hit** (Pogonateur \| 2020/11/03)](https://youtu.be/RE-fUCuGjtk)  
 
 **Pinna**  
+[**p1: Mecha** (mwolfe11 \| 2020/06/16)](https://youtu.be/hmK0lnVU6kA)  
 [**p1: Mecha 4th Rocket Regrab** (Paperario \| 2018/12/15)](https://youtu.be/H1y0Vo9P-3Y)  
-[**p1: Mecha Advanced** (Dutchj \| 2017/05/17)](https://youtu.be/bK7wq9zyT_Q)  
-[**p1: Mecha Basic + CS Skips** (Dutchj \| 2015/12/07)](https://youtu.be/aTBfcfaXfMw)  
+[**p1: Mecha Advanced** (Dutchj \| 2017/05/17)](https://youtu.be/bK7wq9zyT_Q) *(old 3rd/4th rocket strats)*  
+[**p1: Mecha Basic + CS Skips** (Dutchj \| 2015/12/07)](https://youtu.be/aTBfcfaXfMw) *(old)*  
 [**p2: Bullet Bills [120 Shines]** (Pogonateur \| 2019/11/08)](https://youtu.be/09EzJgZ-fzQ)  
 [**p4: 1-Cycle** (Dutchj \| 2017/05/17)](https://youtu.be/PR2gL6GP9Zs)  
 [**eyg: 1-Stu** (Noki Doki \| 2020/04/15)](https://youtu.be/0plZQdNSo18)  
