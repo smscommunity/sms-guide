@@ -1,0 +1,20 @@
+{
+  "name": "SMS Guide",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "application",
+  "workspaceFolder": "/workspace",
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "/bin/bash"
+  },
+  "extensions": [
+    "bierner.github-markdown-preview",
+    "DavidAnson.vscode-markdownlint",
+    "ginfuru.ginfuru-vscode-jekyll-syntax",
+    "shd101wyy.markdown-preview-enhanced",
+    "streetsidesoftware.code-spell-checker",
+    "yzhang.markdown-all-in-one"
+  ],
+  "forwardPorts": [4000, 35729],
+  "remoteUser": "vscode",
+  "postCreateCommand": "sh .devcontainer/post-create.sh"
+}

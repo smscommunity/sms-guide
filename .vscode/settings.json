@@ -1,0 +1,4 @@
+{
+  "markdown.extension.tableFormatter.enabled": true,
+  "markdown.extension.tableFormatter.normalizeIndentation": true,
+}
