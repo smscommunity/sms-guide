@@ -31,15 +31,15 @@ Rules are non-italicised and *guidelines (on best practices) are italicised*.
 
 4. **Video requirement**: video proof is:
     1. **Required for top 3 (medal) times**. Top-3 times submitted without video after 2021/06/09 will be deleted.
-    2. ***Highly encouraged for every IL**. Videos legitimise your times, show respect for the competition, and provide useful documentation and ideas for others to learn from, at *all* skill-levels/parts of the leaderboard.*
+    2. ***Highly encouraged for every IL**. Videos legitimise your times, show respect for the competition, and provide useful documentation and ideas for others to learn from, at* all *skill-levels/parts of the leaderboard.*
     3. Required for specific setup-intensive levels, namely `Sirena 2 Reds Setup` and any hyper-hover IL (see rule #6).
 
 5. **Video validity criteria:** every link must be to a valid video, "valid" meaning: 
-    1. The video **must include the entire gameplay** of the run (i.e. every input).
-    2. The video **should include the entire run** (i.e. while the timer is running, including the whole intro cutscene). Videos missing timed non-gameplay might be removed (per mod discretion).
-    3. *The video ideally includes everything from the input that reset the level (and the ensuing load) to at least 2 seconds after the timer stops at the end.*
-    4. The time shown on the in-game timer in, or logged in the [retime sheet](https://tiny.cc/smsilretimelog) for, the video **matches the time reported on the sheet** to within 0.02, i.e. less than a frame.
-    5. The video is of **sufficient quality and without major frame-drops** (per mod discretion).
+    1. The video **must include the entire gameplay** of the run (i.e. every input), and **should include the entire run** (i.e. while the timer is running, including the whole intro cutscene). Videos missing timed non-gameplay might be removed (per mod discretion).
+    2. *The video ideally includes everything from the input that reset the level (and the ensuing load) to at least 2 seconds after the timer stops at the end.*
+    3. The time shown on the in-game timer in, or logged in the [retime sheet](https://tiny.cc/smsilretimelog) for, the video **matches the time reported on the sheet** to within 0.02, i.e. less than a frame.
+    4. The video is of **sufficient quality and without major frame-drops** (per mod discretion).
+    5. *Game audio should be present (it needn't be the only audio).*
     6. *If you want to link something that isn't a valid video, you may put it in a note – e.g. a link to a video of a worse time. You may choose between reporting a worse time with link or a better one without – a choice between more points or a medal maybe – but it's nice to still keep the other time/video in a note.*
 
 6. **Hyper-hover glitch**: ILs using the [hyper-hover glitch](https://clips.twitch.tv/StylishShakingTubersOSkomodo-5KdV2BXaPwASFPMF) **have stricter proof requirements** to ensure the setup is replicable by a verifier or future runner.
