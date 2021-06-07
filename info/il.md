@@ -45,7 +45,7 @@ ILs in SMS are based around the infrastructure of these cheat codes. This makes 
 
 Here's the installation guide. Please make sure to follow it exactly – particularly when it recommends something, you should see it as *mandatory* unless you know what you're doing or otherwise got things working. In particular, check that:
 - (console) **your Homebrew installation did everything mentioned in the [linked guide](https://wii.guide)**;
-- (console) **you're using a [2019 version of Nintendont](https://share.zint.ch/nintendont/6.489/Nintendont.zip)**;
+- (console) **you're using a [2019 version of Nintendont](https://github.com/BitPatty/NintendontPackager/raw/master/6.489/Nintendont.zip)**;
 - (emulator) **you're using a [recent (Dec 2019+) beta version of Dolphin](https://dolphin-emu.org/download/)**.
 
 ILs in SMS are less accessible in (mostly) requiring cheat codes and hacked Wiis, but this is necessary practically. Having to retime every IL from video is an unmanageable amount of work that sets back the accessibility (and popularity) of doing ILs far more. Having fast resets is also a substantial buff to how much they can get optimised, and like the previous point, how enjoyable and healthy they are to play, learn with and compete in.
