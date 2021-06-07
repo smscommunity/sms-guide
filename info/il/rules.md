@@ -1,34 +1,47 @@
 ---
 layout: default
-title: ILs Sheet Rules
+title: IL Rules
+permalink: /info/il/rules
 grand_parent: Info
 parent: Individual Levels
 nav_order: 2
 ---
 
-# ILs Sheet Rules
-*These rules and guidelines apply largely to the spreadsheet tabs other than **ILs**, but aren't currently rigidly enforced. Check examples from the sheet you want to submit to, and ask in the Discord for clarification.*
+# IL Rules
+These rules apply the main tab, **ILs**; other tabs loosely abide by these but are informal have some deviations. Check example videos from the sheet you're interested in, and ask in the Discord's #help channel if still unclear.
 
-1. All **times must be recorded directly from the in-game timer** provided by the **Shine Get Timer** practice code, version 2 or later (from Oct 2019), *except* for any times that are retimed (from e.g. full-game runs or with the fast text code accidentally left off). You may submit any IL for retiming by mods, with a cropped video – for now, just post it somewhere in the Discord and say you want it retimed.
+Rules are non-italicised and *guidelines (on best practices) are italicised*.
 
-2. **Video proof is highly encouraged for every IL**, and expected for any top-3 time. Videos legitimise your times, show more respect for the competition, and provide useful documentation and ideas for others to learn from, at *all* skill-levels/parts of the leaderboard.
+1. **Platform rules**: ILs may be run on console (Nintendont or Swiss), or emulator. They must be run:
+    1. **On 60Hz** (if you are on PAL, ensure 60Hz is enabled by holding B during startup with intro skip practice code off; NTSC is always 60Hz).
+    2. **Never using save-states to reset** (use the level select practice code and e.g. exit area).
 
-3. The **medals** (gold/silver/bronze) track the top 3 times that have valid video links. The **points** count the number of ILs you beat, plus one for your own IL – e.g. 1 point for last place, 2 for 2nd-to-last, etc. – irrespective of video.
+2. **Permitted practice codes**: all codes are generally allowed, but some levels have specific restrictions **posted in the note on the level's name**. Specific rules:
+    1. **Free Pause** is allowed but midair pausing is banned.
+    2. **Fast Text (DPad Functions)** is allowed except for Pianta 5 Full and Secret.
+    3. **Remove Saveboxes** is allowed except for Airstrip.
+    4. **Any Fruit Opens Yoshi Eggs** is always allowed.
+    5. **FMV Skips** is allowed but skipping cutscenes in the normal way by pressing a button (i.e. not exit area) is banned specifically in Pinna 1.
+    6. **Position Store/Load (DPad Functions)** is allowed specifically outside the part of the level being timed – usually to set up a starting position.
+    7. **Fix Manta Splitting** is required for Sirena 1.
 
-4. **Links should be used for valid videos**, as per these criteria:
-    1. The link is a video of the IL (not a picture or a heavy-metal banger 🤔).
-    2. The time shown on the in-game timer in, or logged in the [retime sheet](https://tiny.cc/smsilretimelog) for, the video matches the time reported on the sheet to within 0.02, i.e. less than a frame.
-    3. The video is mostly complete, of sufficient quality and without major frame-drops (per mod discretion).
+3. **Timer**: all times must be **obtained directly from the in-game timer** provided by the **Shine Get Timer** practice code, version 2 or later (from Oct 2019), *except* for any times that are retimed (as below).
+    1. Retimes may be requested by posting a video somewhere in the main Discord. The video must be somewhat cropped (i.e. <5 mins long). Examples of common retime situations are ILs from full-game runs or done without fast text by accident.
+    2. Retimes are available for all levels except those where accurate load timing hasn't been done by the community, namely `Bianco 2, Ricco 1; Pinna 1,8; Noki 3,4,8; Airstrip, Corona Mountain (Full)`.
 
-5. If you want to link something that isn't a valid video, you may put it in a note – e.g. a link to a video of a worse time. You can choose between reporting a worse time with link or a better one without – a choice between more points or a medal maybe – but it's nice to still keep the other time/video in a note.
+4. **Video requirement**: video proof is:
+    1. **Required for top 3 (medal) times**. Top-3 times submitted without video after 2021/06/09 will be deleted.
+    2. ***Highly encouraged for every IL**. Videos legitimise your times, show respect for the competition, and provide useful documentation and ideas for others to learn from, at *all* skill-levels/parts of the leaderboard.*
+    3. Required for specific setup-intensive levels, namely `Sirena 2 Reds Setup` and any hyper-hover IL (see rule #6).
 
-6. ILs must be played on **60Hz** (30 fps). NTSC-J and -U always run at 60Hz; PAL will also run at 60 if you hold B during the game boot and select 60Hz from the menu before the title screen appears. If this menu doesn't appear, ensure that the Intro Skip practice code is off.
+5. **Video validity criteria:** every link must be to a valid video, "valid" meaning: 
+    1. The video **must include the entire gameplay** of the run (i.e. every input).
+    2. The video **should include the entire run** (i.e. while the timer is running, including the whole intro cutscene). Videos missing timed non-gameplay might be removed (per mod discretion).
+    3. *The video ideally includes everything from the input that reset the level (and the ensuing load) to at least 2 seconds after the timer stops at the end.*
+    4. The time shown on the in-game timer in, or logged in the [retime sheet](https://tiny.cc/smsilretimelog) for, the video **matches the time reported on the sheet** to within 0.02, i.e. less than a frame.
+    5. The video is of **sufficient quality and without major frame-drops** (per mod discretion).
+    6. *If you want to link something that isn't a valid video, you may put it in a note – e.g. a link to a video of a worse time. You may choose between reporting a worse time with link or a better one without – a choice between more points or a medal maybe – but it's nice to still keep the other time/video in a note.*
 
-7. All **practice codes are generally allowed**; some levels have specific restrictions **posted in the note on the level's name**, and you should check a video to see where timing starts. General rules:
-    - **Free Pause** is allowed but midair pausing is banned.
-    - **Fast Text (DPad Functions)** is allowed except for Pianta 5 Full and Secret.
-    - **Any Fruit Opens Yoshi Eggs** is allowed.
-    - **FMV Skips** is allowed but skipping cutscenes in the normal way by pressing a button (i.e. not exit area) is banned in Pinna 1.
-    - **Position Store/Load (DPad Functions)** is allowed specifically outside the part of the level being timed – usually to set up a starting position.
-
-8. ILs using the **[hyper-hover glitch](https://clips.twitch.tv/StylishShakingTubersOSkomodo-5KdV2BXaPwASFPMF) have stricter proof requirements** to ensure the setup is replicable by a verifier or future runner. For every new *setup*, the first submission needs to provide (1) a save-file to start from, (2) a video of the setup, and (3) a text note (on the sheet or video) explaining the setup. Future submissions on that setup only need a note mentioning which setup was used if they have video of the run itself, else aren't subject to this rule.
+6. **Hyper-hover glitch**: ILs using the [hyper-hover glitch](https://clips.twitch.tv/StylishShakingTubersOSkomodo-5KdV2BXaPwASFPMF) **have stricter proof requirements** to ensure the setup is replicable by a verifier or future runner.
+    1. For every **new setup**, the first submission needs to provide (1) a save-file to start from, (2) a video of the setup, and (3) a text note (on the sheet or video) explaining the setup.
+    2. Future submissions on an **existing setup** only need a video of the run itself and note mentioning which setup was used.
