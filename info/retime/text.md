@@ -3,12 +3,12 @@ layout: default
 title: Text
 grand_parent: Info
 parent: Retiming
-nav_order: 3
+nav_order: 1
 ---
 
 # Retiming Text
 
-Here's a method for retiming text from normal to fast ("!!!"). It's generic so applicable to any text. Let's call the run being retimed the **subject** run.
+Here's a method for retiming text from normal to fast ("!!!"). It's generic so applicable to any text, and yields a number of frames that's combined with a gameplay segment timing, both for video and SGT retimes. Let's call the run being retimed the **subject** run.
 
 ## Rationale
 Fast text replaces a sequence of normal textboxes with a single one saying "!!!", and the task of closing this single textbox asap is part of the execution of an IL. This is substituted with the task of closing the first textbox asap in the subject run; the others are ignored, or equivalently assumed to be executed perfectly.
@@ -29,9 +29,9 @@ The optimal timings we need to know are therefore:
 * **A to C with fast-text**. This should be **always 8f** (at 60Hz) and is hopefully level/language-independent.
 * **A to B without fast-text**. This depends on the textbox and language, but a good authority for JP (at 60Hz) is the [1:07 Any% TAS](https://youtu.be/5VLKqijYrbA). E.g. this is **27f for JP Manta**.
 
-Once both adjustments have been calculated in frames, the final retime is done as follows:
+Once both adjustments have been calculated in frames, the final retime of the containing gameplay segment is done as follows:
 * for a *video retime*, the adjustment is deducted from the frame count, before it's converted into a time by dividing by the frame-rate.
-* for a *timer retime*, the IL is advanced backwards from the shine-get frame per the adjustment, then the time showing on the resulting frame is taken.
+* for an *SGT retime*, the IL is advanced backwards from the shine-get frame per the adjustment, then the time showing on the resulting frame is taken.
 
 ## Example – JJ Manta IL
 This example will use the times on the in-video RTA timer so that ppl can frame-advance the [original YouTube video](https://youtu.be/l3DP9U068Nc?t=3463) to understand what's going on (press `,` and `.`). *An accurate retime should be done (1) by counting frames in the video rather than using the timer, and (2) using times expressed in integer frames rather than decimal seconds until the final conversion (to avoid rounding errors).*

@@ -34,7 +34,7 @@ First, **join** the sheet by messaging one of the admins mentioned on the sheet'
 ### Sheet Rules
 [ILs Sheet Rules](il/rules){: .btn }
 
-Please read the rules of the IL spreadsheet at this link. These apply to the main tab, *ILs*; other tabs loosely abide by these but are informal have some deviations. Check example videos from the sheet you're interested in, and ask in the Discord's #help channel if still unclear.
+Please read the rules of the IL spreadsheet at this link. These rules apply to the main tab, **ILs**; other tabs loosely abide by these but their rules are informal and have some deviations. Check example videos from the sheet you're interested in and ask in the Discord's #help channel if still unclear.
 
 ### Setting Up Hardware
 [Practice Codes](https://gct.zint.ch){: .btn }

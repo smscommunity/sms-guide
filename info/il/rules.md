@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 # IL Rules
-These rules apply the main tab, **ILs**; other tabs loosely abide by these but are informal have some deviations. Check example videos from the sheet you're interested in, and ask in the Discord's #help channel if still unclear.
+These rules apply to the main tab, **ILs**; other tabs loosely abide by these but their rules are informal and have some deviations. Check example videos from the sheet you're interested in and ask in the Discord's #help channel if still unclear.
 
 Rules are non-italicised and *guidelines (on best practices) are italicised*.
 
