@@ -57,7 +57,7 @@ ILs in SMS are less accessible in (mostly) requiring cheat codes and hacked Wiis
 Make sure your time is formatted as `4.51` or `16.30` or `1:39.22`. This is different to what the timer looks like in-game – there's a `.` between the seconds and centiseconds, and a `:` after the minutes if required. 1 decimal-place (e.g. `16.3`) is accepted for now but I wouldn't bet on it being accepted in future. Check back 10s after typing in a time; if it gets highlighted red then the formatting needs to be fixed. Misformatted times don't count for points.
 
 ### Video?
-The top 3 times for a level that have video are highlighted and counted for medals. Video is otherwise optional, but highly encouraged. Let me explain why...
+All top 3 times (as well as specific setup-intensive levels as noted in their columns) must have a linked video. Video is otherwise optional, but highly encouraged. Let me explain why...
 
 The cost of recording an IL video for someone who's able to record an Any% run is very small. See [this section](video-tools.md#recording-short-videos) to judge for yourself. The benefit is that you contribute to a collection of videos that can be used by everyone to learn strats, time strats, and get a feel for what level of play corresponds to what times. Videos also legitimise your runs and show respect for the competition, particularly when they rank highly for a specific level or you've reached a high overall level in points ranking.
 
@@ -66,12 +66,12 @@ The cost of recording an IL video for someone who's able to record an Any% run i
 Everybody should check this out to find out what options are available for recording videos of ILs, as well as cropping, frame-analysing/retiming and downloading them. YouTube submissions are preferred, though Twitch clips are fine if that's simpler for you. Twitter is allowed but discouraged. These preferences are due to how easy it is to frame-advance and download videos, as well as Twitter's uncontrollable viewer-side video hyper-compression.
 
 ### Links
-Hyperlinks are used to link videos for IL submissions; right-click a cell, then **Insert Link** (or ctrl+k). If you replace a time with video with one without video, check that the link is gone (possibly right-click, then **Remove Link**). The time you achieve in the video must match the time you put in your cell (0.02 of leeway is allowed to recognise that sub-frame discrepancies are usually random error in the timer). To provide evidence that doesn't meet this standard, you can use notes. For example, if you have an unrecorded PB, you may decide to either a) type it in, unlink it and put the old time + link in a note, or b) keep the old time + link and put the new time in a note. Any other supporting evidence like pictures of times can go in notes as well.
+Hyperlinks are used to link videos for IL submissions; right-click a cell, then **Insert Link** (or ctrl+k). If you replace a time with video with one without video, check that the link is gone (possibly right-click, then **Remove Link**). Make sure to check [rule #5: video validity criteria](il/rules) for the rules and guidelines the video must/should conform to.
 
-Please also ensure the whole IL is present in the video (i.e. all gameplay), the video is legible and that there aren't serious frame-drops.
+If you're struggling to link a video (e.g. the link keeps getting recoloured black and not counted in your video count despite being there), try selecting the cell, menuing into *Format > Number > Plain Text*, then ctrl+k and click *Apply* – this is a known workaround for buggy link detection.
 
 ### Notes
-Adding notes is a convenient way of commenting on your submissions in a way that's immediately apparent to people browsing the sheet. Right-click a cell and select **Insert Note**. Use comments to communicate messages to mods; other uses of comments are being phased out, largely because anyone can delete any comment.
+Adding notes is a convenient way of commenting on your submissions in a way that's immediately apparent to people browsing the sheet. Right-click a cell and select **Insert Note**. Don't use comments, since anyone can delete them.
 
 ### IGT and Retiming
 [Retime Log](https://tiny.cc/smsilretimelog){: .btn }

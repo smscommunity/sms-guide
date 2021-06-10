@@ -40,10 +40,10 @@ Rules are non-italicised and *guidelines (on best practices) are italicised*.
     3. The time shown on the in-game timer in, or logged in the [retime sheet](https://tiny.cc/smsilretimelog) for, the video **matches the time reported on the sheet** to within 0.02, i.e. less than a frame.
     4. The video is of **sufficient quality and without major frame-drops** (per mod discretion).
     5. *Game audio should be present (though it needn't be the only audio).*
-    6. *If you want to link something that isn't a valid video, you may put it in a note – e.g. a link to a video of a worse time. You may choose between reporting a worse time with link or a better one without – a choice between more points or a medal maybe – but it's nice to still keep the other time/video in a note.*
+    6. *If you want to link something that isn't a valid video, you may put it in a note – e.g. a link to a video of a worse time, or a still image. You may choose between reporting a worse time with link or a better one without – a choice between more points or a medal maybe – but it's nice to still keep the other time/video in a note.*
 
 6. **Hyper-hover glitch**: ILs using the [hyper-hover glitch](https://clips.twitch.tv/StylishShakingTubersOSkomodo-5KdV2BXaPwASFPMF) **have stricter proof requirements** to ensure the setup is replicable by a verifier or future runner.
     1. For every **new setup**, the first submission needs to provide (1) a save-file to start from, (2) a video of the setup, and (3) a text note (on the sheet or video) explaining the setup.
     2. Future submissions on an **existing setup** only need a video of the run itself and note mentioning which setup was used.
 
-7. **Vandalism**: you may choose any colour for your name as long as it's easily legible on the white background, but may not change the formatting of anything else on the sheet.
+7. **Vandalism**: you may choose any colour for your name as long as it's easily legible on the white background, but may not change the formatting of anything else on the sheet. *(Do you want your sheet to look like [this](https://bit.ly/2MLA3pK)?? Didn't think so :P).*
