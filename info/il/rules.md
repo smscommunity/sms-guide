@@ -12,20 +12,20 @@ These rules apply to the main tab, **ILs**; other tabs loosely abide by these bu
 
 Rules are non-italicised and *guidelines (on best practices) are italicised*.
 
-1. **Platform rules**: ILs may be run on console (Nintendont or Swiss), or emulator. They must be run:
+1. **Platform rules**: ILs may be run on Wii/GameCube (Nintendont or Swiss), or Dolphin emulator. They must be run:
     1. **On 60Hz** (if you are on PAL, ensure 60Hz is enabled by holding B during startup with intro skip practice code off; NTSC is always 60Hz).
     2. **Never using save-states to reset** (use the level select practice code and e.g. exit area).
 
 2. **Permitted practice codes**: all codes are generally allowed, but some levels have specific restrictions **posted in the note on the level's name**. Specific rules:
     1. **Free Pause** is allowed but midair pausing is banned.
-    2. **Fast Text (DPad Functions)** is allowed except for Pianta 5 Full and Secret.
-    3. **Remove Saveboxes** is allowed except for Airstrip.
+    2. **Fast Text (DPad Functions)** is allowed except for Pianta 5 Full, Secret and Reds.
+    3. **Remove Saveboxes** is allowed but versions of this code from before 2021/02/17 are banned specifically in Airstrip.
     4. **Any Fruit Opens Yoshi Eggs** is always allowed.
-    5. **FMV Skips** is allowed but skipping cutscenes in the normal way by pressing a button (i.e. not exit area) is banned specifically in Pinna 1.
+    5. **FMV Skips** is allowed but skipping cutscenes by pressing a button (i.e. not exit area) is banned specifically in Pinna 1.
     6. **Position Store/Load (DPad Functions)** is allowed specifically outside the part of the level being timed – usually to set up a starting position.
     7. **Fix Manta Splitting** is required for Sirena 1.
 
-3. **Timer**: all times must be **obtained directly from the in-game timer** provided by the **Shine Get Timer** practice code, version 2 or later (from Oct 2019), *except* for any times that are retimed (as below).
+3. **Timer**: all times must be **obtained directly from the in-game timer** (IGT) provided by the **Shine Get Timer** (SGT) practice code, version 2 or later (from Oct 2019), *with two exceptions:* (1) SGT may be left off for ILs using vanilla IGT, and (2) runs may be retimed (as below). Consult example videos to see where time starts and ends for a given level.
     1. Retimes may be requested by posting a video somewhere in the main Discord. The video must be somewhat cropped (i.e. <5 mins long). Examples of common retime situations are ILs from full-game runs or done without fast text by accident.
     2. Retimes are available for all levels except those where accurate load timing hasn't been done by the community, namely `Bianco 2, Ricco 1; Pinna 1,8; Noki 3,4,8; Airstrip, Corona Mountain (Full)`.
 
@@ -45,3 +45,5 @@ Rules are non-italicised and *guidelines (on best practices) are italicised*.
 6. **Hyper-hover glitch**: ILs using the [hyper-hover glitch](https://clips.twitch.tv/StylishShakingTubersOSkomodo-5KdV2BXaPwASFPMF) **have stricter proof requirements** to ensure the setup is replicable by a verifier or future runner.
     1. For every **new setup**, the first submission needs to provide (1) a save-file to start from, (2) a video of the setup, and (3) a text note (on the sheet or video) explaining the setup.
     2. Future submissions on an **existing setup** only need a video of the run itself and note mentioning which setup was used.
+
+7. **Vandalism**: you may choose any colour for your name as long as it's easily legible on the white background, but may not change the formatting of anything else on the sheet.

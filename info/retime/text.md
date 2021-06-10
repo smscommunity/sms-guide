@@ -8,7 +8,7 @@ nav_order: 1
 
 # Retiming Text
 
-Here's a method for retiming text from normal to fast ("!!!"). It's generic so applicable to any text, and yields a number of frames that's combined with a gameplay segment timing, both for video and SGT retimes. Let's call the run being retimed the **subject** run.
+Here's a method for retiming text from normal to fast ("!!!"). It's generic so applicable to any text, and yields a number of frames by which to adjust a gameplay segment timing, both for video and SGT retimes. Let's call the run being retimed the **subject** run.
 
 ## Rationale
 Fast text replaces a sequence of normal textboxes with a single one saying "!!!", and the task of closing this single textbox asap is part of the execution of an IL. This is substituted with the task of closing the first textbox asap in the subject run; the others are ignored, or equivalently assumed to be executed perfectly.

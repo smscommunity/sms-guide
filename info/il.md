@@ -29,7 +29,7 @@ SMS has leaderboards on this spreadsheet for various individual-level–based ca
 If you want to! Do them if you're naturally interested and motivated. But for a more strategic answer, check out [this essay](il/essay).
 
 ### Using the Sheet
-First, **join** the sheet by messaging one of the admins mentioned on the sheet's front page on Discord with your Google account's email address. Be warned that **the name on your Google account will be clearly visible in the sheet's activity**. One given access, you can freely edit the space at the end of each sheet – take out a row (column in the case of RTA Strat ILs) on any sheet you want by typing in your name, and now, you can submit times – see the [submission guide](#submission-guide-ils-sheet). A mod will later protect your row so only you and the mods can edit it. Don't take out a row unless you'll enter a time right away! Empty rows get removed from time to time.
+First, **join** the sheet by messaging one of the admins mentioned on the sheet's front page on Discord with your Google account's email address. Be warned that **the name on your Google account will be clearly visible in the sheet's activity**. Once given access, you can freely edit the space at the end of each sheet – take out a row (column in the case of RTA Strat ILs) on any sheet you want by typing in your name, and now, you can submit times – see the [submission guide](#submission-guide-ils-sheet). A mod will later protect your row so only you and the mods can edit it. Don't take out a row unless you'll enter a time right away! Empty rows get removed from time to time.
 
 ### Sheet Rules
 [ILs Sheet Rules](il/rules){: .btn }
@@ -38,10 +38,11 @@ Please read the rules of the IL spreadsheet at this link. These rules apply to t
 
 ### Setting Up Hardware
 [Practice Codes](https://gct.zint.ch){: .btn }
+[Practice Codes User Guide](https://gct.zint.ch/reference.html){: .btn }
 
 ILs in SMS are based around the infrastructure of these cheat codes. This makes them accessible to every Wii and PC Dolphin emulator setup, but rarely any GameCube. Homebrew is required for Wii/GameCube. Timing is done via a hacked in-game timer, and selecting and resetting levels is done by holding button combinations during a load (usually an "exit area").
 
-[Practice Codes Guide](https://gct.zint.ch/guide.html){: .btn }
+[Practice Codes Install Guide](https://gct.zint.ch/guide.html){: .btn }
 
 Here's the installation guide. Please make sure to follow it exactly – particularly when it recommends something, you should see it as *mandatory* unless you know what you're doing or otherwise got things working. In particular, check that:
 - (console) **your Homebrew installation did everything mentioned in the [linked guide](https://wii.guide)**;

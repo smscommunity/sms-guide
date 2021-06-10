@@ -27,7 +27,7 @@ This is because SGT is always consistent within a single gameplay segment (meani
 **SGT is inconsistent on loads**  
 SGT works by recording timestamps of real time at the start and end of every gameplay segment between load (thus, it pauses between loads). This process introduces errors of up to a frame on a given timestamp, meaning durations of loads vary. Therefore, **every retime that includes a load consists of retimes of the individual gameplay segments plus an estimate for each load**. Estimates are derived by taking the highest value (possibly excluding anomalies) from a sample of loads stored [here](https://tiny.cc/smsilretiming). These estimates are used in two contexts:
 * to retime a mid-level load by comparing reference frames before and after *(e.g. Sirena hotel entry)*;
-* to retime a non-initial gameplay segment with SGT visible by using frames where the SGT is visible to estimate the time the segment-only SGT would equal 0 *(e.g. [secret from full-level retime](retime/circle-mash)*.
+* to retime a non-initial gameplay segment with SGT visible by using frames where the SGT is visible to estimate the time the segment-only SGT would equal 0 *(e.g. [secret from full-level retime](retime/circle-mash))*.
 
 **Video retimes are based on comparison to reference frames**  
 A video retime is by definition the duration between a start and end frame; here's an [**index of reference frames**](retime#reference-frames).
@@ -46,7 +46,7 @@ How to retime an IL step-by-step:
 
 ## Reference Frames
 * **End**: a reference frame for the end of a segment is always the exact frame on which the SGT freezes (since SGT v2.1).
-* **Start-zero**: these are reference frames for the start of a segment where SGT would equal zero if the segment were run in isolation. SGT is never visible on these frames, so they can't be used for SGT retimes.
+* **Start-zero**: these are reference frames for the start of a segment where SGT would equal zero if the segment were run in isolation. SGT is never visible on these frames, so they can't be used for SGT retimes unless they're estimated based on start-visible frames.
 * **Start-visible**: these are reference frames for the start of a segment where SGT is or would be visible; the first such frame is known as *first-visible*. These are used in two contexts:
     * combined with a load estimate that directly connects the end frame of the preceding segment with this frame *(e.g. hotel entry)*.
     * (sgt retime) combined with a model that estimates the SGT that would appear on this frame, when it's the first segment of the retime. After deducting this estimate, it becomes a start-zero time *(e.g. secret-only from full-level)*. 
