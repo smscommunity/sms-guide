@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Cutscene Sublevels
+title: Circle-Mash
 grand_parent: Info
 parent: Retiming
-nav_order: 2
+nav_order: 3
 ---
 
 # Circle Mash Retime
@@ -11,7 +11,7 @@ nav_order: 2
 Our goal is to retime a gameplay segment that starts with a circle mash *(= immediately-skippable cutscene outward circle wipe, e.g. all secrets, Pinna 3, Noki 3)* and has SGT visible (*e.g. secret-only retime from full-level*).
 
 ## Rationale
-We can't see the SGT on the frame it would equal zero on a run of solely this segment, so we have to use a later reference frame and replace the part before with an estimate (a pessimistic one from a sample, like for loads – see [here](https://tiny.cc/smsilretiming), *Circle* tab). In fact, since frames can be lost mashing the cutscene, we need a set of consecutive reference frames, and a way to calculate the cs-mash loss.
+We can't see the SGT on the *start-zero* frame, when it'd equal zero on a run of solely this segment, so we have to use a later reference *start-visible* frame and replace the part before it with an estimate (a pessimistic one from a sample – see [here](https://tiny.cc/smsilretiming), *Circle* tab). In fact, since frames can be lost mashing the cutscene, we need a set of consecutive reference frames, and a way to calculate the cs-mash loss.
 
 ## Calculation
 1. Figure out how many frames were lost on skipping the cutscene.

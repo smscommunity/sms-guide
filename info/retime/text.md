@@ -3,7 +3,7 @@ layout: default
 title: Text
 grand_parent: Info
 parent: Retiming
-nav_order: 1
+nav_order: 2
 ---
 
 # Retiming Text
