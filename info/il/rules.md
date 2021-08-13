@@ -19,7 +19,7 @@ Rules are non-italicised and *guidelines (on best practices) are italicised*.
 2. **Permitted practice codes**: all codes are generally allowed, but some levels have specific restrictions **posted in the note on the level's name**. Specific rules:
     1. **Free Pause** is allowed but midair pausing is banned.
     2. **Fast Text (DPad Functions)** is allowed except for Pianta 5 Full, Secret and Reds.
-    3. **Remove Saveboxes** is allowed but versions of this code from before 2021/02/17 are banned specifically in Airstrip.
+    3. **Remove Saveboxes** is allowed in ILs where it doesn't provide an advantage through the removal of the savebox. It's specifically disallowed in 100 coin levels and Corona Mountain. Versions of this code from before 2021/02/17 are banned specifically in Airstrip.
     4. **Any Fruit Opens Yoshi Eggs** is always allowed.
     5. **FMV Skips** is allowed but skipping cutscenes by pressing a button (i.e. not exit area) is banned specifically in Pinna 1.
     6. **Position Store/Load (DPad Functions)** is allowed specifically outside the part of the level being timed – usually to set up a starting position.
@@ -41,6 +41,7 @@ Rules are non-italicised and *guidelines (on best practices) are italicised*.
     4. The video is of **sufficient quality and without major frame-drops** (per mod discretion).
     5. *Game audio should be present (though it needn't be the only audio).*
     6. *If you want to link something that isn't a valid video, you may put it in a note – e.g. a link to a video of a worse time, or a still image. You may choose between reporting a worse time with link or a better one without – a choice between more points or a medal maybe – but it's nice to still keep the other time/video in a note.*
+    7. *The video is ideally a YouTube video or a Twitch clip/highlight.* **Top-3 times submitted with a Twitter video after 2021/08/12 will be moved to a note, and a proper video will be requested.**
 
 6. **Hyper-hover glitch**: ILs using the [hyper-hover glitch](https://clips.twitch.tv/StylishShakingTubersOSkomodo-5KdV2BXaPwASFPMF) **have stricter proof requirements** to ensure the setup is replicable by a verifier or future runner.
     1. For every **new setup**, the first submission needs to provide (1) a save-file to start from, (2) a video of the setup, and (3) a text note (on the sheet or video) explaining the setup.
