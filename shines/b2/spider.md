@@ -14,6 +14,8 @@ nav_order: 2
 
 We'll look at what we're aiming to do, what inputs we need to have down, and then go through a flowchart of reacting to the spider.
 
+*This page references example videos but these haven't been publically uploaded yet (ask in the Discord about this), and the page could do with some simplification and restructuring in general.*
+
 ## Big Picture
 *Paragraphs that beginners should consider are marked with ☼.*
 

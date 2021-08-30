@@ -75,6 +75,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**Pachinko** (Paperario \| 2019/01/03)](https://youtu.be/awJcLEhd0Cs)  
 
 **Bianco**  
+[**b2: Entry** (shoutplenty \| 2021/03/09)](https://smscommunity.github.io/sms-guide/shines/b2)  
 [**b2: Petey** (Dutchj \| 2015/08/11)](https://youtu.be/pQJZd5pIu3g)  
 [**b5: Petey [120 Shines]** (Paperario \| 2020/08/26)](https://youtu.be/eCZruyLJF9A) *(analysis of blue coin variations)*  
 [**b5: Petey RNG** (Noki Doki \| 2019/02/04)](https://www.youtube.com/watch?v=Kh_Qhdfy1io)  
@@ -84,6 +85,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 
 **Ricco**  
 [**r2: Blooperless** (Dutchj \| 2017/05/16)](https://youtu.be/O1_DaQBh3OU)  
+[**r4s: Beginner** (shoutplenty \| 2021/06/11)](https://smscommunity.github.io/sms-guide/shines/r4)  
 [**r7: Beginner** (Dutchj \| 2015/07/28)](https://youtu.be/5tIUuA1-Blg)  
 
 **Gelato**  

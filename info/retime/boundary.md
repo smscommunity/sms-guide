@@ -8,7 +8,7 @@ nav_order: 1
 
 # Boundaries
 
-*The statistical reference used for boundary timing is [here](https://tiny.cc/smsilretiming))*.
+*The statistical reference used for boundary timing is [here](https://tiny.cc/smsilretiming)*.
 
 Retiming is based on reference frames and possibly load estimates, but which should be used is somewhat complicated. To explain different types of reference frames, we need to go through the theory of retiming a load, then we'll list the reference frames and  the load estimates.
 
