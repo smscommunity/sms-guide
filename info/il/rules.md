@@ -32,14 +32,16 @@ Rules are non-italicised and *guidelines (on best practices) are italicised*.
 4. **Video requirement**:
     1. **Video is required for times in the top 3 and/or top 15% of a level leaderboard**. The cutoff times for each level are shown in a row at the top of the sheet. Any PB that can't be posted because of this should go in a note over the relevant cell. Runs in the top 15% but not top 10% without video may be accepted on appeal.
     2. **Players in the top 25 overall need to provide a minimum number of videos**. The quota is a proportion of your total entries, which varies depending on your overall rank (see below); your video count on the sheet will be highlighted orange if below the threshold. Anyone below the threshold must submit every IL with video (for flexibility, a videoless submission will be allowed for every 3 with video). *Guideline video quotas for ranks 26–50 are shown with a \*, but these aren't enforced or highlighted orange.*
-        * Top 5 – 70%
-        * Top 10 – 60%
-        * Top 15 – 50%
-        * Top 20 – 40%
-        * Top 25 – 30%
-        * *\* Top 30 – 30%*
-        * *\* Top 40 – 20%*
-        * *\* Top 50 – 10%*
+        <ul>
+            <li> Top 5 – 70% </li>
+            <li> Top 10 – 60% </li>
+            <li> Top 15 – 50% </li>
+            <li> Top 20 – 40% </li>
+            <li> Top 25 – 30% </li>
+            <li> * <i> Top 30 – 30% </i> </li>
+            <li> * <i> Top 40 – 20%* </i> </li>
+            <li> * <i> Top 50 – 10%* </i> </li>
+        </ul>
 
     3. ***Videos are encouraged for every IL**. Videos legitimise runs, show respect for the competition, and provide documentation/ideas for all to learn from, at all skill-levels/parts of the leaderboard.*
     4. **Video is required for specific setup-intensive levels**, namely `Sirena 2 Reds Setup`, any hyper-hover IL (see rule #6), and (temporarily) any IL using the red button delay glitch.
