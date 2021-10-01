@@ -19,7 +19,7 @@ Rules are non-italicised and *guidelines (on best practices) are italicised*.
 2. **Permitted practice codes**: all codes are generally allowed, but some levels have specific restrictions **posted in the note on the level's name**. Specific rules:
     1. **Free Pause** is allowed but midair pausing is banned.
     2. **Fast Text (DPad Functions)** is allowed except for Pianta 5 Full, Secret and Reds.
-    3. **Remove Saveboxes** is allowed in ILs where it doesn't provide an advantage through the removal of the savebox. It's specifically disallowed in 100 coin levels and Corona Mountain to cirumvent the effect of blue coins. Versions of this code from before 2021/02/17 are banned specifically in Airstrip.
+    3. **Remove Saveboxes** is no longer available so just assume it's banned!
     4. **Any Fruit Opens Yoshi Eggs** is always allowed.
     5. **FMV Skips** is allowed but skipping cutscenes by pressing a button (i.e. not exit area) is banned specifically in Pinna 1.
     6. **Position Store/Load (DPad Functions)** is allowed specifically outside the part of the level being timed – usually to set up a starting position.
