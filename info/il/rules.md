@@ -31,8 +31,7 @@ Rules are non-italicised and *guidelines (on best practices) are italicised*.
 
 4. **Video requirement**:
     1. **Video is required for times in the top 3 and/or top 15% of a level leaderboard**. The cutoff times for each level are shown in a row at the top of the sheet. Any PB that can't be posted because of this should go in a note over the relevant cell. Runs in the top 15% but not top 10% without video may be accepted on appeal.
-    2. **Players in the top 25 overall need to provide a minimum number of videos**. The quota is a proportion of your total entries, which varies depending on your overall rank (see below); your video count on the sheet will be highlighted orange if below the threshold. Anyone below the threshold must submit every IL with video (for flexibility, a videoless submission will be allowed for every 3 with video). *Guideline video quotas for ranks 26–50 are shown with a \*, but these aren't enforced or highlighted orange.*
-
+    2. **Players in the top 25 overall need to provide a minimum number of videos**. The quota is a proportion of your total entries, which varies depending on your overall rank (see below); your video count on the sheet will be highlighted orange if below the threshold. Anyone below the threshold must submit every IL with video (for flexibility, a videoless submission will be allowed for every 3 with video). *Guideline video quotas for ranks 26–50 are shown with a \*, but these aren't enforced or highlighted orange.*  
     <img src="https://media.discordapp.net/attachments/529145099003887618/893497205514711150/unknown.png" width="150">
 
     3. ***Videos are encouraged for every IL**. Videos legitimise runs, show respect for the competition, and provide documentation/ideas for all to learn from, at all skill-levels/parts of the leaderboard.*
