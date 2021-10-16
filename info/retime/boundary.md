@@ -62,7 +62,7 @@ These are only visible for video retimes; SGT retimes would have to estimate the
 
 ### Start-Visible Frames
 **Start-visible: circle-mash intro (sgt retime)**  
-See [**circle mash retimes**](retime/circle-mash). This method always first estimates the start-zero frame, then may extend into a separated load estimate (if there's another segment preceding it). A *circle-mash* is an outward circle wipe with immediately-skippable cutscene, used in e.g. all secrets, Pinna 3, Noki 3.
+See [**circle mash retimes**](circle-mash). This method always first estimates the start-zero frame, then may extend into a separated load estimate (if there's another segment preceding it). A *circle-mash* is an outward circle wipe with immediately-skippable cutscene, used in e.g. all secrets, Pinna 3, Noki 3.
 
 **Start-visible: direct circle intro**  
 The frame the (transition) circle cuts the left vertical edge of the water tank in the FLUDD HUD – also the frame SGT is first fully visible if present. Applies to e.g. Sirena Hotel, Casino, King Boo.

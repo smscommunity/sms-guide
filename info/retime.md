@@ -28,7 +28,7 @@ This is because SGT is always consistent within a single gameplay segment (meani
 SGT works by recording timestamps of real time at the start and end of every gameplay segment between two loads (thus, it pauses between loads). This process introduces errors of up to a frame on a given timestamp, meaning durations of loads vary. Therefore, **every retime that includes a load comprises retimes of the individual gameplay segments plus an estimate for each load**. Estimates are derived by taking the highest value (possibly excluding anomalies) from a sample of loads stored [here](https://tiny.cc/smsilretiming).
 
 **Video retimes are based on comparison to reference frames**  
-A video retime is by definition the real-time duration between a start and end frame; here's the [**index of reference frames**](retime#reference-frames) used.
+A video retime is by definition the real-time duration between a start and end frame; here's the [**index of reference frames**](retime/boundary#reference-frames) used.
 
 **Fast-text conversion**  
 ILs allow the fast-text cheat code as standard, and there are models to convert runs without fast text as if they'd used fast text – see [here](retime#load-estimates).
