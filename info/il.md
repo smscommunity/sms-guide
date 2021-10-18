@@ -54,7 +54,7 @@ ILs in SMS are less accessible in (mostly) requiring cheat codes and hacked Wiis
 ## Submission Guide (ILs Sheet)
 *These guidelines largely apply to the spreadsheet tabs other than "ILs" as well, but not entirely, and aren't currently rigidly enforced. Check examples from the sheet you want to submit to, and ask in the Discord for clarification.*
 ### Formatting
-Make sure your time is formatted as `4.51` or `16.30` or `1:39.22`. This is different to what the timer looks like in-game – there's a `.` between the seconds and centiseconds, and a `:` after the minutes if required. 1 decimal-place (e.g. `16.3`) is accepted for now but I wouldn't bet on it being accepted in future. Check back 10s after typing in a time; if it gets highlighted red then the formatting needs to be fixed. Misformatted times don't count for points.
+Make sure your time is formatted as `4.51` or `16.30` or `1:39.22`. This is different to what the timer looks like in-game – there's a `.` between the seconds and centiseconds, and a `:` after the minutes if required. Check back 10s after typing in a time; if it gets highlighted red then the formatting needs to be fixed. Misformatted times don't count for points/medals.
 
 ### Video?
 All top 3 times (as well as specific setup-intensive levels as noted in their columns) must have a linked video. Video is otherwise optional, but highly encouraged. Let me explain why...
