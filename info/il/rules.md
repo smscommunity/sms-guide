@@ -35,7 +35,6 @@ Rules are non-italicised and *guidelines (on best practices) are italicised*.
     <img src="https://media.discordapp.net/attachments/529145099003887618/893497205514711150/unknown.png" width="150">
 
     3. ***Videos are encouraged for every IL**. Videos legitimise runs, show respect for the competition, and provide documentation/ideas for all to learn from, at all skill-levels/parts of the leaderboard.*
-    4. **Video is required for specific setup-intensive levels**, namely `Sirena 2 Reds Setup`, any hyper-hover IL (see rule #6), and (temporarily) any IL using the red button delay glitch.
 
 5. **Video validity criteria:** every link must be to a valid video, "valid" meaning: 
     1. The video **must include the entire gameplay** of the run (i.e. every input), and **should include the entire run** (i.e. while the timer is running, including the whole intro cutscene). Videos missing timed non-gameplay might be removed (per mod discretion).
@@ -46,9 +45,6 @@ Rules are non-italicised and *guidelines (on best practices) are italicised*.
     6. *Game audio should be present (though it needn't be the only audio).*
     7. *To link something that isn't a valid video, you may put it in a note – e.g. a link to a video of a worse time, or a still image. You may choose between reporting a worse time with link or a better one without – a choice between more points or a medal maybe – but it's nice to still keep the other time/video in a note.*
 
-
-6. **Hyper-hover glitch**: ILs using the [hyper-hover glitch](https://clips.twitch.tv/StylishShakingTubersOSkomodo-5KdV2BXaPwASFPMF) **have stricter proof requirements** to ensure the setup is replicable by a verifier or future runner.
-    1. For every **new setup**, the first submission needs to provide (1) a save-file to start from, (2) a video of the setup, and (3) a text note (on the sheet or video) explaining the setup.
-    2. Future submissions on an **existing setup** only need a video of the run itself and note mentioning which setup was used.
+6. ***Deletions**: removal of submissions is discouraged, because the sheet aims to record all runs that are known to have happened, which also improves the accuracy of the points system.*
 
 7. **Vandalism**: you may choose any colour for your name as long as it contrasts enough with the white background to be easily legible (it must give 2:1 or above on [this](https://webaim.org/resources/contrastchecker/)), but may not change the formatting of anything else on the sheet *(Do you want your sheet to look like [this](https://bit.ly/2MLA3pK)?? Didn't think so :P)*.
