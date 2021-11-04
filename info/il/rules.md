@@ -26,7 +26,7 @@ Rules are non-italicised and *guidelines (on best practices) are italicised*.
     7. **Fix Manta Splitting** is required for Sirena 1.
 
 3. **Timer**: all times must be **obtained directly from the in-game timer** (IGT) provided by the **Shine Get Timer** (SGT) practice code, version 2 or later (from Oct 2019), *with two exceptions:* (1) SGT may be left off for ILs using vanilla IGT, and (2) runs may be retimed (as below). Consult example videos to see where time starts and ends for a given level.
-    1. Retimes may be requested by posting a video somewhere in the main Discord. The video must be somewhat cropped (i.e. <5 mins long). Examples of common retime situations are ILs from full-game runs or done without fast text by accident.
+    1. Retimes may be requested by posting a video somewhere in the main discord (specifically the #help or #clips channels) and pinging @IL Sheet Mods. You may also send a direct message to the IL Mods#6610 discord account. The video must be somewhat cropped (i.e. <5 mins long). Examples of common retime situations are ILs from full-game runs or done without fast text by accident.
     2. Retimes are available for all levels except those where accurate load timing hasn't been done by the community, namely `Bianco 2, Ricco 1; Pinna 1; Noki 3,4,8; Airstrip, Corona Mountain (Full)`.
 
 4. **Video requirement**:
