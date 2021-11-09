@@ -37,7 +37,7 @@ Rules are non-italicised and *guidelines (on best practices) are italicised*.
     3. ***Videos are encouraged for every IL**. Videos legitimise runs, show respect for the competition, and provide documentation/ideas for all to learn from, at all skill-levels/parts of the leaderboard.*
 
 5. **Video validity criteria:** every link must be to a valid video, "valid" meaning: 
-    1. The video **must include the entire gameplay** of the run (i.e. every input), and **should include the entire run** (i.e. while the timer is running, including the whole intro cutscene). Videos missing timed non-gameplay might be removed (per mod discretion).
+    1. The video **must include the entire gameplay** of the run and **should include the entire run**. "Gameplay" here means every section where the player is in control of Mario or skipping an intro cutscene unbuffered (like in a secret inside load), or put another way, everything except skipping an intro cutscene buffered (like in a full-level load). Videos that are complete except for non-gameplay may be removed (per mod discretion, meaning usually after a few warnings).
     2. *The video ideally includes everything from the input that reset the level (and the ensuing load) to at least 2 seconds after the timer stops at the end.*
     3. The time shown on the in-game timer in, or logged in the [retime sheet](https://tiny.cc/smsilretimelog) for, the video **matches the time reported on the sheet**.
     4. The video is of **sufficient quality and without major frame-drops** (per mod discretion). The standard for this is higher for top-3 times.
