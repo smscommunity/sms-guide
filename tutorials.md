@@ -97,7 +97,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**gbs: Basic** (Bounceyboy \| 2014/11/25)](https://youtu.be/DovjgxRbEjE)  
 [**g7: Beginner** (Dutchj \| 2015/11/29)](https://youtu.be/jJSVc_VMEc4)  
 [**g3: Wiggler** (AverageTrey \| 2021/01/22)](https://www.twitch.tv/videos/883250765)  
-[**g3: Wiggler 3rd Hit** (Pogonateur \| 2020/11/03)](https://youtu.be/RE-fUCuGjtk)
+[**g3: Wiggler 3rd Hit** (Pogonateur \| 2020/11/03)](https://youtu.be/RE-fUCuGjtk)  
 [**g4: Sandbird (Non-120)** (ModestTomato\| 2021/12/20](https://youtu.be/LjzM1sLwsqU)
 
 **Pinna**  
