@@ -46,5 +46,5 @@ Just click anywhere on the seeking bar and tap `←/→` to frame-advance. The H
 Recommended tools for downloading videos:
 * **Twitch Clips** – [Clipr.](https://clipr.xyz/) (online)
 * **Twitch VoDs** – [Twitch Leecher](https://github.com/Franiac/TwitchLeecher/releases) (offline; allows cropping before downloading)
-* **YouTube Videos** – [youtube-dl](https://youtube-dl.org/) (offline, command-line–based; this is standardised for retiming, using the `-f bestvideo` parameter).
+* **YouTube Videos** – [yt-dlp](https://github.com/yt-dlp/yt-dlp) (offline, command-line–based; this is standardised for retiming, using the `-f bestvideo` parameter).
 * **YouTube Clips** – [YouTube Cutter](https://youtube-cutter.org/) (online; allows cropping before downloading; a bit buggy so recommend including an extra 5s at the beginning of the crop).

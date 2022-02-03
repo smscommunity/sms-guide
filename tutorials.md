@@ -1,13 +1,15 @@
 ---
 layout: default
-title: Tutorial Index
+title: Tutorials
 permalink: /tutorials
-nav_order: 2
+nav_order: 3
 ---
 
-# Tutorial Index
-{: .no_toc }
+# Tutorials
 
+Index of external links to game tutorials.
+
+{: .no_toc }
 <details open markdown="block">
 <summary>Table of contents</summary> {: .text-delta }
 1. TOC
@@ -68,7 +70,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**GWK** (Dutchj \| 2017/05/15)](https://www.youtube.com/watch?v=JZXoqc0Eywc)  
 
 **Delfino**  
-[**Fech Pianta early** (plankton \| 2021/11/11)](https://www.youtube.com/watch?v=minnHKhgYe8)
+[**Fech Pianta Early** (plankton \| 2021/11/11)](https://www.youtube.com/watch?v=minnHKhgYe8)  
 [**Honey Skip** (Metacor \| 2020/05/05)](https://gist.github.com/Metacor/6392df6b11599370f479f87f4df5431d)  
 [**Honey Skip** (Weegee \| 2020/04/10)](https://www.twitch.tv/videos/588490811)  
 [**Honey Skip** (Samura1man \| 2019/09/03)](https://youtu.be/PC6uz3Mb0v8)  
@@ -85,8 +87,10 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**b7: Beginner** (Dutchj \| 2015/07/28)](https://youtu.be/Ew0bTZ6BF9o)  
 
 **Ricco**  
+[**r1: Blooper Fight** (EquivocalGenius \| 2021/05/17)](https://smscommunity.github.io/sms-guide/shines/r1)  
 [**r2: Blooperless** (Dutchj \| 2017/05/16)](https://youtu.be/O1_DaQBh3OU)  
 [**r4s: Beginner** (shoutplenty \| 2021/06/11)](https://smscommunity.github.io/sms-guide/shines/r4)  
+[**r5: Blooper Fight** (Jpep \| 2021/05/19)](https://smscommunity.github.io/sms-guide/shines/r5)  
 [**r7: Beginner** (Dutchj \| 2015/07/28)](https://youtu.be/5tIUuA1-Blg)  
 
 **Gelato**  
@@ -98,11 +102,11 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**g7: Beginner** (Dutchj \| 2015/11/29)](https://youtu.be/jJSVc_VMEc4)  
 [**g3: Wiggler** (AverageTrey \| 2021/01/22)](https://www.twitch.tv/videos/883250765)  
 [**g3: Wiggler 3rd Hit** (Pogonateur \| 2020/11/03)](https://youtu.be/RE-fUCuGjtk)  
-[**g4: Sandbird (Non-120)** (ModestTomato\| 2021/12/20](https://youtu.be/LjzM1sLwsqU)
+[**g4: Sandbird (Non-120)** (ModestTomato \| 2021/12/20)](https://youtu.be/LjzM1sLwsqU)  
 
 **Pinna**  
 [**p1: Mecha** (mwolfe11 \| 2020/06/16)](https://youtu.be/hmK0lnVU6kA)  
-[**p1: Mecha 4th Rocket Regrab** (Paperario \| 2018/12/15)](https://youtu.be/H1y0Vo9P-3Y)  
+[**p1: Mecha Early 4th Rocket Grab** (Paperario \| 2018/12/15)](https://youtu.be/H1y0Vo9P-3Y)  
 [**p1: Mecha Advanced** (Dutchj \| 2017/05/17)](https://youtu.be/bK7wq9zyT_Q) *(old 3rd/4th rocket strats)*  
 [**p1: Mecha Basic + CS Skips** (Dutchj \| 2015/12/07)](https://youtu.be/aTBfcfaXfMw) *(old)*  
 [**p2: Bullet Bills [120 Shines]** (Pogonateur \| 2019/11/08)](https://youtu.be/09EzJgZ-fzQ)  
@@ -139,7 +143,6 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**q4: All Chomp Patterns** (Dutchj \| 2017/05/19)](https://youtu.be/b7aunLqaQp0)  
 [**q5: Yoshi Skip** (Dutchj \| 2017/05/19)](https://youtu.be/LcJ2bKN-Hr0)  
 [**q5: Yoshi Skip (in brief)** (Dutchj \| 2016/12/04)](https://youtu.be/-NMqyxOMC9o)  
-[**q5s: Early Cycle [JP]** (Nebuladiv \| 2020/11/25)](https://youtu.be/f4unvd2AJAc)  
 [**q5s: Chuckster Manip** (Noki Doki \| 2018/06/08)](https://www.youtube.com/watch?v=IZTcoSITMis)  
 [**q7** (Kaffelon \| 2014/11/19)](https://youtu.be/YuBm32Jcv3c)  
 
