@@ -16,11 +16,13 @@ Index of external links to useful software.
 {:toc}
 </details>
 
-## Platform Tools
-
+## Game Tools
+Tools used to play and practice SMS.
+### Emulator
 **[Dolphin Emulator](https://dolphin-emu.org/download/)** [\[Settings Guide\]](https://imgur.com/a/qj6vrmM)  
 The only emulator used to play SMS on PC. *Use the latest beta version; never use the stable version.*
 
+### Console
 **[Wii Homebrew](https://wii.guide)**  
 Full tutorial complete with requisite software. *It's recommended to complete every step – HackMii, BootMii, NAND Backup, Priiloader, cIOSes.*
 
@@ -36,15 +38,15 @@ Wii Homebrew game loader app required to run PAL SMS at 480p, and to run cheat c
 **[AnyRegion Changer](https://youtu.be/sqI3Zg-jGvw)**  
 Wii Homebrew utility app required to persistently change the console region and video mode so that PAL/NTSC consoles/discs can be mixed. Not needed for non-persistent region-free loading (e.g. with Gecko OS). *Link is to full tutorial with requisite software*.
 
-## Practice/Run/Stream Tools
-
 ### Practice Mods
-
 **[SMS Practice Codes](https://gct.zint.ch)**  
 Cheat codes for Wii and emulator used for practice and to do IL speedruns.
 
 **[sup39's Practice Codes](https://app.sms.sup39.dev/gct-extension/)**  
 Extension codes developed by sup39.
+
+## Speedrun Tools
+Tools used during speedruns.
 
 ### Timers
 
@@ -74,11 +76,12 @@ Input display sofware for use with Dolphin emulator; works out-of-the-box.
 ### Video Tools
 See [here](info/video-tools) for recommended software to crop videos, retime and frame-analyse speedruns, and download videos from websites.
 
-### Other Utilities
+### Misc Tools
 **[Chrome Remote Desktop](https://remotedesktop.google.com/)**; **[jsmpeg-vnc](https://github.com/phoboslab/jsmpeg-vnc)**  
 Remote-desktop tools to stream OBS/LiveSplit/etc. to another computer, useful for e.g. single-monitor setups where you have an additional laptop. Chrome Remote Desktop will stream the whole desktop over the internet, while jsmpeg-vnc streams a single window over LAN.
 
 ## Analysis Tools
+Tools for analysing speedruns.
 
 **[Any% World Segment Calculator](https://docs.google.com/spreadsheets/d/1v-FhUuG77YuWI8zTrCd8S8TZYM0V2JDqHzhaFiLHn8E/edit?usp=sharing)**  
 A spreadsheet tool to convert your split file into world segment history and bests.

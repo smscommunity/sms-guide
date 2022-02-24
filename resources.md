@@ -39,8 +39,8 @@ Any%/120-Shine top 5 per country/USA-state.
 
 ## Documentation
 
-**[Bingo Resources](https://docs.google.com/spreadsheets/d/1b8QYMr8DeSAtjjIhWHQ0JRY52W-bqknXQ1iyfqEzMiQ/)**  
-Info on blue coins, nozzle/Yoshi locations, and bingo strats.
+**[Item Index](https://docs.google.com/spreadsheets/d/15-r0Nz29ZOKK2_fPq92_fjHUZC5p2k5ePpjk9SxnI_E/)**  
+Index of blue coin/nozzle/Yoshi locations and shine/blue coin classifications.
 
 **[Text Timing](https://github.com/smscommunity/text-analysis)**  
 Algorithms to count text length by simulating it, and resulting timings.
@@ -54,30 +54,17 @@ Sheet of low-A-press runs.
 **[Evolution of Il Piantissimo](https://imgur.com/a/Zrfw9)**  
 Pianti.
 
-## Competitions
-**SMS Fantasy League Winter 2022: [Info](https://docs.google.com/document/d/1CzzHHdyygT7a2nc0P9Gilm2EfrWxz4_pK_ac9Mca_iE/), [Results](https://docs.google.com/spreadsheets/d/1YCk46PndG4iG3Df3m2CrJHL7kPNlx85HBId8d_j1ouk/)**  
-*Dec 2021–Feb 2022*: 5 captains draft 5 runners each, then points are awarded for improvement in Any% and 120 Shines across a 3-month period.
+## Documentaries
 
-**SMS Custom IL Competition 2021: [Results](https://docs.google.com/spreadsheets/d/16cBdUvXORcb94EsIbTV8l-uyDdfjccDTXuFuTZnh1Qc/), [Predictions](https://docs.google.com/spreadsheets/d/1j2X8cX-w23Owo8jJa9oDHJaT52l_j2SCnX9RCYlpItI)**  
-*Jul 2021–Sept 2021*: A weekly unseen custom IL with a week to route and execute it, and points awarded for ranking each week.
+### WR Progressions
+**[Any%](https://youtu.be/oudZMniib08)** (AverageTrey, Sept 2017) *([Text Doc](https://www.speedrun.com/sms/guide/8c1vn))*  
+**[120 Shines](hhttps://youtu.be/oHg4oTMu5Yc)** (AverageTrey, Sept 2018) *([Text Doc](https://www.speedrun.com/sms/guide/0agv7))*  
+**[Pianta 6](https://youtu.be/lcS_OFIEQQo)** (AverageTrey, Apr 2020)  
 
-**SMS Custom IL Competition 2020: [Results](https://docs.google.com/spreadsheets/d/1wVYrVvGsBOTnuIIfvbNU9GAkXWxUzHOYtq_pUUbYhsw/)**  
-*Aug 2020–Sept 2020*: A weekly unseen custom IL with a week to route and execute it, and points awarded for ranking each week.
-
-**SMS Stock Market 2020: [Results](https://docs.google.com/spreadsheets/d/1TnPHkA65_yGJLbRlL7AfPdpGfCf9t-K4df8kqVZH0z8/)**  
-*Apr 2020–June 2020*: competitors invest in runners each month, and gain returns based on the runners' improvements.
-
-**SMS Fantasy League Summer 2019: [Results](https://docs.google.com/spreadsheets/d/1da6kRY0BJrqdPs1Jjt-D3jiJcorqYPsvWzQDgKeC4o4/)**  
-5 captains draft 4 runners each, then points are awarded for improvement in Any% and 120 Shines across a 3-month period.
-
-**SMS Tasks Competitions:
-[S1](https://www.speedrun.com/sms/guide/komwd),
-[S2](https://www.speedrun.com/sms/guide/1zc9v),
-[S3](https://www.speedrun.com/sms/guide/d51ww),
-[S4](https://www.speedrun.com/sms/guide/gp8w6),
-[S5](https://www.speedrun.com/sms/guide/b2xqe)**  
-*Respectively 2012, 2013, 2014, 2015, 2018*. 
-A weekly unseen challenge with a week to route and execute it, and points awarded for ranking each week.
+### Misc
+**[The Many Types of Spinjumps](https://youtu.be/zlG8El1UUVc)** (AverageTrey, Oct 2021)  
+**[Max% Pre-Peach](https://youtu.be/IEOTh5Plf3w)** (AverageTrey for LowestPercent, Jan 2021)  
+**[Pausing Is Weird](https://youtu.be/5BC_eRUNayA)** (AverageTrey, Dec 2020)  
 
 ## Archives
 
