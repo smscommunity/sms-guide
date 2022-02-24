@@ -10,6 +10,7 @@ Happenings around the community.
 
 **Chronology:**  
 - Fantasy League 2 *(12/2021 – 03/2022)*
+- [96 Shines International Relay](https://www.twitch.tv/videos/1207877887) *(11/2021)*
 - Bingo League 3 *(07/2021 – 10/2021)*
 - Custom IL Competition 2 *(07/2021 – 09/2021)*
 - Bingo League 2 *(01/2021 – 04/2021)*
@@ -17,6 +18,7 @@ Happenings around the community.
 - Bingo League 1 *(09/2020 – 11/2020)*
 - Custom IL Competition 1 *(08/2020 – 09/2020)*
 - Stock Market *(04/2020 – 06/2020)*
+- Any% Boomer/Yoomer/Zoomer Relay *(01/2020)*
 - Fantasy League 1 *(06/2019 – 09/2019)*
 - Task Competition 5 *(11/2018 – 01/2019)*
 
@@ -44,5 +46,5 @@ A weekly unseen challenge or custom IL with a week to route and execute it, and 
 **SMS Stock Market 2020: [Results](https://docs.google.com/spreadsheets/d/1TnPHkA65_yGJLbRlL7AfPdpGfCf9t-K4df8kqVZH0z8/)**  
 *Apr 2020–June 2020*: competitors invest in runners each month, and gain returns based on the runners' improvements.
 
-**SMS Fantasy League Summer 2019: [Results](https://docs.google.com/spreadsheets/d/1da6kRY0BJrqdPs1Jjt-D3jiJcorqYPsvWzQDgKeC4o4/)**  
+**SMS Fantasy League Summer 2019: [Results](https://docs.google.com/spreadsheets/d/1da6kRY0BJrqdPs1Jjt-D3jiJcorqYPsvWzQDgKeC4o4/), [Results Video](https://www.twitch.tv/videos/487759289), [Draft](https://www.twitch.tv/videos/442440206)**  
 *Jun 2019–Sept 2019*: 5 captains draft 4 runners each, then points are awarded for improvement in Any% and 120 Shines across a 3-month period.
