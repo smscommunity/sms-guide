@@ -10,11 +10,9 @@ nav_order: 4
 Index of external links to useful software.
 
 {: .no_toc }
-<details open markdown="block">
-<summary>Table of contents</summary> {: .text-delta }
+
 1. TOC
 {:toc}
-</details>
 
 ## Game Tools
 Tools used to play and practice SMS.

@@ -10,11 +10,9 @@ nav_order: 5
 Index of external links to resources.
 
 {: .no_toc }
-<details open markdown="block">
-<summary>Table of contents</summary> {: .text-delta }
+
 1. TOC
 {:toc}
-</details>
 
 ## Leaderboards
 **[RTA Leaderboards](https://www.speedrun.com/sms)**  

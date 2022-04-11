@@ -10,11 +10,9 @@ nav_order: 3
 Index of external links to game tutorials.
 
 {: .no_toc }
-<details open markdown="block">
-<summary>Table of contents</summary> {: .text-delta }
+
 1. TOC
 {:toc}
-</details>
 
 ## Full-Game (Recommended)
 This is a set of all-in-one video playlists and shine-breakdown spreadsheets covering the whole game (Any% or even 120 Shines). These ones are usually recommended.

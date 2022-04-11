@@ -8,11 +8,8 @@ nav_order: 2
 # Video Tools
 {: .no_toc }
 
-<details open markdown="block">
-<summary>Table of contents</summary> {: .text-delta }
 1. TOC
 {:toc}
-</details>
 
 ## Recording Short Videos
 There are 2 options for recording videos (of, say, length <10 mins) that both make recording SMS ILs very low-effort. Both rely on you having already set up OBS to record/stream in general.
@@ -23,8 +20,9 @@ You can stream to Twitch. Whenever you PB, create a [**stream marker**](https://
 2. **OBS Replay Buffer + YouTube**  
 OBS **replay buffer** is a feature you can enable via its tab in OBS output settings (also available in [Streamlabs OBS](https://streamlabs.com/content-hub/post/instant-replays-in-streamlabs-obs)). It records your video in a fixed-size space in memory that's cyclically overwritten, meaning the previous few minutes are available at any given time. Set the replay size to be longer than the IL, and bind a hotkey to **save replay**. Then, pressing the hotkey will save the last few minutes of recording to a file. Hence, when you PB, you just press the button to save a video. Make sure to check the replay size beforehand, and you must **start replay buffer** in OBS before using it! These videos can then be put on a throwaway YouTube account; no need to present them or even title them. You may optionally crop the video before uploading (see below), but if not, please timestamp the link. *This is a good option for recording ILs offline, but requires more clicks to put them up online*.
 
-<details markdown="block">
-<summary> How to Streamline Uploading to YouTube </summary> {: .text-delta }
+<details>
+<summary markdown="span"> How to Streamline Uploading to YouTube </summary> {: .text-delta }
+
 To streamline uploading clips to YouTube, edit a few default settings. In [YouTube Studio](https://studio.youtube.com/), click on Settings in the sidebar. Then in Channel > Advanced Settings, set your channel as "not made for kids", and in Upload Defaults, set Visibility to Public or Unlisted. Then, to upload videos, you can put them all in a folder and upload them all at the same time, but have to publish them one-by-one (by clicking Edit, selecting the third tab, then Publish). You receive a link each time you publish, ready to paste in a sheet.
 </details>
 
