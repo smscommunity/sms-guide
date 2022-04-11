@@ -82,24 +82,6 @@ Markdown by default renders large images that are left-aligned, but html can be 
 
 For the love of god, never indent anything by 4 or more normal spaces; it'll trigger a multiline code block and leave you confuse-o.
 
-8\. Collapsible blocks can be done using some html. Example:
-
-```
-<details>
-
-<summary>Click me!</summary>
-**He lo** m8.
-</details>
-```
-
-<details>
-
-<summary>Click me!</summary>
-**He lo** m8.
-</details>
-
-For this to render correctly, you're advised to copy the exact line-break structure in this example. It's extremely finicky.
-
 ## Extended Markdown Guide
 Basic Markdown is simple but scrappy, and doesn't support stuff like video embeds for example. You can copy examples to get those working if you fancy. There are three main things whose existence you should note, whether you try to use them or not:
 
