@@ -85,18 +85,24 @@ For the love of god, never indent anything by 4 or more normal spaces; it'll tri
 8\. Collapsible blocks can be done using some html. Example:
 
 ```
-<details><summary>Click me!</summary>
+<details>
+<summary>
+    Click me!
+</summary>
 
 **He lo** m8.
 </details>
 ```
 
-<details><summary>Click me!</summary>
+<details>
+<summary>
+  Click me!
+</summary>
 
 **He lo** m8.
 </details>
 
-The line after the `</summary>` tag is necessary for the Markdown inside the block to render. I don't think you can put Markdown in the summary.
+The`</summary>` tag must be on a separate line, and there must be a blank line after it, for this to render correctly. As per the last point, don't indent the summary by 4 or more spaces.
 
 ## Extended Markdown Guide
 Basic Markdown is simple but scrappy, and doesn't support stuff like video embeds for example. You can copy examples to get those working if you fancy. There are three main things whose existence you should note, whether you try to use them or not:
