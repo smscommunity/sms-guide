@@ -103,9 +103,9 @@ Basic Markdown is simple but scrappy, and doesn't support stuff like video embed
 
 ### Macros (e.g. Video Embed)
 
-The `{% %}` stuff is macros for including bits of HTML (that, say, handle video embeds) in a clean way. This is the current setup for YouTube embeds:
+The {% raw %}`{% %}`{% endraw %} stuff is macros for including bits of HTML (that, say, handle video embeds) in a clean way. This is the current setup for YouTube embeds:
 
-`{% include yt.html id="Ksr-H9dgGjA" %}`
+{% raw %}`{% include yt.html id="Ksr-H9dgGjA" %}`{% endraw %}
 
 {% include yt.html id="Ksr-H9dgGjA" %}
 
