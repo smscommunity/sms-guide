@@ -86,23 +86,19 @@ For the love of god, never indent anything by 4 or more normal spaces; it'll tri
 
 ```
 <details>
-<summary>
-    Click me!
-</summary>
 
+<summary>Click me!</summary>
 **He lo** m8.
 </details>
 ```
 
 <details>
-<summary>
-  Click me!
-</summary>
 
+<summary>Click me!</summary>
 **He lo** m8.
 </details>
 
-The`</summary>` tag must be on a separate line, and there must be a blank line after it, for this to render correctly. As per the last point, don't indent the summary by 4 or more spaces.
+For this to render correctly, you're advised to copy the exact line-break structure in this example. It's extremely finicky.
 
 ## Extended Markdown Guide
 Basic Markdown is simple but scrappy, and doesn't support stuff like video embeds for example. You can copy examples to get those working if you fancy. There are three main things whose existence you should note, whether you try to use them or not:
@@ -115,9 +111,7 @@ The {% raw %}`{% %}`{% endraw %} stuff is macros for including bits of HTML (tha
 
 {% include yt.html id="Ksr-H9dgGjA" %}
 
-The `{: }` stuff is iirc custom features provided by the website theme, like tables of contents (toc):
-
-`{:toc}`
+The `{: }` stuff is iirc custom features provided by the website theme, like tables of contents (`{:toc}`).
 
 ### Front-Matter (for Page Metadata)
 
