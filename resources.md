@@ -6,10 +6,9 @@ nav_order: 5
 ---
 
 # Resources
+{: .no_toc }
 
 Index of external links to resources.
-
-{: .no_toc }
 
 1. TOC
 {:toc}

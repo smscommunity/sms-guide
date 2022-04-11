@@ -6,10 +6,9 @@ nav_order: 3
 ---
 
 # Tutorials
+{: .no_toc }
 
 Index of external links to game tutorials.
-
-{: .no_toc }
 
 1. TOC
 {:toc}

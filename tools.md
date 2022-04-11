@@ -6,10 +6,9 @@ nav_order: 4
 ---
 
 # Tools
+{: .no_toc }
 
 Index of external links to useful software.
-
-{: .no_toc }
 
 1. TOC
 {:toc}
