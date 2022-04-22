@@ -4,7 +4,7 @@ title: Strat Comparisons
 permalink: /stratcomparisons
 nav_order: 4
 ---
-#Strat Comparisons
+# Strat Comparisons
 
 Comparisons between all kind of strats.
 
