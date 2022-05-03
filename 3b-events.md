@@ -2,13 +2,15 @@
 layout: default
 title: Events
 permalink: /events
-nav_order: 6
+nav_order: 9
 ---
+
 # Events
 
 Happenings around the community.
 
 **Chronology:**  
+- Bingo League 4 *(03/2022 – 05/2022)*
 - Fantasy League 2 *(12/2021 – 03/2022)*
 - [96 Shines International Relay](https://www.twitch.tv/videos/1207877887) *(11/2021)*
 - Bingo League 3 *(07/2021 – 10/2021)*

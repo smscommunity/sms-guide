@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Video Tools
+permalink: /info/video-tools
 parent: Info
 nav_order: 2
 ---
