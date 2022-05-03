@@ -84,7 +84,7 @@ Collect 60 shines.
 **Blues Rush**  
 Categories requiring collecting blue coins as fast as possible.
 * **10 Shines (No Shines)**  
-Starting from after Airstrip, collect 90 blue coins and trade them all for a total of at least 10 shines (including Airstrip).
+Starting from after Airstrip, collect 90 blue coins and trade them all for a total of 10 shines (including Airstrip); collecting physical shines is forbidden.
 * **All Blues (NG)**  
 Starting from a fresh file, collect all 240 blue coins, trade them all in, then beat the final boss.
 * **All Blues (NG+)**  
