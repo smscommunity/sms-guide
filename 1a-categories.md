@@ -77,7 +77,7 @@ Collect 10 shines.
 * **20 Shines**  
 Collect 20 shines.
 * **Sunglasses%**  
-Collect the sunglasses (requires 45 shines).
+Collect the sunglasses (requires 30 shines).
 * **60 Shines**  
 Collect 60 shines.
 
