@@ -2,7 +2,7 @@
 layout: default
 title: Retiming
 permalink: /info/retime
-parent: Info
+parent: Misc General Info
 has_children: True
 nav_order: 3
 has_toc: false

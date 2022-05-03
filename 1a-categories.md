@@ -3,7 +3,6 @@ layout: default
 title: Categories
 permalink: /categories
 nav_order: 1
-has_children: true
 ---
 
 # Categories
@@ -31,7 +30,7 @@ Pianta 5 as intended requires Yoshi to complete, but is usually done without Yos
 5. **Early Yoshi-Go-Round (EYG)**  
 Pinna 5 is usually skipped by accessing Pinna 6 secret from an earlier episode (usually 3 or 5). Yoshi is used so this must be done after Pinna 4, which unlocks it. Alternatively, do Pinna 5–6 as intended.
 
-## Routes
+### Routes
 The usual Any% routes all start with Airstrip, end with Corona, and do the 7 non-hub worlds one-at-a-time except for splitting Bianco into two segments (I and II). The only required skips are Pianta Early and Yoshi Skip. The shines obtained in each world are (ordered within each world):
 * Bianco I: 2–5 *(unlock Ricco between episodes 3 and 4)*
 * Bianco II: 6–7
@@ -57,7 +56,7 @@ Any% with the additional requirement of collecting 120 shines (= 96 physical shi
 [Legacy Route (Wilko \| 2017/03/31)](https://docs.google.com/spreadsheets/d/1I2gojd6k2-fiDhW92VFG7C6_-CpGjrDS3H2ai8knDEg/edit#gid=0)  
 
 ## ILs
-Complete a single shine, timed using an in-game timer. The full guide for these is [here](/info/il).
+Complete an individual level (single shine), timed using an in-game timer. The full guide for these is [here](info/il).
 
 ## Misc RTA Categories
 The other popular real-time categories are:
@@ -105,4 +104,4 @@ Any% with using the hover nozzle banned.
 
 
 ## Bingo
-SMS has a competitive bingo scene and biannual league; see the [**Discord*](https://sms.bingo/discord) and [**website**](https://sms.bingo).
+SMS has a competitive bingo scene and biannual league; see the [**Discord**](https://sms.bingo/discord) and [**website**](https://sms.bingo).

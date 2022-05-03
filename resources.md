@@ -8,7 +8,7 @@ nav_order: 10
 # Resources
 {: .no_toc }
 
-Index of external links to resources. *This page is depracated with content being dispersed into more logical navigation so update links accordingly.
+Index of external links to resources. *This page is depracated with content being dispersed into more logical navigation so update any links accordingly.*
 
 1. TOC
 {:toc}
@@ -20,7 +20,7 @@ Index of external links to resources. *This page is depracated with content bein
 *Moved to [here](categories).*
 
 ## Documentation
-*Moved to [here](game/info).*
+*Moved to [here](game/misc).*
 
 **[Timing Method Article](https://www.reddit.com/r/speedrun/comments/f8scnj/super_mario_sunshine_hacked_file_now_legal_on/)**  
 Reddit post announcing the 2020 timing method vote results and summarising the issue.

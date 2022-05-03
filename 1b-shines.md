@@ -8,4 +8,4 @@ has_children: true
 
 This section is currently a scrappy work-in-progress; don't rely on it being complete or polished.
 
-Some documents collating info on various shines are on the [misc page](/game/misc).
+Some documents collating info on various shines are on the [misc page](game/misc).

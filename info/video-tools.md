@@ -2,7 +2,7 @@
 layout: default
 title: Video Tools
 permalink: /info/video-tools
-parent: Info
+parent: Misc General Info
 nav_order: 2
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: Individual Levels
 permalink: /info/il
-parent: Info
+parent: Misc General Info
 has_children: True
 nav_order: 1
 has_toc: false

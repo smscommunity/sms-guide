@@ -20,9 +20,8 @@ Happenings around the community.
 - Bingo League 1 *(09/2020 – 11/2020)*
 - Custom IL Competition 1 *(08/2020 – 09/2020)*
 - Stock Market *(04/2020 – 06/2020)*
-- Any% Boomer/Yoomer/Zoomer Relay *(01/2020)*
-- Fantasy League 1 *(06/2019 – 09/2019)*
-- Task Competition 5 *(11/2018 – 01/2019)*
+
+*Events prior to April 2020 are listed [here](https://www.twitch.tv/sunshinecommunity/about)*.
 
 ## Tasks
 A weekly unseen challenge or custom IL with a week to route and execute it, and points awarded for ranking each week.
