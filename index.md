@@ -1,5 +1,6 @@
 ---
 layout: default
+nav_exclude: true
 ---
 # SMS Wiki
 
@@ -41,3 +42,5 @@ E.g. IL guide+rules, retiming methodology, wiki-editing guide.
 Links to leaderboards.
 2. **Events**  
 A list of events and links to their pages and results.
+3. **Misc**  
+E.g. Discord archives.
