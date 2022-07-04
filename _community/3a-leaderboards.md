@@ -31,7 +31,7 @@ Backups of the Speedrun.com Any% leaderboard since 2017/07.
 Archive of the Any% leaderboard from 2014/02/20, before GBS was found and Sunshine rose in popularity.
 
 ### IL Leaderboards
-**IL Sheet Backups: [(2017/12 – 2020/06)](https://drive.google.com/drive/folders/14mht3IvI2_HHumptD8eeihrlWf0XpARV), [(2020/10 – 2022/02+)](https://drive.google.com/drive/u/0/folders/1yDb0_H9hWTMP0K8jnXF2ciwKwyAe5LB-)**  
+**IL Sheet Backups: [(2017/12 – 2020/06)](https://drive.google.com/drive/folders/14mht3IvI2_HHumptD8eeihrlWf0XpARV), [(2020/10 – 2022/07)](https://drive.google.com/drive/u/0/folders/1yDb0_H9hWTMP0K8jnXF2ciwKwyAe5LB-)**  
 Monthly copies of the current IL sheet.
 
 **Previous IL Sheets: [Shine Touch](https://docs.google.com/spreadsheets/d/1VAnfcIXF0yIkr7wkIgHOLFPNXNWaCo3MwTNjUutMom4), [Real Time](https://docs.google.com/spreadsheets/d/1Aj9LVDlZCCOoG_llHRmfLuPqkpg5cOsonLf2xNB8xpM)**  

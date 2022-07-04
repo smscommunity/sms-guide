@@ -1,6 +1,26 @@
 title: SMS Guide
-remote_theme: pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs@v0.4.0
 color_scheme: dark
 markdown: kramdown
 kramdown:
   parse_block_html: true
+
+collections:
+  game:
+    permalink: "/:collection/:path/"
+    output: true
+  general:
+    permalink: "/:collection/:path/"
+    output: true
+  community:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    game:
+      name: Game
+    general:
+      name: General
+    community:
+      name: Community
