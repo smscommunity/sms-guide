@@ -2,7 +2,7 @@
 layout: default
 title: IL Rules
 permalink: /info/il/rules
-grand_parent: Info
+grand_parent: Misc General Info
 parent: Individual Levels
 nav_order: 2
 ---

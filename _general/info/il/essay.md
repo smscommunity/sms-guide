@@ -1,7 +1,7 @@
 ---
 layout: default
 title: IL Essay
-parent: Info
+parent: Misc General Info
 nav_exclude: true
 ---
 

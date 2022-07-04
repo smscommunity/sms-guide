@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Text
-grand_parent: Info
+grand_parent: Misc General Info
 parent: Retiming
 nav_order: 2
 ---
