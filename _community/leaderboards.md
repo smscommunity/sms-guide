@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Leaderboards
-permalink: /leaderboards
 nav_order: 8
 ---
 

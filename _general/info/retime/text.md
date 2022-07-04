@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Text
+permalink: /info/retime/text/
 grand_parent: Misc General Info
 parent: Retiming
 nav_order: 2

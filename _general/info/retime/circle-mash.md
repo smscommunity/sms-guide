@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Circle-Mash
+permalink: /info/retime/circle-mash/
 grand_parent: Misc General Info
 parent: Retiming
 nav_order: 3

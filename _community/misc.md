@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Misc Community Info
-permalink: /community/misc
 nav_order: 10
 ---
 

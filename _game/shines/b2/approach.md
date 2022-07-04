@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Approach
+permalink: /shines/b2/approach/
 grand_parent: Shines
 parent: Bianco 2
 nav_order: 1

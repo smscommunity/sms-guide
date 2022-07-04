@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Individual Levels
-permalink: /info/il
+permalink: /info/il/
 parent: Misc General Info
 has_children: True
 nav_order: 1

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Events
-permalink: /events
 nav_order: 9
 ---
 

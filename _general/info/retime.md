@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Retiming
-permalink: /info/retime
+permalink: /info/retime/
 parent: Misc General Info
 has_children: True
 nav_order: 3

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Misc
+permalink: /shines/misc/
 parent: Shines
 nav_order: 9
 ---

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Windmill
+permalink: /shines/b2/windmill/
 grand_parent: Shines
 parent: Bianco 2
 nav_order: 3

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Spider
+permalink: /shines/b2/spider/
 grand_parent: Shines
 parent: Bianco 2
 nav_order: 2

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Misc Game Info
-permalink: /game/misc
+permalink: /game/misc/
 nav_order: 4
 has_children: true
 ---
