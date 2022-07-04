@@ -8,12 +8,6 @@ Kinda
 
 ## Contents
 
-<!---
-these categories can be implemented as jekyll collections in future
-but we are waiting on a pull request in the theme first
-https://github.com/just-the-docs/just-the-docs/pull/578
--->
-
 **Game Info**  
 *Documentation of game knowledge.*
 1. **Categories**  

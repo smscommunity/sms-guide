@@ -3,8 +3,13 @@ layout: default
 title: Strat Comparisons
 permalink: /game/strat-comparisons
 parent: Misc Game Info
-nav_order: 4
+nav_exclude: true
 ---
+
+<!---
+nav_exclude: true is there while this has no content;
+replace with nav_order: 1 once this has some content
+-->
 
 # Strat Comparisons (WIP)
 
@@ -26,9 +31,7 @@ Comparisons between all kind of strats.
 
 
 
-
 **Sirena**
-
 
 
 
@@ -36,12 +39,11 @@ Comparisons between all kind of strats.
 
 
 
-
 **Pianta**
 
 
-**Misc**
 
+**Misc**
 
 
 

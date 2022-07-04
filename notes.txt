@@ -1,0 +1,8 @@
+= Technical Notes =
+
+== Navigation/Linking ==
+Articles are stored in .md files, which are bucketed first into one collection, and then into folders (via parent/child tags). Collections are declared in _config.yml and must be stored in folders named "_<collection-name>". Within each collection, each page should be stored at the location its url suggests.
+
+Currently, each url is specified as a permalink in the metadata of each file, but this should be changed to use automatically generated links, which are determined by exact folder names and filenames. See the files in _community for an example of this in practice. This change is intended for after links have stabilised in the wiki and can be posted externally.
+
+Note that every value in a permalink tag must end in "/" else links that themselves end in "/" will not work; if an ending "/" is included in the permalink tag then urls work regardless of the presence or absence of the ending "/".
