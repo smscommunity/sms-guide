@@ -10,8 +10,8 @@ nav_order: 8
 **[RTA Leaderboards](https://www.speedrun.com/sms)**  
 Current leaderboards for real-time speedruns and category extensions.
 
-**[IL Leaderboards](https://sunmar.io/il)**  
-Current leaderboards for in-game-time speedruns of individual levels, segment/split documentation and misc real-time category extensions.
+**[IL Leaderboards](https://ilview.sunmar.io)**  
+Current leaderboards for in-game-time speedruns of individual levels, segment/split documentation and misc real-time category extensions. The source for the leaderboard is available [here.](https://sunmar.io/il)
 
 **[Country/State Records](https://docs.google.com/spreadsheets/d/14ObyYlGo62P_xqgY8vUC11AMMnitdRsWytw0pVUs1jE)**  
 Any%/120-Shine top 5 per country/USA-state.
