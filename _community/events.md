@@ -6,21 +6,42 @@ nav_order: 9
 
 # Events
 
-Happenings around the community.
+Happenings around the community, orginized by both moderators and community members alike. Missing anything? Feel free to add it!
 
 **Chronology:**  
+- Bingo League 5 *(08/2022-11/2022)*
+- Custom IL Competition 3 *(07/2022-10/2022)*
+- 20th Anniversary Race *(07/09/2022)*
+- Non Lockout Bingo Tournament *(05/2022-06/2022)*
 - Bingo League 4 *(03/2022 – 05/2022)*
 - Fantasy League 2 *(12/2021 – 03/2022)*
 - [96 Shines International Relay](https://www.twitch.tv/videos/1207877887) *(11/2021)*
 - Bingo League 3 *(07/2021 – 10/2021)*
 - Custom IL Competition 2 *(07/2021 – 09/2021)*
+- 2v2 Bingo Tournament *(05/2021 - 06/2021)
 - Bingo League 2 *(01/2021 – 04/2021)*
 - Speedgaming Sandbox Any% Relay Tournament *(12/2020 – 03/2021)*
 - Bingo League 1 *(09/2020 – 11/2020)*
 - Custom IL Competition 1 *(08/2020 – 09/2020)*
+- Invasion Bingo Tournament *(06/2020 - 08/2020)
 - Stock Market *(04/2020 – 06/2020)*
 
 *Events prior to April 2020 are listed [here](https://www.twitch.tv/sunshinecommunity/about)*.
+
+## Bingo
+Competitions involving randomized goals on a five by five grid. For more information, check out the dedicated website [here](https://sms.bingo) and the dedicated discord [here.](https://sms.bingo/discord).
+
+**Bingo League Season 4**: [Match History, Final Standings](https://season4.sms.bingo/)
+*March 2022 - May 2022* Division 1 Winner: Embouchure; Division 2 Winner: Breadghost; Division 3 Winner: BlazeRol
+
+**Bingo League Season 3**: [Match History, Final Standings](https://season3.sms.bingo/), [Playoff Bracket](https://docs.google.com/spreadsheets/d/1gN6xyfIoaDTwf04Oz_Yvf5AKNwhfTPi4pA0Bx4_ebMk/edit?usp=sharing)
+*July 2021 - October 2021* Division 1 Winner: JJsrl; Division 2 Winner: Deathline; Division 3 Winner: MrYhatoh; Division 4 Winner: Vipa_51
+
+**Bingo League Season 2**: [Match History, Final Standings](https://season2.sms.bingo/)
+*January 2021 - April 2021* Division 1 Winner: Rimato13; Division 2 Winner: peaches
+
+**Bingo League Season 1**:
+*September 2020 - November 2020* Division 1 Winner: Rimato13; Division 2 Winner: Embouchure; Division 3 Winner: peaches
 
 ## Tasks
 A weekly unseen challenge or custom IL with a week to route and execute it, and points awarded for ranking each week.
