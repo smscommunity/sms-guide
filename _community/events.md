@@ -31,16 +31,16 @@ Happenings around the community, orginized by both moderators and community memb
 ## Bingo
 Competitions involving randomized goals on a five by five grid. For more information, check out the dedicated website [here](https://sms.bingo) and the dedicated discord [here.](https://sms.bingo/discord).
 
-**Bingo League Season 4**: [Match History, Final Standings](https://season4.sms.bingo/)
+**Bingo League Season 4**: [Match History, Final Standings](https://season4.sms.bingo/)  
 *March 2022 - May 2022* Division 1 Winner: Embouchure; Division 2 Winner: Breadghost; Division 3 Winner: BlazeRol
 
-**Bingo League Season 3**: [Match History, Final Standings](https://season3.sms.bingo/), [Playoff Bracket](https://docs.google.com/spreadsheets/d/1gN6xyfIoaDTwf04Oz_Yvf5AKNwhfTPi4pA0Bx4_ebMk/edit?usp=sharing)
+**Bingo League Season 3**: [Match History, Final Standings](https://season3.sms.bingo/), [Playoff Bracket](https://docs.google.com/spreadsheets/d/1gN6xyfIoaDTwf04Oz_Yvf5AKNwhfTPi4pA0Bx4_ebMk/edit?usp=sharing)  
 *July 2021 - October 2021* Division 1 Winner: JJsrl; Division 2 Winner: Deathline; Division 3 Winner: MrYhatoh; Division 4 Winner: Vipa_51
 
-**Bingo League Season 2**: [Match History, Final Standings](https://season2.sms.bingo/)
+**Bingo League Season 2**: [Match History, Final Standings](https://season2.sms.bingo/)  
 *January 2021 - April 2021* Division 1 Winner: Rimato13; Division 2 Winner: peaches
 
-**Bingo League Season 1**:
+**Bingo League Season 1**:  
 *September 2020 - November 2020* Division 1 Winner: Rimato13; Division 2 Winner: Embouchure; Division 3 Winner: peaches
 
 ## Tasks
