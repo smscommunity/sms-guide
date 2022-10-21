@@ -1,8 +1,8 @@
 ---
 layout: default 
 title: Bianco 3
-permalink: /shines/bianco/episode3
-parent: Bianco
+permalink: /shines/bianco/episode3/
+parent: Bianco Hills
 grand_parent: Shines
 ---
 # Bianco 3

@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Bianco 2
-permalink: /shines/bianco/episode2
-parent: Bianco
+permalink: /shines/bianco/episode2/
+parent: Bianco Hills
 grand_parent: Shines
-has_children: true
 ---
 # Bianco 2
 {: .no_toc }
