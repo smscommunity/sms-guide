@@ -21,6 +21,7 @@ Notice that there is no intro cutscene to mash through when loading into the par
 <img src="https://i.imgur.com/QTaAKYj.png">
 -Walk Mario forawrd to the spot in the first image.
 -Once you reach this point, jump dive and rollout.
+(Make sure to jump dive over the stairs, as rolling out on them often results in bonking or instantly standing up, which loses a lot of speed).
 -The timeframe to move the camera is lax, and can be completed anytime from directly before jumodiving until the rollout.
 -The camera required for this is to center it directly between the Electro-Koopa and railing of the Yoshi-Go-Round.
 -After the rollout, continue walking directly behind Shadow Mario.
