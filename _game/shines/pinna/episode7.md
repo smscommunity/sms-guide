@@ -21,12 +21,12 @@ Notice that there is no intro cutscene to mash through when loading into the par
 <img src="https://i.imgur.com/PbnnIER.png">
 -Once you reach this point, jump dive and rollout.
 (Make sure to jump dive over the stairs, as rolling out on them often results in bonking or instantly standing up, which loses a lot of speed).
--The timeframe to move the is lax, and can be completed anytime from directly before jumodiving until the rollout.
--The camera required for this is to center it directly between the Electro-Koopa and railing of the Yoshi-Go-Round.
+-The timeframe to move the camera is lax, and can be completed anytime from directly before jump diving until finishing the rollout.
+-The camera angle required for this is to center it directly between the Electro-Koopa and railing of the Yoshi-Go-Round.
 -After the rollout, continue walking directly behind SM.
 -You should not need to change the camera much after this, and can walk mostly in this straight line.
 <img src="https://i.imgur.com/QTaAKYj.png">
--It is easiest to spam spray SM when they are double jumping.
+-It is easiest to spam spray SM when they are in the air double jumping.
 -It will likely take two or three well timed spam sprays to deplete SM's health due the 50 extra points.
 -After SM completes the triple jump, they will be able to be downed.
 -Even if all of SM's health is gone, you still need to wait to spray them on the ground for them to fall down.
@@ -37,7 +37,7 @@ Notice that there is no intro cutscene to mash through when loading into the par
 2. Stand where the shine will spawn and enter Y-Camera mode. Spray the Electro-Koopas to prevent them from attacking you.
 ### Advanced (Right Side)
 {% include yt.html id="lAs-Vv-buGw" %}
-While the beginner strat is significantly easier, right side saves approximately .8 seconds and much more if you collect M graffiti, clam, or cage blues.
+While the beginner strat is significantly easier, right side saves approximately .8 seconds and much more if you collect the M graffiti, clam, or cage blue coins while the shine is spawning (only for blue coin related categories).
 -To begin this strat, have Mario walk to this shape on the ground.
 <img src="https://i.imgur.com/ugZIxTc.png">
 -Once you reach this point you can face directly toward SM and hoverslide on that path.
