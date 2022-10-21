@@ -2,7 +2,7 @@
 layout: default
 title: Ricco 4
 permalink: /shines/ricco/episode4
-parent: Ricco
+parent: Ricco Harbor
 grand_parent: Shines
 ---
 # Ricco 4 (Secret: Basic Strat)

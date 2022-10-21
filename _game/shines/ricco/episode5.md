@@ -2,7 +2,7 @@
 layout: default
 title: Ricco 5
 permalink: /shines/ricco/episode5
-parent: Ricco
+parent: Ricco Harbor
 grand_parent: Shines
 ---
 # Ricco 5 (Blooper)
