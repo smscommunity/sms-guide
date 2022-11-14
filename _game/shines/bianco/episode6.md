@@ -38,7 +38,7 @@ The entry is the same for every skill level, with the only major difference bein
 - Center the camera with L and pull yourself up. Center Mario on the cube
 - Wait for the second turn of the cube when it rotates backwards. Perform a short jump, then dive into the cube and perform an insta-momentum spin jump all the way to the yellow platform
 - Dive rollout on the yellow platform, then dive rollout again onto the elevator cube
-- Press B when Mario lands on the cube to make him grab the air. This immediately stops his momentum; the cube waits for Mario to be at a complete stop to begin traveling.
+- Hold neutral on the stick and press B when Mario lands on the cube to make him grab the air. This immediately stops his momentum; the cube waits for Mario to be at a complete stop to begin traveling.
 
 {% include yt.html id="hSI5Y4GvtzE" %}
 ### Intermediate
@@ -47,7 +47,7 @@ The entry is the same for every skill level, with the only major difference bein
 - Run forward, jump, then buffered spin jump off the edge of the cube.
 - Wait briefly, then y-turn towards the yellow wall. Mario’s angle approaching the wall should be a little less than 45 degrees.
 - Get out of y-cam before touching the wall. Wall kick and dive off the wall towards the yellow platform
-- Rollout along the yellow platform, then dive rollout again onto the elevator cube. Press B to stop Mario’s momentum
+- Rollout along the yellow platform, then dive rollout again onto the elevator cube. Hold neutral and press B to stop Mario’s momentum
 
 {% include yt.html id="za9mG8atowQ" %}
 ### Advanced
@@ -55,7 +55,7 @@ The entry is the same for every skill level, with the only major difference bein
 - Follow the beginner strat until Mario ledgegrabs the first cube, aiming to ledgegrab the middle of the cube. Press L to center the camera
 - Run to the left of the cube, then turn right to run towards the front corner of the cube as it makes its first turn
 - Jump then dive into the cube and insta momentum spin all the way to the yellow platform
-- Dive rollout on the yellow platform, then dive rollout again onto the elevator cube. Press B to stop Mario’s momentum
+- Dive rollout on the yellow platform, then dive rollout again onto the elevator cube. Hold neutral and press B to stop Mario’s momentum
 
 {% include yt.html id="AiU3yivYBNA" %}
 ## Upper Secret
