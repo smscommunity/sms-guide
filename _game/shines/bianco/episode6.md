@@ -5,7 +5,7 @@ permalink: /shines/bianco/episode6/
 parent: Bianco Hills
 grand_parent: Shines
 ---
-# Bianco 4
+# Bianco 6
 Bianco 6 is made up of two parts: the Entry and the Secret. The Secret is then broken up into the Lower and Upper sections. You should be comfortable with hoverslides, (jump) dive rollouts, spin jumps, sideflips, and triple jumps to have success with this shine. The intermediate and advanced strats for this level require knowledge of glitchy wall kick dives (GWKDs) and insta-momentum spin jumps.
 ## Entry
 The entry is the same for every skill level, with the only major difference being whether you have enough speed to waterslide up the hill and over the bridge in a single slide or have to rollout and start a second slide over the bridge.
