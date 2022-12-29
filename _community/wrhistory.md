@@ -105,7 +105,7 @@ Times above on Reset Timing, Times below on File Select timing
 1:13:30 by *Anonymous* on June 26, 2021  
 1:13:25 by *Anonymous* on July 3, 2021  
 1:13:23 by *Anonymous* on July 10, 2021  
-1:13:16 by *Anonymous* on August 1, 2021  
+1:13:17 by *Anonymous* on August 1, 2021  
   
 ### 2022  
   
