@@ -14,16 +14,17 @@ Happenings around the community, organized by moderators and community members. 
 - [20th Anniversary Any% Race](https://racetime.gg/sms/lazy-kirby-1506) *(09 Jul 2022)*
 - Non Lockout Bingo Tournament *(May 2022 – Jun 2022)*
 - [Mirror Mode Any% Race (April Fool's Day)](https://racetime.gg/sms/swag-lucario-9809) *(01 Apr 2022)*
-- Bingo League 4 *(Mar 2022 – May 2022)*
-- Fantasy League 2 *(Dec 2021 – Mar 2022)*
+- [Triple Bingo Tournament](https://challonge.com/squashy_sms_0322) *(Mar 2022 – Apr 2022)*
+- [Bingo League 4](https://season4.sms.bingo/) *(Mar 2022 – May 2022)*
+- [Fantasy League 2](https://docs.google.com/document/d/1CzzHHdyygT7a2nc0P9Gilm2EfrWxz4_pK_ac9Mca_iE/edit) *(Dec 2021 – Mar 2022)*
 - [96 Shines Relay 1: International](https://www.twitch.tv/videos/1207877887) *(Nov 2021)*
-- Bingo League 3 *(Jul 2021 – Oct 2021)*
-- Custom IL Competition 2 *(Jul 2021 – Sep 2021)*
+- [Bingo League 3](https://season3.sms.bingo/) *(Jul 2021 – Oct 2021)*
+- [Custom IL Competition 2](https://docs.google.com/spreadsheets/d/16cBdUvXORcb94EsIbTV8l-uyDdfjccDTXuFuTZnh1Qc/) *(Jul 2021 – Sep 2021)*
 - 2v2 Bingo Tournament *(May 2021 - Jun 2021)*
-- Bingo League 2 *(Jan 2021 – Apr 2021)*
-- Speedgaming Sandbox Any% Relay Tournament *(Dec 2020 – Mar 2021)*
-- Bingo League 1 *(Sep 2020 – Nov 2020)*
-- Custom IL Competition 1 *(Aug 2020 – Sep 2020)*
+- [Bingo League 2](https://season2.sms.bingo/) *(Jan 2021 – Apr 2021)* *([Info](https://docs.google.com/document/d/1NWQzTPg8xIJdRdG97ZUFIDhlQjL0rrMCasbU0fJP0W0/edit))*
+- [Speedgaming Sandbox Any% Relay Tournament](https://challonge.com/SGSMAR) *(Dec 2020 – Mar 2021)*
+- [Bingo League 1](https://bingothon.com/sms-division-stats/) *(Sep 2020 – Nov 2020)*
+- [Custom IL Competition 1](https://docs.google.com/spreadsheets/d/1wVYrVvGsBOTnuIIfvbNU9GAkXWxUzHOYtq_pUUbYhsw/) *(Aug 2020 – Sep 2020)*
 - Invasion Bingo Tournament *(Jun 2020 – Aug 2020)*
 - [Lockout Bingo Invasion Tournament](https://challonge.com/1v1Invasion) *(Jun 2020 – Aug 2020)*
 - [Stock Market](https://docs.google.com/spreadsheets/d/1TnPHkA65_yGJLbRlL7AfPdpGfCf9t-K4df8kqVZH0z8/edit) *(Apr 2020 – Jun 2020)*
