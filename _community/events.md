@@ -12,7 +12,7 @@ Happenings around the community, organized by moderators and community members. 
 - Bingo League 5 *(Aug 2022 – Nov 2022)*
 - Custom IL Competition 3 *(Jul 2022 – Oct 2022)*
 - [20th Anniversary Any% Race](https://racetime.gg/sms/lazy-kirby-1506) *(09 Jul 2022)*
-- Non Lockout Bingo Tournament *(May 2022 – Jun 2022)*
+- [Non Lockout Bingo Tournament](https://docs.google.com/spreadsheets/d/1UkOhNNCgrxK3JVZGdCDuP-Orv0borNZjhqGxQA1FogA/edit#gid=0) *(May 2022 – Jun 2022)*
 - [Mirror Mode Any% Race (April Fool's Day)](https://racetime.gg/sms/swag-lucario-9809) *(01 Apr 2022)*
 - [Triple Bingo Tournament](https://challonge.com/squashy_sms_0322) *(Mar 2022 – Apr 2022)*
 - [Bingo League 4](https://season4.sms.bingo/) *(Mar 2022 – May 2022)*
@@ -25,7 +25,6 @@ Happenings around the community, organized by moderators and community members. 
 - [Speedgaming Sandbox Any% Relay Tournament](https://challonge.com/SGSMAR) *(Dec 2020 – Mar 2021)*
 - [Bingo League 1](https://bingothon.com/sms-division-stats/) *(Sep 2020 – Nov 2020)*
 - [Custom IL Competition 1](https://docs.google.com/spreadsheets/d/1wVYrVvGsBOTnuIIfvbNU9GAkXWxUzHOYtq_pUUbYhsw/) *(Aug 2020 – Sep 2020)*
-- Invasion Bingo Tournament *(Jun 2020 – Aug 2020)*
 - [Lockout Bingo Invasion Tournament](https://challonge.com/1v1Invasion) *(Jun 2020 – Aug 2020)*
 - [Stock Market](https://docs.google.com/spreadsheets/d/1TnPHkA65_yGJLbRlL7AfPdpGfCf9t-K4df8kqVZH0z8/edit) *(Apr 2020 – Jun 2020)*
 - [1v1 Lockout Bingo Tournament 3](https://challonge.com/1v1Lockout) *(04 May 2020 – 07 June 2020)*
