@@ -6,7 +6,7 @@ parent: Bianco Hills
 grand_parent: Shines
 ---
 # Bianco 5
-Bianco 5 is made up of two parts: the Entry and the Petey Fight. You should be comfortable with hoverslides, (jump) dive rollouts, spin jumps, sideflips, and triple jumps to have success with this shine. The intermediate and advanced strats for this level require knowledge of glitchy wall kick dives (GWKDs) and insta-momentum spin jumps.
+Bianco 5 is made up of two parts: the Entry and the Petey Fight. You should be comfortable with hoverslides, (jump) dive rollouts, spin jumps, sideflips, and triple jumps to have success with this shine.
 ## Entry
 
 ### Beginner - Log Triple Jump
