@@ -21,6 +21,7 @@ Bianco 5 is made up of two parts: the Entry and the Petey Fight. You should be c
 
 {% include yt.html id="THguJsZpdGg" %}
 ### Intermediate - Rope-Y
+This is roughly 2 seconds faster than the Log Triple strat
 - From the start, hold up and hoverslide
 - Aim for the middle of the log, buffer a hover as you slide off the path
 - Release hover, then spin jump with A+Y to Y-turn to the left onto the rope
@@ -30,6 +31,7 @@ Bianco 5 is made up of two parts: the Entry and the Petey Fight. You should be c
 
 {% include yt.html id="XiRLGo_o8g8" %}
 ### Intermediate - Grass-Slide Triple Jump
+This is roughly 0.5 seconds faster than the Rope-Y strat
 - At the start of the level, turn the camera slightly to the right, then hold up and hoverslide
 - Aim the hoverslide for the last part of the grass which is not raised above the path
 - Slide off the grass and double jump off the path and over the river
