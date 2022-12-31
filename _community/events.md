@@ -9,7 +9,7 @@ Happenings around the community, organized by moderators and community members. 
 
 **Chronology:**  
 - [Fantasy League 3](https://docs.google.com/document/d/1lNgflvRhq5hnL70E5eTd4Tj7RUoclWPHmHsqOaOvZo8) *(Dec 2022 – Feb 2023)*
-- Bingo League 5 *(Aug 2022 – Nov 2022)*
+- [Bingo League 5](https://season5.sms.bingo/) *(Aug 2022 – Nov 2022)*
 - Custom IL Competition 3 *(Jul 2022 – Oct 2022)*
 - [20th Anniversary Any% Race](https://racetime.gg/sms/lazy-kirby-1506) *(09 Jul 2022)*
 - [Non Lockout Bingo Tournament](https://docs.google.com/spreadsheets/d/1UkOhNNCgrxK3JVZGdCDuP-Orv0borNZjhqGxQA1FogA/edit#gid=0) *(May 2022 – Jun 2022)*
@@ -20,7 +20,7 @@ Happenings around the community, organized by moderators and community members. 
 - [96 Shines Relay 1: International](https://www.twitch.tv/videos/1207877887) *(Nov 2021)*
 - [Bingo League 3](https://season3.sms.bingo/) *(Jul 2021 – Oct 2021)*
 - [Custom IL Competition 2](https://docs.google.com/spreadsheets/d/16cBdUvXORcb94EsIbTV8l-uyDdfjccDTXuFuTZnh1Qc/) *(Jul 2021 – Sep 2021)*
-- 2v2 Bingo Tournament *(May 2021 - Jun 2021)*
+- [2v2 Bingo Tournament](https://docs.google.com/document/d/13jrYWsSNhyV0QvNidGC1liUYIsf1YUV8qMUZ1lTKkCg/edit) *(May 2021 - Jun 2021)*
 - [Bingo League 2](https://season2.sms.bingo/) *(Jan 2021 – Apr 2021)* *([Info](https://docs.google.com/document/d/1NWQzTPg8xIJdRdG97ZUFIDhlQjL0rrMCasbU0fJP0W0/edit))*
 - [Speedgaming Sandbox Any% Relay Tournament](https://challonge.com/SGSMAR) *(Dec 2020 – Mar 2021)*
 - [Bingo League 1](https://bingothon.com/sms-division-stats/) *(Sep 2020 – Nov 2020)*
@@ -72,10 +72,12 @@ Competitions involving randomized goals on a five by five grid. For more informa
 ## Tasks
 A weekly unseen challenge or custom IL with a week to route and execute it, and points awarded for ranking each week.
 
-**SMS Custom IL Competition 2021: [Results](https://docs.google.com/spreadsheets/d/16cBdUvXORcb94EsIbTV8l-uyDdfjccDTXuFuTZnh1Qc/), [Predictions](https://docs.google.com/spreadsheets/d/1j2X8cX-w23Owo8jJa9oDHJaT52l_j2SCnX9RCYlpItI)**, **Results Videos ([1](https://youtu.be/WKvUaLOznO0) [2](https://www.twitch.tv/videos/1126424327) [3](https://www.twitch.tv/videos/1132712210) [4](https://www.twitch.tv/videos/1144872247) [5](https://www.twitch.tv/videos/1151758825) [6](https://www.twitch.tv/videos/1160423600))**, **TASes ([1](https://twitter.com/zelpikukirby/status/1422754296257384448), [2](https://twitter.com/zelpikukirby/status/1426517549815001090), [3r](https://twitter.com/zelpikukirby/status/1433832182313672707), [3t](https://twitter.com/zelpikukirby/status/1434035002816167939), [4l](https://twitter.com/zelpikukirby/status/1436943657316151303), [4r](https://twitter.com/zelpikukirby/status/1436926793584283649), [5](https://twitter.com/zelpikukirby/status/1441421033840398345), [6](https://twitter.com/zelpikukirby/status/1443486460707946502))**  
+**Custom IL Competition 3:** **Results Videos: [1] [2] [3] [4] [5]** *(to be added as soon as they are uploaded to YouTube)*
+
+**Custom IL Competition 2: [Results](https://docs.google.com/spreadsheets/d/16cBdUvXORcb94EsIbTV8l-uyDdfjccDTXuFuTZnh1Qc/), [Predictions](https://docs.google.com/spreadsheets/d/1j2X8cX-w23Owo8jJa9oDHJaT52l_j2SCnX9RCYlpItI)**, **Results Videos ([1](https://youtu.be/WKvUaLOznO0) [2](https://www.twitch.tv/videos/1126424327) [3](https://www.twitch.tv/videos/1132712210) [4](https://www.twitch.tv/videos/1144872247) [5](https://www.twitch.tv/videos/1151758825) [6](https://www.twitch.tv/videos/1160423600))**, **TASes ([1](https://twitter.com/zelpikukirby/status/1422754296257384448), [2](https://twitter.com/zelpikukirby/status/1426517549815001090), [3r](https://twitter.com/zelpikukirby/status/1433832182313672707), [3t](https://twitter.com/zelpikukirby/status/1434035002816167939), [4l](https://twitter.com/zelpikukirby/status/1436943657316151303), [4r](https://twitter.com/zelpikukirby/status/1436926793584283649), [5](https://twitter.com/zelpikukirby/status/1441421033840398345), [6](https://twitter.com/zelpikukirby/status/1443486460707946502))**  
 *Jul 2021–Sept 2021*. Winner: FoundYourGun. Organiser: Nebuladiv. Level Designer: GoogleCheese. Video Editor: jukatox. Predictions Organiser: shoutplenty. TASer: zelpikukirby.
 
-**SMS Custom IL Competition 2020: [Results](https://docs.google.com/spreadsheets/d/1wVYrVvGsBOTnuIIfvbNU9GAkXWxUzHOYtq_pUUbYhsw/)**, **Results Videos ([1](https://www.twitch.tv/videos/718899919) [2](https://www.twitch.tv/videos/732937942) [3](https://www.twitch.tv/videos/732942426) [4](https://www.twitch.tv/videos/740868959) [5](https://www.twitch.tv/videos/746739494))**  
+**Custom IL Competition 1: [Results](https://docs.google.com/spreadsheets/d/1wVYrVvGsBOTnuIIfvbNU9GAkXWxUzHOYtq_pUUbYhsw/)**, **Results Videos ([1](https://www.twitch.tv/videos/718899919) [2](https://www.twitch.tv/videos/732937942) [3](https://www.twitch.tv/videos/732942426) [4](https://www.twitch.tv/videos/740868959) [5](https://www.twitch.tv/videos/746739494))**  
 *Aug 2020–Sept 2020*. Winner: Nebuladiv. Organiser: Rimato. Level Designer: GoogleCheese. Video Editor: jeffcompass.
 
 **SMS Tasks Competitions:
