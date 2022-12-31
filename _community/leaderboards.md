@@ -16,9 +16,13 @@ Current leaderboards for in-game-time speedruns of individual levels, segment/sp
 **[Country/State Records](https://docs.google.com/spreadsheets/d/14ObyYlGo62P_xqgY8vUC11AMMnitdRsWytw0pVUs1jE)**  
 Any%/120-Shine top 5 per country/USA-state.
 
-## WR Progressions
-**[Any%](https://youtu.be/oudZMniib08)** (AverageTrey, Sept 2017) *([Text Doc](https://www.speedrun.com/sms/guide/8c1vn))*  
-**[120 Shines](hhttps://youtu.be/oHg4oTMu5Yc)** (AverageTrey, Sept 2018) *([Text Doc](https://www.speedrun.com/sms/guide/0agv7))*  
+## WR History
+### Up-to-date text documents  
+**[Any%](/sms-guide/community/wrhistory/#any-world-record-history)**  
+**[120 Shines](/sms-guide/community/wrhistory/#120-shines-world-record-history)**  
+### Documentary Videos
+**[Any%](https://youtu.be/oudZMniib08)** (AverageTrey, Sept 2017)  
+**[120 Shines](hhttps://youtu.be/oHg4oTMu5Yc)** (AverageTrey, Sept 2018)  
 **[Pianta 6](https://youtu.be/lcS_OFIEQQo)** (AverageTrey, Apr 2020)  
 
 ## Archives
