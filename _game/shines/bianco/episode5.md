@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: Bianco 6
+title: Bianco 5
 permalink: /shines/bianco/episode6/
 parent: Bianco Hills
 grand_parent: Shines
