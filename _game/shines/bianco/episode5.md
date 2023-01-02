@@ -49,9 +49,9 @@ Petey will stop at blue nodes and continue flying through red nodes. When Petey 
 When Petey reaches a blue node, he will stop and fly in mid-air. At this point, he can be sprayed down so you can fill him with water then ground pound his belly. This must be done 3 times to defeat Petey. In addition to RNG from Petey's movement, Petey has a 60% chance of throwing a tornado each time he lands. Each tornado causes roughly 2.5 seconds of timeloss. After Petey throws a tornado, stand at his side so that he immediately turns to face you and opens his mouth. 
 
 #### Additional resources explaining Petey RNG:
-- Petey Pattern Proof Video by Chockrit: https://youtu.be/t3GI8bCZiIY
-- Petey RNG Explained further by Noki Doki: https://youtu.be/Kh_Qhdfy1io
-- Petey Pattern Calculator by naosan: https://naosanpoyo.github.io/PeteyPattern/
+- Petey Pattern Proof Video by Chockrit: [video](https://youtu.be/t3GI8bCZiIY)
+- Petey RNG Explained further by Noki Doki: [video](https://youtu.be/Kh_Qhdfy1io)
+- Petey Pattern Calculator by naosan: [video](https://naosanpoyo.github.io/PeteyPattern/)
 
 ### Petey Spam Sprays
 #### Y-Cam Method
