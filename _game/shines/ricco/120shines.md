@@ -4,7 +4,7 @@ title: Ricco 120 Shines
 permalink: /shines/ricco/120shines
 parent: Ricco Harbor
 grand_parent: Shines
-nav_order: 10
+nav_order: -1
 ---
 
 # Ricco Harbor
@@ -17,19 +17,19 @@ Notes:
 - If you waterslide off the ramp you will have too much speed and will bonk on the grate. To avoid this, you can either hover or hold back and jump into the grate after you hit the ground in front of it.
 - You can spam spray before you grab the grate to clear off most of the goop inside the cage. This will make it easier to see the M and will also stun any enemies inside the cage.
 
-#### Second M
+### Second M
 The second M is on the side of the ship. After grabbing the first coin, exit the ship on the left and swim to the next M. You can clean the M by either jumping out of the water and spam spraying, or jumping out of the water and hovering against the graffiti.
 
-#### Third M
+### Third M
 The third M is hidden under some goop in front of Ricco tower. Jump out of the water after collecting the second coin and clear the goop to find the M.
 
-#### Submarine
+### Submarine
 The fourth coin is obtained by raising the submarine. Make your way through the water by jumpdiving. Jump out of the water and wallkick off the nearest pole. Hover to the edge of the platform to get up on it. Start spraying the fan shaped thing to start raising the submarine. It takes more than a single spray of water so about half way through, release R and quickly press it again.
 
 Notes:
 - You can hold L and exit Y cam after you start raising the sub. This will allow you to get under the coin before it bounces so you can move onto the next coin easier.\
 
-#### Fourth M
+### Fourth M
 Move across the submarine. In front of you there will be a ramped grate, and an M on the wall further back. You have a few movement options:
 - Spin jump off the sub up to the ramped grate, rollout onto it and jump with your ramp momentum to get to the M.
 - Waterslide across the sub to the lower level below the grate. Spin jump off the wall to get to the next level and continue towards the M.
@@ -39,7 +39,7 @@ After getting this coin continue to the blooper fight, it is the same as Any%.
 
 ## Ricco 2 (1 coin)
 
-#### Water Coin
+### Water Coin
 Head to the bloopers and get on a green one. Head to the coin above the water right before the Ricco 2 race entrance. Ricco 2 and Ricco 2 hidden are interchangeable.
 
 ## Ricco 3
@@ -52,12 +52,12 @@ Same as Any%
 Same as Any%
 
 ## Ricco 6 (1 coin)
-#### Water Coin
+### Water Coin
 This is the same as Any% except you should get the blue coin above the water. It is between the 3rd and 4th coin if you are following the counter-clockwise route, or between the 5th and 6th coin if you go clockwise. If you aren't comfortable getting it here, get it in Ricco 2 before the other coin over the water, but this is slightly slower.
 
 ## Ricco 7 (1 coin)
 
-#### Spider
+### Spider
 After downing Shadow Mario, head to the cage and kill the spider on the wall facing you.
 
 Notes:
@@ -69,13 +69,13 @@ This might be the most infamous level in the run. You must get Yoshi to eat the 
 Notes:
 - If you ever end up in a sewer, DO NOT GET SEWER GLITCH. If you touch a durian with sewer glitch it will launch and might go in the water.
 
-#### Butterflies
+### Butterflies
 Eat the butterflies near yoshi.
 
-#### Fish Bucket
+### Fish Bucket
 The next coin is in the bucket of blue fish near where Yoshi was. Spray the left bucket (no need to spam spray) and the coin should appear.
 
-#### Wall M
+### Wall M
 The next coin is on a far wall. We need to keep Yoshi to get the shine at the end of the level. You can move along the cliffs on the side of the stage, or you can spray the fish with Yoshi to create moving platforms which is slower.
 
 Notes:
