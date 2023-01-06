@@ -100,3 +100,9 @@ Watch a video
 
 Notes:
 - You need a minimum of 29 coins after the hidden shine in the wall, before spraying the first half of the linked. If you have extra you can skip crane coins or underwater coins.
+
+## Advanced 100s Variation
+
+This changes Episode 1, 2, and 100s. It is very difficult to get the linked and 3 coins in 100s and failing will lose significant time.
+
+{% include yt.html id="FkDZ2lsex4k" %}
