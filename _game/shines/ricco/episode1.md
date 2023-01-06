@@ -4,7 +4,7 @@ title: Ricco 1
 permalink: /shines/ricco/episode1
 parent: Ricco Harbor
 grand_parent: Shines
-nav_order 1
+nav_order: 1
 ---
 # Ricco 1 (Blooper)
 
