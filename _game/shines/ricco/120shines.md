@@ -4,6 +4,7 @@ title: Ricco 120 Shines
 permalink: /shines/ricco/120shines
 parent: Ricco Harbor
 grand_parent: Shines
+nav_order: 10
 ---
 
 # Ricco Harbor
