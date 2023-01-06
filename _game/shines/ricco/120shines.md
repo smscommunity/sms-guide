@@ -10,7 +10,7 @@ nav_order: 10
 # Ricco Harbor
 
 ## Ricco 1 (5 coins)
-#### First M
+### First M
 Start the level by watersliding up the ramp. Inside the cage there is an M graffiti on the floor, covered with goop. Head through the grate on the bottom left and spray the M to get the first blue coin.
 
 Notes:
