@@ -10,7 +10,7 @@ In this episode, Mario must reclaim FLUDD and rescue the mayor of Pianta Village
 (ii) Damage boosting across the lava
 (iii) Crossing the mushrooms to FLUDD
 (iv) Obtaining FLUDD and finishing the level
-Appendices are provided containing damageless strats, for new players that are uncomfortable with i-frames as well as bingo players, the latter of which may encounter "Pianta 3 damageless" as a square on their board.
+Appendices are provided containing hoverless and damageless strats - the latter of which may be useful for newer players uncomfortable with damage boosting, or bingo players that may encounter a "Pianta 3 damageless" square on their board.
 
 ## Step 1: Setting up for the damage boost
 Cross the wooden bridge using a series of jump dives and rollouts. As Mario crosses the bridge, he will gain the attention of three Wind Spirits.
@@ -36,9 +36,18 @@ To get there, the best approach is to spin jump across the mushrooms. Make sure 
 For the last mushroom, instead of ground pounding, you can rollout off the mushroom onto the wooden structure.
 
 ## Aside: How to Recover From Lava
+If Mario takes damage in lava, he will do several short bounces that will each do 1 point of damage. If you are close enough to safe ground, it may be possible to maneuver him towards it and avoid losing a life, getting booted out of the level, losing lots of time, etc. Pay close attention to which way Mario is facing. If you hold the analogue stick in the direction he is facing, you can move him in that direction. If Mario is facing opposite the safe ground you wish to direct him to, leave the analogue stick in its neutral position, and Mario will turn 180 degrees on his next bounce off the lava.
 
 ## Step 4: Obtaining FLUDD and finishing the level
+Once you have picked up FLUDD, the next step is to get on top of the mushroom and clean off the mayor. One method of doing this efficiently is to jump onto the platform the mushroom is growing off of, and hold down on the analogue stick to start a sideflip. The timing of the sideflip is important - if you jump too early Mario will hit the underside of the mushroom, too late and he'll fall off the platform.
+(insert figure here)
+After the sideflip, hover backwards toward the mushroom. If you input a direction on the analogue stick opposite from the one Mario is facing, he will hover backwards without turning around (most of the time). You can quickly clean off the mayor by spam spraying him or backflipping near him followed by a ground pound (see also: Pianta 6). Talk to him and he will spawn the shine.
 
-## Appendix: Advanced substitutes
+## Full Level Example
+(insert video here)
 
-## Appendix: Damageless approaches
+## Appendix: Other approaches
+Intermediate (insert video here)
+Advanced (insert video here)
+Hoverless (insert video here)
+Damageless (insert video here)
