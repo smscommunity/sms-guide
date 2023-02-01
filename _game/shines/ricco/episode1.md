@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Ricco 1
-permalink: /shines/r1/
-parent: Shines
-nav_order: 3
+permalink: /shines/ricco/episode1
+parent: Ricco Harbor
+grand_parent: Shines
 ---
 # Ricco 1 (Blooper)
 

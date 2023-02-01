@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Misc
-permalink: /shines/misc/
+title: Pianta Village
+nav_order: 7
+permalink: /shines/pianta
 parent: Shines
-nav_order: 9
 ---
 
 **Pianta Entry**  
@@ -22,8 +22,3 @@ nav_order: 9
 
 **Pianta 3**  
 [Beginner](https://www.youtube.com/watch?v=Uevx6XNDIqM) – new damage-boost  
-
-...
-
-**Sirena 2**  
-[Beginner](https://youtu.be/r4F6jptNw-I)  

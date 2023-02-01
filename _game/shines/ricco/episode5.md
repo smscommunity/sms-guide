@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Ricco 5
-permalink: /shines/r5/
-parent: Shines
-nav_order: 5
+permalink: /shines/ricco/episode5
+parent: Ricco Harbor
+grand_parent: Shines
 ---
 # Ricco 5 (Blooper)
 

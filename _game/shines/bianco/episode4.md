@@ -1,9 +1,9 @@
 ---
 layout: default 
 title: Bianco 4
-permalink: /shines/b4/
-parent: Shines
-nav_order: 7
+permalink: /shines/bianco/episode4/
+parent: Bianco Hills
+grand_parent: Shines
 ---
 # Bianco 4
 Bianco 4 is a red coin shine which requires collecting 8 red coins for the shine to spawn. You should be comfortable with hoverslides, (jump) dive rollouts, (buffered) spin jumps, sideflips, and triple jumps to have success with this shine. The intermediate and advanced strats for this level require knowledge of glitchy wall kick hovers (GWKHs) and insta-momentum spin jumps.

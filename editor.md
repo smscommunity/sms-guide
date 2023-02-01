@@ -9,10 +9,11 @@ nav_order: 11
 
 This wiki setup is still **a draft**, so do bear in mind things that you find challenging and they'll come under the discussion of what wiki setup to use going forward.
 
-First, make a GitHub account and send it to a mod to add to the editing team. Then you should have access to edit the pages.
-
+First, make a GitHub account, then create a fork of the main repository. On this fork, you will have full editing powers and can try out stuff without it impacting the main site.
 **Edit** the site [here](https://github.com/smscommunity/sms-guide/)  
 **View** the site [here](https://smscommunity.github.io/sms-guide/)
+
+If you want to instead edit the site using a tool like VS Code, you will need to clone the repository and set it up for local development. Follow the short guide in the README for more information.
 
 ## Edit Workflow
 To edit the wiki:
@@ -25,8 +26,6 @@ To edit the wiki:
 
 **Iterative Work**  
 You can make as many edits as you like, but the delay for the live site to rebuild is a downside of this setup. The preview tab is a reasonably accurate live view of the changes, but some stuff can get messed up and need formatting fixes down the line (which a more technical editor can take care of and might not be the main editor's responsibility).
-
-If you don't want to commit edits you're unsure about to the real thing, you can write the whole doc on an isolated personal page of your account by visiting the [**Gist**](https://gist.github.com) website (which is like a pastebin that takes docs in the same format as this wiki). Add a doc there and save the filename with a .md extension, then the editor will show a live preview, same as the real wiki, and edits get published instantly.
 
 # Syntax
 
@@ -110,4 +109,10 @@ nav_order: 6
 
 This doesn't render correctly in the preview so can take some patience to fiddle with and can be ignored by regular editors. But it basically gives pages titles, layout templates, positions in the menu, and urls.
 
-Test to see if I'm crazy. -schmittd
+## Folder Structure
+
+For specific episode shines, the format should be:
+
+`/shines/[world]/episode[x].md` for episodes.
+
+Once we get to 100 coins and secret shines, we'll figure out a better system :)

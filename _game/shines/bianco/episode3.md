@@ -1,9 +1,9 @@
 ---
 layout: default 
 title: Bianco 3
-permalink: /shines/b3/
-parent: Shines
-nav_order: 6
+permalink: /shines/bianco/episode3/
+parent: Bianco Hills
+grand_parent: Shines
 ---
 # Bianco 3
 Bianco 3 is made up of two parts: the Entry and the Secret. You should be comfortable with hoverslides, (jump) dive rollouts, spin jumps, sideflips, and triple jumps to have success with this shine.
