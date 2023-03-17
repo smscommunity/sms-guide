@@ -6,13 +6,25 @@ parent: Ricco Harbor
 grand_parent: Shines
 nav_order: 4
 ---
-# Ricco 4 (Secret: Basic Strat)
+# Ricco 4
+Ricco 4 is made up two parts: the Entry and the Secret. Both have beginner and advanced strats that can be used for RTA.
+## Entry
+The entry is faster 
+### Beginner - No Beyblade
 
+
+### Advanced - Beyblade
+
+
+## Secret
+The cycle are named based on which side of the large, second to last log the runner can land on.
+### Beginner - Yellow Cycle
 {% include yt.html id="Ksr-H9dgGjA" %}
 
 This strat is **3s slower** than the fastest possible strat, with times of 33.15 safely + consistently, and around 32.80 optimally. It's also safe and easy enough for a beginner to pick up, as part of learning basic FLUDD-less movement. It still takes some hours to get down when starting out, but should click fairly soon and last you well into your career.
 
-### Execution Notes
+<details>
+  <summary>Click for details</summary>
 *Times are relative to the in-game timer shown in the video.*
 
 1. The only cycle we need to worry about is hitting the yellow side of the big rod (**27.00**). The strat is lenient enough where playing optimally is too fast, so there is lots of provision for adding sandbagging as your movement improves with time.
@@ -28,3 +40,16 @@ This strat is **3s slower** than the fastest possible strat, with times of 33.15
 11. **25.00**: For the sjd onto the big rod, there's some strategy involved. You need to rollout into a sprint by pressing A, but that's less lenient the more vertical the big rod is when you hit it. It's less vertical the later you are on the cycle, and the further right your line is on the sjd (going right is also faster but too far right means the jump doesn't reach). If you go left, you can [back up a failed rollout with the red peg](https://clips.twitch.tv/CrispyPerfectPlumberSquadGoals).
 12. **27.00**: After the rollout, run up, then up-right, then up, until behind the big yellow peg (optimally, if your sjd was very right, you can fluidly run in a straight line here, but it's risky). Now, jump-dive onto the last rod, turning the camera towards the shine before or after the jump-dive (or both). If this jump-dive is too precise for you, consider stopping the sprint when the big rod is fairly flat, then going for an unbuffered sjd.
 13. **30.00**: The last rod movement is a bit precise. Short-rollout holding up-left, then do a big jump and late dive to get over the turning rod. Then rollout and jump-dive into the shine. Shortening the jump saves time but gets less clearance, so is riskier.
+</details>
+
+### Advanced - Blue Cycle
+- From the start, perform dive rollouts along the first four logs, matching the movement in the video below
+- At the end of the fourth log, jump dive then rollout onto the platform
+- Dive rollout using a light A tap for a short rollout if necessary, then spin jump dive to the second cog
+- Rollout onto the third cog, jump dive to the platform, dive hop, and rollout onto the log
+- Jump dive to the next log, then quickly rollout and jump dive further onto it, then rollout onto the next log
+- Jump dive rollout along the log, then dive rollout onto the next log
+- Spin jump dive onto the large log, adjusting your angle as necessary to ensure you make blue cycle
+- Rollout and follow the (jump) dive rollouts in the video to finish the shine
+
+{% include yt.html id="opifkfe-dIg" %}
