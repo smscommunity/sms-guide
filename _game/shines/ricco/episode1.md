@@ -5,11 +5,32 @@ permalink: /shines/ricco/episode1
 parent: Ricco Harbor
 grand_parent: Shines
 ---
-# Ricco 1 (Blooper)
+# Ricco 1
 
-{% include gdrive.html id="1Oy4U2JwLa2FzDAO8Fhi6ThDXSj5hf03N" %}
+Ricco 1 is made up of two parts: the Entry and the Blooper Fight.
 
-## First Nose Pull
+## Entry
+At the front of the boat, you can either use a momentum spin or a speed double jump. Off the boxes, you can either do a spin jump or a triple jump. Feel free to mix and match these strats based off of the explanations below.
+### Beginner - Ramp Spin and Box Spin
+- From the start, hoverslide forward then instant momentum spin just before the top of the ramp
+- Hoverslide across the top of the grate, fall off and spray the wooden section of the boat
+- Briefly hover then dive into the water on the wooden section until you fall off
+- Hover forward to the boxes and spin jump off the top box
+- Once at the top of the wall, hoverslide forward to the blooper
+
+{% include yt.html id="joyIBylYdxI" %}
+### Advanced - Speed Double and Box Triple
+- From the start, hoverslide forward then slide off the left of the ramp and double jump while spraying
+- Brifely hover then dive into the water that was sprayed on the top section of the boat
+- Slide across the top of the grate, fall off and spray the wooden section of the boat
+- Briefly hover then dive into the water on the wooden section until you fall off
+- Briefly hover then double jump off the ground and triple jump off the top box while spraying
+- Once at the top, dive into the water that was sprayed and slide to the blooper
+- Press B to grab his nose, then pull back until the fight starts
+
+{% include yt.html id="GVbOdOJdNYk" %}
+## Blooper Fight
+### First Nose Pull
 
 - Hold Analog R and Up out of the cutscene of the blooper breaking out
 - Align Mario's feet with the circled black dot on the ground
@@ -17,7 +38,7 @@ grand_parent: Shines
 <img src="https://cdn.discordapp.com/attachments/414653112108843008/842946202663387136/Ricco_1_Blooper_1st_Pull_Cue.png" width="500">
 - Stand still very briefly (3-5 frames) -> Full jump (Hold A) -> Tap Up briefly (just enough to get a bit of forward momentum) -> When Mario has descended about halfway from the peak of the jump, press B and immediately hold Down on the stick
 
-## Second Nose Pull
+### Second Nose Pull
 
 - Take the many seconds you have while the blooper is recovering from the first hit to align the bottom of Mario's shoes with the green line. This location in game is just above halfway in between the circled black dot and the start of the "checkered" area on the ground (as indicated by the red lines)
 
