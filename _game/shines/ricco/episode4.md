@@ -34,7 +34,8 @@ The cycle are named based on which side of the large, second to last log the run
 This strat is **3s slower** than the fastest possible strat, with times of 33.15 safely + consistently, and around 32.80 optimally. It's also safe and easy enough for a beginner to pick up, as part of learning basic FLUDD-less movement. It still takes some hours to get down when starting out, but should click fairly soon and last you well into your career.
 
 <details>
-  <summary>Click for details</summary>
+  <summary>Click for details
+  </summary>
   
   *Times are relative to the in-game timer shown in the video.*
 
