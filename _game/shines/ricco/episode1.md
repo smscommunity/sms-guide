@@ -7,9 +7,7 @@ grand_parent: Shines
 nav_order: 1
 ---
 # Ricco 1
-
 Ricco 1 is made up of two parts: the Entry and the Blooper Fight.
-
 ## Entry
 At the front of the boat, you can either use a momentum spin or a speed double jump. Off the boxes, you can either do a spin jump or a triple jump. Feel free to mix and match these strats based off of the explanations below.
 ### Beginner - Ramp Spin and Box Spin
