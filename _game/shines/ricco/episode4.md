@@ -35,6 +35,7 @@ This strat is **3s slower** than the fastest possible strat, with times of 33.15
 
 <details>
   <summary>Click for details</summary>
+  
 *Times are relative to the in-game timer shown in the video.*
 
 1. The only cycle we need to worry about is hitting the yellow side of the big rod (**27.00**). The strat is lenient enough where playing optimally is too fast, so there is lots of provision for adding sandbagging as your movement improves with time.
