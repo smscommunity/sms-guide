@@ -9,12 +9,22 @@ nav_order: 4
 # Ricco 4
 Ricco 4 is made up two parts: the Entry and the Secret. Both have beginner and advanced strats that can be used for RTA.
 ## Entry
-The entry is faster 
+The speed double/beyblade entry is nearly 2s faster than the normal entry.
 ### Beginner - No Beyblade
+- From the start, hoverslide forward then instant momentum spin just before the top of the ramp
+- Hoverslide across the top of the grate, fall off and briefly hover to the wooden section of the boat
+- Spin jump and hover to the wooden plank, then spin jump into the tower
+- Wall kick off the tower then wall kick off the support structure and hover to the entrance
 
+{% include yt.html id="FyBi2NFueT8" %}
 
-### Advanced - Beyblade
+### Advanced - Speed Double and Beyblade
+- From the start, hoverslide forward then slide off the left of the ramp and double jump to the upper section
+- Dive rollout across the top then beyblade towards the wooden plank, timing a hover cancel to land on the plank
+- Spin jump into the tower and wall kick off of it, then wall kick off the support structure
+- If high enough, dive into the secret, otherwise hover into it to avoid bonking
 
+{% include yt.html id="qbES-1fpez4" %}
 
 ## Secret
 The cycle are named based on which side of the large, second to last log the runner can land on.
