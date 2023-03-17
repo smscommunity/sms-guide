@@ -37,6 +37,7 @@ This strat is **3s slower** than the fastest possible strat, with times of 33.15
   <summary>
     Click for details
   </summary>
+  {: .text-gamma}
   
   *Times are relative to the in-game timer shown in the video.*
 
