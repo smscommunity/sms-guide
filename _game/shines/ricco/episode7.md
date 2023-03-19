@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Ricco 1
-permalink: /shines/ricco/episode1
+title: Ricco 7
+permalink: /shines/ricco/episode7
 parent: Ricco Harbor
 grand_parent: Shines
 nav_order: 7
