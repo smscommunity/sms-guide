@@ -57,9 +57,7 @@ The checkpoints for the blooper race can be viewed [here.](https://twitter.com/Q
 - The shine is now complete. You can repeat these exact instructions to complete Ricco 2 Hidden.
 
 ### Intermediate - Blooperless
-*There are a few variants on how to start the blooperless strat. Only one is here currently, more will be added in the future.*
 {% include yt.html id="EF9pEEC_m-g" %}
-
 - Hold up right while entering the race. Talk to the pianta, jump dive into him, then triple jump
 - GWKH into the wall and hover onto the ledge. Jump on top of the wall and hoverslide across
 - Fall off the wall, briefly hover, then spray while continuing to hold forward
@@ -67,3 +65,5 @@ The checkpoints for the blooper race can be viewed [here.](https://twitter.com/Q
 - Fall off the ledge, double jump, then triple jump while spraying. Dive into the water that was sprayed
 - Slide forward, fall off, then spin jump and hover up to the next checkpoint
 - Hoverslide to the end, fall off the wall, and hover to the shine position
+
+Only one method of getting up on the wall is shown and described above. Other methods can be seen [here.](https://youtu.be/Xtp1CX4Vke4)
