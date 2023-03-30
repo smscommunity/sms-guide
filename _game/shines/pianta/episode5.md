@@ -10,9 +10,9 @@ Pianta 5 is made up of two parts: the Entry and the Secret.
 
 ## Entry
 - Upon entry, hoverslide across the bridge. If you find the hoverslide inconsistent, you can walk forward while spraying then jump dive when the water reaches the bridge and slide
-- Swich to hover nozzle and hold R while sliding. Steer left, then when Mario hovers, release R and press A to jump left of the bridge. 
+- Swich to hover nozzle and hold R while sliding. Steer left, then when Mario hovers, release R and press and hold A to full double jump left of the bridge, carrying the speed from the slide. Be careful not to bonk on the wall. 
 - Hover to the grate, then dive rollout and hoverslide rollout to the mushroom below. Alternatively, second dive hop can be used instead of the hoverslide
-- Spin jump and hover to the next mushroom, then spin jump dive to the green mushroom and perform a small rollout. Alternatively, a spin jump and hover can be used instead of the spin jump dive and rollout
+- Spin jump and hover to the next mushroom, then spin jump dive to the green mushroom and perform a small rollout to land on the sloped section of the mushroom, allowing Mario to carry his momentum into his next spin jump.  Alternatively, a spin jump and hover can be used instead of the spin jump dive and rollout
 - Spin jump and hover to the green spotted mushroom and perform yoshi skip
 ### Yoshi Skip
 There are a few variations of yoshi skip that have been used over the years, but "huff setup" is recommended and described below:
@@ -53,3 +53,11 @@ The easiest way to attain early cycle is if he stops at node 2 and/or 3. The lon
 Demonstrated in the video below, rat bouncing can be an effective technique if early cycle is not achieved. Rat bouncing is simply bouncing on the chuckster right before they reach a node where they can stop. This resets their walking timer which ensures that they don't stop at the node directly in front of them because it takes less than the minimum 2.5 seconds to reach that node. In addition, they are unlikely to stop at the following node as well, so it is not recommended to rat bounce at two nodes in a row. A common example of what would be recommended if early cycle is missed is to rat bounce just before Node 4, let the chuckster walk through Node 5, then rat bounce again just before Node 6. There is roughly a 17% chance of the chuckster stopping at Node 5 after stopping at Node 4. If he stops at Node 5, let him walk through Node 6.
 
 {% include yt.html id="R76MnUqxjPU" %}
+#### **Y-Turn Adjustments**
+After being chucked, it is possible to affect Mario's trajectory in mid air by pressing the Y button and holding left/right on the control stick. However, this does cause Mario to sacrifice some of his forward momentum. Mario's trajectory is always adjusted opposite of the direction that is being held, _relative to the direction Mario is facing._
+
+If Mario is thrown forward and you want to adjust his position to the right, hold up+right and spam the Y button. Y cam will put the camera behind Mario, so while the camera is repositioning to behind Mario, roll the angle that you're holding from up+right to down+right to lose as little forward momentum as possible. An example of this is the third chuckster throw in the video below (0:17).
+
+However if Mario is thrown backwards (using the Y+A throw) and you want to adjust his position to the left, hold down+right and spam the Y button. An example of this is the final chuckster throw in the video below (0:26).
+
+{% include yt.html id="mNua3cla18c" %}
