@@ -25,6 +25,7 @@ Pianta 5 is made up of two parts: the Entry and the Secret.
 
 - Press B to wallslide then shortly after Mario releases from the wall, begin hovering
 - Either hover backwards into the mushroom or turn Mario around and hover forward
+- Once clipped inside the mushroom, release R and fall into the loading zone
 
 {% include yt.html id="G3AoGuMdtp8" %}
 ## Secret
