@@ -16,9 +16,9 @@ Pianta 5 is made up of two parts: the Entry and the Secret.
 - Spin jump and hover to the green spotted mushroom and perform yoshi skip
 ### Yoshi Skip
 - Walk into the tree at the spot shown in the picture below to clip into the tree:
-![tree spot](https://cdn.discordapp.com/attachments/941086197885833266/1090818184375967814/image.png)
+<img src="https://cdn.discordapp.com/attachments/941086197885833266/1090818184375967814/image.png" width="200">
 - Briefly fall, then hover backwards to ledgegrab the mushroom just right of the center of the side of the mushroom that you ran off of:
-![ledgegrab](https://cdn.discordapp.com/attachments/941086197885833266/1090818933893890058/image.png)
+<img src="https://cdn.discordapp.com/attachments/941086197885833266/1090818933893890058/image.png" width="300">
 - Press B to wallslide then shortly after Mario releases from the wall, begin hovering
 - Either hover backwards into the mushroom or turn Mario around and hover forward
 
@@ -33,7 +33,7 @@ The chucksters always throw Mario directly opposite of the direction they are fa
 {% include yt.html id="msLTEo7iUkg" %}
 ### Early Cycle
 The final chuckster can stop at one of 6 nodes on the upper platform. These are shown below:
-![Chuckster Map](https://cdn.discordapp.com/attachments/941086197885833266/1060043368656285778/image.png)
+<img src="https://cdn.discordapp.com/attachments/941086197885833266/1060043368656285778/image.png" width="600">
 
 The chuckster starts at position 1 and walks counter-clockwise continuously through the six nodes. When the chuckster begins his walking phase, a timer is set to a random value between 2.5 and 25 seconds. When this timer finishes, the chuckster will continue walking until he reaches the next node and then stop. Once the chuckster stops, he will wait for a random amount of time between 0.833 and 10 seconds. Then he will begin his walking phase again, and the process repeats continuously.
 
