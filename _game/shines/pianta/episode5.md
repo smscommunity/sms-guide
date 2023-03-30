@@ -17,8 +17,10 @@ Pianta 5 is made up of two parts: the Entry and the Secret.
 ### Yoshi Skip
 - Walk into the tree at the spot shown in the picture below to clip into the tree:
 <img src="https://cdn.discordapp.com/attachments/941086197885833266/1090818184375967814/image.png" width="200">
+
 - Briefly fall, then hover backwards to ledgegrab the mushroom just right of the center of the side of the mushroom that you ran off of:
 <img src="https://cdn.discordapp.com/attachments/941086197885833266/1090818933893890058/image.png" width="300">
+
 - Press B to wallslide then shortly after Mario releases from the wall, begin hovering
 - Either hover backwards into the mushroom or turn Mario around and hover forward
 
