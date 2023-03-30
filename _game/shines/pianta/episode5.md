@@ -15,6 +15,7 @@ Pianta 5 is made up of two parts: the Entry and the Secret.
 - Spin jump and hover to the next mushroom, then spin jump dive to the green mushroom and perform a small rollout. Alternatively, a spin jump and hover can be used instead of the spin jump dive and rollout
 - Spin jump and hover to the green spotted mushroom and perform yoshi skip
 ### Yoshi Skip
+There are a few variations of yoshi skip that have been used over the years, but "huff setup" is recommended and described below:
 - Walk into the tree at the spot shown in the picture below to clip into the tree:
 
 <img src="https://cdn.discordapp.com/attachments/941086197885833266/1090818184375967814/image.png" width="200">
