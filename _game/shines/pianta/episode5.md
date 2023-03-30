@@ -9,13 +9,25 @@ grand_parent: Shines
 Pianta 5 is made up of two parts: the Entry and the Secret.
 
 ## Entry
+<details markdown="block">
+  <summary markdown="span">
+    Pre-Yoshi Skip Movement - Click for Details
+  </summary>
+  {: .text-gamma}
 - Upon entry, hoverslide across the bridge. If you find the hoverslide inconsistent, you can walk forward while spraying then jump dive when the water reaches the bridge and slide
 - Swich to hover nozzle and hold R while sliding. Steer left, then when Mario hovers, release R and press and hold A to full double jump left of the bridge, carrying the speed from the slide. Be careful not to bonk on the wall. 
 - Hover to the grate, then dive rollout and hoverslide rollout to the mushroom below. Alternatively, second dive hop can be used instead of the hoverslide
 - Spin jump and hover to the next mushroom, then spin jump dive to the green mushroom and perform a small rollout to land on the sloped section of the mushroom, allowing Mario to carry his momentum into his next spin jump.  Alternatively, a spin jump and hover can be used instead of the spin jump dive and rollout
 - Spin jump and hover to the green spotted mushroom and perform yoshi skip
+</details>
+
 ### Yoshi Skip
 There are a few variations of yoshi skip that have been used over the years, but "huff setup" is recommended and described below:
+<details markdown="block">
+  <summary markdown="span">
+    Click for Details
+  </summary>
+  {: .text-gamma}
 - Walk into the tree at the spot shown in the picture below to clip into the tree:
 
 <img src="https://cdn.discordapp.com/attachments/941086197885833266/1090818184375967814/image.png" width="200">
@@ -27,14 +39,21 @@ There are a few variations of yoshi skip that have been used over the years, but
 - Press B to wallslide then shortly after Mario releases from the wall, begin hovering
 - Either hover backwards into the mushroom or turn Mario around and hover forward
 - Once clipped inside the mushroom, release R and fall into the loading zone
+</details>
 
 {% include yt.html id="G3AoGuMdtp8" %}
 ## Secret
+<details markdown="block">
+  <summary markdown="span">
+    Click for Details
+  </summary>
+  {: .text-gamma}
 The chucksters always throw Mario directly opposite of the direction they are facing at the moment the chuck begins. This means that if you talk to a chuckster from behind and mash through their text before they turn all the way around, they will throw you in an unintended direction.
 - Upon entry, dive rollout then perform two jump dive rollouts to talk to the first Chuckster.
 - Talk to the second chuckster, ensuring that they turn fully around before chucking
 - If the second chuckster is stopped at his front spot, it is possible for him to throw you to the next platform with a tight enough angle and using A+B mash to get a jump dive input into the chuck for extra distance.
 - Talk to the third chuckster. Similar to the second chuckster, it is possible to attain "platform skip" and make it all the way to the final platform with a tight enough angle and a well timed A+B input.
+</details>
 
 {% include yt.html id="msLTEo7iUkg" %}
 ### Early Cycle
@@ -45,7 +64,7 @@ The chuckster starts at position 1 and walks counter-clockwise continuously thro
 
 To attain early cycle, you must talk to the final chuckster before he reaches the spot above. With nearly perfect execution, it is theoretically possible to achieve this without the final chuckster stopping at all. An example of this is shown [here.](https://i.imgur.com/8AOMuMy.mp4) This requires talking to the 2nd chuckster immediately, which can be done regardless of which direction the chuckster is facing on NTSC-U and NTSC-J because of their longer textboxes. However, due to PAL's short textboxes, the chuckster must be facing towards Mario, otherwise talking to the chuckster from behind will cause him to throw Mario an unintended direction.
 #### **Chuckster Manipulation**
-A thorough explanation of chuckster manipulation can be seen here:
+While talking to a chuckster, any other chuckster that is moving stops in place. While stopped, their walking timers continue to tick down. This means that the longer you talk to a chuckster, the more likely future chucksters are to stop at their next nodes. A thorough explanation of chuckster manipulation can be seen here:
 
 {% include yt.html id="IZTcoSITMis" %}
 The easiest way to attain early cycle is if he stops at node 2 and/or 3. The longer he stops, the more likely it is to attain early cycle. Without chuckster manipulation, the probability of him stopping at least once is 43.56%. However, some chuckster manipulation is inherently incurred by talking to the first three chucksters, which increases the probability of the final chuckster stopping at least once.
