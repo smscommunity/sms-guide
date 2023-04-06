@@ -45,7 +45,6 @@ This strat loses roughly 2 seconds to the advanced strat.
 
 {% include yt.html id="ZuU1SRn-vGM" %}
 ## Advanced - Normal Boost, GWKD
-This strat loses roughly 2 seconds to the advanced strat.
 <details markdown="block">
   <summary markdown="span">
     Click for Details
