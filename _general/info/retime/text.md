@@ -59,3 +59,29 @@ and the calculation *(note the optimal timings 8f and 27f mentioned earlier; the
 | final retime  | 1:34.14 – 12.35 + 0.03 =  | **1:21.82**   |
 
 This run comes out to **1:21.80** using this technique with frame-counting.
+
+Based off the TAS, here are reference times for optimal text with no fast text (A→B)
+
+| **EP** | **A→B** |
+|  ap | 28f      |
+| dsm | 22f      |
+| g7  | 15f      |
+| q2  | 20f, 15f |
+| q3  | 17f      |
+| q6  | 25f, 24f |
+| q7  | 15f      |
+| p1  | 26f      |
+| p7  | 15f      |
+| r2  | 15f      |
+| r7  | 15f      |
+| b7  | 15f      |
+| s1  | 27f      |
+| s2  | 18f      |
+| s3  | 21f      |
+| s4  | 28f, 18f |
+| s5  | 25f, 17f |
+| s6  | 17f      |
+| s7  | 23f      |
+| n3  | 17f      |
+| n4  | 23f      |
+| n7  | 15f      |
