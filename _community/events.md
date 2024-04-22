@@ -7,7 +7,12 @@ nav_order: 9
 # Events
 Happenings around the community, organized by moderators and community members. Missing anything? Feel free to add it!
 
-**Chronology:**  
+**Chronology:**
+- [1v1 Lockout Bingo Tournament](https://challonge.com/smsbingo2024) *(Feb 2024 - Still Running)*
+- Non Lockout Bingo Tournament *(Oct 2023 - Dec 2023)*
+- [2v2 Lockout Bingo Tournament](https://challonge.com/2v2summer2023) *(Jun 2023 - Aug 2023)*
+- [Super Duper Any% Tournament](https://docs.google.com/spreadsheets/d/1Ju7Drxa1OweZmpXcP1CDXOn-ouy3uAe4YkeQawiUzy4/edit?usp=sharing) *(May 2023 - Jun 2024)*
+- [1v1 Lockout Bingo Tournament - Draft/Blockout](https://challonge.com/draftblockout/log) *(Mar 2023 - May 2023)*
 - [Fantasy League 3](https://docs.google.com/document/d/1lNgflvRhq5hnL70E5eTd4Tj7RUoclWPHmHsqOaOvZo8) *(Dec 2022 – Feb 2023)*
 - [Bingo League 5](https://season5.sms.bingo/) *(Aug 2022 – Nov 2022)*
 - Custom IL Competition 3 *(Jul 2022 – Oct 2022)*
