@@ -110,7 +110,8 @@ Times above on Reset Timing, Times below on File Select timing
 ### 2022
 
 ### 2023  
-**[1:13:17](https://www.youtube.com/watch?v=9Y8FMwZsAIs)** by トーボウ on August 15, 2023
+
+**[1:13:17](https://www.youtube.com/watch?v=9Y8FMwZsAIs)** by トーボウ on August 15, 2023  
 **[1:13:08](https://www.youtube.com/watch?v=U7o5L7720_0)** by JJsrl on September 10, 2023
   
 ## 120 Shines World Record History  
@@ -218,16 +219,16 @@ Times above on Reset Timing, Times below on File Select timing
 2:54:04 by *Anonymous* on September 30, 2021  
   
 ### 2022 
-**[2:53:55](https://www.youtube.com/watch?v=byuCjvEcmlc)** by ShadowMario27 on October 10, 2022
+**[2:53:55](https://www.youtube.com/watch?v=byuCjvEcmlc)** by ShadowMario27 on October 10, 2022  
 **[2:53:16](https://www.youtube.com/watch?v=ZDlN0Y-88A4)** by SB_runs on November 30, 2022  
 
 ### 2023
-**[2:52:41](https://www.youtube.com/watch?v=N8cyG1M_uho)** by SB_runs on February 11, 2023
-**[2:52:36](https://www.twitch.tv/videos/1873286460?t=0h0m7s)** by Nanashi on August 16, 2023
-**[2:52:31](https://www.youtube.com/watch?v=U7LDjVA4gWE)** by SB_runs on September 7, 2023
-**[2:52:26](https://www.youtube.com/watch?v=UTXwA3VXGH0)** by SB_runs on September 13, 2023
-**[2:52:24.630](https://www.twitch.tv/videos/1946543871?t=0h0m1s)** by Nanashi on October 9, 2023
+**[2:52:41](https://www.youtube.com/watch?v=N8cyG1M_uho)** by SB_runs on February 11, 2023  
+**[2:52:36](https://www.twitch.tv/videos/1873286460?t=0h0m7s)** by Nanashi on August 16, 2023  
+**[2:52:31](https://www.youtube.com/watch?v=U7LDjVA4gWE)** by SB_runs on September 7, 2023  
+**[2:52:26](https://www.youtube.com/watch?v=UTXwA3VXGH0)** by SB_runs on September 13, 2023  
+**[2:52:24.630](https://www.twitch.tv/videos/1946543871?t=0h0m1s)** by Nanashi on October 9, 2023  
 
 ### 2024
-**[2:52:24.230](https://www.youtube.com/watch?v=O-uc-up7-B4)** by SB_runs on January 12, 2024
+**[2:52:24.230](https://www.youtube.com/watch?v=O-uc-up7-B4)** by SB_runs on January 12, 2024  
 **[2:51:34](https://www.twitch.tv/videos/2039142966?t=0h0m1s)** by Nanashi on January 21, 2024
