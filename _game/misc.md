@@ -9,7 +9,7 @@ has_children: true
 # Misc Game Info
 
 ## General
-**[Item Index](https://docs.google.com/spreadsheets/d/15-r0Nz29ZOKK2_fPq92_fjHUZC5p2k5ePpjk9SxnI_E/)**  
+**[Item Index](https://docs.google.com/spreadsheets/d/1lci2OALBqboBs_JT7IaXJfBXa-LbVpMcDZTDKALm160/edit?usp=sharing)**  
 Index of blue coin/nozzle/Yoshi locations and shine/blue coin classifications.
 
 **[Text Timing](https://github.com/smscommunity/text-analysis)**  
