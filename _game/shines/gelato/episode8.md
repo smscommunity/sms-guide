@@ -47,7 +47,7 @@ nav_order: 8
 **RNG Spam Spray**
 * Jump on the mirror silo on the right of the tree, jump off and spam spray the coconuts out of the tree. This has a large variable of RNG to it. It can result in the world record or can send the coconut flying into the water.
 
-[Video Example](https://www.youtube.com/watch?v=g_WcDRyC8fE) of a near perfect tree throw  
+[Video Example](https://www.youtube.com/watch?v=g_WcDRyC8fE) of a near perfect coconut RNG spam spray  
 -*Fech*, 2020
 
 ## The Setup
@@ -66,9 +66,10 @@ This is the original setup for the skip, and still used by many today.
 * Do short hops while only tilting the left stick in the air to orient Mario in front of the coconut, and pick up the coconut.
 
 *Here you have a few options of getting up onto the roof.*
-1. You can do short hops backwards to position Mario for a triple jump up onto the roof. *Easier.*
-2. You can do a short hop, and do a buffered spin jump up onto the roof. Make sure to buffer the spin jump while you are in the air, or else you may ruin your angle. *Faster, but more precise.*
-3. You can do a backflip and hold up. Fast but requires good positioning before the backflip *Faster, but more precise.*
+1. You can do a backflip and hold up. *Pretty fast and easiest.*
+2. You can do short hops backwards to position Mario for a triple jump up onto the roof. *Slower, but could be easier for some*
+3. You can do a short hop, and do a buffered spin jump up onto the roof. Make sure to buffer the spin jump while you are in the air, or else you may ruin your angle. *Fastest, but more precise.*
+
 
 **Roof Throw** *(fast)*
 
@@ -77,7 +78,7 @@ This is the original setup for the skip, and still used by many today.
 * As you approach the hut, do a small hop and throw the coconut at the peak of your jump. You want to jump when Mario reaches this point in the boardwalk.
 * Do a spin jump, and cancel it with a hover once you are at the same height as [this edge of the roof](https://imgur.com/KjP3fGY).
 * You will do an instant ledgegrab on this ledge of the roof. Do a short hop out of this, and dive and keep holding B to dive into and grab the coconut.
-* You can snap your camera with L either as you grab the coconut, or as you grab the ledge of the roof.
+* You can snap your camera with L either as you grab the coconut, or as you grab the ledge of the roof.  
 [Video Example](https://www.youtube.com/watch?v=zcG6KElMBT4) of an optimal roof throw
 -*FoundYourGun*, 2021
 
