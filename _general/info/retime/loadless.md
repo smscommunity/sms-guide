@@ -19,6 +19,8 @@ A load is any point where the screen is pure black or white while preparing the 
 
 Fade outs are the trickiest, but thankfully they're only used for FMV movies and Noki Bay. There are 14 transition frames for most fades. The exception to this is Delfino Plaza loads from Noki Bay, which are 13 frames long.
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/E1pvKCp"  ><a href="//imgur.com/a/E1pvKCp">Fade Out 14F</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 ## Loads per Run
 
 In the current any% route there are 180 loads. There will be an extra load for each death that occurs, and two extra loads for each save-warp. Perceivably there might only be 161 with the use of hacked file as well as perfect cutscene mashing.
