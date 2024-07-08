@@ -22,6 +22,10 @@ Fade outs are the trickiest, but thankfully they're only used for FMV movies and
 <img src="https://i.imgur.com/GmUmaIV.png" width="640" height="480">
 <img src="https://i.imgur.com/ZezaVu8.png" width="640" height="480">
 
+| | |
+| - | - |
+| | |
+
 ## Loads per Run
 
 In the current any% route there are 180 loads. There will be an extra load for each death that occurs, and two extra loads for each save-warp. Perceivably there might only be 161 with the use of hacked file as well as perfect cutscene mashing.
