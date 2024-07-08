@@ -19,7 +19,7 @@ A load is any point where the screen is pure black or white while preparing the 
 
 Fade outs are the trickiest, but thankfully they're only used for FMV movies and Noki Bay. There are 14 transition frames for most fades. The exception to this is Delfino Plaza loads from Noki Bay, which are 13 frames long.
 
-<img src="[<blockquote class="imgur-embed-pub" lang="en" data-id="GmUmaIV"><a href="https://imgur.com/GmUmaIV">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>](https://imgur.com/GmUmaIV)">
+<a href="https://imgur.com/GmUmaIV">View post on imgur.com</a><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>](https://imgur.com/GmUmaIV)
 
 <img src="">
 
