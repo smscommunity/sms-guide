@@ -28,6 +28,9 @@ Fade outs are the trickiest, but thankfully they're only used for FMV movies and
 In the current any% route there are 180 loads. There will be an extra load for each death that occurs, and two extra loads for each save-warp. Perceivably there might only be 161 with the use of hacked file as well as perfect cutscene mashing.
 
 ##Special thanks to the moderators of these communities for their consultation:
+
 New Super Mario Bros. Wii
+
 Sonic the Hedgehog (2006)
+
 Sonic Unleashed
