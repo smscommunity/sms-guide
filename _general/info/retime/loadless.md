@@ -9,7 +9,7 @@ nav_order: 4
 
 # RTA Load Removal
 
-*Due to the variance in load times, a seperate timing method was created. This page can serve as a guide for converting traditional RTA timing into Loadless timing.*
+*Due to variance in load times, a seperate timing method was created. This page can serve as a guide for converting traditional RTA timing into Loadless Timing.*
 
 ## Load Definition
 
