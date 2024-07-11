@@ -29,7 +29,7 @@ Below is the first frame of a death. Note the first letter appeared but there is
 
 <img src="https://i.imgur.com/AVmipAM.png" width="640" height="480">
 
-##Spirals
+## Spirals
 
 Spirals are the most common and consistent type of transition. Spiral ins and outs haave the same transition animation, they are just reversed from one another. All spiral transitions take [39F](https://imgur.com/a/FDNfosi) on GC and 3DAS.
 
