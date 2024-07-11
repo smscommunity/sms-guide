@@ -23,7 +23,7 @@ Fade outs are the trickiest, but thankfully they're only used for FMV movies and
 
 ## Circles
 
-Circles are used for FMVs, deaths, entering secrets, entering subareas. Circle outs are especially difficult due to dark loading zones. Circle outs are much more important, and take [25F](https://imgur.com/a/0vlrQfu) on GC and 16F on 3DAS. Circle ins take [28](https://imgur.com/a/qPSaj2E) on GC and 16F on 3DAS. Note there is no gameplay difference between console circle ins as you can control Mario as soon as the second transition frame.
+Circles are used for FMVs, deaths, entering secrets, entering subareas. Circle outs are especially difficult due to dark loading zones. Circle outs are much more important, and take [25F](https://imgur.com/a/0vlrQfu) on GC and 16F on 3DAS. Circle ins take [28F](https://imgur.com/a/qPSaj2E) on GC and 16F on 3DAS. Note there is no gameplay difference between console circle ins as you can control Mario as soon as the second transition frame.
 
 Below is the first frame of a death. Note the first letter appeared but there is no smoke yet. Smoke appears on the next frame. Reference frame 1 will be 59F after this one.
 
