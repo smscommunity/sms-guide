@@ -1,23 +1,31 @@
 ---
 layout: default
-title: RTA Load Removal
-permalink: /info/retime/loadless/
+title: RTA Load References
+permalink: /info/retime/llref/
 grand_parent: Misc General Info
 parent: Retiming
 nav_order: 4
 ---
 
-# RTA Load Removal
+# RTA Load References
 
-*Due to variance in load times, a seperate timing method was created. This page can serve as a guide for converting traditional RTA timing into Loadless Timing.*
+*This page can serve as a guide for determining what is and is not a loading frame.*
 
 ## Load Definition
 
 A load is any point where the screen is pure black or white while preparing the next event. It isn't always obvious as to which which frames are pure black or white. Below are examples of transition frames between a load and an event. There are five major transistions that all act slightly differently: fades, circles, spirals, sweeps, and diamonds. There will only be one load frame per group of transition frames.
 
+Note: "____ ins" are transitions going into gameplay while "____ outs" are going into loads.
+
 ### Fades
 
 Fade outs are the trickiest, but thankfully they're only used for FMV movies and Noki Bay. There are [14F](https://imgur.com/a/fade-out-14f-E1pvKCp) for GC fade outs and 12F for 3DAS fade outs. The only fade ins are Delfino Plaza loads from Noki Bay, which are [13F](https://imgur.com/a/dp-fade-13f-FcOMV5m) on GC and 11F on 3DAS. Note frame 2 of fade ins sometimes appears as pure black, but should not be treated as a load.
+
+## Circles
+
+Circles are used for FMVs, deaths, entering secrets, entering subareas. Circle outs are especially difficult due to dark loading zones. Circle ins take [28](https://imgur.com/a/qPSaj2E) on GC and 16F on 3DAS. Note there is no gameplay difference between these two as you can control Mario as soon as the second transition frame. Circle outs are much more important, and take [25F]() on GC and 16F on 3DAS. Here is a video of a death in 59.94FPS just in case:
+
+
 
 ## Loads per Run
 
