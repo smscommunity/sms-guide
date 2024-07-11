@@ -9,7 +9,7 @@ has_children: true
 
 ### Park Entrance
 {% include yt.html id="YDxrxFj0Jv0" %}
-Entering the park is relevent for episodes 1, 3, 5, 6, 7, 8, as well as 6R
+Entering the park is relevent for episodes 1, 3, 5, 6, 6R, 7, and 8
 
 #### One Slide
 -Jump Dive as soon as Mario hits the ground.  
