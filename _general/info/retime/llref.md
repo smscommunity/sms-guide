@@ -13,7 +13,7 @@ nav_order: 4
 
 ## Load Definition
 
-A load is any point where the screen is pure black or white while preparing the next event. It isn't always obvious as to which which frames are pure black or white. Below are examples of transition frames between a load and an event. There are five major transistions that all act slightly differently: fades, circles, spirals, sweeps, and diamonds. There will only be one load frame per group of transition frames.
+A load is any point where the screen is pure black or white while preparing the next event. It isn't always obvious as to which which frames are pure black or white. Below are examples of transition frames between a load and an event. There are six major transistions that all act slightly differently: fades, circles, spirals, shine selects, sweeps, and diamonds. There will only be one load frame per group of transition frames.
 
 Note: "transition ins" are transitions going into gameplay while "transition outs" are going into loads.
 
