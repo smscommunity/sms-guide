@@ -9,7 +9,7 @@ has_children: true
 
 ### Park Entrance
 {% include yt.html id="YDxrxFj0Jv0" %}
-Entering the park is the same as pinna 1 and 3.
+Entering the park is relevent for episodes 1, 3, 5, 6, 7, 8, as well as 6R
 
 #### One Slide
 -Jump Dive as soon as Mario hits the ground.  
