@@ -23,13 +23,15 @@ Fade outs are the trickiest, but thankfully they're only used for FMV movies and
 
 ## Circles
 
-Circles are used for FMVs, deaths, entering secrets, entering subareas. Circle outs are especially difficult due to dark loading zones. Circle ins take [28](https://imgur.com/a/qPSaj2E) on GC and 16F on 3DAS. Note there is no gameplay difference between these two as you can control Mario as soon as the second transition frame. Circle outs are much more important, and take [25F]() on GC and 16F on 3DAS. Here is a video of a death in 59.94FPS just in case:
+Circles are used for FMVs, deaths, entering secrets, entering subareas. Circle outs are especially difficult due to dark loading zones. Circle ins take [28](https://imgur.com/a/qPSaj2E) on GC and 16F on 3DAS. Note there is no gameplay difference between these two as you can control Mario as soon as the second transition frame. Circle outs are much more important, and take [25F](https://imgur.com/a/0vlrQfu) on GC and 16F on 3DAS.
 
+Below is the first frame of a death. Note the first letter appeared but there is no smoke yet. Smoke appears on the next frame. Reference frame 1 will be 59F after this one.
 
+<img src="https://i.imgur.com/AVmipAM.png" width="640" height="480">
 
 ## Loads per Run
 
-In the current any% route there are 180 loads. There will be an extra load for each death that occurs, and two extra loads for each save-warp. Perceivably there might only be 161 with the use of hacked file as well as perfect cutscene mashing.
+In the current any% route there are 180 loads. There will be 1 extra load for each death that occurs, and 2 extra loads (could look like 1) for each save-warp. Perceivably there might only be 161 with the use of hacked file as well as perfect cutscene mashing.
 
 ## Special thanks to the moderators of these communities for their consultation:
 
