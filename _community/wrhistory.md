@@ -95,16 +95,16 @@ Times above on Reset Timing, Times below on File Select timing
 **[1:14:13](https://www.youtube.com/watch?v=j_bJUonZ-Jc)** by Weegee on December 28, 2019  
   
 ### 2020  
-1:14:04 by *Anonymous* on April 27, 2020  
+**[1:14:04](https://www.youtube.com/watch?v=ClDFLRKv69Y)** by *Anonymous* on April 27, 2020  
 **[1:14:01](https://www.youtube.com/watch?v=Dpw2AjNavT4)** by nindiddeh on June 11, 2020  
 **[1:13:44](https://www.youtube.com/watch?v=ilwGUlLxT4E)** by nindiddeh on June 28, 2020  
   
 ### 2021  
-1:13:42 by *Anonymous* on May 21, 2021  
-1:13:39 by *Anonymous* on May 27, 2021  
-1:13:30 by *Anonymous* on June 26, 2021  
-1:13:25 by *Anonymous* on July 3, 2021  
-1:13:23 by *Anonymous* on July 10, 2021  
+**[1:13:42](https://www.youtube.com/watch?v=GwDyq5wLEF8)** by *Anonymous* on May 21, 2021  
+**[1:13:39](https://www.youtube.com/watch?v=koKWmTPua_0)** by *Anonymous* on May 27, 2021  
+**[1:13:30](https://www.youtube.com/watch?v=nnq2YwnYWIw)** by *Anonymous* on June 26, 2021  
+**[1:13:25](https://www.youtube.com/watch?v=g5pCaI8BTMU)** by *Anonymous* on July 3, 2021  
+**[1:13:23](https://www.youtube.com/watch?v=ZMvxynHGdb8)** by *Anonymous* on July 10, 2021  
 **[1:13:17](https://www.youtube.com/watch?v=1coJWwnKEgs)** by *Anonymous* on August 1, 2021  
 
 ### 2022
