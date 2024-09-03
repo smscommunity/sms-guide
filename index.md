@@ -4,11 +4,12 @@ nav_exclude: true
 ---
 # SMS Wiki
 
-Kinda
+### [SMS Resources](https://docs.google.com/document/d/1pudLEd6H__KUzDDAdVJedNK3l58ILNB3haZj73uhHzg/edit) by [akane174](https://www.twitch.tv/akane174)
 
-## Contents
+## Table of Contents
+*Description of the page tabs on the left*
 
-**Game Info**  
+**Game**  
 *Documentation of game knowledge.*
 1. **Categories**  
 Overview of category definitions and routes.
@@ -19,7 +20,7 @@ An index of mostly external tutorials.
 4. **Misc**  
 E.g. strat timing.
 
-**General Info**  
+**General**  
 *Documentation of anything else – rulesets, tools, methodologies.*
 
 1. **Setup**  
