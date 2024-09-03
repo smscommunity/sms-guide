@@ -7,7 +7,7 @@ nav_exclude: true
 ---
   
 # World Record History
-Original lists created by **[Nkitten](https://www.speedrun.com/user/Nkitten)**, converted/maintained by **[1UpsForLife](https://www.speedrun.com/user/1UpsForLife)** with help from many others.  
+Original lists created by **[Nkitten](https://www.speedrun.com/user/Nkitten)**, converted by **[1UpsForLife](https://www.speedrun.com/user/1UpsForLife)** with help from many others.  
 + [Any%](/sms-guide/community/wrhistory/#any-world-record-history)
 + [120 Shines](/sms-guide/community/wrhistory/#120-shines-world-record-history) 
 
@@ -105,7 +105,7 @@ Times above on Reset Timing, Times below on File Select timing
 1:13:30 by *Anonymous* on June 26, 2021  
 1:13:25 by *Anonymous* on July 3, 2021  
 1:13:23 by *Anonymous* on July 10, 2021  
-1:13:17 by *Anonymous* on August 1, 2021  
+**[1:13:17](https://www.youtube.com/watch?v=1coJWwnKEgs)** by *Anonymous* on August 1, 2021  
 
 ### 2022
 
@@ -113,6 +113,11 @@ Times above on Reset Timing, Times below on File Select timing
 
 **[1:13:17](https://www.youtube.com/watch?v=9Y8FMwZsAIs)** by トーボウ on August 15, 2023  
 **[1:13:08](https://www.youtube.com/watch?v=U7o5L7720_0)** by JJsrl on September 10, 2023
+
+### 2024
+
+**[1:12:58](https://www.youtube.com/watch?v=zbZv0sEu6Ec)** by トーボウ on June 09, 2024  
+**[1:12:51](https://www.youtube.com/watch?v=y3nhWI-gmsI)** by inkstar on July 30, 2024
   
 ## 120 Shines World Record History  
 ### 2007	  
