@@ -6,7 +6,6 @@ parent: Misc General Info
 nav_exclude: true
 ---
 ## What is the theoretical fastest time in an RTA speedrun?  
-*(by **[1Ups](https://www.speedrun.com/user/1UpsForLife)**)*
 
 There are a few types of "theoretical fastest times" for an RTA speedrun. This will explain the three main types using Any% as an example, since it has the most documentation and effort put into it.  
 ### 1. TAS (Tool-Assisted Speedrun)  
