@@ -6,7 +6,6 @@ parent: Misc General Info
 nav_exclude: true
 ---
 # How to create a gameplay comparison video
-*(by **[1Ups](https://www.speedrun.com/user/1UpsForLife)**)*  
 This tutorial will explain one method of making gameplay comparison videos, using the free video editor Kdenlive.  
 ## Install Kdenlive
 Visit the **[download page](https://kdenlive.org/en/download/)** and choose the version for your operating system. For Windows, the **Installable** version is recommended.  
