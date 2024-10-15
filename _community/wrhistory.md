@@ -7,7 +7,6 @@ nav_exclude: true
 ---
   
 # World Record History
-Original lists created by **[Nkitten](https://www.speedrun.com/user/Nkitten)**, converted by **[1UpsForLife](https://www.speedrun.com/user/1UpsForLife)** with help from many others.  
 + [Any%](/sms-guide/community/wrhistory/#any-world-record-history)
 + [120 Shines](/sms-guide/community/wrhistory/#120-shines-world-record-history) 
 
