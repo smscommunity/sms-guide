@@ -220,7 +220,8 @@ Times above on Reset Timing, Times below on File Select timing
 **[2:54:28](https://www.youtube.com/watch?v=q1XOwHO4374)** by nindiddeh on December 29, 2020  
   
 ### 2021  
-2:54:04 by *Anonymous* on September 30, 2021  
+**[2:54:04](https://www.youtube.com/watch?v=9I2s_6Co5VQ)** by *Anonymous* on September 30, 2021  
+**[2:53:42](https://www.youtube.com/watch?v=U-2tzXHBqzw)** by *Anonymous* on December 7th, 2021  
   
 ### 2022 
 **[2:53:55](https://www.youtube.com/watch?v=byuCjvEcmlc)** by ShadowMario27 on October 10, 2022  
