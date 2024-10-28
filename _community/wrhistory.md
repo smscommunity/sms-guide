@@ -221,6 +221,7 @@ Times above on Reset Timing, Times below on File Select timing
   
 ### 2021  
 **[2:54:04](https://www.youtube.com/watch?v=9I2s_6Co5VQ)** by *Anonymous* on September 30, 2021  
+**[2:53:57](https://www.youtube.com/watch?v=bOOZT3IpomE)** by SB_Runs on November 1st, 2021  
 **[2:53:42](https://www.youtube.com/watch?v=U-2tzXHBqzw)** by *Anonymous* on December 7th, 2021  
   
 ### 2022 
