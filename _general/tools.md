@@ -23,6 +23,9 @@ The only emulator used to play SMS on PC. *Use the latest beta version; never us
 **[Wii Homebrew](https://wii.guide)**  
 Full tutorial complete with requisite software. *It's recommended to complete every step – HackMii, BootMii, NAND Backup, Priiloader, cIOSes.*
 
+**[Practice Code/Homebrew Guide](https://gct.zint.ch/guide.html)**  
+Setting up homebrew and practice codes.
+
 **[Nintendont](https://zint.ch/NintendontPackager/)**  
 Wii Homebrew game loader app used to practice with cheat codes and run ILs; removes region locks; not used for RTA runs because of inaccurate loading times and lag. *Use the latest version, 6.498 or later; 6.489 is also fine but earlier/later versions often have problems. Install by extracting the zip onto an SD card so it looks like [this](https://cdn.discordapp.com/attachments/529145099003887618/938900334334578708/unknown.png)*.
 
@@ -32,6 +35,9 @@ Wii Homebrew game loader app used for SMS RTA runs; removes region locks. *Links
 **[Swiss Loader](https://gbatemp.net/threads/how-to-set-up-and-use-swiss-on-the-wii.291505/)**  
 Wii Homebrew game loader app required to run PAL SMS at 480p, and to run cheat codes with accurate loads and lag; removes region locks. *Link is to full tutorial with requisite software*.
 
+**[PAL SMS at 480p on Console](https://www.speedrun.com/sms/guide/9gm2y)**  
+Setting up real-time speedruns of PAL SMS at optimal 480p resolution.
+
 **[AnyRegion Changer](https://youtu.be/sqI3Zg-jGvw)**  
 Wii Homebrew utility app required to persistently change the console region and video mode so that PAL/NTSC consoles/discs can be mixed. Not needed for non-persistent region-free loading (e.g. with Gecko OS). *Link is to full tutorial with requisite software*.
 
@@ -39,11 +45,11 @@ Wii Homebrew utility app required to persistently change the console region and 
 **[SMS Practice Codes](https://gct.zint.ch)**  
 Cheat codes for Wii and emulator used for practice and to do IL speedruns.
 
-**[sup39's Practice Codes](https://app.sms.sup39.dev/gct-extension/)**  
-Extension codes developed by sup39.
-
 ## Speedrun Tools
 Tools used during speedruns.
+
+**Hacked File Guide ([via GCMM](https://www.speedrun.com/sms/guide/qeqcu), [via Practice Codes](https://www.speedrun.com/sms/guide/2alxp))**  
+Setting up the file used for speedrunning without the introductory cutscenes.
 
 ### Timers
 
