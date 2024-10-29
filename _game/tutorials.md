@@ -87,7 +87,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 **Ricco**  
 [**r1: Blooper Fight** (EquivocalGenius \| 2021/05/17)](https://smscommunity.github.io/sms-guide/shines/r1)  
 [**r2: Blooperless** (Dutchj \| 2017/05/16)](https://youtu.be/O1_DaQBh3OU)  
-[**r4s: Beginner** (shoutplenty \| 2021/06/11)](https://smscommunity.github.io/sms-guide/shines/r4)  
+[**r4s: Beginner** (shoutplenty \| 2021/06/11)](https://smscommunity.github.io/sms-guide/shines/ricco/episode4#beginner---yellow-cycle)  
 [**r5: Blooper Fight** (Jpep \| 2021/05/19)](https://smscommunity.github.io/sms-guide/shines/r5)  
 [**r7: Beginner** (Dutchj \| 2015/07/28)](https://youtu.be/5tIUuA1-Blg)  
 
