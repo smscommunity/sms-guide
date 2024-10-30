@@ -19,7 +19,7 @@ These emulators are allowed for times slower than the threshold defined in the C
 - Dolphin Emulator
 - Nintendont
 
-There are small and large differences between the versions which will affect your speedruns. Find the full list of differences in our version differences page.
+There are small and large differences between the versions which will affect your speedruns. Find the full list of differences in our [version differences](https://smscommunity.notion.site/Version-Differences-a2da9d8b0b33445a9f361d633f38e969) page.
 
 ## Leaderboard Verification
 In order to have your run verified on our official leaderboards, there are a few rules:
@@ -39,7 +39,7 @@ To submit to the official leaderboards, you will need to start on one of three f
 - Peach File (Start timer at 2:30.35)
 - Hacked File (Start timer at 5:40.41)
 
-Find our guide on hacked file on our [tools](https://smscommunity.github.io/sms-guide/tools) page under speedrun tools.
+Find our guide on hacked file on our [tools](https://smscommunity.github.io/sms-guide/tools#speedrun-tools) page under speedrun tools.
 
 ### Practice Codes
 [Homebrew](https://wii.hacks.guide/) your wii and install [Nintendont](https://zint.ch/NintendontPackager/).  
