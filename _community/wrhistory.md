@@ -114,7 +114,7 @@ Times above on Reset Timing, Times below on File Select timing
 **[1:13:08](https://www.youtube.com/watch?v=U7o5L7720_0)** by JJsrl on September 10, 2023
 
 ### 2024
-
+**[1:13:05](https://www.twitch.tv/videos/2161495457)** by トーボウ on June 01, 2024  
 **[1:12:58](https://www.youtube.com/watch?v=zbZv0sEu6Ec)** by トーボウ on June 09, 2024  
 **[1:12:51](https://www.youtube.com/watch?v=y3nhWI-gmsI)** by inkstar on July 30, 2024
   
