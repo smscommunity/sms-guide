@@ -9,16 +9,6 @@ grand_parent: Shines
 # Pinna 7
 Like the other episode seven shines, Pinna 7 features a Shadow Mario (SM) chase sequence. The most useful technique to know for this shine is spam spraying. Every other SM has 100 health, but the one in this level has 150. So, be prepared to spray a little more than usual. Most players use the beginner strat as it is highly consistent due to having lenient timing and losing less than a second to the advanced strat.
 
-### Entrance
-{% include yt.html id="YDxrxFj0Jv0" %}
-Entering the park is the same as pinna 1 and 3.
-
-#### One Slide
--Jump Dive as soon as Mario hits the ground.  
--Instead of performing a rollout, bellyhop (press B) directly after which leads into a waterslide.  
-<img src="https://i.imgur.com/iIBtYwU.png">  
-To get through the entrance with a single slide requires some maneuvering between obstacles. The image above highlights two main points to avoid bonking off. The easiest way to do this is by first leaving a bit of space between Mario and the wall. After sliding past the forward-facing section of the wall, you can then hold the control stick forward and in toward the wall. Once Mario is sliding against the side you should be able to slide through freely without bonking. Notice that holding in towards the walls also help to avoid bonking on the further ahead wall and noki at the entrance.
-
 ### Beginner
 {% include yt.html id="qTpe-O3BALQ" %}
 Notice that there is no intro cutscene to mash through when loading into the park. This means you can start moving Mario during the fade in.
