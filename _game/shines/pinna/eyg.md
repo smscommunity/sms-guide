@@ -21,7 +21,7 @@ and episode 6 as intended until you reach a low 1:2x time (Any% no ACE) as it on
 [2-Stu 3YG by DutchJ](https://www.youtube.com/watch?v=tvq-WY7YFsc) *(outdated)*  
 
 ## Intermediate  
-*Both of these tutorials are for PAL/NTSC-U, where you do fruit storage instead of throwing the fruit past the park loading zone in JP*  
+*Both of these tutorials are for **PAL/NTSC-U**, where you do fruit storage instead of throwing the fruit past the park loading zone in **JP***  
 [1-Stu 2 Pound by Noki Doki](https://www.youtube.com/watch?v=0plZQdNSo18)  
 [1-Stu 2 Pound by shoutplenty](https://www.youtube.com/watch?v=J_m8bx_Z_Eo)  
 
