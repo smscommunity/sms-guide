@@ -26,8 +26,12 @@ and episode 6 as intended until you reach a low 1:2x time (Any% no ACE) as it on
 [1-Stu 2 Pound by shoutplenty](https://www.youtube.com/watch?v=J_m8bx_Z_Eo)  
 
 ##  Advanced  
-*Top level players do 1-Stu but only have it do 1 pound, saving some time. The timing is tight on this strat and no tutorials exist as of this moment.*  
-*There are two versions of this. 1 Pound (very fast), and 1 Pound 1 Spin/Psuedo 1 Pound (more RTA friendly)*   
+Top level players who play **JP** do 1-Stu but only have it do 1 pound, saving some time. The timing is tight on this strat and no tutorials exist as of this moment.  
 
-[1 Pound 1 Spin/Psuedo-1 Pound by Lotfy](https://www.youtube.com/watch?v=LVWCQgi0L-o)  
+*These are not tutorials but video demonstrations.*
+
+[1 Pound 1 Spin/Psuedo-1 Pound by Lotfy](https://www.youtube.com/watch?v=LVWCQgi0L-o) *(RTA Friendly)*  
 [1 Pound by inkstar](https://x.com/NoVidNoDidNoVid/status/1832344043004506145)  
+
+There is also an exclusive **PAL** strategy called 0 Pound that saves around 2.5 seconds  
+[0 Pound by Noki Doki](https://www.youtube.com/watch?v=98kA5EcsFIk)  
