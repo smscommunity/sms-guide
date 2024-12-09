@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: EYG
+title: Pinna 5 - EYG
 permalink: /shines/pinna/eyg/
 parent: Pinna Park
 grand_parent: Shines
