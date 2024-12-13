@@ -17,6 +17,11 @@ and episode 6 as intended until you reach a low 1:2x time (Any% no ACE) as it on
 
 ## Beginner  
 
+<details markdown="block">
+  <summary markdown="span">
+    Click for Details
+  </summary>
+  {: .text-gamma}
 #### Tutorials: 
 1-Stu 5YG by shoutplenty  
 *(considered the easiest way to do EYG)*  
@@ -29,6 +34,7 @@ and episode 6 as intended until you reach a low 1:2x time (Any% no ACE) as it on
 2-Stu 3YG by DutchJ
 *(outdated)*  
 {% include yt.html id="tvq-WY7YFsc" %}  
+</details>
 
 ## Intermediate  
 *Both of these tutorials are for **PAL/NTSC-U**, where you do fruit storage instead of throwing the fruit past the park loading zone in **JP***  
