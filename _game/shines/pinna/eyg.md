@@ -78,9 +78,9 @@ Top level players who play **JP** do 1-Stu but only have it do 1 pound, saving s
 {% include yt.html id="LVWCQgi0L-o" %}  
 
 **1 Pound** by *inkstar*  
-[Link](https://x.com/NoVidNoDidNoVid/status/1832344043004506145)
+[Twitter video Link](https://x.com/NoVidNoDidNoVid/status/1832344043004506145)
 
-There is also an exclusive **PAL** strategy called 0 Pound that saves around 2.5 seconds  
 **0 Pound** by *Noki Doki*  
+*This is an exclusive **PAL** strategy called 0 Pound that saves around 2.5 seconds*  
 {% include yt.html id="98kA5EcsFIk" %}  
 </details>  
