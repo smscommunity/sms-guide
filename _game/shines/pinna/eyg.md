@@ -19,7 +19,7 @@ and episode 6 as intended until you reach a low 1:2x time (Any% no ACE) as it on
 
 <details markdown="block">
   <summary markdown="span">
-    Click for Details
+    Tutorials - Click for Details
   </summary>
   {: .text-gamma}
 #### Tutorials: 
@@ -31,29 +31,46 @@ and episode 6 as intended until you reach a low 1:2x time (Any% no ACE) as it on
 *(outdated)*  
 {% include yt.html id="0xm2-QkrL4M" %}  
 
-2-Stu 3YG by DutchJ
+2-Stu 3YG by DutchJ  
 *(outdated)*  
 {% include yt.html id="tvq-WY7YFsc" %}  
-</details>
+</details>  
 
 ## Intermediate  
 *Both of these tutorials are for **PAL/NTSC-U**, where you do fruit storage instead of throwing the fruit past the park loading zone in **JP***  
 
+<details markdown="block">
+  <summary markdown="span">
+    Tutorials - Click for Details
+  </summary>
+  {: .text-gamma}
 #### Tutorials:  
 1-Stu 2 Pound by Noki Doki  
 {% include yt.html id="0plZQdNSo18" %}  
 
 1-Stu 2 Pound by shoutplenty  
 {% include yt.html id="J_m8bx_Z_Eo" %}  
+</details>  
 
+<details markdown="block">
+  <summary markdown="span">
+    Video Demos - Click for Details
+  </summary>
+  {: .text-gamma}
 #### Video Demo:  
 1-Stu 2 Pound Video Demo by planktonsecretformula  
 *(RTA Friendly)*  
 {% include yt.html id="ptXonShHuWw" %}  
+</details>  
 
 ##  Advanced  
 Top level players who play **JP** do 1-Stu but only have it do 1 pound, saving some time. The timing is tight on this strat and no tutorials exist as of this moment.  
 
+<details markdown="block">
+  <summary markdown="span">
+    Video Demos - Click for Details
+  </summary>
+  {: .text-gamma}
 #### Video Demos:  
 1 Pound 1 Spin/Psuedo-1 Pound by Lotfy  
 *(RTA Friendly)*  
@@ -64,3 +81,4 @@ Top level players who play **JP** do 1-Stu but only have it do 1 pound, saving s
 There is also an exclusive **PAL** strategy called 0 Pound that saves around 2.5 seconds  
 0 Pound by Noki Doki  
 {% include yt.html id="v=98kA5EcsFIk" %}  
+</details>  
