@@ -18,7 +18,9 @@ and episode 6 as intended until you reach a low 1:2x time (Any% no ACE) as it on
 ## Beginner  
 
 **Tutorials:**  
-[1-Stu 5YG by shoutplenty](https://www.youtube.com/watch?v=UJ5RNJK6LRM) *(considered the easiest way to do EYG)*  
+1-Stu 5YG by shoutplenty  
+{% include yt.html id="UJ5RNJK6LRM" %}  
+*(considered the easiest way to do EYG)*  
 [2-Stu 3YG by StrongmanLin](https://www.youtube.com/watch?v=0xm2-QkrL4M) *(outdated)*  
 [2-Stu 3YG by DutchJ](https://www.youtube.com/watch?v=tvq-WY7YFsc) *(outdated)*  
 
