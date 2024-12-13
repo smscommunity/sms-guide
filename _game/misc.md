@@ -45,6 +45,6 @@ More notes on strat execution.
 **[Ricco 2 IL History](https://youtu.be/XDdd-yF-XBI)** (AverageTrey, Aug 2023)  
 **[The Many Types of Spinjumps](https://youtu.be/zlG8El1UUVc)** (AverageTrey, Oct 2021)  
 **[Max% Pre-Peach](https://youtu.be/IEOTh5Plf3w)** (LowestPercent feat. AverageTrey, Jan 2021)  
-**[Pianta 6 IL History](https://youtu.be/lcS_OFIEQQo)** (AverageTrey, Dec 2020)  
+**[Pianta 6 IL History](https://youtu.be/lcS_OFIEQQo)** (AverageTrey, Apr 2020)  
 **[Pausing Is Weird](https://youtu.be/5BC_eRUNayA)** (AverageTrey, Dec 2020)  
 **[Any% World Record History](https://youtu.be/oudZMniib08)** (AverageTrey, Sep 2017)  
