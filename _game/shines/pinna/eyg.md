@@ -23,15 +23,15 @@ and episode 6 as intended until you reach a low 1:2x time (Any% no ACE) as it on
   </summary>
   {: .text-gamma}
 #### Tutorials: 
-1-Stu 5YG by shoutplenty  
+**1-Stu 5YG** by *shoutplenty*  
 *(considered the easiest way to do EYG)*  
 {% include yt.html id="UJ5RNJK6LRM" %}  
 
-2-Stu 3YG by StrongmanLin  
+**2-Stu 3YG** by *StrongmanLin*  
 *(outdated)*  
 {% include yt.html id="0xm2-QkrL4M" %}  
 
-2-Stu 3YG by DutchJ  
+**2-Stu 3YG** by *DutchJ*  
 *(outdated)*  
 {% include yt.html id="tvq-WY7YFsc" %}  
 </details>  
@@ -45,10 +45,10 @@ and episode 6 as intended until you reach a low 1:2x time (Any% no ACE) as it on
   </summary>
   {: .text-gamma}
 #### Tutorials:  
-1-Stu 2 Pound by Noki Doki  
+**1-Stu 2 Pound** by *Noki Doki*  
 {% include yt.html id="0plZQdNSo18" %}  
 
-1-Stu 2 Pound by shoutplenty  
+**1-Stu 2 Pound** by *shoutplenty*  
 {% include yt.html id="J_m8bx_Z_Eo" %}  
 </details>  
 
@@ -59,7 +59,7 @@ and episode 6 as intended until you reach a low 1:2x time (Any% no ACE) as it on
   </summary>
   {: .text-gamma}
 #### Video Demo:  
-1-Stu 2 Pound Video Demo by planktonsecretformula  
+**1-Stu 2 Pound** by *planktonsecretformula*  
 *(RTA Friendly)*  
 {% include yt.html id="ptXonShHuWw" %}  
 </details>  
@@ -73,13 +73,14 @@ Top level players who play **JP** do 1-Stu but only have it do 1 pound, saving s
   </summary>
   {: .text-gamma}
 #### Video Demos:  
-1 Pound 1 Spin/Psuedo-1 Pound by Lotfy  
+**1 Pound 1 Spin/Psuedo-1 Pound** by *Lotfy*  
 *(RTA Friendly)*  
 {% include yt.html id="v=LVWCQgi0L-o" %}  
 
-[1 Pound by inkstar](https://x.com/NoVidNoDidNoVid/status/1832344043004506145)  
+**1 Pound** by *inkstar*  
+[Link](https://x.com/NoVidNoDidNoVid/status/1832344043004506145)
 
 There is also an exclusive **PAL** strategy called 0 Pound that saves around 2.5 seconds  
-0 Pound by Noki Doki  
+**0 Pound** by *Noki Doki*  
 {% include yt.html id="v=98kA5EcsFIk" %}  
 </details>  
