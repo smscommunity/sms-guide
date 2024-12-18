@@ -8,7 +8,10 @@ nav_order: 9
 Happenings around the community, organized by moderators and community members. Missing anything? Feel free to add it!
 
 **Chronology:**
-- [1v1 Lockout Bingo Tournament](https://challonge.com/smsbingo2024) *(Feb 2024 - Still Running)*
+- Super Duper Team Task Tournament *(Nov 2024 - Dec 2024)*
+- [2v2 Lockout Bingo Tournament](https://challonge.com/2v22024) *(Jul 2024 - Aug 2024)*
+- [Mario Sunshine 2024 IL Tournament](https://docs.google.com/spreadsheets/d/1ReNm2n_1Tw8xQKANJoruCFMKo6P_MNq9D9hR522uFCM/edit#gid=1366281070) *(May 2024 - Jul 2024)*
+- [1v1 Lockout Bingo Tournament](https://challonge.com/smsbingo2024) *(Feb 2024 - Apr 2024)*
 - Non Lockout Bingo Tournament *(Oct 2023 - Dec 2023)*
 - [2v2 Lockout Bingo Tournament](https://challonge.com/2v2summer2023) *(Jun 2023 - Aug 2023)*
 - [Super Duper Any% Tournament](https://docs.google.com/spreadsheets/d/1Ju7Drxa1OweZmpXcP1CDXOn-ouy3uAe4YkeQawiUzy4/edit?usp=sharing) *(May 2023 - Jun 2024)*
