@@ -8,7 +8,7 @@ nav_order: 9
 Happenings around the community, organized by moderators and community members. Missing anything? Feel free to add it!
 
 **Chronology:**
-- Super Duper Team Task Tournament *(Nov 2024 - Dec 2024)*
+- [Super Duper Team Task Tournament](https://www.youtube.com/playlist?list=PLDQn8zHkFza9mhkbIHVoYXWgptY6cuqqn) *(Nov 2024 - Dec 2024)*
 - [2v2 Lockout Bingo Tournament](https://challonge.com/2v22024) *(Jul 2024 - Aug 2024)*
 - [Super Mario Sunshine 2024 IL Tournament](https://docs.google.com/spreadsheets/d/1ReNm2n_1Tw8xQKANJoruCFMKo6P_MNq9D9hR522uFCM/edit#gid=1366281070) *(May 2024 - Jul 2024)*
 - [1v1 Lockout Bingo Tournament](https://challonge.com/smsbingo2024) *(Feb 2024 - Apr 2024)*
