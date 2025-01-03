@@ -60,4 +60,4 @@ and the calculation *(note the optimal timings 8f and 27f mentioned earlier; the
 
 This run comes out to **1:21.80** using this technique with frame-counting.
 
-Based off the TAS, [here](https://docs.google.com/spreadsheets/d/1UIAKOIdVCkfsMr4n3GOfkdQw3pircb-g6rghotKlHnM/edit?usp=sharing) are reference times for optimal text with no fast text (A→B)
+Based off the TAS, [here](https://docs.google.com/spreadsheets/d/1UIAKOIdVCkfsMr4n3GOfkdQw3pircb-g6rghotKlHnM/edit?usp=sharing) are reference times for optimal text with no fast text (for β-adjustment)
