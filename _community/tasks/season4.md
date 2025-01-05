@@ -5,9 +5,9 @@ parent: Events
 nav_exclude: true
 ---
 # NicoNico Task Competition: Season 4
-This season was organized on the Japanese NicoNico Sunshine @ wiki.
-[Here is the link to the original post.](https://www49.atwiki.jp/mario-sunshine/pages/68.html)
-[Playlist of results videos](https://www.youtube.com/playlist?list=PLDQn8zHkFza_TvN_hhPjA0n780zfDiLPP)
+This season was organized on the Japanese NicoNico Sunshine @ wiki.  
+[Here is the link to the original post.](https://www49.atwiki.jp/mario-sunshine/pages/68.html)  
+[Playlist of results videos](https://www.youtube.com/playlist?list=PLDQn8zHkFza_TvN_hhPjA0n780zfDiLPP)  
 
 ## Task 1
 [Results Video](https://www.youtube.com/watch?v=wZ1y4qTgGWA) | [Original Post](https://www49.atwiki.jp/mario-sunshine/pages/69.html)  
@@ -20,9 +20,9 @@ Goals:
 * Touch 3/4 Checkpoints
 
 Checkpoints:  
-https://i.imgur.com/tTLfQWU.png  https://i.imgur.com/A8ysm0S.png  https://i.imgur.com/oUFkIuP.png  https://i.imgur.com/Wtb2pBR.png  
+  
 Trampoline:  
-https://i.imgur.com/zajyjGa.png  
+  
 
 ## Task 2
 [Results Video](https://www.youtube.com/watch?v=vcO9AUqRRWg) | [Original Post](https://www49.atwiki.jp/mario-sunshine/pages/70.html)  
@@ -67,7 +67,7 @@ Goal: Have the highest time left on the timer
 * Only use the Spray Nozzle: +12s
 
 Checkpoints:
-https://i.imgur.com/p3dY78O.png  https://i.imgur.com/bHEjQ6f.png  https://i.imgur.com/KvqU5qY.png  https://i.imgur.com/SzSOUAw.png
+  
 
 ## Task 5
 [Results Video](https://www.youtube.com/watch?v=g0Ez5owg-yo) | [Original Post](https://www49.atwiki.jp/mario-sunshine/pages/73.html)  
@@ -82,7 +82,7 @@ Goals:
 	-Take 3 Fall Damage  
 
 Checkpoints:
-https://i.imgur.com/aqUyLlt.png  https://i.imgur.com/eopveEX.png  https://i.imgur.com/GIAylug.png 
+  
 
 ## Task 6
 [Results Video](https://www.youtube.com/watch?v=s4W0dE1a994) | [Original Post](https://www49.atwiki.jp/mario-sunshine/pages/74.html)  
