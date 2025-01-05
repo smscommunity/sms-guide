@@ -150,7 +150,8 @@ Restrictions:
 Goals: 
 * Collect 6 Red Coins
 * Fly off a rope using the spinning animation
-* Stand on this location: 
+* Stand on this location:
+
 <img src="https://i.imgur.com/XVKAC0K.png"/>
 
 ## **Task 13** 
