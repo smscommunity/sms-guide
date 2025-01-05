@@ -1,7 +1,7 @@
 ---
 layout: default
-title: NicoNico Task Competition: Season 1
-permalink: /community/task/season1
+title: "NicoNico Task Competition: Season 1"
+permalink: /community/task/season1/
 parent: Events
 nav_exclude: true
 ---
