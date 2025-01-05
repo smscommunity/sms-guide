@@ -89,11 +89,11 @@ A weekly unseen challenge or custom IL with a week to route and execute it, and 
 *Aug 2020–Sept 2020*. Winner: Nebuladiv. Organiser: Rimato. Level Designer: GoogleCheese. Video Editor: jeffcompass.
 
 **SMS Tasks Competitions:
-[S1](https://www.speedrun.com/sms/guide/komwd),
-[S2](https://www.speedrun.com/sms/guide/1zc9v),
-[S3](https://www.speedrun.com/sms/guide/d51ww),
-[S4](https://www.speedrun.com/sms/guide/gp8w6),
-[S5](https://www.speedrun.com/sms/guide/b2xqe)**  
+[S1](/sms-guide/community/tasks/season1),
+[S2](/sms-guide/community/tasks/season2),
+[S3](/sms-guide/community/tasks/season3),
+[S4](/sms-guide/community/tasks/season4),
+[S5](/sms-guide/community/tasks/season5)**  
 *Respectively 2012, 2013, 2014, 2015, 2018*.
 
 ## Fantasy Leagues
