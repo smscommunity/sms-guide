@@ -1,3 +1,10 @@
+---
+layout: default
+title: NicoNico Task Competition: Season 1
+permalink: /community/task/season1
+parent: Events
+nav_exclude: true
+---
 # **Super Mario Sunshine - NicoNico Task Competition: Season 1**
 This season was organized on the Japanese NicoNico Sunshine @ wiki.  
 [Here is the link to the original post.](https://www49.atwiki.jp/mario-sunshine/pages/22.html)  
