@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NicoNico Task Competition: Season 4"
+parent: Events
+nav_exclude: true
+---
 # NicoNico Task Competition: Season 4
 This season was organized on the Japanese NicoNico Sunshine @ wiki.
 [Here is the link to the original post.](https://www49.atwiki.jp/mario-sunshine/pages/68.html)
