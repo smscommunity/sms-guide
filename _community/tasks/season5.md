@@ -5,7 +5,7 @@ parent: Events
 nav_exclude: true
 ---
 # Sunshine Task Competition: Season 5  
-This season was [originally located](https://www.speedrun.com/sms/guides/b2xqe) on the Super Mario Sunshine speedrun.com page.
+This season was [originally located](https://www.speedrun.com/sms/guides/b2xqe) on the Super Mario Sunshine speedrun.com page.  
 There will be 10 tasks in this season, and there will be one week to complete each task. Every Sunday morning, a new task will be released, and the submission deadline will be Saturday night at 11:59PM, Eastern Standard Time (New York time). No communication between competitors about the task is allowed until after the results are released. Submissions must be uploaded to YouTube as unlisted, and sent to Paperario#2585 on Discord. Overall points for the season will be awarded based on placement in each task.  
 Final official timing will be done using the fade-in timing method. Practice codes are not required, but we ask that you use the **new fade-in timer code** to make it easier to create the rankings. http://gct.zint.ch  
 This task is organized by [Paperario](https://www.speedrun.com/user/Paperario) and [1UpsForLife](https://www.speedrun.com/user/1UpsForLife). Results videos are made by [AverageTrey](https://www.speedrun.com/user/AverageTrey). Japanese translations are done by [StrongmanLin](https://www.speedrun.com/user/StrongmanLin) with help from [zelpikukirby](https://www.speedrun.com/user/zelpikukirby). Additional task creation help from [RubberDuckyAssassin](https://www.speedrun.com/user/RubberDuckyAssassin).  
