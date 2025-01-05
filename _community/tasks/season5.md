@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NicoNico Task Competition: Season 5"
+parent: Events
+nav_exclude: true
+---
 # Sunshine Task Competition: Season 5  
 This season was [originally located](https://www.speedrun.com/sms/guides/b2xqe) on the Super Mario Sunshine speedrun.com page.
 There will be 10 tasks in this season, and there will be one week to complete each task. Every Sunday morning, a new task will be released, and the submission deadline will be Saturday night at 11:59PM, Eastern Standard Time (New York time). No communication between competitors about the task is allowed until after the results are released. Submissions must be uploaded to YouTube as unlisted, and sent to Paperario#2585 on Discord. Overall points for the season will be awarded based on placement in each task.  
