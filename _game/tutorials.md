@@ -92,6 +92,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**r7: Beginner** (Dutchj \| 2015/07/28)](https://youtu.be/5tIUuA1-Blg)  
 
 **Gelato**  
+[**gbs: Basic** (Leannehef \| 2023/08/13)](https://www.youtube.com/watch?v=YzQOVWhXtsM)  
 [**gbs: Yossy Spot** (Jpep \| 2020/12/12)](https://youtu.be/I-P6he1nSQY)  
 [**gbs: Basic** (Samura1man \| 2019/09/08)](https://youtu.be/KDajrXdneXI)  
 [**gbs: Basic Stickless** (Trustfall \| 2017/06/08)](https://youtu.be/DPn6m8YF8hk)  
