@@ -17,7 +17,7 @@ http://gct.zint.ch/　ここに新しいFade-in Timerを使えば、提出の時
   
   
 ## Task 1 
-#### (Available: 2018-11-04 -> Deadline: 2018-11-10) | [Results Video](https://www.youtube.com/watch?v=dP0_qMy_v80) | [Leaderboard](https://i.imgur.com/7esparC.png)  
+### (Available: 2018-11-04 -> Deadline: 2018-11-10) | [Results Video](https://www.youtube.com/watch?v=dP0_qMy_v80) | [Leaderboard](https://i.imgur.com/7esparC.png)  
 **Level:** Bianco 4  
 **Start:** Level fade in  
 **End:** Stand on platform where Petey Piranha sleeps in Episode 5.  
