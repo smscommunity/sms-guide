@@ -9,7 +9,7 @@ nav_order: 4
 
 # Transition Animation Frames
 
-It may be difficult to determine when a load starts or ends. Here is a list all transition animinations showcasing each individual frame. Note these reference the GCN version, and that 3DAS transistion animations may vary.
+It may be difficult to determine when a load starts or ends. Here is a list all transition animinations showcasing each individual frame. Note these reference the GCN version, and 3DAS transistion animations may vary.
 
 ## Animations
 [13F Fade In](https://imgur.com/gallery/fade-13f-FcOMV5m)
