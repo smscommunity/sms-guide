@@ -40,33 +40,51 @@ Separated estimates are always used for **secret levels**, both because of the v
 ## Reference Frames
 So based on the above, we'll define different reference frames for different situations, of three types. Each is defined with reference to what SGT would do if enabled, whether it's enabled or not.
 - **end frame**: the frame the SGT freezes or ends on, which is always used for that segment's end.
-- **start-zero frame**: the frame the SGT starts for a segment (the SGT is always invisible).
+- **start-zero frame**: the frame the timer starts for a segment (the SGT is always invisible in ILs).
 - **start-visible frame**: an arbitrary frame (picked by convention) as a reference for the start of a segment, where SGT must be fully visible.
 
 Now, we'll give visuals for each frame, so the frame can be identified when SGT is absent, or in an outdated version of SGT that doesn't freeze for example.
 
 ### End Frames
 **End: shine get**  
-The first frame of the shine-get cutscene (camera cuts from level camera to focusing on Mario and the shine), for every level.
+The first frame of the shine-get cutscene (camera cuts from level camera to focusing on Mario and the shine), for every level.  
+[Example](https://imgur.com/0svbX94) of the correct end frame.  
+[Example](https://imgur.com/JfHZPLm) of the frame immediately before, as a visual cue.
 
 **End: Bowser defeated**  
-The first frame the FLUDD textbox is visible and semi-transparent (camera cuts to bathtub tipping cutscene).
+The first frame the FLUDD textbox is visible and semi-transparent (camera cuts to bathtub tipping cutscene).  
+[Example](https://imgur.com/ZmdvFmk)
 
 **End: non-text circle fadeout**  
-The first frame the circle is (barely) visible in the top-left and top-right (but not bottom-left and bottom-right) corners, for all inward circle wipes that aren't triggered by closing a textbox. *E.g. all secrets, Gelato 4, King Boo boss room; **not** casino entry.*
+The first frame the circle is (barely) visible in the top-left and top-right (but not bottom-left and bottom-right) corners, for all inward circle wipes that aren't triggered by closing a textbox. *E.g. all secrets, Gelato 4, King Boo boss room; **not casino entry**.*  
+[Example](https://imgur.com/tvPSmFJ) 
 
 **End: Sirena hotel/casino entry**  
-Four frames after the first frame the last textbox has started to fade out.
+Four frames after the first frame the last textbox has started to fade out.  
+[Example](https://imgur.com/6XF1U7E)
 
 ### Start-Zero Frames
-These are only visible for video retimes; SGT retimes would have to estimate them from start-visible frames. The start-zero frame is always the first frame that the segment is visible after the load, whether it has an intro cutscene or not. To our knowledge, that makes video retimes more pessimistic than what SGT would give in at least 80% of samples for every situation – see the "sgt-perf" samples in the *Circle* and *Start* tabs in the [reference](https://tiny.cc/smsilretiming). *A common mistake is to confuse this frame with the frame before – the last all black/white frame in the load.*
+**RTA Start-zero**  
+The frame in which a run is started, one frame before the text disappears. Used for Speedrun.com leaderboard retimes.  
+[Example](https://imgur.com/mduPB9o) of the correct start frame.  
+[Example](https://imgur.com/wkp45G3) of the frame immediately after, as a visual cue. Often used for Autosplit.
+
+**IL Start-zero Frames**  
+These are only visible for video retimes; SGT retimes would have to estimate them from start-visible frames. The start-zero frame is always the first frame that the segment is visible after the load, whether it has an intro cutscene or not. To our knowledge, that makes video retimes more pessimistic than what SGT would give in at least 80% of samples for every situation – see the "sgt-perf" samples in the *Circle* and *Start* tabs in the [reference](https://tiny.cc/smsilretiming).  
+*A common mistake is to confuse this frame with the frame before – the last all black/white frame in the load.*  
+
+[Example](https://imgur.com/dRfNcED) of the **correct** frame.  
+[Example](https://imgur.com/Cw9p0j2) of the **incorrect** frame, one frame before.
 
 ### Start-Visible Frames
+
 **Start-visible: circle-mash intro (sgt retime)**  
-See [**circle mash retimes**](circle-mash). This method always first estimates the start-zero frame, then may extend into a separated load estimate (if there's another segment preceding it). A *circle-mash* is an outward circle wipe with immediately-skippable cutscene, used in e.g. all secrets, Pinna 3, Noki 3.
+See [**circle mash retimes**](circle-mash). This method always first estimates the start-zero frame, then may extend into a separated load estimate (if there's another segment preceding it). A *circle-mash* is an outward circle wipe with immediately-skippable cutscene, used in e.g. all secrets, Pinna 3, Noki 3.  
+[Example](https://imgur.com/lKZFbZu)
 
 **Start-visible: direct circle intro**  
-The frame the (transition) circle cuts the left vertical edge of the water tank in the FLUDD HUD – also the frame SGT is first fully visible if present. Applies to e.g. Sirena Hotel, Casino, King Boo.
+The frame the (transition) circle cuts the left vertical edge of the water tank in the FLUDD HUD – also the frame SGT is first fully visible if present. Applies to e.g. Sirena Hotel, Casino, King Boo.  
+[Example](https://imgur.com/KVikwj9)
 
 ## Load Estimates
 All of these are pessimistic estimates derived from the samples in the [reference](https://tiny.cc/smsilretiming). Check the previous section for explanations of the reference frames these are based on.
