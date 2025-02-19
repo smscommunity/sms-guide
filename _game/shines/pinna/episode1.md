@@ -23,12 +23,12 @@ To get through the entrance with a single slide requires some maneuvering betwee
 {% include yt.html id="msAc_51KlwI" %}  
 Notice that there is no intro cutscene to mash through when loading into the park. This means you can start moving Mario during the fade in.  
 
-Waterslide or hoverslide forward, taking care not to bonk on the poles or merry go round. Make sure you have a decent waterslide speed into this next part, a cutscene skip that saves a minute.  
+Waterslide or hoverslide forward, taking care not to bonk on the poles or merry go round. Make sure you have a decent waterslide speed into this next part, a cutscene skip that saves about **a minute**.  
 
 ## Cutscene Skip #1
 Make sure to have decent speed on your waterslide (start farther back if you bonk, near the tree with the coconut) and pause as you slide between these pink pillars. Aim for the middle so you don't bonk.  
 <img src="https://i.imgur.com/n2Owq8E.png">  
-Exit Area, and you will continue to slide into the loading zone, skipping the cutscene and saving 1:00.79.  
+Exit Area, and you will continue to slide into the loading zone, skipping the cutscene and saving around **a minute**.  
 
 ## The Fight  
 
@@ -56,7 +56,7 @@ You want to aim to fire the rocket either right before or right after you pass t
 {% include yt.html id="lXEtAqHKUlo" %}  
 
 ## Cutscene Skip #2  
-This cutscene skip saves even more, 2:02.40, thus it is very important you get it. The visual cue is to pause the frame you see the explosions from the pieces that fall off of Mecha Bowser (you CAN pause a few frames before they are visible, but it is not recommended).  
+This cutscene skip saves even more, just over **2 MINUTES**, thus it is very important you get it. The visual cue is to pause the frame you see the explosions from the pieces that fall off of Mecha Bowser (you CAN pause a few frames before they are visible, but it is not recommended).  
 <img src="https://i.imgur.com/f7l4q6o.gif">  
 
 ## Shine Grab  
