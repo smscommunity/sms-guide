@@ -29,8 +29,8 @@ parent: Shines
 ## **Sirena 4**
 [No Momentum spin/buttslides](https://www.youtube.com/watch?v=luFsHTw66HQ&t=6s) *Beginner*  
 [No buttslides, momentum spin](https://www.youtube.com/watch?v=FUOJ9T_mei0) *Intermediate*  
-[1st buttslide, momentum spin](https://www.youtube.com/watch?v=mAUm7J2ETQE) *Intermediate*  
-[Both Buttslides](https://clips.twitch.tv/MistySuspiciousGarlicStoneLightning) *Advanced*  
+[1st buttslide, momentum spin](https://www.youtube.com/watch?v=mAUm7J2ETQE) *Advanced*  
+[Both Buttslides](https://clips.twitch.tv/MistySuspiciousGarlicStoneLightning) *Advanced, precise*  
 
 ## **Sirena 5**
 [Basic Strat](https://www.youtube.com/watch?v=5MyAV76XpjE)  
@@ -44,6 +44,6 @@ parent: Shines
 [Version difference explanation](https://imgur.com/hfTbIT4.png)
 
 ## **Sirena 7**
-[No Quick kill](https://www.youtube.com/watch?v=p9cibphshqo)  
-[Quick kill, ground pound](https://www.youtube.com/watch?v=POYw2vVA-vY)  
-[Quick kill, rollout](https://www.youtube.com/watch?v=_U38RXAaHgY)  
+[No Quick kill](https://www.youtube.com/watch?v=p9cibphshqo) *Beginner*  
+[Quick kill, ground pound](https://www.youtube.com/watch?v=POYw2vVA-vY) *Advanced*  
+[Quick kill, rollout](https://www.youtube.com/watch?v=_U38RXAaHgY) *Advanced*  
