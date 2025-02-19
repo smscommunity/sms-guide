@@ -1,3 +1,10 @@
+---
+layout: default
+title: Noki 1
+permalink: /shines/noki/episode1/
+parent: Noki Bay
+grand_parent: Shines
+---
 # Noki 1 Cycles
 
 The Cannon Mole shoots Goop Balls every 6.74 seconds, starting at 4.53 seconds. What we call “cycles” are determined by the Goop Ball shots between which the Cannon Mole first throws a Bomb. At a very high level, what we call 1st cycle occurs when the mole throws his first bomb after the 3rd set of Goop Balls, 2nd cycle occurs when the mole throws his first bomb after the 4th set of Goop Balls, and so on.
