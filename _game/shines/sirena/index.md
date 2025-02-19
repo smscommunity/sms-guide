@@ -41,7 +41,8 @@ parent: Shines
 [JP](https://www.youtube.com/watch?v=XdkyUMf_27E)  
 [NTSC-U/PAL](https://www.youtube.com/watch?v=zxuyh3m67Ww&t=7s)  
 
-[Version difference explanation](https://imgur.com/hfTbIT4.png)
+Version difference explanation
+<img src="https://i.imgur.com/hfTbIT4.png">
 
 ## **Sirena 7**
 [No Quick kill](https://www.youtube.com/watch?v=p9cibphshqo) *Beginner*  
