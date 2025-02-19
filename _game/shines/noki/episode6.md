@@ -15,13 +15,11 @@ Noki 6 is the notorious "The Shell's Secret", "Choki 6", an infamous run killer.
 #### Cliff Entry  
 {% include yt.html id="xOek-DUeh94" %}  
 
-### Intermediate  
+### Advanced    
 #### Classic Ropes  
 {% include yt.html id="vye8WFMG2MY" %}  
-
-### Advanced  
 #### Nashi Ropes  
-{% include yt.html id="vye8WFMG2MY" %}  
+{% include yt.html id="meDA7Kgs-kI" %}  
 
 ## The Secret  
 
