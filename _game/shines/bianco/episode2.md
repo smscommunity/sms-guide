@@ -128,7 +128,7 @@ This is the usual setup; some tips to do it quickly:
 {% include yt.html id="FEXMNGi0zsY" %}
 
 #### GWKH
-HALP
+Write up needed.
 
 ### Wall-Kicks
 
@@ -188,8 +188,11 @@ After the sideflip, do 4 wall-kicks, then hover, turn around to get over the roo
 * The A-press durations are all long except 1/4, which is short.
 
 **Wall-kick intuition**: again, check the right ledgegrab paragraph for the basic principles.
-#### Y-Turn Wall-Kicks
-Help me, Jpep-wan. You're my only hope.
+#### Y-Turn Wall-Kicks  
+#### Left Side
+{% include yt.html id="hB0ELU0J3_A" %}  
+#### Right Side  
+{% include yt.html id="T-kfHSbnjtg" %}  
 
 ## Fight
 
