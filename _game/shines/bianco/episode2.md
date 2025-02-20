@@ -71,7 +71,7 @@ The basic flow of a spider segment is recognising its position, doing a jump mov
 
 Next, we pick between three strategies, which will each get a section. From here on out, we'll split things up into "moves", each corresponding to a single jump, possible hover, and (re-)entry into the water. We pick the strategy depending on where the spider is.
 
-<img src="https://cdn.discordapp.com/attachments/529145099003887618/818673916247277578/unknown.png" width="400">
+<img src="https://i.imgur.com/OMWPPkZ.png" width="400">
 
 #### Zone A: Rushdown
 **Move 1**: **spin-jump-dive straight towards the spider**. This is the fastest overall option.
