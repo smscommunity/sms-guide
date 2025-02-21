@@ -7,7 +7,10 @@ grand_parent: Shines
 ---
 
 # Pinna 3
-Pinna 3 is a highly technical level where you collect the red coins in the park.
+Pinna 3 is a highly technical level where you collect the red coins in the park.  
+This level has a two version differences. 
+- JP and NTSC-U/PAL have very slightly different ending electrokoopa cycles, losing JP aboout 1.0s at optimal level (31.xx IL time).
+- You can hover after being shocked by an electrokoopa in JP only.
 
 ## Entrance
 <details markdown="block">
