@@ -20,15 +20,10 @@ Index of blue coin/nozzle/Yoshi locations and shine/blue coin classifications.
 Algorithms to count text length by simulating it, and resulting timings.
 
 **[A-Button Challenge](https://docs.google.com/spreadsheets/d/1j5OVfqqp97LhKHJja96h2SX5ZoFjaHiE7nvXgAYauMI)**  
-Sheet of low-A-press runs.
+Sheet of low-A-press runs.  
 
-## Shine-Specific
-
-[**Strat Timing**](https://docs.google.com/spreadsheets/d/1h4ocgbBk-i4n7x6dMlERhfdKe1PrG7j1AOAIJ6zGjcw)  
-Statistical timing of strats for levels where it's feasible and useful.
-
-[**Written Notes** (Jpep)](https://docs.google.com/document/d/19bfzNgOFoRVPDxK6hnolEjGHfu1OpM65O9UPoW1xRQs)  
-More notes on strat execution.
+**[Decomp](https://github.com/doldecomp/sms)**  
+A WIP decomp of Super Mario Sunshine.  
 
 ## TASes  
 **[Any%(No ACE) in 1:05:47.71](https://youtu.be/igm67ZABQgE)** (zelpikukirby, Nov 2024)  
