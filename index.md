@@ -12,13 +12,15 @@ nav_exclude: true
 **Game**  
 *Documentation of game knowledge.*
 1. **Categories**  
-Overview of category definitions and routes.
+Overview of category definitions.
 2. **Shines**  
 Pages detailing strats for individual shines.
 3. **Tutorials**  
 An index of mostly external tutorials.
 4. **Misc**  
-E.g. strat timing.
+Game information, TAS, and documentaries.
+5. **Routes**
+Route documents compiled by the community.
 
 **General**  
 *Documentation of anything else – rulesets, tools, methodologies.*
@@ -38,4 +40,4 @@ Links to leaderboards.
 2. **Events**  
 A list of events and links to their pages and results.
 3. **Misc**  
-E.g. Discord archives.
+Miscellaneous info.
