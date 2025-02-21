@@ -106,7 +106,8 @@ Times above on Reset Timing, Times below on File Select timing
 **[1:13:23](https://www.youtube.com/watch?v=ZMvxynHGdb8)** by *Anonymous* on July 10, 2021  
 **[1:13:17](https://www.youtube.com/watch?v=1coJWwnKEgs)** by *Anonymous* on August 1, 2021  
 
-### 2022
+### 2022  
+#### No Improvements
 
 ### 2023  
 
@@ -116,7 +117,7 @@ Times above on Reset Timing, Times below on File Select timing
 ### 2024
 **[1:13:05](https://www.twitch.tv/videos/2161495457)** by トーボウ on June 01, 2024  
 **[1:12:58](https://www.youtube.com/watch?v=zbZv0sEu6Ec)** by トーボウ on June 09, 2024  
-**[1:12:51](https://www.youtube.com/watch?v=y3nhWI-gmsI)** by inkstar on July 30, 2024
+**[1:12:51](https://www.youtube.com/watch?v=y3nhWI-gmsI)** by inkstar on July 30, 2024  
   
 ## 120 Shines World Record History  
 ### 2007	  
@@ -237,4 +238,9 @@ Times above on Reset Timing, Times below on File Select timing
 
 ### 2024
 **[2:52:24.230](https://www.youtube.com/watch?v=O-uc-up7-B4)** by SB_runs on January 12, 2024  
-**[2:51:34](https://www.twitch.tv/videos/2039142966?t=0h0m1s)** by Nanashi on January 21, 2024
+**[2:51:34](https://www.twitch.tv/videos/2039142966?t=0h0m1s)** by Nanashi on January 21, 2024  
+**[2:51:32](https://www.youtube.com/watch?v=hhX-qBH8-eU)** by SB_runs on December 6, 2024  
+
+### 2025  
+**[2:51:14](https://www.youtube.com/watch?v=v76CqZHYFCQ)** by SB_runs on January 6, 2025  
+
