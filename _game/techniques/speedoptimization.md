@@ -8,7 +8,7 @@ nav_order: 1
 {: .no_toc }
 # Speed Display Codes and Optimizing Gameplay
 
-*guide by **Jpep** – [original](https://gist.github.com/JpepWasTaken/e8c2eec244e919f527f651f8fe4bdb29)*
+*forked from **Jpep** – [original](https://gist.github.com/JpepWasTaken/e8c2eec244e919f527f651f8fe4bdb29)*
 
 1. TOC
 {:toc}
@@ -25,6 +25,9 @@ nav_order: 1
 | Dive (on the ground)  | Mario's speed + 15  |
 | Walking  | Up to 32 |
 | Hovering  | Down to 24  |
+| Turbo (on land)  | 80.13 |
+| Turbo (on water)  | 78.02 |
+
 
 - When Mario is *hoversliding*, with the stick held in the direction he is moving, his horizontal speed increases by between 1 and 2 units per frame. The acceleration increases until the speed cap of 100.5 is reached.
 - *Jumps* can conserve up to 80% of Mario's speed. Due to quarter-frame shenanigans, this number is an upper limit, and not every frame-perfect jump will conserve this much speed.
