@@ -8,13 +8,19 @@ nav_order: 7
 ---
 # Ricco 7
 The advanced insta-kill saves about 1.5s over the normal beginner strat.
-## Beginner - No Quick Kill
+#### No Quick Kill  
+*Beginner*  
 {% include yt.html id="joyIBylYdxI" %}
 - Jump dive and rollout while moving left.
 - Hold up and chase Shadow Mario up the ramp while spraying until he goes down
 
 Alternative to the jump dive and rollout, you can jump in place and move slightly left, then just run forward and start spraying when Shadow Mario is triggered.
-## Advanced - Insta-Kill
+#### Insta-Kill (Drive-By)  
+*Intermediate*
+{% include yt.html id="DMmQF4bfdXk" %}
+
+#### Insta-Kill (Jumpdive)
+*Advanced*  
 {% include yt.html id="lI720L0pgPs" %}
 - Jump dive and rollout, then dive towards Shadow Mario
 - Briefly hold down left to slow down and align yourself behind Shadow Mario
