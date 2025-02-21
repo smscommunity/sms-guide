@@ -43,7 +43,7 @@ To get through the entrance with a single slide requires some maneuvering betwee
 
 #### TAS Strat    
 *Advanced*  
-{% include yt.html id="UNibrH7ZgHQ" %}  
+{% include yt.html id="ih72PfgTrlQ" %}  
 
 There are some different variations you can do for the TAS Strat detailed below.  
 <details markdown="block">
