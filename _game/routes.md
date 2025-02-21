@@ -28,7 +28,7 @@ Index of external links to routes.
 [Link](https://docs.google.com/spreadsheets/d/1RYgVH24OCRzEurlxePwU7Ltt-mtNuSK5yHYcrjiRAKI/edit?gid=148575540#gid=148575540)  
 *by SB_Runs*
 
-**Current Optimal 120 Shine Science** 
+**Current Optimal 120 Shine Science**  
 [Link](https://docs.google.com/spreadsheets/d/1Vn-sqezuHox5zx9SgHWstKIR7_3CJ2hrVmzPl95Sa0U/edit?gid=1339267160#gid=1339267160)  
 *by Pogonateur, Shadowmario27*
 
@@ -62,7 +62,7 @@ Index of external links to routes.
 *by akane*
 
 ## 20 Shines  
-**Several Different Routes and Compared**
+**Several Different Routes and Compared**  
 [Link](https://docs.google.com/spreadsheets/d/17A-sxmSBVKzGtyZBUG33MBM68OLYCcUVEvRRecV0vGo/edit?gid=0#gid=0)  
 *by schmittd*  
 
