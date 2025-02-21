@@ -6,12 +6,6 @@ nav_order: 4
 ---
 
 # **Routes**
-{: .no_toc }
-
-Index of external links to compiled routes.
-
-1. TOC
-{:toc}
 
 # Main Categories 
 
