@@ -4,8 +4,6 @@ nav_exclude: true
 ---
 # SMS Wiki
 
-### [SMS Resources](https://docs.google.com/document/d/1pudLEd6H__KUzDDAdVJedNK3l58ILNB3haZj73uhHzg/edit) by [akane174](https://www.twitch.tv/akane174)
-
 ## Table of Contents
 *Description of the page tabs on the left*
 
