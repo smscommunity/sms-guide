@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: Noki 4
-permalink: /shines/noki/episode6/
+permalink: /shines/noki/episode4/
 parent: Noki Bay
 grand_parent: Shines
 ---
