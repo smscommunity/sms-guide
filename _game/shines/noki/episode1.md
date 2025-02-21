@@ -5,7 +5,21 @@ permalink: /shines/noki/episode1/
 parent: Noki Bay
 grand_parent: Shines
 ---
-# Noki 1 Cycles
+# Noki 1
+Noki 1 is a movement intensive shine where you ascend the cliffs and fight Monty Mole throwing his bombs back at him.
+
+#### Triple Wheel Wallkicks
+*Beginner*
+{% include yt.html id="5x0ltdrPSvQ" %}  
+#### Double Wheel Wallkicks
+*Advanced*
+{% include yt.html id="l4Nsqjy6pbI" %}  
+
+## Bomb Cycles 
+<details markdown="block">
+  <summary markdown="span">
+    Click for Details
+  </summary>
 
 The Cannon Mole shoots Goop Balls every 6.74 seconds, starting at 4.53 seconds. What we call “cycles” are determined by the Goop Ball shots between which the Cannon Mole first throws a Bomb. At a very high level, what we call 1st cycle occurs when the mole throws his first bomb after the 3rd set of Goop Balls, 2nd cycle occurs when the mole throws his first bomb after the 4th set of Goop Balls, and so on.
 
@@ -16,3 +30,4 @@ For Fast and Normal cycles, the first bomb will always land on the same exact fr
 <img src="https://i.imgur.com/GS9IaoE.png" width="500">
 
 The fastest ledgegrab achieved by humans is a [21.11](https://www.youtube.com/watch?v=5vF7z8KVCSY)
+</details>  
