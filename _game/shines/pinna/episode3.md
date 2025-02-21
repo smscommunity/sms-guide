@@ -50,6 +50,14 @@ To get through the entrance with a single slide requires some maneuvering betwee
 *You can run straight up the ramp past the electrokoopas, compared to having to zigzag on JP*  
 {% include yt.html id="SXlX0maWY6M" %}  
 
+<details markdown="block">
+  <summary markdown="span">
+    Manipulating the Electrokoopas - Click for Details
+  </summary>
+  You need to Y turn while grabbing the 5th coin in the same way each time, in order to manipulate the electrokoopas. They start moving the second you look at them. It is recommended to turn straight right.
+  <img src="https://i.imgur.com/oioiNHI.jpeg width=500> 
+</details>  
+
 There are some different variations you can do for the TAS Strat detailed below.  
 <details markdown="block">
   <summary markdown="span">
