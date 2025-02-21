@@ -9,10 +9,10 @@ grand_parent: Shines
 Noki 1 is a movement intensive shine where you ascend the cliffs and fight Monty Mole throwing his bombs back at him.
 
 #### Triple Wheel Wallkicks
-*Beginner*
+*Beginner*  
 {% include yt.html id="5x0ltdrPSvQ" %}  
 #### Double Wheel Wallkicks
-*Advanced*
+*Advanced*  
 {% include yt.html id="l4Nsqjy6pbI" %}  
 
 ## Bomb Cycles 
