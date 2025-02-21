@@ -7,6 +7,7 @@ grand_parent: Shines
 nav_order: 8
 ---
 # Gelato 7  
+The advanced insta-kill saves about 1.5s over the normal beginner strat.
 #### Tutorial
 {% include yt.html id="inKes4X2veA" %}  
 #### Optimal RTA Strat  
