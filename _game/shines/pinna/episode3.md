@@ -10,8 +10,8 @@ grand_parent: Shines
 Pinna 3 is a highly technical level where you collect the red coins in the park.  
 
 *This level has a **two** version differences.* 
-- JP and NTSC-U/PAL have very slightly different ending electrokoopa cycles, *losing JP about 1.0s at optimal level (31.xx IL time)*.
-- You can hover after being shocked by an electrokoopa in **JP** only.
+- JP and NTSC-U/PAL have very slightly different ending electrokoopa cycles, *losing JP about **1.0s** at optimal level (31.xx IL time)*.
+- You can hover after being shocked by an electrokoopa in **JP only**.
 
 ## Entrance
 <details markdown="block">
@@ -50,7 +50,7 @@ There are some different variations you can do for the TAS Strat detailed below.
   <summary markdown="span">
     Second Boat - Click for Details
   </summary>
- Second boat can be dismounted either aggro [(Tip of the Ship)](https://youtu.be/ih72PfgTrlQ?si=m4Q4PME65Ak76Txq&t=11) or safe [(Side of the Ship)](https://youtu.be/HKKxB632OTY?si=kIDRzalTagSwLxE2&t=10).
+ Second boat can be dismounted either **aggro** [(Tip of the Ship)](https://youtu.be/ih72PfgTrlQ?si=m4Q4PME65Ak76Txq&t=11) or **safe** [(Side of the Ship)](https://youtu.be/HKKxB632OTY?si=kIDRzalTagSwLxE2&t=10).
 <img src="https://i.imgur.com/A8GzxV7.png" width=500>  
 </details>  
 
@@ -59,7 +59,7 @@ There are some different variations you can do for the TAS Strat detailed below.
   <summary markdown="span">
     Coin Clip - Click for Details
   </summary>  
-  Coin Clip (7th coin) is a hard trick that saves around 2 seconds and is largely feel based. The edges of the ramps (the wood) do not have collision, allowing you to clip inside these green grates.  
+  Coin Clip *(7th coin)* is a difficult trick that saves around **2.0s** and is largely feel based. The edges of the ramps (the wood) do not have collision, allowing you to clip inside these green grates.  
   <img src="https://i.imgur.com/TH29lxn.png" width=500>  
   Coin Clip can be done on [Left Side](https://youtu.be/GdkqnhZPNO4?si=cDnymqSKw5t_RPgI&t=19) or [Right Side](https://youtu.be/gEY-LOqHxXg?si=is31hPOO3LBYfLNB&t=21) (preference).  
 </details>  
