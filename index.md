@@ -17,10 +17,11 @@ Overview of category definitions.
 Pages detailing strats for individual shines.
 3. **Tutorials**  
 An index of mostly external tutorials.
-4. **Misc**  
-Game information, TAS, and documentaries.
-5. **Routes**
+4. **Routes**  
 Route documents compiled by the community.
+5. **Misc**  
+Game information, TAS, and documentaries.
+
 
 **General**  
 *Documentation of anything else – rulesets, tools, methodologies.*
