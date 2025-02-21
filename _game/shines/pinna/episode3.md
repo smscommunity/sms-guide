@@ -8,7 +8,8 @@ grand_parent: Shines
 
 # Pinna 3
 Pinna 3 is a highly technical level where you collect the red coins in the park.  
-This level has a two version differences. 
+
+*This level has a **two** version differences.* 
 - JP and NTSC-U/PAL have very slightly different ending electrokoopa cycles, losing JP about 1.0s at optimal level (31.xx IL time).
 - You can hover after being shocked by an electrokoopa in JP only.
 
@@ -49,7 +50,7 @@ There are some different variations you can do for the TAS Strat detailed below.
   <summary markdown="span">
     Second Boat - Click for Details
   </summary>
- Second boat can be dismounted either aggro [(Tip of the Ship)](https://youtu.be/GdkqnhZPNO4?si=bDcWKoa_7qyk8OPw&t=9) or safe [(Side of the Ship)](https://youtu.be/pfE1xT61W8s?si=gbiIOJ99FSVb416D&t=51).
+ Second boat can be dismounted either aggro [(Tip of the Ship)](https://youtu.be/ih72PfgTrlQ?si=m4Q4PME65Ak76Txq&t=11) or safe [(Side of the Ship)](https://youtu.be/HKKxB632OTY?si=kIDRzalTagSwLxE2&t=10).
 <img src="https://i.imgur.com/A8GzxV7.png" width=500>  
 </details>  
 
