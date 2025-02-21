@@ -13,7 +13,6 @@ nav_order: 1
 1. TOC
 {:toc}
 
-# Main Categories 
 #### Section 1 - Horizontal Speeds of movement options
 
 | Movement option  | Horizontal Speed |
