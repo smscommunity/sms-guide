@@ -16,7 +16,7 @@ nav_order: 4
 [Link](https://docs.google.com/spreadsheets/d/1RYgVH24OCRzEurlxePwU7Ltt-mtNuSK5yHYcrjiRAKI/edit?gid=148575540#gid=148575540)  
 *by SB_Runs*
 
-## Current Optimal 120 Shine Science
+#### Current Optimal 120 Shine Science
 [Link](https://docs.google.com/spreadsheets/d/1Vn-sqezuHox5zx9SgHWstKIR7_3CJ2hrVmzPl95Sa0U/edit?gid=1339267160#gid=1339267160)  
 *by Pogonateur and Shadowmario27*
 
