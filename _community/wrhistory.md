@@ -3,7 +3,7 @@ layout: default
 title: WR History
 permalink: /community/wrhistory/
 parent: Leaderboards
-nav_exclude: true
+nav_order: 11
 ---
   
 # World Record History
