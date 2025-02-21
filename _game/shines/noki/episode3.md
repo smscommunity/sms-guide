@@ -11,7 +11,7 @@ grand_parent: Shines
 Easier and faster ending, goes right side from 7th to 8th coin.  
 {% include yt.html id="Q4m0sL4iBh0" %}  
 #### Left Side  
-Harder ending, goes left side from 7th to 8th coin.  
+Harder and outdated ending, goes left side from 7th to 8th coin.  
 {% include yt.html id="PhflaLlQmL4" %}  
 
 Optimally, 5 frames of difference.  
