@@ -7,7 +7,7 @@ grand_parent: Shines
 nav_order: 7
 ---
 # Ricco 7
-The advanced insta-kill saves about 1.5s over the normal beginner strat.
+The advanced insta-kills save 1.2s(drive by)/1.5s(recovery) over the normal beginner strat.
 #### No Quick Kill  
 *Beginner*  
 {% include yt.html id="joyIBylYdxI" %}
@@ -19,7 +19,7 @@ Alternative to the jump dive and rollout, you can jump in place and move slightl
 *Intermediate*
 {% include yt.html id="DMmQF4bfdXk" %}
 
-#### Insta-Kill (Jumpdive)
+#### Insta-Kill (Recovery)
 *Advanced*  
 {% include yt.html id="lI720L0pgPs" %}
 - Jump dive and rollout, then dive towards Shadow Mario
