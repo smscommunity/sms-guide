@@ -10,7 +10,7 @@ grand_parent: Shines
 Pinna 3 is a highly technical level where you collect the red coins in the park.  
 
 *This level has a **two** version differences.* 
-- JP and NTSC-U/PAL have very slightly different ending electrokoopa cycles, *losing JP about **1.0s** at optimal level (31.xx IL time)*.
+- JP and NTSC-U/PAL have very slightly different ending electrokoopa cycles, *losing JP about **0.5s** at optimal level (31.xx IL time)*.
 - You can hover after being shocked by an electrokoopa in **JP only**.
 
 ## Entrance
@@ -47,7 +47,7 @@ To get through the entrance with a single slide requires some maneuvering betwee
 {% include yt.html id="ih72PfgTrlQ" %}  
 
 - NTSC-U/PAL Difference  
-*You can run straight up, compared to having to zigzag on JP*  
+*You can run straight up the ramp past the electrokoopas, compared to having to zigzag on JP*  
 {% include yt.html id="SXlX0maWY6M" %}  
 
 There are some different variations you can do for the TAS Strat detailed below.  
