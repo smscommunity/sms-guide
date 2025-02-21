@@ -9,9 +9,10 @@ grand_parent: Shines
 # Pinna 1
 Pinna 1 is the roller coaster rocket fight with Mecha Bowser. It includes 2 cutscene skips, and several different rocket strats.
 
+## Entrance
 <details markdown="block">
   <summary markdown="span">
-    Entrance - Click for Details
+    Click for Details
   </summary>
 {% include yt.html id="YDxrxFj0Jv0" %}  
 Entering the park is the same as Pinna 1, 3, 7, and 8.  
