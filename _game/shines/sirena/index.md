@@ -4,6 +4,7 @@ title: Sirena Beach
 nav_order: 5
 permalink: /shines/sirena
 parent: Shines
+has_children: true
 ---
 ## **Sirena 1**
 [Hut Strat](https://x.com/Qbe_Root/status/1362452717462028292) *Beginner*  
