@@ -18,7 +18,7 @@ Sirena 1 is one of the most memorable and creepy levels in the game. It's also a
 
 #### Hut Strat  
 *Beginner*  
-[Twitter Link](https://x.com/Qbe_Root/status/1362452717462028292)  
+{% include yt.html id="5S-K-sYrn-A" %}  
 #### Aggro Strat  
 *Advanced*  
 {% include yt.html id="0HbAqa8hEMY" %}  
