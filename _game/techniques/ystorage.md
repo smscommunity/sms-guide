@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Y-Storage
-permalink: /techniques/y-storage/
+permalink: /techniques/ystorage/
 parent: Techniques
 nav_order: 1
 ---
