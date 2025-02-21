@@ -7,7 +7,7 @@ grand_parent: Shines
 ---
 
 # Noki 6  
-Noki 6 is the notorious "The Shell's Secret", "Choki 6", an infamous run killer. It's also a very popularly liked and heavily practiced shine by many runners due to these reasons and the movement involved.
+Noki 6 is the notorious "The Shell's Secret", "Choki 6", an infamous run killer. It's also a very popularly liked and heavily practiced shine by many runners.
 
 ## Entering the Secret  
 
