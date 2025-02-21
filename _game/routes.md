@@ -8,8 +8,13 @@ nav_order: 4
 # Main Categories 
 
 ## Any%  
+#### Up to Date, and Has Most Routes
 [Link](https://docs.google.com/spreadsheets/d/1_YA7xzNsG1JgCPHRJEKPGEIQGD_0Dp6e5HD_lvV5uvE/edit?gid=0#gid=0)  
-*by akane*
+*by akane*  
+
+#### Legacy (Outdated) Routes
+[Link](https://docs.google.com/spreadsheets/d/19wxG81nHkHlGVPRJZJKp8VcxSeGbRZnKmR9lN7jJSwM/edit#gid=1743316251)  
+*by Milk, Dutchj, Wilko*  
 
 ## 120 Shines  
 #### Beginner and Advanced
@@ -18,7 +23,11 @@ nav_order: 4
 
 #### Current Optimal 120 Shine Science
 [Link](https://docs.google.com/spreadsheets/d/1Vn-sqezuHox5zx9SgHWstKIR7_3CJ2hrVmzPl95Sa0U/edit?gid=1339267160#gid=1339267160)  
-*by Pogonateur and Shadowmario27*
+*by Pogonateur, Shadowmario27*
+
+#### Legacy Route  
+[Link](https://docs.google.com/spreadsheets/d/1I2gojd6k2-fiDhW92VFG7C6_-CpGjrDS3H2ai8knDEg/edit#gid=0)  
+*by Wilko*
 
 ## 96 Shines  
 [Link](https://docs.google.com/spreadsheets/d/1_YA7xzNsG1JgCPHRJEKPGEIQGD_0Dp6e5HD_lvV5uvE/edit?gid=1404316461#gid=1404316461)  
@@ -45,9 +54,14 @@ nav_order: 4
 [Link](https://docs.google.com/spreadsheets/d/1_YA7xzNsG1JgCPHRJEKPGEIQGD_0Dp6e5HD_lvV5uvE/edit?gid=1274031008#gid=1274031008)  
 *by akane*
 
-## 20 Shines
+## 20 Shines  
+#### Several Different Routes and Compared
 [Link](https://docs.google.com/spreadsheets/d/17A-sxmSBVKzGtyZBUG33MBM68OLYCcUVEvRRecV0vGo/edit?gid=0#gid=0)  
 *by schmittd*  
+
+#### Legacy Routes  
+[Link](https://docs.google.com/spreadsheets/d/19wxG81nHkHlGVPRJZJKp8VcxSeGbRZnKmR9lN7jJSwM/edit#gid=892750369)  
+*by Milk, Dutchj*
 
 # Category Extensions
 
