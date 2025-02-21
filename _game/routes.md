@@ -13,8 +13,8 @@ nav_order: 4
 [Link](https://docs.google.com/spreadsheets/d/1RYgVH24OCRzEurlxePwU7Ltt-mtNuSK5yHYcrjiRAKI/edit?gid=148575540#gid=148575540)  
 *by SB_Runs*
 
-## Optimal 120 Shines
-[Link](https://docs.google.com/spreadsheets/d/1oB_0hnY8LetUgyk4Lb2__PjwB2g5nBK8r2wEM1CxT-g/edit?gid=1480003748#gid=1480003748)  
+## Current Optimal 120 Shine Science
+[Link](https://docs.google.com/spreadsheets/d/1Vn-sqezuHox5zx9SgHWstKIR7_3CJ2hrVmzPl95Sa0U/edit?gid=1339267160#gid=1339267160)  
 
 ## 96 Shines  
 [Link](https://pastebin.com/GCVd69N8)  
