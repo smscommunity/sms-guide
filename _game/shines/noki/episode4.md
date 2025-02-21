@@ -5,7 +5,6 @@ permalink: /shines/noki/episode4/
 parent: Noki Bay
 grand_parent: Shines
 ---
-
 # Noki 4  
 Eely-Mouth. A formidable foe. Learn how to clean his teeth and when to bait him, and it's not so bad.  
 
