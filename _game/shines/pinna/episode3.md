@@ -43,10 +43,11 @@ To get through the entrance with a single slide requires some maneuvering betwee
 
 #### TAS Strat    
 *Advanced*  
+- JP  
 {% include yt.html id="ih72PfgTrlQ" %}  
 
-*NTSC-U/PAL Difference*  
-You can run straight up, compared to having to zigzag on JP  
+- NTSC-U/PAL Difference  
+*You can run straight up, compared to having to zigzag on JP*  
 {% include yt.html id="SXlX0maWY6M" %}  
 
 There are some different variations you can do for the TAS Strat detailed below.  
