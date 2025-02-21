@@ -9,6 +9,12 @@ nav_order: 1
 
 *guide by **Jpep** – [original](https://gist.github.com/JpepWasTaken/e8c2eec244e919f527f651f8fe4bdb29)*
 
+{: .no_toc }
+
+1. TOC
+{:toc}
+
+# Main Categories 
 #### Section 1 - Horizontal Speeds of movement options
 
 | Movement option  | Horizontal Speed |
