@@ -7,7 +7,7 @@ grand_parent: Shines
 ---
 
 # Sirena 5  
-Sirena 5 is another notorious level, since you only have a 34% chance of getting perfect RNG.  
+Sirena 5 is another notorious level, since you only have a 34.3% chance of getting perfect RNG.  
 
 <details markdown="block">
   <summary markdown="span">
