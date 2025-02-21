@@ -2,7 +2,7 @@
 layout: default
 title: Misc Game Info
 permalink: /game/misc/
-nav_order: 5
+nav_order: 6
 has_children: false
 ---
 
