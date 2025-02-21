@@ -14,9 +14,8 @@ Pinna 1 is the roller coaster rocket fight with Mecha Bowser. It includes 2 cuts
   <summary markdown="span">
     Click for Details
   </summary>
-{% include yt.html id="YDxrxFj0Jv0" %}  
 Entering the park is the same as Pinna 1, 3, 7, and 8.  
-
+{% include yt.html id="YDxrxFj0Jv0" %}  
 
 #### One Slide
 -Tap jump, then dive.  
