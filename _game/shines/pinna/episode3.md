@@ -42,5 +42,15 @@ To get through the entrance with a single slide requires some maneuvering betwee
 {% include yt.html id="UNibrH7ZgHQ" %}  
 
 There are a few different variations you can do for the TAS Strat. 
-- Second boat can be dismounted either aggro [(Tip of the Ship)](https://youtu.be/GdkqnhZPNO4?si=bDcWKoa_7qyk8OPw&t=9) or safe [(Side of the Ship)](https://youtu.be/pfE1xT61W8s?si=gbiIOJ99FSVb416D&t=51).
-- Coin Clip (7th coin) can be done on [Left Side](https://youtu.be/GdkqnhZPNO4?si=cDnymqSKw5t_RPgI&t=19) or [Right Side](https://youtu.be/gEY-LOqHxXg?si=is31hPOO3LBYfLNB&t=21) (preference).  
+<details markdown="block">
+  <summary markdown="span">
+    Second Boat - Click for Details
+  </summary>
+ Second boat can be dismounted either aggro [(Tip of the Ship)](https://youtu.be/GdkqnhZPNO4?si=bDcWKoa_7qyk8OPw&t=9) or safe [(Side of the Ship)](https://youtu.be/pfE1xT61W8s?si=gbiIOJ99FSVb416D&t=51).
+<img src="https://i.imgur.com/A8GzxV7.png" width=500>  
+</details>  
+<details markdown="block">
+  <summary markdown="span">
+    Coin Clip - Click for Details
+  </summary>  
+  Coin Clip (7th coin) can be done on [Left Side](https://youtu.be/GdkqnhZPNO4?si=cDnymqSKw5t_RPgI&t=19) or [Right Side](https://youtu.be/gEY-LOqHxXg?si=is31hPOO3LBYfLNB&t=21) (preference).  
