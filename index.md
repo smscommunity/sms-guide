@@ -19,7 +19,7 @@ Pages detailing strats for individual shines.
 An index of mostly external tutorials.
 4. **Routes**  
 Route documents compiled by the community.
-5. **Misc**  
+5. **Misc Game**  
 Game information, TAS, and documentaries.
 
 
@@ -30,7 +30,7 @@ Game information, TAS, and documentaries.
 Guides on setting up to speedrun.
 2. **Tools**  
 An index of useful software.
-3. **Misc**  
+3. **Misc General**  
 E.g. IL guide+rules, retiming methodology, wiki-editing guide.
 
 **Community**  
@@ -40,5 +40,5 @@ E.g. IL guide+rules, retiming methodology, wiki-editing guide.
 Links to leaderboards.
 2. **Events**  
 A list of events and links to their pages and results.
-3. **Misc**  
-Miscellaneous info.
+3. **Misc Community**  
+Miscellaneous/extra info.
