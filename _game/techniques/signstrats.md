@@ -3,7 +3,7 @@ layout: default
 title: Sign Strats
 permalink: /techniques/signstrats/
 parent: Techniques
-nav_order: 1
+nav_order: 2
 ---
 
 # Sign Strats (Fast Piantissimo Text)
