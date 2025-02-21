@@ -5,11 +5,10 @@ permalink: /techniques/speedoptimization/
 parent: Techniques
 nav_order: 1
 ---
+{: .no_toc }
 # Speed Display Codes and Optimizing Gameplay
 
 *guide by **Jpep** – [original](https://gist.github.com/JpepWasTaken/e8c2eec244e919f527f651f8fe4bdb29)*
-
-{: .no_toc }
 
 1. TOC
 {:toc}
