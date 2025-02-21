@@ -13,6 +13,8 @@ Index of external links to useful software.
 1. TOC
 {:toc}
 
+# [SMS Resources](https://docs.google.com/document/d/1pudLEd6H__KUzDDAdVJedNK3l58ILNB3haZj73uhHzg/edit) *by akane174*  
+
 ## Game Tools
 Tools used to play and practice SMS.
 ### Emulator
