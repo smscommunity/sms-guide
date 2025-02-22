@@ -7,9 +7,7 @@ grand_parent: Shines
 ---
 # Noki 5 is a race with Piantissimo.
 
-### [Sign Strats](https://smscommunity.github.io/sms-guide/techniques/signstrats/)  
-
-**Getting to Piantissimo**  
+## Getting to Piantissimo  
 **RTA Strats**
 #### Hoverslide  
 {% include yt.html id="NL7vDlxqFC4" %}  
