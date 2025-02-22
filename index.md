@@ -9,7 +9,6 @@ nav_exclude: true
 ## Table of Contents
 #### *Description of the page tabs on the left*  
 
-
 **Game**  
 *Documentation of game knowledge.*
 1. **[Categories](https://smscommunity.github.io/sms-guide/categories/)**  
