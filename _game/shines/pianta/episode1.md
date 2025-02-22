@@ -7,10 +7,7 @@ grand_parent: Shines
 nav_exclude: true
 ---
 
-<!---
-nav_exclude: true is there while this has no content;
-replace with nav_order: 1 once this has some content
--->
-
 # Pianta 1
-Pianta 1 is 
+Pianta 1 is a shine where you need to put out and pull the tails of 3 chomplettes, and put them into a body of water.  
+
+<img src="https://i.imgur.com/EL2L4y8.png" width="500">  
