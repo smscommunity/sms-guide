@@ -10,34 +10,36 @@ grand_parent: Shines
 Noki 6 is the notorious "The Shell's Secret", "Choki 6", an infamous run killer. It's also a very popularly liked and heavily practiced shine by many runners.
 
 ## Entering the Secret  
-
-### Beginner  
+ 
 #### Cliff Entry  
+*Beginner*  
 {% include yt.html id="xOek-DUeh94" %}  
 
-### Advanced    
 #### Classic Ropes  
+*Intermediate*  
 Harder execution, less weird quirks  
 {% include yt.html id="vye8WFMG2MY" %}  
 #### Nashi Ropes  
+*Intermediate*  
 Easier execution, more weird quirks  
 {% include yt.html id="meDA7Kgs-kI" %}  
 
 ## The Secret  
 
-### Beginner  
 #### Cycleless  
+*Beginner*  
 {% include yt.html id="zw7IMG-cM2U" %}  
 
 #### Blue Cycle  
+*Beginner*  
 {% include yt.html id="_oPoBaLf3yU" %}  
 
-### Intermediate  
 #### True Green Cycle (No platform skips)  
+*Intermediate*  
 {% include yt.html id="WPlkURzFGl4" %}  
 
-### Advanced 
 #### Galapagos (Green Cycle with platform skips)  
+*Advanced*  
 {% include yt.html id="AyoaFrsVE2M" %}  
 
 ## Warning for the Ending
