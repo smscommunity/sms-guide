@@ -26,7 +26,7 @@ This strat loses roughly 2 seconds to the advanced strat.
 - (Jump) dive and rollout across the bridge following the pattern in the video below
 - Triple jump dive then rollout between the Piantas and stopping at this spot at the edge of the fiery goop
   
-<img src="https://i.imgur.com/Oc5X8uA.jpeg" width="300">
+<img src="https://i.imgur.com/Oc5X8uA.jpeg" width="500">
   
 - Allow the wind spirit to knock you forward into the goop, then jump dive, rollout, and jump dive onto the rail
 - Rollout onto the box and sideflip (or spinjump) onto the mushroom
@@ -38,12 +38,7 @@ This strat loses roughly 2 seconds to the advanced strat.
 {% include yt.html id="ZuU1SRn-vGM" %}  
 #### Normal Boost, GWKD  
 *Advanced*  
-- (Jump) dive and rollout across the bridge following the pattern in the video below
-- Triple jump dive then rollout between the Piantas and stopping at this spot at the edge of the fiery goop
-  
-<img src="https://i.imgur.com/Oc5X8uA.jpeg" width="300">
-  
-- Allow the wind spirit to knock you forward into the goop, then spin jump dive and rollout onto the rail
+- After the wind spirit knocks you forward into the goop, buffer a spinjump dive out of the getting up animation and rollout onto the rail
 - Spin jump dive to the mushroom, then insta-momentum spin up left towards the ledge
 - GWKD off the ledge by pressing Y+A+B, then hold right and ground pound onto FLUDD
 - Jump to the next platform, and sideflip out from under the gold mushroom
