@@ -6,9 +6,7 @@ parent: Pianta Village
 grand_parent: Shines
 nav_exclude: true
 ---
-{: .no_toc }
 # Pianta 1 
-
 
 Pianta 1 is a shine where you need to put out and pull the tails of 3 Chomps, and put them into a body of water.  
 
@@ -16,14 +14,12 @@ Pianta 1 is a shine where you need to put out and pull the tails of 3 Chomps, an
 
 - You cannot put the chomplets out with your hover nozzle immediately on NTSC-U/PAL. 
 
-{:toc}
+<img src="https://i.imgur.com/fw4J7TW.png">  
 
-<img src="https://i.imgur.com/dzgriwa.png">  
+### Normal 1st(A) Chomp Pattern  
+These are typical RTA strats for when the A Chomp goes down the blue Normal path, and varies on what Chomp B and C do.  
 
-### Normal 1st Chomp Pattern (B)
-These are typical RTA strats for when the B Chomp goes down the blue Normal path, and varies on what Chomp B and C do.  
-
-### Normal 3rd Chomp
+**Normal 3rd(C) Chomp**    
 
 #### Wait at Wall  
 *Beginner and NTSC-U/PAL Friendly*  
@@ -41,7 +37,7 @@ These are typical RTA strats for when the B Chomp goes down the blue Normal path
 *Advanced*  
 {% include yt.html id="Viy4GiOKJXw" %}  
 
-## Bad 3rd Chomp  
+**Bad 3rd(C) Chomp**  
 
 #### Typical RTA Strat  
 *Beginner and NTSC-U/PAL Friendly*  
@@ -51,15 +47,15 @@ These are typical RTA strats for when the B Chomp goes down the blue Normal path
 *Advanced*  
 {% include yt.html id="Viy4GiOKJXw" %}  
 
-### Forgotten Strat (1st is now A, 2nd is now B)  
-A strat lost to time and rediscovered to be faster, you go left first and trigger Chomp A first instead of Chomp B, if you see Chomp B go down the purple Forgotten (Left First) path.  
+**Forgotten Strat (1st is now B, 2nd is now A)**    
+A strat lost to time and rediscovered to be faster, you go left first and trigger Chomp B first instead of Chomp A, if you see Chomp A go down the purple Forgotten (Left First) path.  
 *All of these are Advanced*  
 
-#### Good 2nd(B), Bad 3rd(C).  
+#### Good 2nd(A), Bad 3rd(C).  
 {% include yt.html id="Viy4GiOKJXw" %}  
 
-#### Good 2nd(B), Good 3rd(C).  
+#### Good 2nd(A), Good 3rd(C).  
 {% include yt.html id="Viy4GiOKJXw" %}  
 
-#### Bad 2nd(B), Good 3rd(C).  
+#### Bad 2nd(A), Good 3rd(C).  
 {% include yt.html id="Viy4GiOKJXw" %}  
