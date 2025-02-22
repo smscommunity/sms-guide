@@ -7,7 +7,8 @@ nav_exclude: true
 ### The best place to learn how to speedrun Super Mario Sunshine!  
 
 ## Table of Contents
-#### *Description of the page tabs on the left*
+#### *Description of the page tabs on the left*  
+
 
 **Game**  
 *Documentation of game knowledge.*
