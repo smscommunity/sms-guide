@@ -10,4 +10,4 @@ nav_exclude: true
 # Pianta 1
 Pianta 1 is a shine where you need to put out and pull the tails of 3 chomplettes, and put them into a body of water.  
 
-<img src="https://i.imgur.com/EL2L4y8.png">  
+<img src="https://i.imgur.com/dzgriwa.png">  
