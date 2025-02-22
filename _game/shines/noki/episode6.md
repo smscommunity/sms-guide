@@ -13,7 +13,7 @@ Noki 6 is the notorious "The Shell's Secret", "Choki 6", an infamous run killer.
  
 #### Cliff Entry  
 *Beginner*  
-Can be done with sideflips left and right up cliff.  
+Can be done with sideflips left and right up cliff instead of diagonal spinujump.  
 {% include yt.html id="xOek-DUeh94" %}  
 
 #### Classic Ropes  
