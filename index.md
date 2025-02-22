@@ -10,7 +10,7 @@ nav_exclude: true
 *Description of the page tabs on the left*  
 
 #### **Game**  
-*Documentation of game knowledge.*  
+<sup>*Documentation of game knowledge.*</sup>  
 
 1. **[Categories](https://smscommunity.github.io/sms-guide/categories/)**  
 Overview of category definitions.
@@ -27,7 +27,7 @@ Game information, TAS, and documentaries.
 
 
 #### **General**  
-*Documentation of anything else – rulesets, tools, methodologies.*  
+<sup>*Documentation of anything else – rulesets, tools, methodologies.*</sup>  
 
 1. **[Setup](https://smscommunity.github.io/sms-guide/setup)**  
 Guides on setting up to speedrun.
@@ -37,7 +37,7 @@ An index of useful software.
 E.g. IL guide+rules, retiming methodology, wiki-editing guide.
 
 #### **Community**  
-*Leaderboards, events, archives.*  
+<sup>*Leaderboards, events, archives.*</sup> 
 
 1. **[Leaderboards](https://smscommunity.github.io/sms-guide/community/leaderboards/)**  
 Links to leaderboards.
