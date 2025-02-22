@@ -13,6 +13,4 @@ grand_parent: Shines
 {% include yt.html id="NL7vDlxqFC4" %}  
 #### Spinjump  
 {% include yt.html id="ABAwt06qHCA" %}  
-
-**Ignoring the IL Entry movement to Piantissimo,** you can see a combination of Sign Strats and a jumpdive bonk off of the pole. Using the setup found on the [Sign Strats](https://smscommunity.github.io/sms-guide/techniques/signstrats/) page, you can grab the shine and have fast text optimally this way.  
-{% include yt.html id="WIfOH9EYN6M" %}  
+You can see a combination of [Sign Strats](https://smscommunity.github.io/sms-guide/techniques/signstrats/) and a jumpdive bonk off of the pole. Using the setup found on the [Sign Strats](https://smscommunity.github.io/sms-guide/techniques/signstrats/) page, you can grab the shine and have fast text optimally this way.  
