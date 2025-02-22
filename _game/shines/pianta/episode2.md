@@ -9,8 +9,9 @@ grand_parent: Shines
 Pianta 2 is a race with Piantissimo.
 
 ## Getting to Piantissimo  
-[Waterslide Triplejump](https://www.youtube.com/watch?v=6RccwCAYZ60)  
+#### Waterslide Triplejump  
 *Intermediate*  
+{% include yt.html id="6RccwCAYZ60" %}  
 
 ## Shine Grab  
 Using the setup found on the [Sign Strats](https://smscommunity.github.io/sms-guide/techniques/signstrats/) page, you can find the visual cue for where to stand after reading the sign.  
