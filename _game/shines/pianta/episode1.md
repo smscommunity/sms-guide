@@ -6,9 +6,9 @@ parent: Pianta Village
 grand_parent: Shines
 nav_exclude: true
 ---
-
-# Pianta 1 
 {: .no_toc }
+# Pianta 1 
+
 
 Pianta 1 is a shine where you need to put out and pull the tails of 3 Chomps, and put them into a body of water.  
 
