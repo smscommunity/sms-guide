@@ -4,7 +4,6 @@ title: Pianta 1
 permalink: /shines/pianta/episode1/
 parent: Pianta Village
 grand_parent: Shines
-nav_exclude: true
 ---
 # Pianta 1 
 
@@ -19,8 +18,11 @@ Pianta 1 is a shine where you need to put out and pull the tails of 3 Chomps, an
 ### Normal 1st(A) Chomp Pattern  
 These are typical RTA strats for when the A Chomp goes down the blue Normal path, and varies on what Chomp B and C do.  
 
-**Normal 3rd(C) Chomp**    
-
+<details markdown="block">
+  <summary markdown="span">
+    Normal 3rd(C) Chomp 
+  </summary>
+  {: .text-gamma}
 #### Wait at Wall  
 *Beginner and NTSC-U/PAL Friendly*  
 {% include yt.html id="_ZkoUbYRWrk" %}  
@@ -36,9 +38,13 @@ These are typical RTA strats for when the A Chomp goes down the blue Normal path
 #### Slide Past  
 *Advanced*  
 {% include yt.html id="Viy4GiOKJXw" %}  
+</details>   
 
-**Bad 3rd(C) Chomp**  
-
+<details markdown="block">
+  <summary markdown="span">
+    Bad 3rd(C) Chomp  
+  </summary>
+  {: .text-gamma}
 #### Typical RTA Strat  
 *Beginner and NTSC-U/PAL Friendly*  
 {% include yt.html id="tJDFV1A7was" %}  
@@ -46,11 +52,19 @@ These are typical RTA strats for when the A Chomp goes down the blue Normal path
 #### Over the Wall  
 *Advanced*  
 {% include yt.html id="Viy4GiOKJXw" %}  
+</details>   
 
-**Forgotten Strat (1st is now B, 2nd is now A)**    
+
+### Forgotten Strat (1st is now B, 2nd is now A)   
+
 A strat lost to time and rediscovered to be faster, you go left first and trigger Chomp B first instead of Chomp A, if you see Chomp A go down the purple Forgotten (Left First) path.  
 *All of these are Advanced*  
 
+<details markdown="block">
+  <summary markdown="span">
+    Forgotten - Click to Expand
+  </summary>
+  {: .text-gamma}
 #### Good 2nd(A), Bad 3rd(C).  
 {% include yt.html id="Viy4GiOKJXw" %}  
 
@@ -59,3 +73,4 @@ A strat lost to time and rediscovered to be faster, you go left first and trigge
 
 #### Bad 2nd(A), Good 3rd(C).  
 {% include yt.html id="Viy4GiOKJXw" %}  
+</details>   
