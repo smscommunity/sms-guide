@@ -5,7 +5,9 @@ permalink: /shines/noki/episode5/
 parent: Noki Bay
 grand_parent: Shines
 ---
-# Noki 5 is a race with Piantissimo.
+# Noki 5
+
+Noki 5 is a race with Piantissimo.
 
 ## Getting to Piantissimo  
 **RTA Strats**
