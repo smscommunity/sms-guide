@@ -19,9 +19,3 @@ has_children: true
 {% include yt.html id="g3wh1Bv910w" %}
 
 {% include yt.html id="BNAYi4FKLOY" %}
-
-**Pianta 2**  
-[Advanced](https://www.youtube.com/watch?v=6RccwCAYZ60) – waterslide triple-jump  
-
-**Pianta 3**  
-[Beginner](https://www.youtube.com/watch?v=Uevx6XNDIqM) – new damage-boost  
