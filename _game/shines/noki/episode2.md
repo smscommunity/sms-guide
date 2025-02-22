@@ -8,7 +8,7 @@ grand_parent: Shines
 # Noki 2 
 Clip through the wall with a spring to skip a repeat boss fight with the Gooper Blooper.  
 
-#### Sideflip Walkicks
+#### Sideflip Wallkicks
 *Beginner*  
 {% include yt.html id="ATapqvDcXPM" %}  
 
