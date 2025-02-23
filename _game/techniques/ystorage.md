@@ -3,7 +3,7 @@ layout: default
 title: Y-Storage
 permalink: /techniques/ystorage/
 parent: Techniques
-nav_order: 3
+nav_order: 4
 ---
 
 # Y-Storage  
