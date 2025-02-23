@@ -6,10 +6,11 @@ parent: Delfino Plaza
 grand_parent: Shines
 nav_order: 1
 ---
-Videos to be added  
 # Airstrip
 #### Normal Airstrip
 *Beginner*  
+{% include yt.html id="" %}  
 
 #### Fast Airstrip
 *Intermediate*  
+{% include yt.html id="J1fEEd2Oac4" %}  
