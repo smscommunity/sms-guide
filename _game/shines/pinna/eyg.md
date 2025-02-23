@@ -4,7 +4,7 @@ title: EYG
 permalink: /shines/pinna/eyg/
 parent: Pinna Park
 grand_parent: Shines
-nav_order: 5
+nav_order: 1
 ---
 
 # EYG
