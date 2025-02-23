@@ -28,6 +28,8 @@ The inputs to let go of the Chomp's chain quickly is:
 {% include yt.html id="371-MkWA7e0" %}  
 *Intermediate*  
 {% include yt.html id="MejBoNIqhbA" %}  
+*Advanced*  
+{% include yt.html id="kDeufBKsOAU" %}  
 
 #### Middle Path  
 *Beginner*  
@@ -40,3 +42,5 @@ The inputs to let go of the Chomp's chain quickly is:
 {% include yt.html id="yXm6GnisbOg" %}  
 *Intermediate*  
 {% include yt.html id="SBno3ITQ2Kw" %}  
+*Advanced*  
+{% include yt.html id="cVKSMPTV4Ik" %}  
