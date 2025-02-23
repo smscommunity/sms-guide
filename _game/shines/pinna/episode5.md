@@ -17,7 +17,7 @@ Pinna 5 is a shine not required for any% completion due to EYG; however, EYG can
 - As you reach the top of the ramp, do a full A press jump off of it towards the left then start hovering towards the ferris wheel and you'll clip right through the wheel. (It is VITAL that you start the hover pretty late, otherwise you'll have too much height and run into an invisible wall that prevents you from clipping through the wheel. The height required to avoid this invisible wall is very lenient so don't worry about this too much.)
 - As you clip through the ferris wheel, aim for the platform just under the mesh platform that the electrokoopa is sleeping on, then spinjump off it and hover, effectively grabbing the ceiling. Press A to flip mario through the mesh door and this will kill the electrokoopa, spawn the shine, then bring the ferris wheel's speed back to normal.
 - Jump to the platform just left of the mesh, then charge a beyblade and beyblade spin off its slope to land one of the ferris wheel cabins (if this beyblade is too hard for you, just do a normal buffered spin, it barely loses any time)
-- As you reach the top, charge another beyblade, then spinjump dive off the ferris wheel cabin and rollout into the shine
+- As you reach the top, charge another beyblade, then spinjump dive off the ferris wheel cabin and rollout into the shine.  
 {% include yt.html id="A_yQLnPvXXE" %}  
 
 
@@ -30,5 +30,5 @@ Pinna 5 is a shine not required for any% completion due to EYG; however, EYG can
 - Run up the ramp with the momentum you received from the rollout and then do a full A press jump off of the ramp and hover towards the ferris wheel, effectively clipping through it (again, heeding the warning to hover late to avoid the invisible wall)
 - As you're clipping through the ferris wheel, dive rollout off of the top of the brick wall, then buffer spinjump off the platform just under the mesh that the electrokoops is sleeping on, effectively grabbing the ceiling, then press A to flip mario through the mesh door and this will kill the electrokoopa, spawn the shine, then bring the ferris wheel's speed back to normal.
 - The beyblade to the cabin is the same as it is in the beginner video.
-- As you reach the shine platform, do a backflip onto the shine platform, then do an extra dive into a ground pound, collecting the shine.
+- As you reach the shine platform, do a backflip onto the shine platform, then do an extra dive into a ground pound, collecting the shine.  
 {% include yt.html id="X4YBjn8dELU" %}  
