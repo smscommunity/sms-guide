@@ -7,7 +7,7 @@ grand_parent: Shines
 ---
 
 # Sirena 1  
-Sirena 1 is one of the most memorable and creepy levels in the game. It's also a level where you can easily lost large amounts of time to RNG, depending on how the manta reacts to you, how it splits, and how your water hits it.
+Sirena 1 is one of the most memorable and creepy levels in the game. It's also a level where you can easily lose large amounts of time to RNG, depending on how the manta reacts to you, how it splits, and how your water hits it.
 
 <details markdown="block">
   <summary markdown="span">
