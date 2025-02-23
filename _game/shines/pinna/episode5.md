@@ -28,7 +28,7 @@ Pinna 5 is a shine not required for any% completion due to [EYG](https://smscomm
 - Charge a beyblade and then beyblade off of the boat as the boat starts to become steep enough for buttslide momentum.
 - Staying spinning in midair to preserver momentum then hover into a dive rollout as you reach the green mesh ramp.
 - Run up the ramp with the momentum you received from the rollout and then do a full A press jump off of the ramp and hover towards the ferris wheel, effectively clipping through it (again, heeding the warning to hover late to avoid the invisible wall)
-- As you're clipping through the ferris wheel, dive rollout off of the top of the brick wall, then buffer spinjump off the platform just under the mesh that the electrokoops is sleeping on, effectively grabbing the ceiling, then press A to flip mario through the mesh door and this will kill the electrokoopa, spawn the shine, then bring the ferris wheel's speed back to normal.
+- As you're clipping through the ferris wheel, dive rollout off of the top of the brick wall, then buffer spinjump off the platform just under the mesh that the electrokoopa is sleeping on, and hover underneath the grate, grabbing the ceiling. Press A to flip mario through the mesh door and this will kill the electrokoopa, spawn the shine, then bring the ferris wheel's speed back to normal.
 - The beyblade to the cabin is the same as it is in the beginner video.
 - As you reach the shine platform, do a backflip onto the shine platform, then do an extra dive into a ground pound, collecting the shine.  
 {% include yt.html id="X4YBjn8dELU" %}  
