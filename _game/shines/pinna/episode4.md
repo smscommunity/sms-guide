@@ -11,7 +11,7 @@ Pinna 4 is a commonly disliked shine due to being easy to mess up and being very
 
 #### Two Cycle  
 *Beginner*  
-{% include yt.html id="" %}  
+*No video yet*  
 #### One Cycle (Right Side)  
 *Intermediate*  
 {% include yt.html id="Rh3IMEE-cI8" %}  
