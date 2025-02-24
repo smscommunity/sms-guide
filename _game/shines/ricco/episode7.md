@@ -7,7 +7,7 @@ grand_parent: Shines
 nav_order: 7
 ---
 # Ricco 7
-The advanced insta-kills save 1.2s(drive by)/1.5s(recovery) over the normal beginner strat.
+The advanced insta-kills save 1.2s(drive by)/1.5s(recovery) over the jump dive beginner strat.
 #### No Quick Kill  
 *Beginner*  
 #### Walking Spray
