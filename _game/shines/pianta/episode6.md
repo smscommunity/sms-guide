@@ -14,7 +14,7 @@ To be updated with a write up. Only strats and tips for now.
 
 #### Early Unlock #2
 *Beginner*  
-<img src="https://i.imgur.com/d8P9uOW.gif" width="500">  
+<img src="https://i.imgur.com/d8P9uOW.gif" width="600">  
 
 #### Easy Early Unlock #6
 *Beginner*  
@@ -36,15 +36,15 @@ To be updated with a write up. Only strats and tips for now.
 
 #### Spin Spray #5  
 *Intermediate*  
-<img src="https://i.imgur.com/43lxaza.gif" width="500">  
+<img src="https://i.imgur.com/43lxaza.gif" width="600">  
 
 #### Over the Wall #6
 *Intermediate*  
-<img src="https://i.imgur.com/sGIlAhv.gif" width="500">  
+<img src="https://i.imgur.com/sGIlAhv.gif" width="600">  
 
 #### Mushroom Unlock #7  
 *Intermediate*  
-<img src="https://i.imgur.com/CusVNlx.gif" width="500">  
+<img src="https://i.imgur.com/CusVNlx.gif" width="600">  
 
 #### "Free" 2:17 Ending
 *Intermediate*  
@@ -57,11 +57,11 @@ To be updated with a write up. Only strats and tips for now.
 
 #### Over the Corner #5
 *Advanced*  
-<img src="https://i.imgur.com/W7t0plQ.gif" width="500">  
+<img src="https://i.imgur.com/W7t0plQ.gif" width="600">  
 
 #### Behind the Back (Wilko Strat)
 *Advanced*  
-<img src="https://i.imgur.com/Hef5ReS.gif" width="500">  
+<img src="https://i.imgur.com/Hef5ReS.gif" width="600">  
 </details>
 
 #### No RNG Spam Spray Unlock  
