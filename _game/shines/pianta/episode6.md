@@ -20,7 +20,6 @@ A favorite [IL](https://smscommunity.github.io/sms-guide/info/il/) among many fo
 - Spray and aim to land just past the fence
 
 {% include gdrive.html id="1F30JboTg8nitT-noed6NPXHI5r4u7tpY" %}
-<img src="https://i.imgur.com/d8P9uOW.gif" width="600">  
 
 #### Easy Early Unlock #6
 *Beginner*  
