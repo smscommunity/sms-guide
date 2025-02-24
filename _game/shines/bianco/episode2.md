@@ -29,7 +29,7 @@ Though it's tempting to crack this level on first visit since it's the 2nd shine
 * Diving onto the spider (also faster), since this gives extra speed.
 * Spinning in midair if it looks like we're falling short, though this is slower – it reduces Mario's gravity on *falling only*, so gives a little more air-time but isn't that useful.
 
-☼ \| The next most important thing is your **angle of approach onto the spider** – this has a big effect where you end up after the jump, and so the hover duration to the windmill. This tests your spatial awareness – to orient yourself, bear in mind the [imaginary line](https://cdn.discordapp.com/attachments/529145099003887618/817481323349671997/unknown.png) from the (lake) entry-point to the corner in the back wall.
+☼ \| The next most important thing is your **angle of approach onto the spider** – this has a big effect where you end up after the jump, and so the hover duration to the windmill. This tests your spatial awareness – to orient yourself, bear in mind the [imaginary line](https://i.imgur.com/KMTGnzV.png) from the (lake) entry-point to the corner in the back wall.
 
 Mario can travel along the left shore without influencing the spider, which is faster than air and water-based travel, so for fast execution, it helps to **enter the water at the point of the shore closest to the spider**.
 
