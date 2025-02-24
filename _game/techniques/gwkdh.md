@@ -3,7 +3,7 @@ layout: default
 title: GWK/D/H
 permalink: /techniques/gwkdh/
 parent: Techniques
-nav_order: 3
+nav_order: 4
 ---
 # GWK/D/H
 
