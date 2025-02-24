@@ -11,7 +11,7 @@ A favorite [IL](https://smscommunity.github.io/sms-guide/info/il/) among many fo
 
 <details markdown="block">
   <summary markdown="span">
-    Beginner - Click for Details
+    Beginner - Click for Strats
   </summary>
 
 #### Early Unlock #2
@@ -19,6 +19,7 @@ A favorite [IL](https://smscommunity.github.io/sms-guide/info/il/) among many fo
 - Do a full rollout
 - Spray and aim to land just past the fence
 
+{% include gdrive.html id="1F30JboTg8nitT-noed6NPXHI5r4u7tpY" %}
 <img src="https://i.imgur.com/d8P9uOW.gif" width="600">  
 
 #### Easy Early Unlock #6
@@ -45,7 +46,7 @@ A favorite [IL](https://smscommunity.github.io/sms-guide/info/il/) among many fo
 
 <details markdown="block">
   <summary markdown="span">
-    Intermediate - Click for Details
+    Intermediate - Click for Strats
   </summary>
 
 #### Spin Spray #5  
@@ -77,7 +78,7 @@ A favorite [IL](https://smscommunity.github.io/sms-guide/info/il/) among many fo
 </details>
 <details markdown="block">
   <summary markdown="span">
-    Advanced - Click for Details
+    Advanced - Click for Strats
   </summary>
 
 #### Over the Corner #5
