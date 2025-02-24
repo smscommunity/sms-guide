@@ -13,7 +13,7 @@ To be updated with a write up. Only strats and tips for now.
   </summary>
 
 #### Early Unlock #2
-*Beginner*
+*Beginner*  
 <img src="https://i.imgur.com/d8P9uOW.gif" width="500">  
 
 #### Easy Early Unlock #6
