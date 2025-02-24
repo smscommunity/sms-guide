@@ -40,8 +40,8 @@ The checkpoints for the blooper race can be viewed [here.](https://twitter.com/Q
     Checkpoint Images from NokiDoki
   </summary>
   {: .text-gamma}
-<img src="https://cdn.discordapp.com/attachments/941086197885833266/1086389835465498724/FDeCWXiX0AMUe1n.png" width="200"> <img src="https://cdn.discordapp.com/attachments/941086197885833266/1086389836136579082/FDeCWXhWEAkY05h.png" width="200">
-<img src="https://cdn.discordapp.com/attachments/941086197885833266/1086389836639899729/FDeCWXiWEAIzdYs.png" width="200"> <img src="https://cdn.discordapp.com/attachments/941086197885833266/1086389837214523523/FDeCWXjWUAMiryY.png" width="200">
+<img src="https://i.imgur.com/U41gw4X.jpeg" width="200"> <img src="https://i.imgur.com/ACANvVC.jpeg" width="200">
+<img src="https://i.imgur.com/zSUXacc.jpeg" width="200"> <img src="https://i.imgur.com/zSUXacc.jpeg" width="200">
 </details>
 
 ### Beginner - Blooperful
