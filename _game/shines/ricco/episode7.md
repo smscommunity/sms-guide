@@ -12,7 +12,7 @@ The advanced insta-kills save 1.2s(drive by)/1.5s(recovery) over the jump dive b
 *Beginner*  
 #### Walking Spray
 {% include yt.html id="k_tGfRf77To" %}  
-- Hold forward and wiggle right so you are almost in the middle of the ramp, but slightly to the right.
+- Hold forward and wiggle left so you are almost in the middle of the ramp, but slightly to the right.
 - Start spraying as you decend the steps.  
 
 #### Jump Dive Rollout Spray
