@@ -20,5 +20,5 @@ Used in [Pianta 3 Advanced Strat](https://smscommunity.github.io/sms-guide/shine
 The *glitchy wall kick hover* (GWKH) is the same as a **GWK** but you cancel the Y-Cam immediately with a hover input. This is different compared to GWKD because you want to press R slightly later depending on the situation.  
 Used in [Bianco 2 Advanced Strat mounting the windmill](https://smscommunity.github.io/sms-guide/shines/bianco/episode2/#y-turn-wall-kicks) and others.  
 
-Tutorial by DutchJ
+Tutorial by DutchJ  
 {% include yt.html id="JZXoqc0Eywc" %}  
