@@ -19,7 +19,7 @@ Both the Beginner and Advanced Entry strats utilize a majority of the same movem
 - Slide to the water, rollout onto the first log, jump dive to the second log
 - Rollout onto the land, dive rollout up the small hill to position yourself to the right of the pole
 - Spin jump or sideflip into the pole to begin the wall kick
-- Aim to the [right side of the pole](https://cdn.discordapp.com/attachments/941086197885833266/1029200667119730708/unknown.png) as Mario can only wall kick off the right side.
+- Aim to the [right side of the pole](https://i.imgur.com/40VjD4b.png) as Mario can only wall kick off the right side.
 - Hover up to the cliff, dive rollout into the steep section while holding R to buffer a hover
 - Hover up the steep section, then jump dive and rollout into the secret
 
