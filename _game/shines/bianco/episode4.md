@@ -33,9 +33,8 @@ If you struggle with the insta-momentum spin after the 7th coin, you can hover t
 The Intermediate strat adds the grass-slide at the start of the level and a glitchy wall-kick hover at the end, which combined can save 1.0-1.5 seconds.
 #### Grass-Slide
 - At the start of the level, turn the camera slightly to the right, then hold up and hoverslide
-- Aim the hoverslide for the section of grass shown below, the last part which is not raised above the path
-
-[this section of grass](https://i.imgur.com/2Qiq3bm.png)
+- Aim the hoverslide for the section of grass shown below, the last part which is not raised above the path;this section of grass:  
+<img src="https://i.imgur.com/2Qiq3bm.png" width=500>  
 - Slide onto the grass, then aim for the spot mentioned above where the grass wall dips back slightly
 - Buffer a hover and slide off the grass wall. Holding up-right, briefly hover back towards this spot on the grass
 - As Mario lands back on the grass, spin jump towards the white wall and hover onto it
@@ -51,7 +50,8 @@ The Intermediate strat adds the grass-slide at the start of the level and a glit
 ### Advanced
 The Advanced strat, known as Rope Speedspin, adds an insta-momentum spin jump off the final roof before the last rope, which can save up to 1.64 seconds, but comes with the risk of rolling out off the roof.
 #### Rope Speedspin
-- After collecting the 8th red coin, jump dive into the roof of the right pillar, aiming for [this spot](https://i.imgur.com/zpiuEbm.png) on the roof
+- After collecting the 8th red coin, jump dive into the roof of the right pillar, aiming for this spot on the roof:  
+<img src="https://i.imgur.com/zpiuEbm.png" width=500>  
 - Perform an insta-momentum spin to the right, following the path of the rope
 - Briefly hover to exit the spin and fall onto the rope
 - Jump dive off the rope, ground pound just before landing back on it, then jump dive off it again into the shine
