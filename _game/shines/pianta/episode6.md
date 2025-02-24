@@ -26,7 +26,7 @@ To be updated with a write up. Only strats and tips for now.
 
 #### Y-Cam Early #7
 *Beginner*  
-<img src="https://i.imgur.com/Xti1QOz.gif" width="500">  
+<img src="https://i.imgur.com/5d3OllW.gif" width="500">  
 </details>
 
 <details markdown="block">
