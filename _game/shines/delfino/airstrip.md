@@ -9,7 +9,7 @@ nav_order: 1
 # Airstrip
 #### Normal Airstrip
 *Beginner*  
-{% include yt.html id="" %}  
+{% include yt.html id="0_Qn58QJhQk" %}  
 
 #### Fast Airstrip
 *Intermediate*  
