@@ -43,8 +43,8 @@ The Intermediate strat adds the grass-slide at the start of the level and a glit
 
 #### Glitchy Wall-Kick Hover
 - Upon landing on the middle section of the final building, spin jump towards the left pillar
-- GWKH by first rolling your thumb from Y to A to GWK onto the roof of the pillar
-- Finish the GWKH by briefly hovering after performing the GWK. The hover must come at least 1-2 frames after the GWK, otherwise you will do a regular wall kick with y-cam storage instead of a GWKH, which looks like [this.](https://youtu.be/NvD3OIPn4oQ)
+- [GWKH](https://smscommunity.github.io/sms-guide/techniques/gwkdh/) by first rolling your thumb from Y to A to GWK onto the roof of the pillar
+- Finish the GWKH by briefly hovering after performing the GWK. The hover must come at least 1-2 frames after the GWK, otherwise you will do a regular wall kick with [Y-Storage](https://smscommunity.github.io/sms-guide/techniques/ystorage/) instead of a GWKH, which looks like [this.](https://youtu.be/NvD3OIPn4oQ)
 - If you do a regular wall kick following an attempted GWKH, hover backwards onto the left pillar. Tap L while hovering to remove the y-cam storage that would otherwise occur when Mario lands.
 - Finish the level the same as the Beginner strat
 {% include yt.html id="nIY431bQL-w" %}
