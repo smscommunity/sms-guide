@@ -13,11 +13,12 @@ The advanced insta-kills save 1.2s(drive by)/1.5s(recovery) over the jump dive b
 #### Walking Spray
 {% include yt.html id="hEE2LF8hMI0" %}  
 - Hold forward and wiggle right so you are almost in the middle of the ramp, but slightly to the right.
-- Start spraying before you reach the steps (can start spraying right when you spawn)  
+- Start spraying before you reach the steps (can start spraying right when you spawn)
+
 #### Jump Dive Rollout Spray
 {% include yt.html id="f9Yoewmg1B8" %}  
 - Jump dive and rollout while moving left.
-- Hold up and chase Shadow Mario up the ramp while spraying until he goes down
+- Hold up and chase Shadow Mario up the ramp while spraying until he goes down  
 
 Alternative to the jump dive and rollout, you can jump in place and move slightly left, then just run forward and start spraying when Shadow Mario is triggered.
 #### Insta-Kill (Drive-By)  
