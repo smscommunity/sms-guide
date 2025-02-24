@@ -150,7 +150,7 @@ We'll take a look at each setup, with detailed inputs and cues. The first two se
 
 {% include yt.html id="6rWefa0lXn0" %}
 
-**Where to grab the alcove**: this [white area just right of centre](https://cdn.discordapp.com/attachments/529145099003887618/818324764296871936/unknown.png) is a good balance of safety and speed. The further right you grab, the faster and riskier the setup becomes - particularly after Mario's left hand exits the [dark region he's holding in this picture](https://cdn.discordapp.com/attachments/529145099003887618/818324764296871936/unknown.png). Left is easier and slower, but it stops working if Mario's left side crosses into the left half of the ledge.
+**Where to grab the alcove**: this [white area just right of centre](https://i.imgur.com/yui2MKg.png) is a good balance of safety and speed. The further right you grab, the faster and riskier the setup becomes - particularly after Mario's left hand exits the [dark region he's holding in this picture](https://i.imgur.com/yui2MKg.png). Left is easier and slower, but it stops working if Mario's left side crosses into the left half of the ledge.
 
 **When to start the wallkicks**: firstly, make sure to let the camera settle after the ledge-grab if you're looking for a visual cue. There are a couple of cues for when to start if you're too early, and when is too late, but you're often on time (it's a ~5s window) and can go right away.
 * **Early**: start as soon as Mario becomes fully occluded by the windmill. This means that the further right you are, the faster you'll start the kicks and the faster (by about the same amount) you'll enter the loading zone at the top.
@@ -174,7 +174,7 @@ We'll take a look at each setup, with detailed inputs and cues. The first two se
 
 {% include yt.html id="nAI9FiYxmiI" %}
 
-**Where to grab the alcove**: this [white area just left of centre](https://cdn.discordapp.com/attachments/529145099003887618/818329953681932308/unknown.png).
+**Where to grab the alcove**: this [white area just left of center](https://i.imgur.com/yui2MKg.png).
 
 **When to start the wallkicks**: there aren't many good visuals for when is too late, but the 2 videos above loosely show the time window (7.5s – 50% of the time – at least). It overlaps with the right ledgegrab window by about 3 seconds.
 
@@ -200,16 +200,16 @@ After the sideflip, do 4 wall-kicks, then hover, turn around to get over the roo
 
 Knowing how to cause Petey to open his mouth is important for success in the fight. In order to trigger this reliably, you must stand to the side of him.
 
-![](https://media.discordapp.net/attachments/1030613537816576080/1030614230149374062/image14.png)
+![](https://i.imgur.com/TwfAl6V.png)
 
 You want to stand as close to the right as possible in order to reduce the amount of time Petey takes to turn, but not too much to the right or Petey will swing his head. You want to line up Mario's legs on both sides of the dark green line on Petey's hand before he rises back up for the optimal positioning.
 
-![](https://media.discordapp.net/attachments/1030613537816576080/1030614204429893692/image5.png)
+![](https://i.imgur.com/dRVqCS2.png)
 
 For this first hit, this is made more difficult since you need to clean the ground first, and get near the spot. There's an alternative visual cue that you can use to line Mario up. These 4 white bricks near Petey can be useful for lining you up properly. Look for the bottom corner closest to Petey for the optimal turn.
 
-![](https://media.discordapp.net/attachments/1030613537816576080/1030614201821052978/image10.png)
-![](https://media.discordapp.net/attachments/1030613537816576080/1030614206900338868/image9.png)
+![](https://i.imgur.com/NBiislR.png)
+![](https://i.imgur.com/0Ephs17.png)
 
 ### Petey Spam Sprays
 
@@ -225,15 +225,15 @@ It takes 2 full spam sprays to fill Petey's mouth (go for 3 to be safe in case y
 
 Start your backflip when Petey is almost finished turning, so that you are near the top of his head as he opens it to maximize your window for spam sprays.
 
-![](https://media.discordapp.net/attachments/1030613537816576080/1030614203981119609/image4.png)
-![](https://media.discordapp.net/attachments/1030613537816576080/1030614202756382760/image2.png)
+![](https://i.imgur.com/XEaw1oH.png)
+![](https://i.imgur.com/GW8BLnV.png)
 
 ### Shine Grab
 
 After the third ground pound, you will want to orient yourself so you're facing towards the two vines hanging down from the ceiling. Towards the middle of the screen, you'll notice another 4 white brick pattern in an L shape. Standing near it, on this brick, puts you in the perfect position for the shine.
 
-![](https://media.discordapp.net/attachments/1030613537816576080/1030614202307575819/image1.png)
+![](https://i.imgur.com/k0j19oi.png)
 
 If you have perfect spam sprays, Petey will always disintegrate in the same spot. Look for this goop particle to vanish before you double jump hover to touch the lowest possible spot. See this image for proper positioning.
 
-![](https://media.discordapp.net/attachments/1030613537816576080/1030614229113380926/image12.png)
+![](https://i.imgur.com/yrk0pfP.png)
