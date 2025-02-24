@@ -10,7 +10,12 @@ nav_order: 7
 The advanced insta-kills save 1.2s(drive by)/1.5s(recovery) over the normal beginner strat.
 #### No Quick Kill  
 *Beginner*  
-{% include yt.html id="joyIBylYdxI" %}
+#### Walking Spray
+{% include yt.html id="hEE2LF8hMI0" %}  
+- Hold forward and wiggle right so you are almost in the middle of the ramp, but slightly to the right.
+- Start spraying before you reach the steps (can start spraying right when you spawn)  
+#### Jump Dive Rollout Spray
+{% include yt.html id="f9Yoewmg1B8" %}  
 - Jump dive and rollout while moving left.
 - Hold up and chase Shadow Mario up the ramp while spraying until he goes down
 
