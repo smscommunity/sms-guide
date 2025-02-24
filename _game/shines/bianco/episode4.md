@@ -35,7 +35,7 @@ The Intermediate strat adds the grass-slide at the start of the level and a glit
 - At the start of the level, turn the camera slightly to the right, then hold up and hoverslide
 - Aim the hoverslide for the section of grass shown below, the last part which is not raised above the path
 
-![this section of grass](https://i.imgur.com/2Qiq3bm.png)
+[this section of grass](https://i.imgur.com/2Qiq3bm.png)
 - Slide onto the grass, then aim for the spot mentioned above where the grass wall dips back slightly
 - Buffer a hover and slide off the grass wall. Holding up-right, briefly hover back towards this spot on the grass
 - As Mario lands back on the grass, spin jump towards the white wall and hover onto it
