@@ -25,7 +25,7 @@ A favorite [IL](https://smscommunity.github.io/sms-guide/info/il/) among many fo
 *Beginner*  
 - Spray just left of the tree
 
-<img src="https://i.imgur.com/QSgqOpN.gif" width="500">  
+{% include gdrive.html id="1DCqSdJ8-LHPmlx3j8QYKXMQG5S2nLMoM" %}
 
 #### Around the Corner #5
 *Beginner*  
@@ -33,14 +33,14 @@ A favorite [IL](https://smscommunity.github.io/sms-guide/info/il/) among many fo
 - Stay on the slope
 - Turn your camera as you run
 
-<img src="https://i.imgur.com/Xti1QOz.gif" width="500">  
+{% include gdrive.html id="1tWUbXivkyULlQOHLsfSF9mdqAM84Xm3G" %}
 
 #### Y-Cam Early #7
 *Beginner*  
 - Spray an arc of water while you wait for #6 to finish unlocking
 - Stand just past/behind #6 for good distance
 
-<img src="https://i.imgur.com/5d3OllW.gif" width="500">  
+{% include gdrive.html id="1ZQepkh4quKb_tYzev9j03MjIYFYh6L_i" %}
 </details>
 
 <details markdown="block">
@@ -55,25 +55,25 @@ A favorite [IL](https://smscommunity.github.io/sms-guide/info/il/) among many fo
 - Right when you start hovering, press X (Keep holding Digital R)
 - Do a spinjump as you land, do a spam spray spinjump
 
-<img src="https://i.imgur.com/43lxaza.gif" width="600">  
+{% include gdrive.html id="1qw8evmK1A4fS6-cEdrbYEBYWx0HSLtz2" %}
 
 #### Over the Wall #6
 *Intermediate*  
 - After Spin Spray #5, do a delayed dive rollout with your preprepared angle
 - Do another dive rollout (or a hoverslide rollout) while lining your angle up to do Mushroom Unlock #7
 
-<img src="https://i.imgur.com/sGIlAhv.gif" width="600">  
+{% include gdrive.html id="1qrtBFHw9XtOLeCAk_TOUIWQFILHh4uPP" %}
 
 #### Mushroom Unlock #7  
 *Intermediate*  
 - Aim just left of the tree
 - When landing on the mushroom, rollout immediately (eating dust changes your angle)
 
-<img src="https://i.imgur.com/CusVNlx.gif" width="600">  
+{% include gdrive.html id="1HS3Y4fo-SqUgQft94j1heOYutP5wPlHC" %}
 
 #### "Free" 2:17 Ending
 *Intermediate*  
-<img src="https://i.imgur.com/cgdWCLf.gif" width="500">  
+{% include gdrive.html id="1C3Ym5ATLeqL0qyOX4l74K4Z3hOZKRY6Y" %}
 </details>
 <details markdown="block">
   <summary markdown="span">
@@ -84,11 +84,11 @@ A favorite [IL](https://smscommunity.github.io/sms-guide/info/il/) among many fo
 *Advanced*  
 - Helps mitigate bad unlock RNG on #5
 
-<img src="https://i.imgur.com/W7t0plQ.gif" width="600">  
+{% include gdrive.html id="1yeNipPkycWzyFAsy8wibDGo14FQ8_LA6" %}
 
 #### Behind the Back (Wilko Strat)
 *Advanced*  
-<img src="https://i.imgur.com/Hef5ReS.gif" width="600">  
+{% include gdrive.html id="1sU9OETVhTqNxRb6Oh0_gRBb1TMcUgp-5" %}
 </details>
 
 #### No RNG Spam Spray Unlock  
