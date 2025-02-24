@@ -13,7 +13,8 @@ You have a few approaches to unlocking the plant that you can do:
 - Hoverslide straight forward
 - Veer to the left to avoid bonking on the benches
 - Right as you pass the last bench, do a small rollout just past the tree
-- Hoverslide straight towards the plant and hold R with the spray nozzle out
+- Turn the camera right and hoverslide straight towards the plant
+- As you approach the plant and get in the mud, hold R with the spray nozzle out
 - Bonk into the plant and spray it
 
 {% include yt.html id="UAaPTc80xqw" %}  
