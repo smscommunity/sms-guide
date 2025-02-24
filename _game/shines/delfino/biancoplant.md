@@ -45,4 +45,4 @@ Saves ~0.5s over 2014 TAS Movement
 - Slowly aim up as you fall, keeping the stream of water hitting the plant
 - After ~2.5s after you started spraying, un Y-Cam and backflip forward  
 
-{% include yt.html id="GMvPH3mzKms" %}  
+{% include yt.html id="kKX5vObntZM" %}  
