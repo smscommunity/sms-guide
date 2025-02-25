@@ -13,7 +13,7 @@ nav_order: 1
 
 JP is faster than PAL by ~1.7 seconds, and JP is more likely to hit early cycle in PV5 which saves an additional 15-20 seconds.
 
-Why is JP Faster?  
+[Why is JP Faster?](https://docs.google.com/spreadsheets/d/1Dl7XqJX23L-Bni0vlFGmu79RJUjtmsSpV1dmusbnQwM/edit?gid=1076198849#gid=1076198849)  
 *by shoutplenty and Despin*  
 
 | Desc.  | Time |
