@@ -3,7 +3,7 @@ layout: default
 title: Spam Sprays
 permalink: /techniques/spamsprays/
 parent: Techniques
-nav_order: 2
+nav_order: 3
 ---
 # Spam Sprays  
 
