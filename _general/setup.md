@@ -21,7 +21,7 @@ These emulators are allowed for times slower than the threshold defined in the C
 - Dolphin Emulator
 - Nintendont
 
-There are small and large differences between the versions which will affect your speedruns. Find the full list of differences in our [version differences](https://smscommunity.notion.site/Version-Differences-a2da9d8b0b33445a9f361d633f38e969) page.
+There are small and large differences between the versions which will affect your speedruns. Find the full list of differences in our [version differences](https://smscommunity.github.io/sms-guide/game/versiondifferences) page.
 
 ## Leaderboard Verification
 In order to have your run verified on our official leaderboards, there are a few rules:
