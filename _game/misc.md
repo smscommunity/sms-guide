@@ -10,8 +10,8 @@ has_children: false
 
 ## General
 
-**[Version Differences](https://smscommunity.notion.site/Version-Differences-a2da9d8b0b33445a9f361d633f38e969)**  
-Detailed breakdown of the overall differences between game versions.
+**[Version Differences](https://smscommunity.github.io/sms-guide/game/versiondifferences)**  
+Up to date and detailed breakdown of the overall differences between game versions.
 
 **[Item Index](https://docs.google.com/spreadsheets/d/1lci2OALBqboBs_JT7IaXJfBXa-LbVpMcDZTDKALm160/edit?usp=sharing)**  
 Index of blue coin/nozzle/Yoshi locations and shine/blue coin classifications.
