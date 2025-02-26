@@ -8,8 +8,6 @@ nav_order: 5
 # Setup
 {: .no_toc }
 
-# [SMS Resources](https://docs.google.com/document/d/1pudLEd6H__KUzDDAdVJedNK3l58ILNB3haZj73uhHzg/edit) *by akane174*  
-
 ## Picking a Platform
 In order to submit to the [official leaderboards](https://www.speedrun.com/sms), you need to play on one of the supported platforms:
 
