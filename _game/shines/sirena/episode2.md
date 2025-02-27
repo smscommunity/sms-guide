@@ -29,7 +29,7 @@ Just like the other secret stages, there's 2 parts. The entry and the secret its
 - Dive into short rollout towards upright, then jump while spraying water, when your height is higher than the ground above, dive and you'll waterslide.
 - The waterslide to the manager is the same as the beginner explanation.
 - Start a hoverslide then veer left, rollout onto the far left side of the plants, buffer spinjump off the far side of the plants while spraying, spinjump wallkick off the second floor railing, spinjump wallkick off the pole, then finally spinjump wallkick off the third floor railing to land in the secret entrance.
-{% include yt.html id="2lAVm9ncbo" %}
+{% include yt.html id="-2lAVm9ncbo" %}
 
 #### Boo Bounce into wallkicks
 - Start with a hoverdive rollout towards upright, then jump while spraying, when mario's height is higher than the ground above, dive and you'll waterslide.
