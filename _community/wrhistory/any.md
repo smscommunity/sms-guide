@@ -6,6 +6,7 @@ parent: WR History
 nav_order: 1
 ---
 # Any% World Record History  
+## GCN/Wii
 ### 2011  
 **[1:34:50](https://www.youtube.com/watch?v=TUsFLq4Rqkk)** by トーボウ on October 10, 2011  
 **[1:33:01](https://www.youtube.com/watch?v=bEDeCtvRmQ4)** by sincos on December 24, 2011(?)  
