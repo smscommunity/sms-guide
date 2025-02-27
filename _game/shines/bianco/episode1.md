@@ -36,7 +36,5 @@ Bianco 1 is an optional shine with an intended skip to Bianco 2 by the developer
 - Right when you spray, get out of Y-Cam and jumpdive towards [this blue coin](https://i.imgur.com/qKvQJd8.png)
 - Jumpdive again out of the water and start spamming B to descend towards the coin
 - Grab the coin before the cutscene starts
-
-<i><b>The strat now returns to being the same as 79/96</b>  
-- Jumpdive, rollout, and spinjump dive into the shine  
+- Jumpdive, rollout, jumpdive, rollout, and jump and groundpound under the shine  
 {% include yt.html id="Zz1OZS2HPt0" %}
