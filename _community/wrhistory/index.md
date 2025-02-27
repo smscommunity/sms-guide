@@ -6,4 +6,4 @@ nav_order: 1
 has_children: true
 ---
 
-World Record History  
+Super Mario Sunshine's Speedrunning World Record History  
