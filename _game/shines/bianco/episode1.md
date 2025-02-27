@@ -6,7 +6,7 @@ parent: Bianco Hills
 grand_parent: Shines
 ---
 # Bianco 1
-Bianco 1 is an optional shine with an intended skip to Bianco 2 by the developers, and is collected in categories like 79, 96, and 120 Shines.  
+Bianco 1 is an optional shine with an intended skip to Bianco 2 by the developers, and is collected in non-Any% categories like 79, 96, and 120 Shines. If you are new to Any%, you should be skipping this shine.  
 
 #### 79/96 Shines  
 - Waterslide down the hill as normal in Bianco 2
