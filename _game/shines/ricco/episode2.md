@@ -41,7 +41,7 @@ The checkpoints for the blooper race can be viewed [here.](https://twitter.com/Q
   </summary>
   {: .text-gamma}
 <img src="https://i.imgur.com/U41gw4X.jpeg" width="200"> <img src="https://i.imgur.com/ACANvVC.jpeg" width="200">
-<img src="https://i.imgur.com/zSUXacc.jpeg" width="200"> <img src="https://i.imgur.com/zSUXacc.jpeg" width="200">
+<img src="https://i.imgur.com/zSUXacc.jpeg" width="200"> <img src="https://i.imgur.com/4yUWxPQ.jpeg" width="200">
 </details>
 
 ### Beginner - Blooperful
