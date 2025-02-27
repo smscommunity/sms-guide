@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Any% History
+title: Any%
 permalink: /wrhistory/anypercent/
 parent: WR History
 nav_order: 1
