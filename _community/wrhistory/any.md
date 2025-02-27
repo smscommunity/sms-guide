@@ -1,3 +1,10 @@
+---
+layout: default
+title: Any% World Record History
+permalink: /wrhistory/anypercent/
+parent: WR History
+nav_order: 1
+---
 # Any% World Record History  
 ### 2011  
 **[1:34:50](https://www.youtube.com/watch?v=TUsFLq4Rqkk)** by トーボウ on October 10, 2011  
