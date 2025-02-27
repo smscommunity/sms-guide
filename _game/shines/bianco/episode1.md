@@ -30,13 +30,13 @@ Bianco 1 is an optional shine with an intended skip to Bianco 2 by the developer
 - Spray the Gatekeeper, backflip after ~2.5s
 - After the cutscene, spam spray as soon as possible (unless you are too close)
 
-<i><b>This is where the strat changes from 79/96</i></b>  
+<i><b>This is where the strat changes from 79/96</b>  
 - Run past the plant, then do a spinjump towards [this platform](https://i.imgur.com/XzDC7JB.png) and delay your spray until the plant opens his mouth (you can't see the plant, so this is a feel thing)
 - Land on the wooden platform, turn around and Y-Cam, and spray the plant again.
 - Right when you spray, get out of Y-Cam and jumpdive towards [this blue coin](https://i.imgur.com/qKvQJd8.png)
 - Jumpdive again out of the water and start spamming B to descend towards the coin
 - Grab the coin before the cutscene starts
 
-<i><b>The strat now returns to being the same as 79/96</i></b>  
+<i><b>The strat now returns to being the same as 79/96</b>  
 - Jumpdive, rollout, and spinjump dive into the shine  
 {% include yt.html id="Zz1OZS2HPt0" %}
