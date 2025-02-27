@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Any% World Record History
+title: Any% History
 permalink: /wrhistory/anypercent/
 parent: WR History
 nav_order: 1
