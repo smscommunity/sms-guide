@@ -21,8 +21,8 @@ Goals:
 * Kill 3 Pokey Sprouts
 
 Checkpoints:  
-
-
+img src="/_community/tasks/images/s03t01.png"/>  
+  
 ## Task 2
 [Results Video](https://www.youtube.com/watch?v=XJRG1XwBVKQ) | [Original Post](https://www49.atwiki.jp/mario-sunshine/pages/57.html)  
 **Level:** Pinna 7, inside the park  
@@ -44,14 +44,14 @@ Clarifications:
 **Level:** Pianta 8  
 **Start:** Fade in  
 **End:** Break the third wooden box.  
-Goals: 
-* Stand on all 3 Checkpoints
-* Collect 4 Red Coins
-* Break 3 Wooden Boxes
-
-Checkpoints:
-
-Restrictions:
+Goals:  
+* Stand on all 3 Checkpoints  
+* Collect 4 Red Coins  
+* Break 3 Wooden Boxes  
+  
+Checkpoints:  
+<img src="/_community/tasks/images/s03t03-1.png"/> <img src="/_community/tasks/images/s03t03-2.png"/> <img src="/_community/tasks/images/s03t03-3.png"/>  
+Restrictions:  
 If more than one box is broken at once, it is only counted as 1 box.
 
 ## Task 4
@@ -88,13 +88,13 @@ Restrictions:
 **Level:** Delfino Plaza (exit from Corona Mountain)  
 **Start:** Fade in  
 **End:** Enter Corona Mountain  
-Goals: 
-* Spawn 4 Yellow Coins from swinging shop signs
-* Do 5 Wall Kicks
-* Touch all 3 checkpoints
-
-Checkpoints:
-
+Goals:  
+* Spawn 4 Yellow Coins from swinging shop signs  
+* Do 5 Wall Kicks  
+* Touch all 3 checkpoints  
+  
+Checkpoints:  
+<img src="/_community/tasks/images/s03t06-1.png"/> <img src="/_community/tasks/images/s03t06-2.png"/> <img src="/_community/tasks/images/s03t06-3.png"/>  
 
 ## Task 7
 [Results Video](https://www.youtube.com/watch?v=I6FJ3xZH-SA) | [Original Post](https://www49.atwiki.jp/mario-sunshine/pages/62.html)  
@@ -142,7 +142,7 @@ Restrictions:
 **End:** The moment the air gauge appears.  
 Goal: 
 * Touch both checkpoints, in order:  
-  
+<img src="/_community/tasks/images/s03t10-1.png"/> <img src="/_community/tasks/images/s03t10-2.png"/>  
 * Complete bingo (3 in a row, horizontal, diagonal, or vertical)  
 1	2	3  
 4	5	6  
@@ -162,15 +162,15 @@ Goal:
 **Level:** Pinna 8, inside the park  
 **Start:** Fade in  
 **End:** Talk to the Noki that starts the Balloon Challenge  
-Goals: 
-* Touch 5 Checkpoints
-* Collect 1 Yellow Coin
-
-Checkpoints:
+Goals:  
+* Touch 5 Checkpoints  
+* Collect 1 Yellow Coin  
   
-Clarification:
-* Each boat counts as a separate checkpoint
-
+Checkpoints:  
+<img src="/_community/tasks/images/s03t11-1.png"/> <img src="/_community/tasks/images/s03t11-2.png"/> <img src="/_community/tasks/images/s03t11-3.png"/>  <img src="/_community/tasks/images/s03t11-4.png"/>  
+Clarification:  
+* Each boat counts as a separate checkpoint  
+  
 ## Task 12
 [Results Video](https://www.youtube.com/watch?v=KsJ_4rRv43M) | [Original Post](https://www49.atwiki.jp/mario-sunshine/pages/67.html)  
 **Level:** Corona Mountain  
