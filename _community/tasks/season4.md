@@ -20,9 +20,9 @@ Goals:
 * Touch 3/4 Checkpoints
 
 Checkpoints:  
-  
+<img src="/_community/tasks/images/s04t01-1.png"/> <img src="/_community/tasks/images/s04t01-2.png"/> <img src="/_community/tasks/images/s04t01-3.png"/> <img src="/_community/tasks/images/s04t01-4.png"/>  
 Trampoline:  
-  
+<img src="/_community/tasks/images/s04t01-5.png"/>  
 
 ## Task 2
 [Results Video](https://www.youtube.com/watch?v=vcO9AUqRRWg) | [Original Post](https://www49.atwiki.jp/mario-sunshine/pages/70.html)  
@@ -66,23 +66,23 @@ Goal: Have the highest time left on the timer
 * Touch a checkpoint: +4s
 * Only use the Spray Nozzle: +12s
 
-Checkpoints:
-  
+Checkpoints:  
+<img src="/_community/tasks/images/s04t04-1.png"/> <img src="/_community/tasks/images/s04t04-2.png"/> <img src="/_community/tasks/images/s04t04-3.png"/> <img src="/_community/tasks/images/s04t04-4.png"/>  
 
 ## Task 5
 [Results Video](https://www.youtube.com/watch?v=g0Ez5owg-yo) | [Original Post](https://www49.atwiki.jp/mario-sunshine/pages/73.html)  
 **Level:** Pinna 3, inside the park  
 **Start:** Fade in  
 **End:** Speak to any Pianta  
-Goals: 
-* Touch all 3 Checkpoints
-* Do 2/3 actions:
-	-Collect 4 Red Coins
-	-Kill 4 Electro-Koopas
+Goals:  
+* Touch all 3 Checkpoints  
+* Do 2/3 actions:  
+	-Collect 4 Red Coins  
+	-Kill 4 Electro-Koopas  
 	-Take 3 Fall Damage  
 
-Checkpoints:
-  
+Checkpoints:  
+<img src="/_community/tasks/images/s04t05-1.png"/> <img src="/_community/tasks/images/s04t05-2.png"/> <img src="/_community/tasks/images/s04t05-3.png"/>  
 
 ## Task 6
 [Results Video](https://www.youtube.com/watch?v=s4W0dE1a994) | [Original Post](https://www49.atwiki.jp/mario-sunshine/pages/74.html)  
