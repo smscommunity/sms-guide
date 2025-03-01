@@ -152,8 +152,10 @@ Goals:
 * Fly off a rope using the spinning animation
 * Stand on this location:
 
-<img src="docs/assets/task/s02t12.png"/>  
-![test](docs/assets/task/s02t12.png)  
+
+1 <img src="/blob/main/docs/assets/task/s02t12.png"/>  
+2 <img src="docs/assets/task/s02t12.png"/>  
+3 ![test](/blob/main/docs/assets/task/s02t12.png)  
 
 ## **Task 13** 
 [Results Video](https://www.youtube.com/watch?v=7tMDD4RFvXI) | [Original Post](https://www49.atwiki.jp/mario-sunshine/pages/52.html)  
