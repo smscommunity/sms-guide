@@ -110,6 +110,9 @@ Remote-desktop tools to stream OBS/LiveSplit/etc. to another computer, useful fo
 ## Analysis Tools
 Tools for analysing speedruns.
 
+**[therun.gg](https://therun.gg/)**  
+Split hosting website that lets you compare segments, combine splits to see best world segments, see extra details, and host races.  
+
 **[Any% World Segment Calculator](https://docs.google.com/spreadsheets/d/1v-FhUuG77YuWI8zTrCd8S8TZYM0V2JDqHzhaFiLHn8E/edit?usp=sharing)**  
 A spreadsheet tool to convert your split file into world segment history and bests.
 
