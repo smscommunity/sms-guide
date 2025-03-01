@@ -80,4 +80,4 @@ Index of external links to routes.
 
 ## All Signs  
 [Link](https://www.notion.so/The-Signs-in-Super-Mario-Sunshine-65e463313d4b4bcaa701ad2864731ae0?pvs=4)  
-*by Zeldocto*  
+*by rats7eli*  
