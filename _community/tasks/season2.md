@@ -153,7 +153,7 @@ Goals:
 * Stand on this location:
 
 <img src="./assets/task/s02t12.png"/>  
-![test](./assets/task/s02t12.png)  
+![test](/assets/task/s02t12.png)  
 
 ## **Task 13** 
 [Results Video](https://www.youtube.com/watch?v=7tMDD4RFvXI) | [Original Post](https://www49.atwiki.jp/mario-sunshine/pages/52.html)  
