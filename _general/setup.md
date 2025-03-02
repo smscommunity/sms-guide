@@ -43,6 +43,8 @@ Find our guide on hacked file on our [tools](https://smscommunity.github.io/sms-
 
 ## Recording  
 
+Check out the page for recording tools [here](https://smscommunity.github.io/sms-guide/tools#streaming-software).  
+
 There are four options you have to capture your game when playing on console. These are ordered from best to worst quality.  
 - You can use component cables if your capture card allows for it, or if you have a Retrotink 5X.
 - Its recommended (due to cost) and comparable to component to use a Wii2HDMI and an HDMI capture card.  
