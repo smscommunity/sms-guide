@@ -16,4 +16,4 @@ nav_order: 10
 *The different possible theoretical times.*  
 
 **[Evolution of Il Piantissimo](https://imgur.com/a/Zrfw9)**  
-*Documented history of the wikipedia page for Il Piantissimo.*  
+*Evolution of Il Piantissimo Pages on Mario.wikia.com*   
