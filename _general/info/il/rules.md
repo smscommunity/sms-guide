@@ -26,15 +26,12 @@ Rules are non-italicised and *guidelines (on best practices) are italicised*.
     7. **Fix Manta Splitting** is required for Sirena 1.
 
 3. **Timer**: all times must be **obtained directly from the in-game timer** (IGT) provided by the **Shine Get Timer** (SGT) practice code, version 2 or later (from Oct 2019), *with two exceptions:* (1) SGT may be left off for ILs using vanilla IGT, and (2) runs may be retimed (as below). Consult example videos to see where time starts and ends for a given level.
-    1. **Retimes may be requested** by posting a video in the main discord #help or #clips channel (pinging the `@IL Sheet Mod` role), or by sending it by direct message to the `IL Mods#6610` discord account. The included video must be somewhat cropped (i.e. <5 mins long). Examples of common retime situations are ILs from full-game runs or done without fast text by accident.
+    1. **Retimes may be requested** by typing `/ticket create` in the SMS discord. The included video must be somewhat cropped (i.e. <5 mins long). Examples of common retime situations are ILs from full-game runs or done without fast text by accident.
     2. **Retimes are available for all levels except** those where accurate load timing hasn't been done by the community, namely `Bianco 2; Ricco 1; Pinna 1; Noki 3,8; Airstrip; Corona Mountain (Full)`.
 
 4. **Video requirement**:
     1. **Video is required for times in the top 3 and/or top 15% of a level leaderboard**. The cutoff times for each level are shown in a row at the top of the sheet. Any PB that can't be posted because of this should go in a note over the relevant cell. Runs in the top 15% but not top 10% without video may be accepted on appeal.
-    2. **Players in the top 25 overall need to provide a minimum number of videos**. The quota is a proportion of your total entries, which varies depending on your overall rank (see below); your video count on the sheet will be highlighted orange if below the threshold. Anyone below the threshold must submit every IL with video (for flexibility, a videoless submission will be allowed for every 3 with video). *Guideline video quotas for ranks 26–50 are shown with a \*, but these aren't enforced or highlighted orange.*  
-    <img src="https://media.discordapp.net/attachments/529145099003887618/893497205514711150/unknown.png" width="150">
-
-    3. ***Videos are encouraged for every IL**. Videos legitimise runs, show respect for the competition, and provide documentation/ideas for all to learn from, at all skill-levels/parts of the leaderboard.*
+    2. ***Videos are encouraged for every IL**. Videos legitimise runs, show respect for the competition, and provide documentation/ideas for all to learn from, at all skill-levels/parts of the leaderboard.*
 
 5. **Video validity criteria:** every link must be to a valid video, "valid" meaning: 
     1. The video **must include the entire run while the timer is running**. The timer runs during the load into any of the seven worlds (e.g. Bianco Hills), and therefore **the entire intro cutscene** is required for valid video.
