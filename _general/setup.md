@@ -55,7 +55,7 @@ There are four options you have to capture your game when playing on console. Th
 - Replay buffer is used as a tool that records the previous designated seconds of gameplay using your RAM. It is extremely useful for recording ILs. Set at least 240s (4 minutes, around 100mb) or more depending on your IL times. If your replay buffer is running, when you complete an IL, you can hit the save button to the right and save the video instantly.
 
 ### Wii2HDMI
-**[Offbrand "BD%M"](https://www.amazon.com/dp/B0CZ716J42)**, $5  
+**[Offbrand "BD&M"](https://www.amazon.com/dp/B0CZ716J42)**, $5  
 *Cheap, lower quality assurance, diagonal scanlines in dark areas*  
 
 **[Mayflash](https://www.amazon.com/dp/B07XG6X4TC)**, $15  
