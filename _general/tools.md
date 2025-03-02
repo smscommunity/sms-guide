@@ -92,7 +92,7 @@ Tool to retime and frame-analyse ILs and full runs.
 
 *Find more of our video tools and in-depth explanations [here](https://smscommunity.github.io/sms-guide/info/video-tools/).*
 
-### YouTube Downloaders  
+### Video Downloaders  
 **[yt-dlp](https://github.com/yt-dlp/yt-dlp)**  
 Local command-based downloader, can be used with GUIs to make it more user friendly.  
 
