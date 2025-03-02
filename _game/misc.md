@@ -16,9 +16,6 @@ Up to date and detailed breakdown of the overall differences between game versio
 [Item Index](https://docs.google.com/spreadsheets/d/1lci2OALBqboBs_JT7IaXJfBXa-LbVpMcDZTDKALm160/edit?usp=sharing){: .btn }  
 Index of blue coin/nozzle/Yoshi locations and shine/blue coin classifications.
 
-[Text Timing](https://github.com/smscommunity/text-analysis){: .btn }  
-Algorithms to count text length by simulating it, and resulting timings.
-
 [A-Button Challenge](https://docs.google.com/spreadsheets/d/1j5OVfqqp97LhKHJja96h2SX5ZoFjaHiE7nvXgAYauMI){: .btn }  
 Sheet of low-A-press runs.  
 
