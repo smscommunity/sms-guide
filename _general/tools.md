@@ -17,13 +17,13 @@ Index of external links to useful software.
 Tools used to play and practice SMS.
 
 ### Guides  
-**[Wii Homebrew](https://wii.guide)**  
+[Wii Homebrew](https://wii.guide){: .btn }  
 Full homebrew tutorial complete with requisite software. *It's recommended to complete every step – HackMii, BootMii, NAND Backup, Priiloader, cIOSes.*
 
-**[SMS Practice Codes](https://gct.zint.ch)**  
+[SMS Practice Codes](https://gct.zint.ch){: .btn }  
 Cheat codes for Wii and emulator used for practice and to do IL speedruns.
 
-**[Practice Codes Guide](https://gct.zint.ch/guide.html)**  
+[Practice Codes Guide](https://gct.zint.ch/guide.html){: .btn }  
 Full tutorial for setting up practice codes.
 
 ### Wii Homebrew Apps
@@ -61,6 +61,10 @@ Standard visual autosplitter for LiveSplit; ask in the Discord for split images 
 ### Streaming Software
 **[OBS](https://obsproject.com/download)**  
 Standard streaming software.
+**OBS Settings**  
+- Frame rate should be set to either 29.97 or 59.94 to reduce dropped/repeated frames. *Not 30/60fps*  
+- Multiple audio tracks are useful in seperating discord, microphone, or music audio from the gameplay audio. [Tutorial Here](https://www.youtube.com/watch?v=h1MjrylqbTc).  
+- Replay buffer is used as a tool that records the previous designated seconds of gameplay using your RAM. It is extremely useful for recording ILs. Set at least 240s (4 minutes, around 100mb) or more depending on your IL times. If your replay buffer is running, when you complete an IL, you can hit the save button to the right and save the video instantly.
 
 **[Kushview Element](https://github.com/kushview/Element)**  
 Audio plugin host for microphone sound processing; example plugins [here](https://www.reaper.fm/reaplugs/).
