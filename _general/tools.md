@@ -26,30 +26,30 @@ Cheat codes for Wii and emulator used for practice and to do IL speedruns.
 **[Practice Codes Guide](https://gct.zint.ch/guide.html)**  
 Full tutorial for setting up practice codes.
 
-**[PAL SMS at 480p on Console](https://gist.github.com/siemkechester/089e5e1ecc8cec122f2ae2655afe79cb)**  
-Setting up real-time speedruns of PAL SMS at optimal 480p resolution.  
-
-### Apps
+### Wii Homebrew Apps
 
 **[Nintendont](https://zint.ch/NintendontPackager/)**  
-Wii Homebrew game loader app used to practice with cheat codes and run ILs; removes region locks; not used for RTA runs because of inaccurate loading times and lag. *Use the latest version, 6.498 or later; 6.489 is also fine but earlier/later versions often have problems.*.
+Game loader app used to practice with cheat codes and run ILs; removes region locks; not used for RTA runs because of inaccurate loading times and lag. *Use the latest version, 6.498 or later; 6.489 is also fine but earlier/later versions often have problems.*.
 
 **[Gecko OS](https://wiibrew.org/w/images/d/dd/Gecko1931.zip)**  
-Wii Homebrew game loader app used for SMS RTA runs; removes region locks. *Links to just the program; installation same as Nintendont.
+Game loader app used for SMS RTA runs; removes region locks. *Links to just the program; installation same as Nintendont.
 
-**[Swiss Loader](https://gbatemp.net/threads/how-to-set-up-and-use-swiss-on-the-wii.291505/)**  
-Wii Homebrew game loader app required to run PAL SMS at 480p, and to run cheat codes with accurate loads and lag; removes region locks. *Link is to full tutorial with requisite software*.
+**[Swiss Loader](https://gist.github.com/siemkechester/089e5e1ecc8cec122f2ae2655afe79cb)**  
+Game loader app required to run PAL SMS at 480p, and to run cheat codes with accurate loads and lag; removes region locks. *Link is to full tutorial with requisite software*.
+
+**[GCMM](https://github.com/suloku/gcmm/releases)**  
+Memory card and save manager.  
+
+**[SmashScope](https://compendium.dol-003.info/smashscope)**  
+Controller input visualizer.  
 
 ### Emulator
-**[Dolphin Emulator](https://dolphin-emu.org/download/)** [\[Settings Guide\]](https://imgur.com/a/qj6vrmM)  
+**[Dolphin Emulator](https://dolphin-emu.org/download/)**  
+[\[Settings Guide\]](https://imgur.com/a/qj6vrmM)  
 The only emulator used to play SMS on PC. *Use the latest beta version; never use the stable version.*  
 
 ## Speedrun Tools
 Tools used during speedruns.
-
-**Hacked File Guide**  
-**[via GCMM (Wii)](https://www.speedrun.com/sms/guide/qeqcu) / [via Practice Codes (Wii + Emu)](https://www.speedrun.com/sms/guide/2alxp) / [via JKSV (Switch)](https://www.speedrun.com/sms/guides/fzqsa)**  
-Setting up the file used for speedrunning without the introductory cutscenes.
 
 ### Timers
 **[LiveSplit](https://livesplit.org/downloads/)**  
