@@ -28,8 +28,6 @@ In order to have your run verified on our official leaderboards, there are a few
 - Video proof is required for runs faster than the threshold defined in the Category Rules.
 - Videos are required to show the game clearly, and contain game audio.
 
-For tool to record your speedruns, check out our [tools](https://smscommunity.github.io/sms-guide/tools) page here.  
-
 ### Thresholds
 Video proof is required for runs faster than a designated and agreed upon time from the community per category. Each category has these times defined in the category rules. Example: Any% No ACE = 1:25:00 and better.
 
@@ -42,8 +40,6 @@ To submit to the official leaderboards, you will need to start on one of three f
 Find our guide on hacked file on our [tools](https://smscommunity.github.io/sms-guide/tools#speedrun-tools) page under speedrun tools.
 
 ## Recording  
-
-Check out the page for recording tools [here](https://smscommunity.github.io/sms-guide/tools#streaming-software).  
 
 There are four options you have to capture your game when playing on console. These are ordered from best to worst quality.  
 - You can use component cables if your capture card allows for it, or if you have a Retrotink 5X.
@@ -77,6 +73,8 @@ There are four options you have to capture your game when playing on console. Th
 
 **[Retrotink 5X-Pro](https://www.retrotink.com/product-page/5x-pro)**, $325  
 *2X-Pro does not support 480p*
+
+For tools to record your speedruns, check out our [tools](https://smscommunity.github.io/sms-guide/tools#speedrun-tools) page under speedrun tools.  
 
 ### Practice Codes
 [Homebrew](https://wii.hacks.guide/) your wii and install [Nintendont](https://zint.ch/NintendontPackager/).  
