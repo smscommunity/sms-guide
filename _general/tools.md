@@ -103,7 +103,7 @@ Local command-based downloader, can be used with GUIs to make it more user frien
 [cobalt tools](https://cobalt.tools/){: .btn }  
 Online downloader for youtube, bluesky, twitter, twitch, and more.  
 
-[yt5s](https://yt5s.best/enlv101/){: .btn } 
+[yt5s](https://yt5s.best/enlv101/){: .btn }  
 Alternative online downloader for YouTube.  
 
 [TwitchDownloader](https://github.com/lay295/TwitchDownloader){: .btn }  
