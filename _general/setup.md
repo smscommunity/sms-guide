@@ -43,7 +43,16 @@ Find our guide on hacked file on our [tools](https://smscommunity.github.io/sms-
 
 ## Recording  
 
-Its recommended to use a Wii2HDMI and an HDMI capture card. You can also use component cables if your capture card allows for it, or if you have a .  
+There are three options you have to capture your game. These are ordered from best to worst quality.  
+- You can use component cables if your capture card allows for it, or if you have a Retrotink 5X.
+- Its recommended (due to cost) and comparable to component to use a Wii2HDMI and an HDMI capture card.  
+- You can use S-Video and it will be slightly better than RCA.
+- The lowest quality option you have is RCA connection. (Yellow, red, and white plugs)
+
+### OBS Settings  
+- Frame rate should be set to either 29.97 or 59.94 to reduce dropped/repeated frames. *Not 30/60fps*  
+- Multiple audio tracks are useful in seperating discord, microphone, or music audio from the gameplay audio. [Tutorial Here](https://www.youtube.com/watch?v=h1MjrylqbTc).  
+- Replay buffer is used as a tool that records the previous designated seconds of gameplay using your RAM. It is extremely useful for recording ILs. Set at least 240s (4 minutes, around 100mb) or more depending on your IL times. If your replay buffer is running, when you complete an IL, you can hit the save button to the right and save the video instantly.
 
 ### Wii2HDMI
 **[Cheap](https://www.amazon.com/dp/B0CZ716J42)**, $5  
@@ -66,11 +75,6 @@ Its recommended to use a Wii2HDMI and an HDMI capture card. You can also use com
 
 **[Retrotink 5X-Pro](https://www.retrotink.com/product-page/5x-pro)**, $325  
 *2X-Pro does not support 480p*
-
-### OBS Settings  
-- Frame rate should be set to either 29.97 or 59.94 to reduce dropped/repeated frames. *Not 30/60fps*  
-- Multiple audio tracks are useful in seperating discord, microphone, or music audio from the gameplay audio. [Tutorial Here](https://www.youtube.com/watch?v=h1MjrylqbTc).  
-- Replay buffer is used as a tool that records the previous designated seconds of gameplay using your RAM. It is extremely useful for recording ILs. Set at least 240s (4 minutes) or more depending on your IL times. If your replay buffer is running, when you complete an IL, you can hit the save button to the right and save the video instantly.
 
 ### Practice Codes
 [Homebrew](https://wii.hacks.guide/) your wii and install [Nintendont](https://zint.ch/NintendontPackager/).  
