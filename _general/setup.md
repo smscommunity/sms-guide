@@ -41,6 +41,10 @@ To submit to the official leaderboards, you will need to start on one of three f
 **[via GCMM (Wii)](https://www.speedrun.com/sms/guide/qeqcu) / [via Practice Codes (Wii + Emu)](https://www.speedrun.com/sms/guide/2alxp) / [via JKSV (Switch)](https://www.speedrun.com/sms/guides/fzqsa)**  
 Setting up the file used for speedrunning without the introductory cutscenes.  
 
+### Practice Codes
+[Homebrew](https://wii.hacks.guide/) your wii and install [Nintendont](https://zint.ch/NintendontPackager/).  
+Check out our [in-depth guide](https://gct.zint.ch/guide.html) on installing practice codes.
+
 ## Recording  
 
 There are four options you have to capture your game when playing on console. These are ordered from best to worst quality.  
@@ -49,35 +53,29 @@ There are four options you have to capture your game when playing on console. Th
 - You can use S-Video and it will be slightly better than RCA.
 - The lowest quality option you have is RCA connection. (Yellow, red, and white plugs)
 
-### OBS Settings  
-- Frame rate should be set to either 29.97 or 59.94 to reduce dropped/repeated frames. *Not 30/60fps*  
-- Multiple audio tracks are useful in seperating discord, microphone, or music audio from the gameplay audio. [Tutorial Here](https://www.youtube.com/watch?v=h1MjrylqbTc).  
-- Replay buffer is used as a tool that records the previous designated seconds of gameplay using your RAM. It is extremely useful for recording ILs. Set at least 240s (4 minutes, around 100mb) or more depending on your IL times. If your replay buffer is running, when you complete an IL, you can hit the save button to the right and save the video instantly.
-
 ### Wii2HDMI
-**[Offbrand "BD&M"](https://www.amazon.com/dp/B0CZ716J42)**, $5  
-*Cheap, lower quality assurance, diagonal scanlines in dark areas*  
+[Offbrand "BD&M"](https://www.amazon.com/dp/B0CZ716J42){: .btn }  
+<i> **$5** Cheap, lower quality assurance, diagonal scanlines in dark areas </i>    
 
-**[Mayflash](https://www.amazon.com/dp/B07XG6X4TC)**, $15  
-*Recommended, high quality*  
+**[Mayflash](https://www.amazon.com/dp/B07XG6X4TC){: .btn }  
+<i> **$15** Recommended, high quality </i>    
 
 ### Capture Cards
-**[Offbrand "Dcyfol"](https://a.co/d/3ZNa3k1)**, $35  
-*Cheap, very slight artifacting and color bleed*  
+[Offbrand "Dcyfol"](https://a.co/d/3ZNa3k1){: .btn }  
+<i> **$35** Cheap, very slight artifacting and color bleed </i>  
 
-**[EVGA XR1 lite](https://a.co/d/6B7HP8d)**, $60  
-*Recommended, high quality*  
+[EVGA XR1 lite](https://a.co/d/6B7HP8d){: .btn }  
+<i> **$60** Recommended, high quality </i>  
 
 ### Upscalers
-**[Mclassic](https://marseilleinc.com/products/buy-mclassic)**, $99  
+[Mclassic](https://marseilleinc.com/products/buy-mclassic){: .btn }  
+<i> **$99** </i>  
 
-**[PixelFX Morph](https://www.pixelfx.co/product-page/Morph-4k-Upscaler-Advanced-HDMI-Gaming-Media)**, $275  
+[PixelFX Morph](https://www.pixelfx.co/product-page/Morph-4k-Upscaler-Advanced-HDMI-Gaming-Media){: .btn }  
+<i> **$275** </i>  
 
-**[Retrotink 5X-Pro](https://www.retrotink.com/product-page/5x-pro)**, $325  
+[Retrotink 5X-Pro](https://www.retrotink.com/product-page/5x-pro){: .btn }  
+<i> **$325** </i>  
 *2X-Pro does not support 480p*
 
 For software to record your speedruns, check out our [tools](https://smscommunity.github.io/sms-guide/tools#speedrun-tools) page under speedrun tools.  
-
-### Practice Codes
-[Homebrew](https://wii.hacks.guide/) your wii and install [Nintendont](https://zint.ch/NintendontPackager/).  
-Check out our [in-depth guide](https://gct.zint.ch/guide.html) on installing practice codes.
