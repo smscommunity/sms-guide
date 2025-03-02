@@ -76,7 +76,7 @@ There are four options you have to capture your game when playing on console. Th
 **[Retrotink 5X-Pro](https://www.retrotink.com/product-page/5x-pro)**, $325  
 *2X-Pro does not support 480p*
 
-For tools to record your speedruns, check out our [tools](https://smscommunity.github.io/sms-guide/tools#speedrun-tools) page under speedrun tools.  
+For software to record your speedruns, check out our [tools](https://smscommunity.github.io/sms-guide/tools#speedrun-tools) page under speedrun tools.  
 
 ### Practice Codes
 [Homebrew](https://wii.hacks.guide/) your wii and install [Nintendont](https://zint.ch/NintendontPackager/).  
