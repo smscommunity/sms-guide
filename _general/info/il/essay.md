@@ -1,8 +1,6 @@
 ---
 layout: default
 title: IL Essay
-permalink: /info/il/essay/
-parent: Misc General Info
 nav_exclude: true
 ---
 
