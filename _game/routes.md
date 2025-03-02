@@ -15,25 +15,20 @@ Index of external links to routes.
 # Main Categories 
 
 ## Any%  
-**Up to Date, and Has Most Routes**  
-[Link](https://docs.google.com/spreadsheets/d/1_YA7xzNsG1JgCPHRJEKPGEIQGD_0Dp6e5HD_lvV5uvE/edit?gid=0#gid=0){: .btn }  
+[Up to Date, and Has Most Routes](https://docs.google.com/spreadsheets/d/1_YA7xzNsG1JgCPHRJEKPGEIQGD_0Dp6e5HD_lvV5uvE/edit?gid=0#gid=0){: .btn }  
 *by akane*  
 
-**Legacy (Outdated) Routes**  
-[Link](https://docs.google.com/spreadsheets/d/19wxG81nHkHlGVPRJZJKp8VcxSeGbRZnKmR9lN7jJSwM/edit#gid=1743316251){: .btn }  
+[Legacy (Outdated) Routes](https://docs.google.com/spreadsheets/d/19wxG81nHkHlGVPRJZJKp8VcxSeGbRZnKmR9lN7jJSwM/edit#gid=1743316251){: .btn }  
 *by Milk, Dutchj, Wilko*  
 
 ## 120 Shines  
-**Beginner and Advanced**  
-[Link](https://docs.google.com/spreadsheets/d/1RYgVH24OCRzEurlxePwU7Ltt-mtNuSK5yHYcrjiRAKI/edit?gid=148575540#gid=148575540){: .btn }  
-*by SB_Runs*
+[Beginner and Intermediate](https://docs.google.com/spreadsheets/d/1RYgVH24OCRzEurlxePwU7Ltt-mtNuSK5yHYcrjiRAKI/edit?gid=148575540#gid=148575540){: .btn }  
+*by sblectric*
 
-**Current Optimal 120 Shine Science**  
-[Link](https://docs.google.com/spreadsheets/d/1Vn-sqezuHox5zx9SgHWstKIR7_3CJ2hrVmzPl95Sa0U/edit?gid=1339267160#gid=1339267160){: .btn }  
+[Current Optimal 120 Shine Science](https://docs.google.com/spreadsheets/d/1Vn-sqezuHox5zx9SgHWstKIR7_3CJ2hrVmzPl95Sa0U/edit?gid=1339267160#gid=1339267160){: .btn }  
 *by Pogonateur, Shadowmario27*
 
-**Legacy Route**  
-[Link](https://docs.google.com/spreadsheets/d/1I2gojd6k2-fiDhW92VFG7C6_-CpGjrDS3H2ai8knDEg/edit#gid=0){: .btn }  
+[Legacy Route](https://docs.google.com/spreadsheets/d/1I2gojd6k2-fiDhW92VFG7C6_-CpGjrDS3H2ai8knDEg/edit#gid=0){: .btn }  
 *by Wilko*
 
 ## 96 Shines  
@@ -49,7 +44,7 @@ Index of external links to routes.
 
 ## All Blue Coins  
 [Link](https://docs.google.com/spreadsheets/d/1y_VvwcecK4O2TzQZbo9z4uDX6y61jUJKUdx82QRyxcA/edit?gid=0#gid=0){: .btn }  
-*by SB_Runs*
+*by sblectric*
 
 # Misc Categories
 
@@ -62,12 +57,10 @@ Index of external links to routes.
 *by akane*
 
 ## 20 Shines  
-**Several Different Routes and Compared**  
-[Link](https://docs.google.com/spreadsheets/d/17A-sxmSBVKzGtyZBUG33MBM68OLYCcUVEvRRecV0vGo/edit?gid=0#gid=0){: .btn }  
+[Several Different Routes and Compared](https://docs.google.com/spreadsheets/d/17A-sxmSBVKzGtyZBUG33MBM68OLYCcUVEvRRecV0vGo/edit?gid=0#gid=0){: .btn }  
 *by schmittd*  
 
-**Legacy Routes**  
-[Link](https://docs.google.com/spreadsheets/d/19wxG81nHkHlGVPRJZJKp8VcxSeGbRZnKmR9lN7jJSwM/edit#gid=892750369){: .btn }  
+[Legacy Routes](https://docs.google.com/spreadsheets/d/19wxG81nHkHlGVPRJZJKp8VcxSeGbRZnKmR9lN7jJSwM/edit#gid=892750369){: .btn }  
 *by Milk, Dutchj*
 
 # Category Extensions
