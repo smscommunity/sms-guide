@@ -37,7 +37,9 @@ To submit to the official leaderboards, you will need to start on one of three f
 - Peach File (Start timer at 2:30.35)
 - Hacked File (Start timer at 5:40.41)
 
-Find our guide on hacked file on our [tools](https://smscommunity.github.io/sms-guide/tools#speedrun-tools) page under speedrun tools.
+**Hacked File Guide**  
+**[via GCMM (Wii)](https://www.speedrun.com/sms/guide/qeqcu) / [via Practice Codes (Wii + Emu)](https://www.speedrun.com/sms/guide/2alxp) / [via JKSV (Switch)](https://www.speedrun.com/sms/guides/fzqsa)**  
+Setting up the file used for speedrunning without the introductory cutscenes.  
 
 ## Recording  
 
