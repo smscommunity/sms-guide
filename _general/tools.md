@@ -113,7 +113,7 @@ Alternative online downloader for Twitch.
 Allows cropping before downloading; a bit buggy so recommend including an extra 5s at the beginning of the crop).  
 
 ### Misc Tools
-[Chrome Remote Desktop](https://remotedesktop.google.com/){: .btn }; [jsmpeg-vnc](https://github.com/phoboslab/jsmpeg-vnc){: .btn }  
+[Chrome Remote Desktop](https://remotedesktop.google.com/){: .btn } [jsmpeg-vnc](https://github.com/phoboslab/jsmpeg-vnc){: .btn }  
 Remote-desktop tools to stream OBS/LiveSplit/etc. to another computer, useful for e.g. single-monitor setups where you have an additional laptop. Chrome Remote Desktop will stream the whole desktop over the internet, while jsmpeg-vnc streams a single window over LAN.
 
 ## Analysis Tools
