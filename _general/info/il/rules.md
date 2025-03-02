@@ -36,7 +36,7 @@ Rules are non-italicised and *guidelines (on best practices) are italicised*.
 5. **Video validity criteria:** every link must be to a valid video, "valid" meaning: 
     1. The video **must include the entire run while the timer is running**. The timer runs during the load into any of the seven worlds (e.g. Bianco Hills), and therefore **the entire intro cutscene** is required for valid video.
     2. *The video ideally includes everything from the input that reset the level (and the ensuing load) to at least 2 seconds after the timer stops at the end.*
-    3. The time shown on the in-game timer in, or logged in the [retime sheet](https://tiny.cc/smsilretimelog) for, the video **matches the time reported on the sheet**.
+    3. The time shown on the in-game timer in the video **matches the time reported on the sheet**.
     4. The video is of **sufficient quality and without major frame-drops** (per mod discretion). The standard for this is higher for top-3 times. **Post-processed videos of gameplay** are **not** permitted, and the gameplay **must take up greater than or equal to 50% of the canvas in both width and height** of the video.
     5. The video must be on YouTube/Twitch for top-3 times, *and should be for any other submission if possible*. Top-3 videos on other platforms will be moved to a note.
     6. *Game audio should be present (though it needn't be the only audio).*
@@ -44,4 +44,4 @@ Rules are non-italicised and *guidelines (on best practices) are italicised*.
 
 6. ***Deletions**: removal of submissions is discouraged, because the sheet aims to record all runs that are known to have happened, which also improves the accuracy of the points system.*
 
-7. **Vandalism**: you may choose any colour for your name as long as it contrasts enough with the white background to be easily legible (it must give 2:1 or above on [this](https://webaim.org/resources/contrastchecker/)), but may not change the formatting of anything else on the sheet *(Do you want your sheet to look like [this](https://bit.ly/2MLA3pK)?? Didn't think so :P)*.
+7. **Vandalism**: you may choose any colour for your name as long as it contrasts enough with the white background to be easily legible (it must give 2:1 or above on [this](https://webaim.org/resources/contrastchecker/)), but may not change the formatting of anything else on the sheet *(Do you want your sheet to look like [this](https://bit.ly/2MLA3pK)? Didn't think so)*.
