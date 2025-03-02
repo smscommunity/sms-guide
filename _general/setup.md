@@ -57,7 +57,7 @@ There are four options you have to capture your game when playing on console. Th
 [Offbrand "BD&M"](https://www.amazon.com/dp/B0CZ716J42){: .btn }  
 <i> **$5** Cheap, lower quality assurance, diagonal scanlines in dark areas </i>    
 
-**[Mayflash](https://www.amazon.com/dp/B07XG6X4TC){: .btn }  
+[Mayflash](https://www.amazon.com/dp/B07XG6X4TC){: .btn }  
 <i> **$15** Recommended, high quality </i>    
 
 ### Capture Cards
