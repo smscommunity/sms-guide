@@ -38,14 +38,23 @@ To submit to the official leaderboards, you will need to start on one of three f
 - Hacked File (Start timer at 5:40.41)
 
 **Hacked File Guide**  
-**[via GCMM (Wii)](https://www.speedrun.com/sms/guide/qeqcu) / [via Practice Codes (Wii + Emu)](https://www.speedrun.com/sms/guide/2alxp) / [via JKSV (Switch)](https://www.speedrun.com/sms/guides/fzqsa)**  
+[via GCMM (Wii)](https://www.speedrun.com/sms/guide/qeqcu) / [via Practice Codes (Wii + Emu)](https://www.speedrun.com/sms/guide/2alxp) / [via JKSV (Switch)](https://www.speedrun.com/sms/guides/fzqsa)  
 Setting up the file used for speedrunning without the introductory cutscenes.  
 
 **Practice Codes Guide**  
 [Homebrew](https://wii.hacks.guide/) your wii and install [Nintendont](https://zint.ch/NintendontPackager/).  
-Check out our [in-depth guide](https://gct.zint.ch/guide.html) on installing practice codes.
+Check out our [in-depth guide](https://gct.zint.ch/guide.html) on installing practice codes.  
+
+**Save Files, Blank Splits, and Important Links**  
+Found on the speedrun.com [Resources Page](https://www.speedrun.com/sms/resources)  
 
 ## Recommended Hardware
+
+There are four options you have to capture your game when playing on console. These are ordered from best to worst quality.  
+- You can use component cables if your capture card allows for it, or if you have a Retrotink 5X.
+- Its recommended (due to cost) and comparable to component to use a Wii2HDMI and an HDMI capture card.  
+- You can use S-Video and it will be slightly better than RCA.
+- The lowest quality option you have is RCA connection. (Yellow, red, and white plugs)  
 
 ### Wii2HDMI
 [Offbrand "BD&M"](https://www.amazon.com/dp/B0CZ716J42){: .btn }  
