@@ -32,7 +32,7 @@ Pinna 5 is usually skipped by accessing Pinna 6 secret from an earlier episode (
 
 ### Routes  
 
-[**Current Routes**](https://smscommunity.github.io/sms-guide/routes/#any)  
+[Current Routes](https://smscommunity.github.io/sms-guide/routes/#any){: .btn }  
 
 The usual Any% routes all start with Airstrip, end with Corona, and do the 7 non-hub worlds one-at-a-time except for splitting Bianco into two segments (I and II). The only required skips are Pianta Early and Yoshi Skip. The shines obtained in each world are (ordered within each world):
 * Bianco I: 2–5 *(unlock Ricco between episodes 3 and 4)*
@@ -55,7 +55,7 @@ Bianco I, Pianta, Pinna, Sirena, Noki, Bianco II, Ricco. *Requires savewarp out 
 ## 120 Shines
 Any% with the additional requirement of collecting 120 shines (= 96 physical shines + 240 blue coins) and beating the final boss as the final shine.
 
-[**Current Routes**](https://smscommunity.github.io/sms-guide/routes/#120-shines)  
+[Current Routes](https://smscommunity.github.io/sms-guide/routes/#120-shines){: .btn }  
 
 ## ILs
 Complete an individual level (single shine), timed using an in-game timer. The full guide for these is [here](info/il).
