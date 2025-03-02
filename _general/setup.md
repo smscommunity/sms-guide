@@ -46,7 +46,7 @@ Setting up the file used for speedrunning without the introductory cutscenes.
 Check out our [in-depth guide](https://gct.zint.ch/guide.html) on installing practice codes.  
 
 **Save Files, Blank Splits, and Important Links**  
-Found on the speedrun.com [Resources Page](https://www.speedrun.com/sms/resources)  
+Found on the speedrun.com [resources page](https://www.speedrun.com/sms/resources).  
 
 ## Recommended Hardware
 
