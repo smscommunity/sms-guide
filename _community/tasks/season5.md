@@ -17,7 +17,7 @@ http://gct.zint.ch/　ここに新しいFade-in Timerを使えば、提出の時
   
   
 ## Task 1 
-### (Available: 2018-11-04 -> Deadline: 2018-11-10) | [Results Video](https://www.youtube.com/watch?v=dP0_qMy_v80) | [Leaderboard]()  
+### (Available: 2018-11-04 -> Deadline: 2018-11-10) | [Results Video](https://www.youtube.com/watch?v=dP0_qMy_v80) | [Leaderboard](/sms-guide/assets/task/s05t01-0.png)  
 **Level:** Bianco 4  
 **Start:** Level fade in  
 **End:** Stand on platform where Petey Piranha sleeps in Episode 5.  
@@ -25,7 +25,7 @@ Must complete these three goals:
 - Collect 4 Red Coins  
 - Collect at least 1 Rocket or Turbo nozzle (Unlock nozzles beforehand)  
 - Stand on 2 locations:   
-<img src="/_community/tasks/images/s05t01-1.png"/>  <img src="/_community/tasks/images/s05t01-2.png"/>  <img src="/_community/tasks/images/s05t01-3.png"/>  <img src="/_community/tasks/images/s05t01-4.png"/>  
+<img src="/sms-guide/assets/task/s05t01-1.png"/>  <img src="/sms-guide/assets/task/s05t01-2.png"/>  <img src="/sms-guide/assets/task/s05t01-3.png"/>  <img src="/sms-guide/assets/task/s05t01-4.png"/>  
   
 場所：　ビアンコヒルズ　（ストーリー４）  
 測定開始： 暗転が開け始めた瞬間  
@@ -43,7 +43,7 @@ Must complete these three goals:
 -Practice codes exit area is banned because it gives early control of Mario.  
 **End:** Enter any of the 7 worlds (Can also enter pachinko, beach pipe, tall grass, or Corona, **nothing else**)  
 **Goal:** Complete bingo (Get a row or column of 3, diagonals allowed)  
-<img src="/_community/tasks/images/s05t02-1.png"/>   A1: <img src="/_community/tasks/images/s05t02-2.png"/>  A3: <img src="/_community/tasks/images/s05t02-3.png"/>  
+<img src="/sms-guide/assets/task/s05t02-1.png"/>   A1: <img src="/sms-guide/assets/task/s05t02-2.png"/>  A3: <img src="/sms-guide/assets/task/s05t02-3.png"/>  
 **Specifications:**  
 B3: Poster must spawn a coin  
   
@@ -51,7 +51,7 @@ B3: Poster must spawn a coin
 測定開始： 暗転が開け始めた瞬間。プラクチスコードのコースから出るのはだめよ。この助教でマリオがもっと早く動けるんです。ファイルを選ぶのとデルフィーノのシャインを取得するの後ではいいです。  
 測定終了：ほかのレヴェルに入る（ビアンコ、リコ、マンマ、ピンナ、シレナ、マーレ、モンテ、コロナ、そして何となくパチンコとピンナとマンマの近くにパイプもいいです)  
 条件１：ビンゴを１例揃える（縦、横、斜め可）  
-<img src="/_community/tasks/images/s05t02-1-jp.png"/>  
+<img src="/sms-guide/assets/task/s05t02-1-jp.png"/>  
 制限：  
 B3:ポスターのコインが出なきゃいけない  
   
@@ -158,11 +158,11 @@ B3:ポスターのコインが出なきゃいけない
 -Hit 2 Checkpoints  
   
 Checkpoints:  
-<img src="/_community/tasks/images/s05t06-1.png"/>  <img src="/_community/tasks/images/s05t06-2.png"/>  <img src="/_community/tasks/images/s05t06-3.png"/>  
+<img src="/sms-guide/assets/task/s05t06-1.png"/>  <img src="/sms-guide/assets/task/s05t06-2.png"/>  <img src="/sms-guide/assets/task/s05t06-3.png"/>  
 **Restrictions:** Damage must be taken from at least 2 different sources (e.g. Goop damage and Poison Water damage)  
 **Clarifications:** Checkpoint 3 is completed when you spray the spring  
 Ruins Triggers:  
-<img src="/_community/tasks/images/s05t06-4.png"/>  
+<img src="/sms-guide/assets/task/s05t06-4.png"/>  
   
 場所：　マーレのいりえ　（ストーリー１）  
 測定開始： 暗転が開け始めた瞬間  
@@ -185,7 +185,7 @@ Ruins Triggers:
 **Goals:**  
 1) Collect 4 Blue Coins  
 2) Touch 1 Checkpoint:  
-<img src="/_community/tasks/images/s05t07-1.png"/>  <img src="/_community/tasks/images/s05t07-2.png"/>  
+<img src="/sms-guide/assets/task/s05t07-1.png"/>  <img src="/sms-guide/assets/task/s05t07-2.png"/>  
 3) Complete 1 Activity:  
   
     - Hold a fruit  
@@ -212,7 +212,7 @@ Goals:
     -  Break 1 attic exit tile (End tile does not count)  
 Sprayables: Blue Shine painting, Boo painting, "Dolpic" poster, Lamps  
 **Note:** Sprayables must be completely sprayed. Lamp must spawn a coin (Blue coin is OK).  
-<img src="/_community/tasks/images/s05t08-1.png"/>  <img src="/_community/tasks/images/s05t08-2.png"/>  <img src="/_community/tasks/images/s05t08-3.png"/>  <img src="/_community/tasks/images/s05t08-4.png"/>  
+<img src="/sms-guide/assets/task/s05t08-1.png"/>  <img src="/sms-guide/assets/task/s05t08-2.png"/>  <img src="/sms-guide/assets/task/s05t08-3.png"/>  <img src="/sms-guide/assets/task/s05t08-4.png"/>  
   
 場所：　シレナビーチ　（ストーリー8）  
 測定開始：赤スイッチを押す  
@@ -267,7 +267,7 @@ Sprayables: Blue Shine painting, Boo painting, "Dolpic" poster, Lamps
     - Points will only be awarded for one wallkick under each arch.  
     - Points will only be awarded for wallkicking and standing on each block once.  
 End:  
-<img src="/_community/tasks/images/s05t10-1.png"/>  
+<img src="/sms-guide/assets/task/s05t10-1.png"/>  
   
 場所：ピンナパーク　（ストーリー６のヒミツ,ホバーノズルで）  
 測定開始：暗転が開け始めた瞬間  
