@@ -30,8 +30,24 @@ Any%/120-Shine top 5 per country/USA-state.
 **[Any% Leaderboard Backups](https://archive.md/https://www.speedrun.com/sms)**  
 Backups of the Speedrun.com Any% leaderboard since 2017/07.  
 
-**Any% Leaderboard Screenshots**: [2012 between 09-07 and 09-29](/sms-guide/assets/lb-history/2012-09-07-to-09-29.png), [2013-06-07](/sms-guide/assets/lb-history/2013-06-07.png), [2013-06-25](/sms-guide/assets/lb-history/2013-06-25.png), [2013 between 06-26 and 07-13](/sms-guide/assets/lb-history/2013-06-26-to-07-13.png), [2013-07-14](/sms-guide/assets/lb-history/2013-07-14.png), [2014-02-20](/sms-guide/assets/lb-history/2014-02-20.png), [2015-07-24](/sms-guide/assets/lb-history/2015-07-24.png), [2015-10-26](/sms-guide/assets/lb-history/2015-10-26.png), [2015-10-30](/sms-guide/assets/lb-history/2015-10-30.jpg), [2015-11-28](/sms-guide/assets/lb-history/2015-11-28.jpg), [2016-09-22](/sms-guide/assets/lb-history/2016-09-22.png)  
+**Any% Leaderboard Screenshots**  
 Old screenshots of the Google Sheets and Speedrun.com leaderboard from 2013-2016.  
+<details markdown="block">
+  <summary markdown="span">
+    Click to expand
+  </summary>
+  [2012 between 09-07 and 09-29](/sms-guide/assets/lb-history/2012-09-07-to-09-29.png)  
+  [2013-06-07](/sms-guide/assets/lb-history/2013-06-07.png)  
+  [2013-06-25](/sms-guide/assets/lb-history/2013-06-25.png)  
+  [2013 between 06-26 and 07-13](/sms-guide/assets/lb-history/2013-06-26-to-07-13.png)  
+  [2013-07-14](/sms-guide/assets/lb-history/2013-07-14.png)  
+  [2014-02-20](/sms-guide/assets/lb-history/2014-02-20.png)  
+  [2015-07-24](/sms-guide/assets/lb-history/2015-07-24.png)  
+  [2015-10-26](/sms-guide/assets/lb-history/2015-10-26.png)  
+  [2015-10-30](/sms-guide/assets/lb-history/2015-10-30.jpg)  
+  [2015-11-28](/sms-guide/assets/lb-history/2015-11-28.jpg)  
+  [2016-09-22](/sms-guide/assets/lb-history/2016-09-22.png)  
+</details>  
 
 **[Pre-GBS Any% Leaderboard](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTJp08lbpeHTszu_WrYnRTwy0KbAxDJwSYBjxi6LuJG7iQT6gWYwWcreCitKOB3lW8rPCENeGA_mr_O/pubhtml?gid=1446204419&single=true)**  
 Archive of the Any% leaderboard from 2014/02/20, before GBS was found and Sunshine rose in popularity.
