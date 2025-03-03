@@ -36,7 +36,7 @@ Must complete these three goals:
   
   
 ## Task 2 
-### (Available: 2018-11-11 -> Deadline: 2018-11-17) | [Results Video](https://www.youtube.com/watch?v=18Mv7DnMVj4) | [Leaderboard]()   
+### (Available: 2018-11-11 -> Deadline: 2018-11-17) | [Results Video](https://www.youtube.com/watch?v=18Mv7DnMVj4) | [Leaderboard](/sms-guide/assets/task/s05t02-0.png)   
 **Level:** Delfino Plaza  
 **Start:** Fade in on post-Bowser file, spawn in front of sewer cap.  
 -Must be directly after selecting the file or collecting a delfino shine.  
@@ -56,7 +56,7 @@ B3: Poster must spawn a coin
 B3:ポスターのコインが出なきゃいけない  
   
 ## Task 3 
-### (Available: 2018-11-18 -> Deadline: 2018-11-24) [Results Video](https://www.youtube.com/watch?v=XH5kDBhiLiI) | [Leaderboard]()  
+### (Available: 2018-11-18 -> Deadline: 2018-11-24) [Results Video](https://www.youtube.com/watch?v=XH5kDBhiLiI) | [Leaderboard](/sms-guide/assets/task/s05t03-0.png)  
 **Level:** Pianta 6  
 **Start:** Start of level  
 **End:** Stand on the nose of the Pianta Statue  
@@ -95,7 +95,7 @@ B3:ポスターのコインが出なきゃいけない
 ータイマーは止まってはいけません  
   
 ## Task 4 
-### (Available: 2018-11-25 -> Deadline: 2018-12-01) [Results Video](https://www.youtube.com/watch?v=BT7wWCL09hs) | [Leaderboard]()  
+### (Available: 2018-11-25 -> Deadline: 2018-12-01) [Results Video](https://www.youtube.com/watch?v=BT7wWCL09hs) | [Leaderboard](/sms-guide/assets/task/s05t04-0.png)  
 **Level:** Ricco 4  
 **Start:** Level fade in  
 **End:** Take damage from the goop water in front of ricco tower  
@@ -120,7 +120,7 @@ B3:ポスターのコインが出なきゃいけない
 制限:下水道に入ってはいけません  
   
 ## Task 5 
-### (Available: 2018-12-02 -> Deadline: 2018-12-15) [Results Video](https://www.youtube.com/watch?v=eA5AmxVI6wo) | [Leaderboard]()  
+### (Available: 2018-12-02 -> Deadline: 2018-12-15) [Results Video](https://www.youtube.com/watch?v=eA5AmxVI6wo) | [Leaderboard](/sms-guide/assets/task/s05t05-0.png)  
 **Level:** Gelato 8  
 **Start:** Level fade-in  
 **End:** Once 30 points are collected  
@@ -148,7 +148,7 @@ B3:ポスターのコインが出なきゃいけない
 ー同じスイカを３本以上破壊してはいけません  
   
 ## Task 6 
-### (Available: 2018-12-16 -> Deadline: 2018-12-22) [Results Video](https://www.youtube.com/watch?v=FhfxES8f-TQ) | [Leaderboard]()  
+### (Available: 2018-12-16 -> Deadline: 2018-12-22) [Results Video](https://www.youtube.com/watch?v=FhfxES8f-TQ) | [Leaderboard](/sms-guide/assets/task/s05t06-0.png)  
 **Level:** Noki 1  
 **Start:** Level Fade-in  
 **End:** Completion of last objective  
@@ -178,7 +178,7 @@ Ruins Triggers:
 ー条件２：2つ以上の方法でダメージを受ける（例えば毒水と汚れ）  
   
 ## Task 7 
-### (Available: 2018-12-23 -> Deadline: 2018-12-29) [Results Video](https://www.youtube.com/watch?v=hdotzOCZJB4) | [Leaderboard]()  
+### (Available: 2018-12-23 -> Deadline: 2018-12-29) [Results Video](https://www.youtube.com/watch?v=hdotzOCZJB4) | [Leaderboard](/sms-guide/assets/task/s05t07-0.png)  
 **Level:** Pinna 5  
 **Start:** Level Fade-in  
 **End:** Flip the grate with the large Electro-Koopa on it  
@@ -202,7 +202,7 @@ Ruins Triggers:
 ーNPCを２人踏む  
   
 ## Task 8 
-### (Available: 2018-12-30 -> Deadline: 2019-01-05) [Results Video](https://www.youtube.com/watch?v=2tcf_Mg2cz8) | [Leaderboard]()  
+### (Available: 2018-12-30 -> Deadline: 2019-01-05) [Results Video](https://www.youtube.com/watch?v=2tcf_Mg2cz8) | [Leaderboard](/sms-guide/assets/task/s05t08-0.png)  
 **Level:** Sirena 8  
 **Start:** Press the Red Coin button  
 **End:** Break an attic exit  
@@ -224,7 +224,7 @@ Sprayables: Blue Shine painting, Boo painting, "Dolpic" poster, Lamps
 完全に水をかけなきゃいけません。ランプならコインが出なきゃいけません。青も黄もいいです。  
   
 ## Task 9 
-### (Available: 2019-01-06 -> Deadline: 2019-01-12) [Results Video](https://www.youtube.com/watch?v=CUqz6sJcGZo) | [Leaderboard]()  
+### (Available: 2019-01-06 -> Deadline: 2019-01-12) [Results Video](https://www.youtube.com/watch?v=CUqz6sJcGZo) | [Leaderboard](/sms-guide/assets/task/s05t09-0.png)  
 **Level:** Airstrip Reds  
 **Start:** Press the Red Coin button  
 **End:** Get eaten by a Cheep Cheep OR take damage from a Cheep Cheep  
@@ -252,7 +252,7 @@ Sprayables: Blue Shine painting, Boo painting, "Dolpic" poster, Lamps
 制限：赤スイッチを押す前にノゼルを選んでもいいだけど、ほかの準備はだめです。  
   
 ## Task 10 
-### (Available: 2019-01-13 -> Deadline: 2019-01-19) [Results Video](https://www.youtube.com/watch?v=RmvN67p4c0U) | [Leaderboard]()  
+### (Available: 2019-01-13 -> Deadline: 2019-01-19) [Results Video](https://www.youtube.com/watch?v=RmvN67p4c0U) | [Leaderboard](/sms-guide/assets/task/s05t10-0.png)  
 **Level:** Pinna 6 Secret (With FLUDD, hover nozzle only)  
 **Start:** Level fade-in  
 **End:** Touch the moving orange block before 30 seconds is up.  
