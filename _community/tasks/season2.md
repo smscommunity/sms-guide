@@ -151,21 +151,7 @@ Goals:
 * Collect 6 Red Coins
 * Fly off a rope using the spinning animation
 * Stand on this location:
-
-images in a root-level folder  
-1 <img src="/blob/main/docs/assets/task/s02t12.png"/>  
-2 <img src="/sms-guide/docs/assets/task/s02t12.png"/>  
-3 ![test](/blob/main/docs/assets/task/s02t12.png)  
-8 ![test](/sms-guide/docs/assets/task/s02t12.png)  
-9 ![test](docs/assets/task/s02t12.png)  
-10 ![test](/sms-guide/assets/task/s05t01-1.png)  
-
-images local to the task folder  
-4 ![test](/images/s02t12.png)  
-5 ![test](images/s02t12.png)  
-6 ![test](/_community/tasks/images/s02t12.png)  
-7 ![test](_community/tasks/images/s02t12.png)  
-
+![](/sms-guide/docs/assets/task/s02t12.png)  
 
 ## **Task 13** 
 [Results Video](https://www.youtube.com/watch?v=7tMDD4RFvXI) | [Original Post](https://www49.atwiki.jp/mario-sunshine/pages/52.html)  
