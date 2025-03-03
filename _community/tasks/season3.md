@@ -21,7 +21,8 @@ Goals:
 * Kill 3 Pokey Sprouts
 
 Checkpoints:  
-img src="/_community/tasks/images/s03t01.png"/>  
+<img src="/sms-guide/assets/task/s03t01.jpg"/>  
+![](/sms-guide/assets/task/s03t01.jpg)  
   
 ## Task 2
 [Results Video](https://www.youtube.com/watch?v=XJRG1XwBVKQ) | [Original Post](https://www49.atwiki.jp/mario-sunshine/pages/57.html)  
