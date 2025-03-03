@@ -154,9 +154,9 @@ Goals:
 
 images in a root-level folder  
 1 <img src="/blob/main/docs/assets/task/s02t12.png"/>  
-2 <img src="/docs/assets/task/s02t12.png"/>  
+2 <img src="/sms-guide/docs/assets/task/s02t12.png"/>  
 3 ![test](/blob/main/docs/assets/task/s02t12.png)  
-8 ![test](/docs/assets/task/s02t12.png)  
+8 ![test](/sms-guide/docs/assets/task/s02t12.png)  
 9 ![test](docs/assets/task/s02t12.png)  
 
 images local to the task folder  
