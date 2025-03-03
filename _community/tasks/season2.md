@@ -158,6 +158,7 @@ images in a root-level folder
 3 ![test](/blob/main/docs/assets/task/s02t12.png)  
 8 ![test](/sms-guide/docs/assets/task/s02t12.png)  
 9 ![test](docs/assets/task/s02t12.png)  
+10 ![test](/sms-guide/assets/task/s05t01-1.png)  
 
 images local to the task folder  
 4 ![test](/images/s02t12.png)  
