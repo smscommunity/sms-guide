@@ -147,12 +147,12 @@ Restrictions:
 **Level:** Bianco 4  
 **Start:** Fade in  
 **End:** Touch the sign behind the spawn location  
-Goals: 
-* Collect 6 Red Coins
-* Fly off a rope using the spinning animation
-* Stand on this location:
+Goals:  
+* Collect 6 Red Coins  
+* Fly off a rope using the spinning animation  
+* Stand on this location:  
 ![](/sms-guide/docs/assets/task/s02t12.png)  
-
+  
 ## **Task 13** 
 [Results Video](https://www.youtube.com/watch?v=7tMDD4RFvXI) | [Original Post](https://www49.atwiki.jp/mario-sunshine/pages/52.html)  
 **Level:** Delfino Plaza  
