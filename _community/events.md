@@ -72,7 +72,7 @@ Competitions involving randomized goals on a five by five grid. For more informa
 *July 2021 - October 2021* Division 1 Winner: JJsrl; Division 2 Winner: Deathline; Division 3 Winner: MrYhatoh; Division 4 Winner: Vipa_51
 
 **Bingo League Season 2**: [Match History, Final Standings](https://season2.sms.bingo/)  
-*January 2021 - April 2021* Division 1 Winner: Rimato13; Division 2 Winner: peaches
+*January 2021 - April 2021* Division 1 Winner: Rimato13; Division 2 Winner: peaches; Division 3 Winner: Urbani  
 
 **Bingo League Season 1**:  
 *September 2020 - November 2020* Division 1 Winner: Rimato13; Division 2 Winner: Embouchure; Division 3 Winner: peaches

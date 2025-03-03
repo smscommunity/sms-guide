@@ -22,7 +22,7 @@ Any%/120-Shine top 5 per country/USA-state.
 **[120 Shines](/sms-guide/community/wrhistory/#120-shines-world-record-history)**  
 ### Documentary Videos
 **[Any%](https://youtu.be/oudZMniib08)** (AverageTrey, Sept 2017)  
-**[120 Shines](hhttps://youtu.be/oHg4oTMu5Yc)** (AverageTrey, Sept 2018)  
+**[120 Shines](https://youtu.be/oHg4oTMu5Yc)** (AverageTrey, Sept 2018)  
 **[Pianta 6](https://youtu.be/lcS_OFIEQQo)** (AverageTrey, Apr 2020)  
 
 ## Archives

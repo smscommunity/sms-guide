@@ -51,7 +51,7 @@ When Petey reaches a blue node, he will stop and fly in mid-air. At this point, 
 #### Additional resources explaining Petey RNG:
 - Petey Pattern Proof Video by Chockrit: [video](https://youtu.be/t3GI8bCZiIY)
 - Petey RNG Explained further by Noki Doki: [video](https://youtu.be/Kh_Qhdfy1io)
-- Petey Pattern Calculator by naosan: [video](https://naosanpoyo.github.io/PeteyPattern/)
+- Petey Pattern Calculator by naosan: [link](https://naosanpoyo.github.io/PeteyPattern/)
 
 ### Petey Spam Sprays
 #### Y-Cam Method

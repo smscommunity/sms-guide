@@ -30,7 +30,10 @@ Pianta 5 as intended requires Yoshi to complete, but is usually done without Yos
 5. **Early Yoshi-Go-Round (EYG)**  
 Pinna 5 is usually skipped by accessing Pinna 6 secret from an earlier episode (usually 3 or 5). Yoshi is used so this must be done after Pinna 4, which unlocks it. Alternatively, do Pinna 5–6 as intended.
 
-### Routes
+### Routes  
+
+[Current Routes](https://smscommunity.github.io/sms-guide/routes/#any){: .btn }  
+
 The usual Any% routes all start with Airstrip, end with Corona, and do the 7 non-hub worlds one-at-a-time except for splitting Bianco into two segments (I and II). The only required skips are Pianta Early and Yoshi Skip. The shines obtained in each world are (ordered within each world):
 * Bianco I: 2–5 *(unlock Ricco between episodes 3 and 4)*
 * Bianco II: 6–7
@@ -47,13 +50,12 @@ Bianco I, Pianta, Pinna, Ricco, Bianco II, Sirena, Noki.
 2. **Ricco-Late (BSNR)**  
 Bianco I, Pianta, Pinna, Bianco II, Sirena, Noki, Ricco. *Requires savewarp out of Pinna to be fast; loses ~1.6s to normal route.*
 3. **Ricco-Late (SNBR)**  
-Bianco I, Pianta, Pinna, Sirena, Noki, Bianco II, Ricco. *Requires savewarp out of Pinna to be fast; loses ~2.7s to normal route.* 
+Bianco I, Pianta, Pinna, Sirena, Noki, Bianco II, Ricco. *Requires savewarp out of Pinna to be fast; loses ~2.7s to normal route.*  
 
 ## 120 Shines
 Any% with the additional requirement of collecting 120 shines (= 96 physical shines + 240 blue coins) and beating the final boss as the final shine.
 
-[**Current Routes** (SBlectric)](https://docs.google.com/spreadsheets/d/1RYgVH24OCRzEurlxePwU7Ltt-mtNuSK5yHYcrjiRAKI)  
-[Legacy Route (Wilko \| 2017/03/31)](https://docs.google.com/spreadsheets/d/1I2gojd6k2-fiDhW92VFG7C6_-CpGjrDS3H2ai8knDEg/edit#gid=0)  
+[Current Routes](https://smscommunity.github.io/sms-guide/routes/#120-shines){: .btn }  
 
 ## ILs
 Complete an individual level (single shine), timed using an in-game timer. The full guide for these is [here](info/il).
@@ -94,14 +96,6 @@ Starting from a completed Any% file, collect 240 blue coins and trade them all i
 Any% with using the hover nozzle banned.
 
 *There are many more real-time categories on the Category Extensions leaderboard.*
-
-### Routes
-[**All Blue Coins (current)** (SBlectric)](https://docs.google.com/spreadsheets/d/1y_VvwcecK4O2TzQZbo9z4uDX6y61jUJKUdx82QRyxcA)  
-[**20 Shines Routes (current)** (comparison)](https://docs.google.com/spreadsheets/d/17A-sxmSBVKzGtyZBUG33MBM68OLYCcUVEvRRecV0vGo/)  
-
-[Any%, 79, 96 Shines (legacy) (Milk, Dutchj, Wilko)](https://docs.google.com/spreadsheets/d/19wxG81nHkHlGVPRJZJKp8VcxSeGbRZnKmR9lN7jJSwM/edit#gid=1743316251)  
-[20 Shine Routes (legacy) (Milk, Dutchj)](https://docs.google.com/spreadsheets/d/19wxG81nHkHlGVPRJZJKp8VcxSeGbRZnKmR9lN7jJSwM/edit#gid=892750369)
-
 
 ## Bingo
 SMS has a competitive bingo scene and biannual league; see the [**Discord**](https://sms.bingo/discord) and [**website**](https://sms.bingo).

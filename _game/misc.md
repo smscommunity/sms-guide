@@ -2,33 +2,25 @@
 layout: default
 title: Misc Game Info
 permalink: /game/misc/
-nav_order: 4
-has_children: true
+nav_order: 6
+has_children: false
 ---
 
 # Misc Game Info
 
 ## General
 
-**[Version Differences](https://smscommunity.notion.site/Version-Differences-a2da9d8b0b33445a9f361d633f38e969)**  
-Detailed breakdown of the overall differences between game versions.
+[Version Differences](https://smscommunity.github.io/sms-guide/game/versiondifferences){: .btn }  
+Up to date and detailed breakdown of the overall differences between game versions.
 
-**[Item Index](https://docs.google.com/spreadsheets/d/1lci2OALBqboBs_JT7IaXJfBXa-LbVpMcDZTDKALm160/edit?usp=sharing)**  
+[Item Index](https://docs.google.com/spreadsheets/d/1lci2OALBqboBs_JT7IaXJfBXa-LbVpMcDZTDKALm160/edit?usp=sharing){: .btn }  
 Index of blue coin/nozzle/Yoshi locations and shine/blue coin classifications.
 
-**[Text Timing](https://github.com/smscommunity/text-analysis)**  
-Algorithms to count text length by simulating it, and resulting timings.
+[A-Button Challenge](https://docs.google.com/spreadsheets/d/1j5OVfqqp97LhKHJja96h2SX5ZoFjaHiE7nvXgAYauMI){: .btn }  
+Sheet of low-A-press runs.  
 
-**[A-Button Challenge](https://docs.google.com/spreadsheets/d/1j5OVfqqp97LhKHJja96h2SX5ZoFjaHiE7nvXgAYauMI)**  
-Sheet of low-A-press runs.
-
-## Shine-Specific
-
-[**Strat Timing**](https://docs.google.com/spreadsheets/d/1h4ocgbBk-i4n7x6dMlERhfdKe1PrG7j1AOAIJ6zGjcw)  
-Statistical timing of strats for levels where it's feasible and useful.
-
-[**Written Notes** (Jpep)](https://docs.google.com/document/d/19bfzNgOFoRVPDxK6hnolEjGHfu1OpM65O9UPoW1xRQs)  
-More notes on strat execution.
+[Decomp](https://github.com/doldecomp/sms){: .btn }  
+A WIP decomp of Super Mario Sunshine.  
 
 ## TASes  
 **[Any%(No ACE) in 1:05:47.71](https://youtu.be/igm67ZABQgE)** (zelpikukirby, Nov 2024)  
@@ -38,6 +30,7 @@ More notes on strat execution.
 **[Any% in 1:07:52.96](https://www.youtube.com/watch?v=5VLKqijYrbA)** (zelpikukirby, Goldfire, Mar 2018)  
 
 ## Documentaries  
+**[ACE Explanation](https://youtu.be/TJXQD8ZRtU0)** (Abyssoft, Jan 2025)  
 **[ACE Documentary](https://youtu.be/ua2YMo0yUjM)** (GlitchDoctor, Oct 2024)  
 **[ACE Documentary](https://youtu.be/v0nYrZw0ID8)** (LunaticJ, Sept 2024)  
 **[1:12 Journey](https://youtu.be/nHZIjx7OlUM)** (LunaticJ, Jul 2024)  

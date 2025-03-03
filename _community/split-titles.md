@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Split Comparisons for Racing
-permalink: /info/split-titles/
-parent: Misc General Info
+permalink: /community/misc/split-titles/
+parent: Misc Community Info
 nav_exclude: true
 ---
 # Split Comparisons

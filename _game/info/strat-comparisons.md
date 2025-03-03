@@ -13,37 +13,4 @@ replace with nav_order: 1 once this has some content
 
 # Strat Comparisons (WIP)
 
-Comparisons between all kind of strats.
-
-**Bianco**
-
-
-
-**Ricco**
-
-
-
-**Gelato**
-
-
-
-**Pinna**
-
-
-
-**Sirena**
-
-
-
-**Noki**
-
-
-
-**Pianta**
-
-
-
-**Misc**
-
-
-
+Comparisons can be found in the discord in the #strats channel.

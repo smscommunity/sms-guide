@@ -23,10 +23,6 @@ Starting out, it is not uncommon for beginners to do the Blooperless entry, but 
 - Once you get to the bridge, do a roll out to the Green Blooper. It should be noted that there is a possibility you bonk on the Pianta or umbrella, although this is uncommon.
 - SB_Runs in his speedruns at one point would instead take the Yellow Blooper. This offsets the risk of bonking in this section, albeit is technically slower, and also, the Yellow and Pink Bloopers restricts your steering of the Blooper, meaning Green Blooper is favored for the speedruns, as when you are holding up on the control-stick, you maintain an equal speed.
 - If you are ever in a position on the Green Blooper where you are bracing a crash, if you hold neutral on the control stick, you will not die. This does not apply to the Yellow and Pink Bloopers.
-- Keeping this in mind, it is recommended when entering Ricco 2’s loading zone, you try to cut corners around the ships and the construction work in a way that will allow you to enter as optimally as possible. Below is an example of a “tight” path you can take.
-
-<img src="https://cdn.discordapp.com/attachments/941086197885833266/1086376729188253717/image.png" width="200"> -> <img src="https://cdn.discordapp.com/attachments/941086197885833266/1086376765074702346/image.png" width="200"> -> <img src="https://cdn.discordapp.com/attachments/941086197885833266/1086376802592759828/image.png" width="200"> -> <img src="https://cdn.discordapp.com/attachments/941086197885833266/1086376839506825369/image.png" width="200">
-- If you are not comfortable taking this section so fast, there is a line of coins as well to the side of this that does not cross often with these parts, although it is slower.
 - One thing to keep in mind as you enter is that you can still die against these walls. Sometimes this will be in a way where you still make it to the loading zone, but in general it is advised you keep a more middle path to not risk this mistake.
 
 ### Intermediate - Blooperless
@@ -44,8 +40,8 @@ The checkpoints for the blooper race can be viewed [here.](https://twitter.com/Q
     Checkpoint Images from NokiDoki
   </summary>
   {: .text-gamma}
-<img src="https://cdn.discordapp.com/attachments/941086197885833266/1086389835465498724/FDeCWXiX0AMUe1n.png" width="200"> <img src="https://cdn.discordapp.com/attachments/941086197885833266/1086389836136579082/FDeCWXhWEAkY05h.png" width="200">
-<img src="https://cdn.discordapp.com/attachments/941086197885833266/1086389836639899729/FDeCWXiWEAIzdYs.png" width="200"> <img src="https://cdn.discordapp.com/attachments/941086197885833266/1086389837214523523/FDeCWXjWUAMiryY.png" width="200">
+<img src="https://i.imgur.com/U41gw4X.jpeg" width="200"> <img src="https://i.imgur.com/ACANvVC.jpeg" width="200">
+<img src="https://i.imgur.com/zSUXacc.jpeg" width="200"> <img src="https://i.imgur.com/4yUWxPQ.jpeg" width="200">
 </details>
 
 ### Beginner - Blooperful

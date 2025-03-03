@@ -92,6 +92,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**r7: Beginner** (Dutchj \| 2015/07/28)](https://youtu.be/5tIUuA1-Blg)  
 
 **Gelato**  
+[**gbs: Basic** (Leannehef \| 2023/08/13)](https://www.youtube.com/watch?v=YzQOVWhXtsM)  
 [**gbs: Yossy Spot** (Jpep \| 2020/12/12)](https://youtu.be/I-P6he1nSQY)  
 [**gbs: Basic** (Samura1man \| 2019/09/08)](https://youtu.be/KDajrXdneXI)  
 [**gbs: Basic Stickless** (Trustfall \| 2017/06/08)](https://youtu.be/DPn6m8YF8hk)  
@@ -109,6 +110,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**p1: Mecha Basic + CS Skips** (Dutchj \| 2015/12/07)](https://youtu.be/aTBfcfaXfMw) *(old)*  
 [**p2: Bullet Bills [120 Shines]** (Pogonateur \| 2019/11/08)](https://youtu.be/09EzJgZ-fzQ)  
 [**p4: 1-Cycle** (Dutchj \| 2017/05/17)](https://youtu.be/PR2gL6GP9Zs)  
+[**eyg: 1-Stu 5YG** (shoutplenty \| 2023/01/21)](https://youtu.be/UJ5RNJK6LRM) *(beginner)*  
 [**eyg: 1-Stu** (Noki Doki \| 2020/04/15)](https://youtu.be/0plZQdNSo18)  
 [**eyg: 2-Stu** (Samura1man \| 2019/09/04)](https://youtu.be/GbuZhbl82_U)  
 [**eyg: 2-Stu** (Dutchj \| 2017/05/17)](https://youtu.be/tvq-WY7YFsc)  
