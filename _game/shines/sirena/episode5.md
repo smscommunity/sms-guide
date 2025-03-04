@@ -45,14 +45,13 @@ There is a small area you are able to get an InstaGP as shown in the video.
 #### Optimal Fight  
 {% include yt.html id="Db7NxthMMOY" %}  
 
-The second the fight starts and you gain control of Mario, you notice FoundYourGun do a backflip into the center of the arena. This is a trick called laugh skip and saves around 2 seconds. This also makes the hitboxes for the purple buttons much larger (for some reason).
+The second the fight starts and you gain control of Mario, you notice FoundYourGun do a backflip dive into the center of the arena. This is a trick called laugh skip and saves around 2 seconds. This also makes the hitboxes for the purple buttons much larger (for some reason).
 
 Nothing much to note of the fight besides throwing peppers into his mouth, then throwing a normal fruit at him right after.
 
 Important tips:
-- You can cancel non-fruit cycles.
-- You have to wait until the enemies/bubbles/coins are spawned in a mandatory not fruit cycle before cancelling it.
-- If it is an "extra" cycle, where it is an extra Not Fruit cycle, **AND NOT A MANDATORY ONE**, you can cancel it the second you see the slot land on a non-fruit.
+- You can cancel Not Fruit❌ cycles, but you have to wait until the enemies/bubbles/coins are spawned in a **MANDATORY** Not Fruit❌ cycle before cancelling it.
+- If it is an "extra" cycle, where it is an *extra* Not Fruit❌ cycle, and **NOT A MANDATORY ONE**, you can cancel it the second you see the slot land on a non-fruit.
 - You can hover into a durian if its placement is convenient for a quick fruit launch after throwing a pepper.
 
 ## Cycle Skips
