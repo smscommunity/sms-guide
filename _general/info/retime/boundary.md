@@ -79,7 +79,7 @@ These are only visible for video retimes; SGT retimes would have to estimate the
 ### Start-Visible Frames
 
 **Start-visible: circle-mash intro (sgt retime)**  
-See [**circle mash retimes**](circle-mash). This method always first estimates the start-zero frame, then may extend into a separated load estimate (if there's another segment preceding it). A *circle-mash* is an outward circle wipe with immediately-skippable cutscene, used in e.g. all secrets, Pinna 3, Noki 3.  
+See [**circle mash retimes**](https://smscommunity.github.io/sms-guide/info/retime/circle-mash/). This method always first estimates the start-zero frame, then may extend into a separated load estimate (if there's another segment preceding it). A *circle-mash* is an outward circle wipe with immediately-skippable cutscene, used in e.g. all secrets, Pinna 3, Noki 3.  
 [Example](https://imgur.com/lKZFbZu)
 
 **Start-visible: direct circle intro**  
