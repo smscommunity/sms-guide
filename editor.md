@@ -73,10 +73,10 @@ See the section below on how to upload images into the wiki itself to be stored 
 Markdown by default renders large images that are left-aligned, but html can be used to refine that with a maximum width and centre-alignment, e.g.
 
 ```html
-<p align="center"><img src="/sms-guide/assets/task/s05t10-1.png" width="400"></p>
+<p align="center"><img src="/sms-guide/assets/task/s05t10-1.png" width="300"></p>
 ```
 
-<p align="center"><img src="/sms-guide/assets/task/s05t10-1.png" width="400"></p>
+<p align="center"><img src="/sms-guide/assets/task/s05t10-1.png" width="300"></p>
 
 7\. Indentation of lines can only be done manually by pasting in special whitespace characters:  
     *This line is indented by 4 en-spaces.*
