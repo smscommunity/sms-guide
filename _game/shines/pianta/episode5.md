@@ -36,9 +36,10 @@ There are a few variations of yoshi skip that have been used over the years, but
 - Press B to wallslide, then shortly after Mario releases from the wall and starts falling, begin hovering.
 - Either hover backwards into the mushroom or turn Mario around and hover forward
 - Once clipped inside the mushroom, release R and fall into the loading zone
+
+{% include yt.html id="G3AoGuMdtp8" %}  
 </details>
 
-{% include yt.html id="G3AoGuMdtp8" %}
 ## Secret
 <details markdown="block">
   <summary markdown="span">
