@@ -13,47 +13,27 @@ SMS speedrunners play in 5 main disciplines.
 1. TOC
 {:toc}
 
-## Any%
+## Any% (No ACE)
 
 Beat the final boss starting from a fresh file, timed in real time. The requirement for unlocking the final boss is beating episode 7 in all 7 worlds (excluding the hub world). This usually involves collecting 44 shines.
+
+[Current Routes](https://smscommunity.github.io/sms-guide/routes/#any){: .btn }  
 
 ### Skips
 The shines can be done in the intended order, except for 5 skips that are usually used:
 1. **Bianco 1 Skip**  
 This shine is easily accessible in episode 1, so the Bianco 1 shine is always skipped.
-2. **Gelato Beach Skip (GBS)**  
+2. **[Gelato Beach Skip](https://smscommunity.github.io/sms-guide/shines/gelato/episode8) (GBS)**  
 Collecting the Gelato 8 shine during Episode 1 lets you access episode 7 right after, and so swaps episodes 1–7 in Gelato Beach with episodes 7–8, saving ~12 minutes. Alternatively, you can play episodes 1–7 as normal.
 3. **Pianta Early**  
 Pianta Village can be accessed at any time using a couple of methods to climb to its entrance without rocket or Yoshi. This is usually done in Any%; alternatively, you can visit this world later, after unlocking either the rocket (requires 30 shines) or Yoshi (requires Pinna 4 shine).
-4. **Yoshi Skip**  
+4. **[Yoshi Skip](https://smscommunity.github.io/sms-guide/shines/pianta/yoshiskip/)**  
 Pianta 5 as intended requires Yoshi to complete, but is usually done without Yoshi using this technique. Alternatively, do Pianta after unlocking Yoshi (requires Pinna 4 shine).
-5. **Early Yoshi-Go-Round (EYG)**  
+5. **[Early Yoshi-Go-Round](https://smscommunity.github.io/sms-guide/shines/pinna/eyg/) (EYG)**  
 Pinna 5 is usually skipped by accessing Pinna 6 secret from an earlier episode (usually 3 or 5). Yoshi is used so this must be done after Pinna 4, which unlocks it. Alternatively, do Pinna 5–6 as intended.
 
-### Routes  
-
-[Current Routes](https://smscommunity.github.io/sms-guide/routes/#any){: .btn }  
-
-The usual Any% routes all start with Airstrip, end with Corona, and do the 7 non-hub worlds one-at-a-time except for splitting Bianco into two segments (I and II). The only required skips are Pianta Early and Yoshi Skip. The shines obtained in each world are (ordered within each world):
-* Bianco I: 2–5 *(unlock Ricco between episodes 3 and 4)*
-* Bianco II: 6–7
-* Ricco: 1–7
-* Gelato: 8,7
-* Pinna: 1–4,6,7
-* Sirena: 1–7
-* Noki: 1–7
-* Pianta: 1–7
-
-There are a few different routes used, distinguished by world ordering:
-1. **Normal Route (RBSN)**  
-Bianco I, Pianta, Pinna, Ricco, Bianco II, Sirena, Noki.
-2. **Ricco-Late (BSNR)**  
-Bianco I, Pianta, Pinna, Bianco II, Sirena, Noki, Ricco. *Requires savewarp out of Pinna to be fast; loses ~1.6s to normal route.*
-3. **Ricco-Late (SNBR)**  
-Bianco I, Pianta, Pinna, Sirena, Noki, Bianco II, Ricco. *Requires savewarp out of Pinna to be fast; loses ~2.7s to normal route.*  
-
 ## 120 Shines
-Any% with the additional requirement of collecting 120 shines (= 96 physical shines + 240 blue coins) and beating the final boss as the final shine.
+Any% (No ACE) with the additional requirement of collecting 120 shines (= 96 physical shines + 240 blue coins) and beating the final boss as the final shine.
 
 [Current Routes](https://smscommunity.github.io/sms-guide/routes/#120-shines){: .btn }  
 
@@ -64,7 +44,7 @@ Complete an individual level (single shine), timed using an in-game timer. The f
 The other popular real-time categories are:
 
 **Shine Completion**  
-A group of categories that extend Any% by requiring a specific set of additional physical shines:
+A group of categories that extend Any% (No ACE) by requiring a specific set of additional physical shines:
 * **All Episodes**  
 Every episode from 1–8 in all 7 non-hub worlds, amounting to (2 + 7 × 8 = 58 shines).
 * **79 Shines**  
