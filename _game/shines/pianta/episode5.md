@@ -21,39 +21,20 @@ Pianta 5 is made up of two parts: the Entry and the Secret.
 - Spin jump and hover to the green spotted mushroom and perform yoshi skip
 </details>
 
-### Yoshi Skip
-There are a few variations of yoshi skip that have been used over the years, but "huff setup" is recommended and described below:
-<details markdown="block">
-  <summary markdown="span">
-    Click for Details
-  </summary>
-  {: .text-gamma}
-- Walk into the tree at the spot shown in the picture below to clip into the tree:
-
-<img src="https://i.imgur.com/275bMMX.gif" width="500">
-
-- Briefly fall, then hover backwards to ledgegrab the mushroom in the red square.
-- Press B to wallslide, then shortly after Mario releases from the wall and starts falling, begin hovering.
-- Either hover backwards into the mushroom or turn Mario around and hover forward
-- Once clipped inside the mushroom, release R and fall into the loading zone
-
-{% include yt.html id="G3AoGuMdtp8" %}  
-</details>
+### [Yoshi Skip Page](https://smscommunity.github.io/sms-guide/shines/pianta/yoshiskip/)
 
 ## Secret
-<details markdown="block">
-  <summary markdown="span">
-    Click for Details
-  </summary>
-  {: .text-gamma}
+
 The chucksters always throw Mario directly opposite of the direction they are facing at the moment the chuck begins. This means that if you talk to a chuckster from behind and mash through their text before they turn all the way around, they will throw you in an unintended direction.
 - Upon entry, dive rollout then perform two jump dive rollouts to talk to the first Chuckster.
 - Talk to the second chuckster, ensuring that they turn fully around before chucking
 - If the second chuckster is stopped at his front spot, it is possible for him to throw you to the next platform with a tight enough angle and using A+B mash to get a jump dive input into the chuck for extra distance.
 - Talk to the third chuckster. Similar to the second chuckster, it is possible to attain "platform skip" and make it all the way to the final platform with a tight enough angle and a well timed A+B input.
-</details>
 
 {% include yt.html id="msLTEo7iUkg" %}
+</details>
+
+
 ### Early Cycle
 The final chuckster can stop at one of 6 nodes on the upper platform. These are shown below:
 <img src="https://i.imgur.com/dRb3psB.png" width="600">
