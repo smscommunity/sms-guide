@@ -14,7 +14,7 @@ This set of pages will cover standards, methods and rationale for timing SMS spe
 
 ## Rationale
 **Timing standards**  
-The true length of a speedrun is the time calculated by the **in-game timer (IGT)** where available, and the **duration of the video** where not (video duration is always used with discretion since videos may have messed-up timing). This is respectively known as **video (re)timing** and **IGT (re)timing**.
+The true length of a speedrun is the time calculated by the **in-game timer (IGT)** where available(using the Shine Get Timer or Quarter Frame Timer), and the **duration of the video** where not (video duration is always used with discretion since videos may have messed-up timing). This is respectively known as **video (re)timing** and **IGT (re)timing**.  
 
 **IGT is the standard for ILs**  
 Almost all ILs use a mod of IGT known as *Shine-Get Timer (SGT)* as the timing standard, and where IGT is unavailable but desired, models are used to retime other runs to SGT. Hence, we'll split retiming methods into these categories:
