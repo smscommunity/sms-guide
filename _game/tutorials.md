@@ -19,7 +19,7 @@ This is a set of all-in-one video playlists and shine-breakdown spreadsheets cov
 **[IL/RTA Strat Spreadsheet](https://sunmar.io/il)**  
 Individual level google spreadsheet that has a RTA Strats tab on the bottom, a great place to compare slower and faster strategies.
 
-**[Any% Tutorial Playlist (Samura1man \| 2019/09/13)](https://www.youtube.com/playlist?list=PLh58B1tN_ac1c6-J3j1wu9dmkRJuFcOn1)**  
+**[Any% (No ACE) Tutorial Playlist (Samura1man \| 2019/09/13)](https://www.youtube.com/playlist?list=PLh58B1tN_ac1c6-J3j1wu9dmkRJuFcOn1)**  
 Best place to start, slightly outdated.
 
 **[120 Shines Tutorial Playlist (Switchmaster64 \| 2021/01/02)](https://www.youtube.com/playlist?list=PLvopRyTdDkBZTFJLtl3g5SknLBNuCLEws)**  
@@ -32,29 +32,29 @@ A good but old set of strats, often better alternatives to the ones in the Any% 
 Like the previous section, but more useful for alternative takes if you get stuck. Note that the older the tutorial, the more likely things are to be out-of-date.
 
 ### Video Guides
-**[Any% Intermediate Tutorial Video (JJsrl | 2017/12/09)](https://www.youtube.com/watch?v=sLG_KERLyhQ)**  
+**[Any% (No ACE) Intermediate Tutorial Video (JJsrl | 2017/12/09)](https://www.youtube.com/watch?v=sLG_KERLyhQ)**  
 From start to after Pianta 2.
 
-**[Any% Beginner Tutorial Video (Dutchj | 2016/06/13)](https://www.youtube.com/watch?v=XERf3paNpTQ)**  
+**[Any% (No ACE) Beginner Tutorial Video (Dutchj | 2016/06/13)](https://www.youtube.com/watch?v=XERf3paNpTQ)**  
 From start to after Gelato 7.
 
-**[Any% Tutorial Playlist (GrandStarYoshi | 2015/02–07)](https://www.youtube.com/playlist?list=PLwXgjFebHpGDP_H0_YsNtkWtvXl2CkAn_)**  
+**[Any% (No ACE) Tutorial Playlist (GrandStarYoshi | 2015/02–07)](https://www.youtube.com/playlist?list=PLwXgjFebHpGDP_H0_YsNtkWtvXl2CkAn_)**  
 Full game; deprecated form of EYG (2YG).
 
-**[Any% Tutorial Video (Samura1man | 2014/07/11)](https://www.youtube.com/watch?v=OLMOfh8wWEU)**  
+**[Any% (No ACE) Tutorial Video (Samura1man | 2014/07/11)](https://www.youtube.com/watch?v=OLMOfh8wWEU)**  
 Full game except Airstrip; missing EYG.
 
 ### Spreadsheet Indices
-**[Any% Shines Index (Metacor, EquivocalGenius, Nebuladiv \| 2020/06)](https://docs.google.com/spreadsheets/d/1lS-6raJt_Dws8e5NvX3wXOTf1DEebYzU7IAF8ctT108/)**  
+**[Any% (No ACE) Shines Index (Metacor, EquivocalGenius, Nebuladiv \| 2020/06)](https://docs.google.com/spreadsheets/d/1lS-6raJt_Dws8e5NvX3wXOTf1DEebYzU7IAF8ctT108/)**  
 A precursor to the Any% shines list with most of the same content + some other useful bits.
 
-**[Any% Shines Guide (mwolfe11 \| 2018/05–07)](http://learnsunshine.com/)**  
+**[Any% (No ACE) Shines Guide (mwolfe11 \| 2018/05–07)](http://learnsunshine.com/)**  
 "LearnSunshine" – has a lot of prose.
 
-**[Any% Shines Index – 2014 (Milk, Dutchj + others \| pre–2015/07/26)](https://docs.google.com/spreadsheets/d/19wxG81nHkHlGVPRJZJKp8VcxSeGbRZnKmR9lN7jJSwM/edit#gid=1905484894)**  
+**[Any% (No ACE) Shines Index – 2014 (Milk, Dutchj + others \| pre–2015/07/26)](https://docs.google.com/spreadsheets/d/19wxG81nHkHlGVPRJZJKp8VcxSeGbRZnKmR9lN7jJSwM/edit#gid=1905484894)**  
 Probably too old to be useful.
 
-**[Any% Shines Index – 2013 (Toufool31 ft. Samura1man, Hiddenpower13 \| 2013)](https://docs.google.com/spreadsheets/d/1isgE_xwTIL0T4nZ3bA4af0aCJhTOv7SPFATB4mZcndg/edit#gid=0)**  
+**[Any% (No ACE) Shines Index – 2013 (Toufool31 ft. Samura1man, Hiddenpower13 \| 2013)](https://docs.google.com/spreadsheets/d/1isgE_xwTIL0T4nZ3bA4af0aCJhTOv7SPFATB4mZcndg/edit#gid=0)**  
 Almost certainly too old to be useful. 
 
 ## Individual Shines/Generic
