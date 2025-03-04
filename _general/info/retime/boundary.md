@@ -65,7 +65,7 @@ Four frames after the first frame the last textbox has started to fade out.
 
 ### Start-Zero Frames
 **RTA Start-zero**  
-The frame in which a run is started, one frame before the text disappears. Used for Speedrun.com leaderboard retimes.  
+The frame in which a run is started, one frame before the text disappears (30fps, if 60fps, use frame A of duplicates A and B always). Used for Speedrun.com leaderboard retimes.  
 [Example](https://imgur.com/mduPB9o) of the correct start frame.  
 [Example](https://imgur.com/wkp45G3) of the frame immediately after, as a visual cue. Often used for Autosplit.
 
