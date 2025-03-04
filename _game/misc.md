@@ -19,6 +19,9 @@ Index of blue coin/nozzle/Yoshi locations and shine/blue coin classifications.
 [A-Button Challenge](https://docs.google.com/spreadsheets/d/1j5OVfqqp97LhKHJja96h2SX5ZoFjaHiE7nvXgAYauMI){: .btn }  
 Sheet of low-A-press runs.  
 
+[Blindfolded Challenge](https://docs.google.com/spreadsheets/d/1peSPjkoGxMdwMuM5k220R1SurTwBazsrTf1_T8ISwkk/edit?gid=0#gid=0){: .btn }  
+Sheet of blindfolded runs.  
+
 [Decomp](https://github.com/doldecomp/sms){: .btn }  
 A WIP decomp of Super Mario Sunshine.  
 
