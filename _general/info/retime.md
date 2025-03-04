@@ -31,7 +31,7 @@ SGT works by recording timestamps of real time at the start and end of every gam
 A video retime is by definition the real-time duration between a start and end frame; here's the [**index of reference frames**](https://smscommunity.github.io/sms-guide/info/retime/boundary#reference-frames) used.
 
 **Fast-text conversion**  
-ILs allow the fast-text cheat code as standard, and there are models to convert runs without fast text as if they'd used fast text – see [here](https://smscommunity.github.io/sms-guide/info/retime#load-estimates).
+ILs allow the fast-text cheat code as standard, and there are models to convert runs without fast text as if they'd used fast text – see [here](https://smscommunity.github.io/sms-guide/info/retime/text/).
 
 ## Workflow
 
