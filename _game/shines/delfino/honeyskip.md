@@ -7,7 +7,7 @@ grand_parent: Shines
 nav_order: 3
 ---
 # Honey Skip
-*( guide by **Metacor** and **shoutplenty** – [original](https://pastebin.com/T2z8zWtc) / [gist](https://gist.github.com/Metacor/6392df6b11599370f479f87f4df5431d) )*  
+*( guide by **Metacor** and **shoutplenty** – [original](https://gist.github.com/Metacor/6392df6b11599370f479f87f4df5431d) )*  
 
 A death-abuse cutscene skip that saves between 10-20 seconds depending on setup time.  
 
