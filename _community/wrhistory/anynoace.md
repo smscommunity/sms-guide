@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Any%
-permalink: /wrhistory/anypercent/
+title: Any% (No ACE)
+permalink: /wrhistory/anynoace/
 parent: WR History
 nav_order: 1
 ---
-# Any% World Record History  
+# Any% (No ACE) World Record History  
 *GCN/Wii*  
 ### 2011  
 **[1:34:50](https://www.youtube.com/watch?v=TUsFLq4Rqkk)** by トーボウ on October 10, 2011  
