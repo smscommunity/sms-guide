@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Any% (No ACE)
-permalink: /wrhistory/anynoace/
+title: Any%
+permalink: /wrhistory/anypercent/
 parent: WR History
 nav_order: 1
+has_toc: true
 ---
-# Any% (No ACE) World Record History  
+# Any% World Record History  
+## **(No ACE)**  
 *GCN/Wii*  
 ### 2011  
 **[1:34:50](https://www.youtube.com/watch?v=TUsFLq4Rqkk)** by トーボウ on October 10, 2011  
@@ -114,3 +116,14 @@ Times above on Reset Timing, Times below on File Select timing
 **[1:13:05](https://www.twitch.tv/videos/2161495457)** by トーボウ on June 01, 2024  
 **[1:12:58](https://www.youtube.com/watch?v=zbZv0sEu6Ec)** by トーボウ on June 09, 2024  
 **[1:12:51](https://www.youtube.com/watch?v=y3nhWI-gmsI)** by inkstar on July 30, 2024  
+
+
+## ACE
+*GCN/Wii*  
+### 2024  
+**[46:55](https://www.youtube.com/watch?v=CX3Q9p1dPFw)** by orange117 on September 10th, 2024  
+**[36:15](https://www.youtube.com/watch?v=Zh2N76gAXKI)** by Jcool114 on September 14th, 2024  
+**[31:32](https://www.youtube.com/watch?v=3DcBUpekKQE)** by Jcool114 on September 15th, 2024  
+**[23:57](https://www.youtube.com/watch?v=KkrKY0wwZRQ)** by Jcool114 on September 16th, 2024  
+**[17:24](https://www.youtube.com/watch?v=RMX9JDf9RvE)** by Weegee on September 30th, 2024  
+**[16:57](https://www.youtube.com/watch?v=J69jBu9jADQ)** by JTown2909 on September 30th, 2024  
