@@ -9,9 +9,9 @@ nav_order: 11
 
 This wiki setup is still **a draft**, so do bear in mind things that you find challenging and they'll come under the discussion of what wiki setup to use going forward.
 
-First, make a GitHub account, then create a fork of the main repository. On this fork, you will have full editing powers and can try out stuff without it impacting the main site.
+First, make a GitHub account, then create a fork of the main repository. On this fork, you will have full editing powers and can try out stuff without it impacting the main site.  
 **Edit** the site [here](https://github.com/smscommunity/sms-guide/)  
-**View** the site [here](https://smscommunity.github.io/sms-guide/)
+**View** the site [here](https://smscommunity.github.io/sms-guide/)  
 
 If you want to instead edit the site using a tool like VS Code, you will need to clone the repository and set it up for local development. Follow the short guide in the README for more information.
 
@@ -33,7 +33,7 @@ There are two kinds of syntax used:
 1. The basic Markdown syntax for day-to-day edits, which supports adding in snippets of HTML.
 2. The extended Markdown that provides stuff like metadata for the page (title, menu order etc.), video embeds and such like.
 
-The latter is there and shows up in the preview as broken, but renders correctly on the real thing. You can just safely ignore it, and if the real thing breaks, someone else can fix it :p. Examples of extended Markdown that's broken in preview but works on the real thing:
+The latter is there and shows up in the preview as broken, but renders correctly on the real thing. You can just safely ignore it, and if the real thing breaks, someone else can fix it. Examples of extended Markdown that's broken in preview but works on the real thing:
 
 ![](https://cdn.discordapp.com/attachments/529145099003887618/963158324155674644/unknown.png)
 
@@ -45,13 +45,13 @@ An important part of this setup is that basic Markdown is very simple, just an e
 1\. A double newline will give a **paragraph break**. A single newline does nothing (except makes the Markdown itself easier to read). If you want a **line break**, add two spaces to the end of that line.  
 *Like this.*
 
-2\. **Bold** is given by `**bold**`, *Italic* by `*italic*`. I think <u>underline</u> requires HTML (unfort) – it's given by `<u>underline</u>`. Coloured text doesn't work; don't even try.
+2\. **Bold** is given by `**bold**`, *Italic* by `*italic*`. I think <u>underline</u> requires HTML (unfortunately) – it's given by `<u>underline</u>`. Colored text doesn't work.
 
 3\. Code blocks like the ones in the previous point are given by ``backticks``. Triple backtick gives multiline blocks.
 
 ```
-This be a multiline block.
-How *you* doin?
+This is a multiline block.
+Line 2 of the multiline block.
 ```
 
 4\. Sections are structured by prepending # symbols – `# Title`, `## Section`, `### Subsection` etc.
@@ -64,22 +64,32 @@ How *you* doin?
 1. Numbered
 2. List
 
-6\. URLs are given by `[link name](link address)`, like [this](https://cdn.discordapp.com/attachments/529145099003887618/947937236933042206/unknown.png). Images are embedded by `![alt text](image address)`, like:
+6\. URLs are given by `[link name](link address)`, like [this](https://www.speedrun.com/sms). Images are embedded by `![alt text](image address)`, like:
 
-![](https://cdn.discordapp.com/attachments/529145099003887618/947937236933042206/unknown.png)
+![](/sms-guide/assets/task/s05t10-1.png)
+
+See the section below on how to upload images into the wiki itself to be stored locally.  
 
 Markdown by default renders large images that are left-aligned, but html can be used to refine that with a maximum width and centre-alignment, e.g.
 
 ```html
-<p align="center"><img src="https://cdn.discordapp.com/attachments/529145099003887618/947937236933042206/unknown.png" width="400"></p>
+<p align="center"><img src="/sms-guide/assets/task/s05t10-1.png" width="300"></p>
 ```
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/529145099003887618/947937236933042206/unknown.png" width="400"></p>
+<p align="center"><img src="/sms-guide/assets/task/s05t10-1.png" width="300"></p>
 
 7\. Indentation of lines can only be done manually by pasting in special whitespace characters:  
     *This line is indented by 4 en-spaces.*
 
-For the love of god, never indent anything by 4 or more normal spaces; it'll trigger a multiline code block and leave you confuse-o.
+Don't indent anything by 4 or more normal spaces--it'll trigger a multiline code block.
+
+### Embedding local images
+- It is better to store images for the wiki inside the wiki's files itself, instead of uploading them to an external service like Imgur. This will avoid links breaking at some point in the future if the owner or the service deletes them.  
+- Local images must be stored in a folder without an underscore in order to be accessible on the published version of the wiki. The folder `/sms-guide/assets/` has been created for this purpose.  
+- In order to better organize images in the `assets` folder, subfolders should be created for each page or group of pages. To make a new folder, you must temporarily make a new text file. In the file name field, type the desired folder name with a forward slash at the end, and the new folder will pop in. Then just name the temporary file something like `temp.md`. Upload your images to the new folder, then delete the temporary file.  
+- Images must be linked to with their absolute path, starting with the repo name `/sms-guide`.  
+- **Important**: Images will look like they're not working in the GitHub editor's "preview" tab, but they will work on the published wiki. Don't change the path to get them to work in the preview tab, because that will probably break the published version.  
+
 
 ## Extended Markdown Guide
 Basic Markdown is simple but scrappy, and doesn't support stuff like video embeds for example. You can copy examples to get those working if you fancy. There are 2 main things whose existence you should note, whether you try to use them or not:
@@ -88,9 +98,9 @@ Basic Markdown is simple but scrappy, and doesn't support stuff like video embed
 
 The {% raw %}`{% %}`{% endraw %} stuff is macros for including bits of HTML (that, say, handle video embeds) in a clean way. This is the current setup for YouTube embeds:
 
-{% raw %}`{% include yt.html id="Ksr-H9dgGjA" %}`{% endraw %}
+{% raw %}`{% include yt.html id="oudZMniib08" %}`{% endraw %}
 
-{% include yt.html id="Ksr-H9dgGjA" %}
+{% include yt.html id="oudZMniib08" %}
 
 The `{: }` stuff is iirc custom features provided by the website theme, like tables of contents (`{:toc}`).
 

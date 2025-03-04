@@ -48,16 +48,16 @@ Visit the **[download page](https://kdenlive.org/en/download/)** and choose the 
 ## Set your project resolution
 On the top menu bar, go to **Project -> Project Settings**. Changing the project profile to **HD 1080p 30fps** is recommended. In a comparison video, two or more clips usually need to be shown at the same time, which will require making them smaller. Increasing the resolution will make the clips clearer.  
 ## Import your clips
-<img align="right" src="https://imgur.com/LIctH9B.png"/> Import the clips you'd like to use by pressing the **Add clip or folder** button in the top left of the **Project Bin** area.  
+<img align="right" src="/sms-guide/assets/comparison-tutorial/import.png"/> Import the clips you'd like to use by pressing the **Add clip or folder** button in the top left of the **Project Bin** area.  
 Drag your clips onto the timeline at the bottom of the screen.  
 **Warning**: If prompted, do not "switch to clip profile." This will change your project resolution to the resolution of one of your clips. This will likely make the quality low, because your individual clips will be downsized to fit two or more on screen for your comparison.  
 
 ## Position your clips on the screen  
-<img align="right" src="https://imgur.com/UyZd2jJ.png"/> To play two videos at once, drag each video onto a different video track on the timeline. The video tracks are labeled V1 and V2.  
+<img align="right" src="/sms-guide/assets/comparison-tutorial/position-1.png"/> To play two videos at once, drag each video onto a different video track on the timeline. The video tracks are labeled V1 and V2.  
 In the Main Effects window, open the **Transform, Distort and Perspective** submenu. Click and drag **Edge Crop** and **Transform** onto each of your clips on the timeline below.  
 To edit the Edge Crop and Transform effects for a clip, click the clip on the timeline to highlight it in orange. The settings should appear above.  
 Crop your clips to their desired size using the Top, Left, Bottom, and Right fields in the Edge Crop settings. Edit the pixel count directly by clicking the number and typing in a new number, or scroll while hovering over the bar.  
-<img align="right" src="https://imgur.com/sc33ZLQ.png"/> In the Transform settings, make sure both clips are the same size by typing the same value into the **Size** percentage field for both of them. (For videos with two clips, 66% is recommended.) Then, position it on the screen by changing the X and Y fields. Scrolling can help for finer adjustment.  
+<img align="right" src="/sms-guide/assets/comparison-tutorial/position-2.png"/> In the Transform settings, make sure both clips are the same size by typing the same value into the **Size** percentage field for both of them. (For videos with two clips, 66% is recommended.) Then, position it on the screen by changing the X and Y fields. Scrolling can help for finer adjustment.  
 If you want to save your settings for these effects for future editing sessions, click the Save icon to the top right of the effect settings box. To access them later, press the "Show all custom effects" button (It's a star with a pencil, above the effects list).  
 ## Edit your video
 To change the length of a clip, hover over the beginning or ending in the timeline so your cursor turns into an arrow. Then click and drag to change the length.
