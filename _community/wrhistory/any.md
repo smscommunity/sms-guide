@@ -105,10 +105,9 @@ Times above on Reset Timing, Times below on File Select timing
 **[1:13:17](https://www.youtube.com/watch?v=1coJWwnKEgs)** by *Anonymous* on August 1, 2021  
 
 ### 2022  
-#### No Improvements
+**No Improvements**  
 
 ### 2023  
-
 **[1:13:17](https://www.youtube.com/watch?v=9Y8FMwZsAIs)** by トーボウ on August 15, 2023  
 **[1:13:08](https://www.youtube.com/watch?v=U7o5L7720_0)** by JJsrl on September 10, 2023
 
@@ -121,6 +120,7 @@ Times above on Reset Timing, Times below on File Select timing
 ## ACE
 *GCN/Wii*  
 ### 2024  
+**[2:17:29](https://www.youtube.com/watch?v=oYoZ0jk_h2I)** by a_ on August 24th, 2024  
 **[46:55](https://www.youtube.com/watch?v=CX3Q9p1dPFw)** by orange117 on September 10th, 2024  
 **[36:15](https://www.youtube.com/watch?v=Zh2N76gAXKI)** by Jcool114 on September 14th, 2024  
 **[31:32](https://www.youtube.com/watch?v=3DcBUpekKQE)** by Jcool114 on September 15th, 2024  
