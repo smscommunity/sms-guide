@@ -18,7 +18,7 @@ Generally:
 * The more right you are, the higher you want to hover
 * The more forward you are, the lower you want to hover
 
-**Bounding Boxes** *by UrinalMike*  
+**Bounding Boxes**  
 <img src="https://i.imgur.com/ELw9vzF.png" width="600">
 
 **Visual Cues**  
