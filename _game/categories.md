@@ -17,7 +17,7 @@ SMS speedrunners play in 5 main disciplines.
 
 Beat the final boss starting from a fresh file, timed in real time. The requirement for unlocking the final boss is beating episode 7 in all 7 worlds (excluding the hub world). This usually involves collecting 44 shines.
 
-[Current Routes](https://smscommunity.github.io/sms-guide/routes/#any){: .btn }  
+[Current Routes](https://smscommunity.github.io/sms-guide/routes/#any-no-ace){: .btn }  
 
 ### Skips
 The shines can be done in the intended order, except for 5 skips that are usually used:
@@ -38,7 +38,7 @@ Any% (No ACE) with the additional requirement of collecting 120 shines (= 96 phy
 [Current Routes](https://smscommunity.github.io/sms-guide/routes/#120-shines){: .btn }  
 
 ## ILs
-Complete an individual level (single shine), timed using an in-game timer. The full guide for these is [here](info/il).
+Complete an individual level (single shine), timed using an in-game timer. The full guide for these is [here](https://smscommunity.github.io/sms-guide/info/il/).
 
 ## Misc RTA Categories
 The other popular real-time categories are:
