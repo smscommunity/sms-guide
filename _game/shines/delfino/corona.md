@@ -20,3 +20,7 @@ Something to note, in this IL normally people don't do what is called "Kwan dive
 #### Fast Corona (Spam Sprays)
 *Advanced, faster*  
 {% include yt.html id="Ly7AthbwObE" %}  
+
+#### Bowser
+Tutorial *by Kwaniza*  
+{% include yt.html id="oQXx6-DbYxQ" %}  
