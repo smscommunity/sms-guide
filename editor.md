@@ -50,8 +50,8 @@ An important part of this setup is that basic Markdown is very simple, just an e
 3\. Code blocks like the ones in the previous point are given by ``backticks``. Triple backtick gives multiline blocks.
 
 ```
-This be a multiline block.
-How *you* doin?
+This is a multiline block.
+Line 2 of the multiline block.
 ```
 
 4\. Sections are structured by prepending # symbols – `# Title`, `## Section`, `### Subsection` etc.
@@ -79,7 +79,15 @@ Markdown by default renders large images that are left-aligned, but html can be 
 7\. Indentation of lines can only be done manually by pasting in special whitespace characters:  
     *This line is indented by 4 en-spaces.*
 
-For the love of god, never indent anything by 4 or more normal spaces; it'll trigger a multiline code block and leave you confuse-o.
+Don't indent anything by 4 or more normal spaces--it'll trigger a multiline code block.
+
+### Embedding local images
+- It is better to store images for the wiki inside the wiki's files itself, instead of uploading them to an external service like Imgur. This will avoid links breaking at some point in the future if the owner or the service deletes them.  
+- Local images must be stored in a folder without an underscore in order to be accessible on the published version of the wiki. The folder `/sms-guide/assets/` has been created for this purpose.  
+- In order to better organize images in the `assets` folder, subfolders should be created for each page or group of pages. To make a new folder, you must temporarily make a new text file. In the file name field, type the desired folder name with a forward slash at the end, and the new folder will pop in. Then just name the temporary file something like `temp.md`. Upload your images to the new folder, then delete the temporary file.  
+- Images must be linked to with their absolute path, starting with the repo name `/sms-guide`.  
+- **Important**: Images will look like they're not working in the GitHub editor's "preview" tab, but they will work on the published wiki. Don't change the path to get them to work in the preview tab, because that will probably break the published version.  
+
 
 ## Extended Markdown Guide
 Basic Markdown is simple but scrappy, and doesn't support stuff like video embeds for example. You can copy examples to get those working if you fancy. There are 2 main things whose existence you should note, whether you try to use them or not:
