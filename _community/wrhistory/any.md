@@ -6,8 +6,6 @@ parent: WR History
 nav_order: 1
 has_toc: true
 ---
-1. TOC
-{:toc}
 # Any% World Record History  
 ## **(No ACE)**  
 *GCN/Wii*  
