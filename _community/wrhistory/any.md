@@ -125,5 +125,6 @@ Times above on Reset Timing, Times below on File Select timing
 **[36:15](https://www.youtube.com/watch?v=Zh2N76gAXKI)** by Jcool114 on September 14th, 2024  
 **[31:32](https://www.youtube.com/watch?v=3DcBUpekKQE)** by Jcool114 on September 15th, 2024  
 **[23:57](https://www.youtube.com/watch?v=KkrKY0wwZRQ)** by Jcool114 on September 16th, 2024  
+**[23:14](https://www.youtube.com/watch?v=KkrKY0wwZRQ)** by Weegee on September 19th, 2024  
 **[17:24](https://www.youtube.com/watch?v=RMX9JDf9RvE)** by Weegee on September 30th, 2024  
 **[16:57](https://www.youtube.com/watch?v=J69jBu9jADQ)** by JTown2909 on September 30th, 2024  
