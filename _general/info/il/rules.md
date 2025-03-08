@@ -38,7 +38,7 @@ Rules are non-italicised and *guidelines (on best practices) are italicised*.
     2. *The video ideally includes everything from the input that reset the level (and the ensuing load) to at least 2 seconds after the timer stops at the end.*
     3. The time shown on the in-game timer in the video **matches the time reported on the sheet**.
     4. The video is of **sufficient quality and without major frame-drops** (per mod discretion). The standard for this is higher for top-3 times. **Post-processed videos of gameplay** are **not** permitted, and the gameplay **must take up greater than or equal to 50% of the canvas in both width and height** of the video.
-    5. The video must be on YouTube/Twitch for top-3 times, *and should be for any other submission if possible*. Top-3 videos on other platforms will be moved to a note.
+    5. **YouTube is highly encouraged for uploads.** This is due to longevity and is easier to analyze. 
     6. *Game audio should be present (though it needn't be the only audio).*
     7. *To link something that isn't a valid video, you may put it in a note – e.g. a link to a video of a worse time, or a still image. You may choose between reporting a worse time with link or a better one without – a choice between more points or a medal maybe – but it's nice to still keep the other time/video in a note.*
 
