@@ -30,17 +30,17 @@ Any%/120-Shine top 5 per country/USA-state.
     **Any% Leaderboard Screenshots [2013-2016]** - Click To Expand
   </summary>  
   Old screenshots of the Google Sheets and Speedrun.com leaderboard from 2013-2016.  
-  [2012 between 09-07 and 09-29](/sms-guide/assets/lb-history/2012-09-07-to-09-29.png)  
-  [2013-06-07](/sms-guide/assets/lb-history/2013-06-07.png)  
-  [2013-06-25](/sms-guide/assets/lb-history/2013-06-25.png)  
-  [2013 between 06-26 and 07-13](/sms-guide/assets/lb-history/2013-06-26-to-07-13.png)  
-  [2013-07-14](/sms-guide/assets/lb-history/2013-07-14.png)  
-  [2014-02-20](/sms-guide/assets/lb-history/2014-02-20.png)  
-  [2015-07-24](/sms-guide/assets/lb-history/2015-07-24.png)  
-  [2015-10-26](/sms-guide/assets/lb-history/2015-10-26.png)  
-  [2015-10-30](/sms-guide/assets/lb-history/2015-10-30.jpg)  
-  [2015-11-28](/sms-guide/assets/lb-history/2015-11-28.jpg)  
-  [2016-09-22](/sms-guide/assets/lb-history/2016-09-22.png)  
+  [1st-19th, 2012 between 09-07 and 09-29](/sms-guide/assets/lb-history/2012-09-07-to-09-29.png)  
+  [1st-20th, 2013-06-07](/sms-guide/assets/lb-history/2013-06-07.png)  
+  [1st-20th, 2013-06-25](/sms-guide/assets/lb-history/2013-06-25.png)  
+  [1st-39th, 2013 between 06-26 and 07-13](/sms-guide/assets/lb-history/2013-06-26-to-07-13.png)  
+  [1st-45th, 2013-07-14](/sms-guide/assets/lb-history/2013-07-14.png)  
+  [1st-145th, 2014-02-20](/sms-guide/assets/lb-history/2014-02-20.png)  
+  [1st-20th, 2015-07-24](/sms-guide/assets/lb-history/2015-07-24.png)  
+  [1st-22nd, 2015-10-26](/sms-guide/assets/lb-history/2015-10-26.png)  
+  [1st-374th, 2015-10-30](/sms-guide/assets/lb-history/2015-10-30.jpg)  
+  [1st-500th, 2015-11-28](/sms-guide/assets/lb-history/2015-11-28.jpg)  
+  [1st-20th, 2016-09-22](/sms-guide/assets/lb-history/2016-09-22.png)  
 </details>  
 
 **[Any% Leaderboard Backups: 2017-2024](https://archive.md/https://www.speedrun.com/sms)**  
