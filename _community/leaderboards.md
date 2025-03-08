@@ -27,7 +27,7 @@ Any%/120-Shine top 5 per country/USA-state.
 
 <details markdown="block">
   <summary markdown="span">
-    Any% Leaderboard Screenshots **[2013-2016]** - Click To Expand
+    ***Any% Leaderboard Screenshots [2013-2016]** - Click To Expand
   </summary>  
   Old screenshots of the Google Sheets and Speedrun.com leaderboard from 2013-2016.  
   [2012 between 09-07 and 09-29](/sms-guide/assets/lb-history/2012-09-07-to-09-29.png)  
