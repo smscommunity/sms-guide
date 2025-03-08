@@ -43,10 +43,10 @@ Any%/120-Shine top 5 per country/USA-state.
   [2016-09-22](/sms-guide/assets/lb-history/2016-09-22.png)  
 </details>  
 
-**Any% Leaderboard Backups: [2017-2024](https://archive.md/https://www.speedrun.com/sms)**  
+**[Any% Leaderboard Backups: 2017-2024](https://archive.md/https://www.speedrun.com/sms)**  
 Backups of the Speedrun.com Any% leaderboard since 2017.  
 
-**Pre-GBS Any% Leaderboard: [Link](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTJp08lbpeHTszu_WrYnRTwy0KbAxDJwSYBjxi6LuJG7iQT6gWYwWcreCitKOB3lW8rPCENeGA_mr_O/pubhtml?gid=1446204419&single=true)**  
+**[Pre-GBS Any% Leaderboard](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTJp08lbpeHTszu_WrYnRTwy0KbAxDJwSYBjxi6LuJG7iQT6gWYwWcreCitKOB3lW8rPCENeGA_mr_O/pubhtml?gid=1446204419&single=true)**    
 Archive of the Any% leaderboard from 2014/02/20, before GBS was found and Sunshine rose in popularity.  
 
 ### IL Leaderboards
