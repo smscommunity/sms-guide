@@ -124,13 +124,13 @@ Times above on Reset Timing, Times below on File Select timing
 ## ACE
 *GCN/Wii*  
 ### 2024  
-**[2:17:29](https://www.youtube.com/watch?v=oYoZ0jk_h2I)** by a_ on August 24th, 2024  
-**[46:55](https://www.youtube.com/watch?v=CX3Q9p1dPFw)** by orange117 on September 10th, 2024  
-**[36:15](https://www.youtube.com/watch?v=Zh2N76gAXKI)** by Jcool114 on September 14th, 2024  
-**[31:32](https://www.youtube.com/watch?v=3DcBUpekKQE)** by Jcool114 on September 15th, 2024  
-**[23:57](https://www.youtube.com/watch?v=KkrKY0wwZRQ)** by Jcool114 on September 16th, 2024  
-**[23:14](https://www.youtube.com/watch?v=UlrzQOnwGWs)** by Weegee on September 19th, 2024  
-**[17:24](https://www.youtube.com/watch?v=RMX9JDf9RvE)** by Weegee on September 30th, 2024  
+**[2:17:29](https://www.youtube.com/watch?v=oYoZ0jk_h2I)** by a_ on August 24, 2024  
+**[46:55](https://www.youtube.com/watch?v=CX3Q9p1dPFw)** by orange117 on September 10, 2024  
+**[36:15](https://www.youtube.com/watch?v=Zh2N76gAXKI)** by Jcool114 on September 14, 2024  
+**[31:32](https://www.youtube.com/watch?v=3DcBUpekKQE)** by Jcool114 on September 15, 2024  
+**[23:57](https://www.youtube.com/watch?v=KkrKY0wwZRQ)** by Jcool114 on September 16, 2024  
+**[23:14](https://www.youtube.com/watch?v=UlrzQOnwGWs)** by Weegee on September 19, 2024  
+**[17:24](https://www.youtube.com/watch?v=RMX9JDf9RvE)** by Weegee on September 30, 2024  
 
 ### 2025  
-**[16:57](https://www.youtube.com/watch?v=J69jBu9jADQ)** by JTown2909 on September 30th, 2024  
+**[16:57](https://www.youtube.com/watch?v=J69jBu9jADQ)** by JTown2909 on Fabruary 17, 2024  
