@@ -133,4 +133,4 @@ Times above on Reset Timing, Times below on File Select timing
 **[17:24](https://www.youtube.com/watch?v=RMX9JDf9RvE)** by Weegee on September 30, 2024  
 
 ### 2025  
-**[16:57](https://www.youtube.com/watch?v=J69jBu9jADQ)** by JTown2909 on Fabruary 17, 2024  
+**[16:57](https://www.youtube.com/watch?v=J69jBu9jADQ)** by JTown2909 on Fabruary 17, 2025  
