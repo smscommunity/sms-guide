@@ -1,8 +1,8 @@
 ---
 layout: default 
 title: Pianta Early
-permalink: /techniques/movement/piantaearly/
-parent: Movement
+permalink: /techniques/maneuvers/piantaearly/
+parent: Maneuvers
 grand_parent: Techniques
 nav_order: 3
 ---
