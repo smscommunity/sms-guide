@@ -6,7 +6,7 @@ parent: Pinna Park
 grand_parent: Shines
 ---
 # Pinna 6
-The standard Pinna 6 entry done is skipped with [Early Yoshi-Go-Round](https://smscommunity.github.io/sms-guide/shines/pinna/eyg/). This saves about 
+The standard Pinna 6 entry done is skipped with [EYG](/sms-guide/techniques/maneuvers/eyg/). This saves about 
 
 ## Entrance (no EYG)
 <details markdown="block">
