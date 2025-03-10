@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Movement
-permalink: /techniques/movement/
+title: Maneuvers 
+permalink: /techniques/maneuvers/
 parent: Techniques
 nav_order: 1
 has_children: true
