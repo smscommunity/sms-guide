@@ -9,6 +9,9 @@ has_toc: true
 # Any% World Record History  
 ## **(No ACE)**  
 *GCN/Wii*  
+### 2009
+**1:55:50** by Thiradell on January 10, 2009  
+
 ### 2010
 **1:55:38** by sincos on August 24, 2010  
 **1:54:50** by sincos on September 4, 2010  
