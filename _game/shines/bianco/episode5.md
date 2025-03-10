@@ -9,7 +9,8 @@ grand_parent: Shines
 Bianco 5 is made up of two parts: the Entry and the Petey Fight. You should be comfortable with hoverslides, (jump) dive rollouts, spin jumps, sideflips, and triple jumps to have success with this shine.
 ## Entry
 
-### Beginner - Log Triple Jump
+#### Log Triple Jump
+*Beginner*  
 - From the start, hold up and hoverslide
 - Aim for the middle of the log, buffer a hover as you slide off the path, release hover, then double jump off the log
 - Triple jump and hover up to the while wall
@@ -20,7 +21,8 @@ Bianco 5 is made up of two parts: the Entry and the Petey Fight. You should be c
 - Backflip and shoot the poink to hit Petey
 
 {% include yt.html id="THguJsZpdGg" %}
-### Intermediate - Rope-Y
+#### Rope-Y
+*Intermediate*  
 This is roughly 2 seconds faster than the Log Triple strat
 - From the start, hold up and hoverslide
 - Aim for the middle of the log, buffer a hover as you slide off the path
@@ -30,7 +32,8 @@ This is roughly 2 seconds faster than the Log Triple strat
 - Finish the entry the same as the beginnger strat
 
 {% include yt.html id="XiRLGo_o8g8" %}
-### Intermediate - Grass-Slide Triple Jump
+#### Grass-Slide Triple Jump
+*Intermediate*  
 This is roughly 0.5 seconds faster than the Rope-Y strat
 - At the start of the level, turn the camera slightly to the right, then hold up and hoverslide
 - Aim the hoverslide for the last part of the grass which is not raised above the path
@@ -55,7 +58,9 @@ When Petey reaches a blue node, he will stop and fly in mid-air. At this point, 
 
 ### Petey Spam Sprays
 #### Y-Cam Method
-Simply Y-Cam, then spray, then spam spray after to finish filling. This is slower, but can be more consistent for some players.
+*Beginner*  
+Simply Y-Cam, then spray, then spam spray after to both exit Y-Cam and finish filling Petey. This is slower, but can be more consistent for some players.
 
 #### Backflip Method
+*Intermediate*  
 It takes 2 full spam sprays to fill Petey’s mouth (go for 3 to be safe in case you partially miss). If you’re having trouble, focusing on having two properly timed spam sprays can help you become more consistent with the timing. Start your backflip when Petey is almost finished turning, so that you are near the top of his head as he opens it to maximize your window for spam sprays.
