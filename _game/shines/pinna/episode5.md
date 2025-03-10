@@ -6,7 +6,7 @@ parent: Pinna Park
 grand_parent: Shines
 ---
 # Pinna 5
-Pinna 5 is a shine not required for any% completion due to [EYG](https://smscommunity.github.io/sms-guide/shines/pinna/eyg/); however, EYG can be quite intimidating for a new runner and it's not required for the standard any% route. Pinna 5 is an overall very simple level and highly recommended when starting out.
+Pinna 5 is a shine not required for Any% completion due to [EYG](/sms-guide/techniques/movement/eyg/); however, EYG can be quite intimidating for a new runner and it's not required for the standard any% route. Pinna 5 is an overall very simple level and highly recommended when starting out.
 
 #### Tree Triple
 *Beginner*  
