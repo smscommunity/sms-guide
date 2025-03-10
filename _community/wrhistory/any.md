@@ -9,8 +9,30 @@ has_toc: true
 # Any% World Record History  
 ## **(No ACE)**  
 *GCN/Wii*  
+### 2010
+**1:55:38** by sincos on August 24, 2010  
+**1:54:50** by sincos on September 4, 2010  
+**1:50:57** by sincos on September 7, 2010  
+**1:49:56** by sincos on September 26, 2010  
+**1:47:38** by sincos on October 5, 2010  
+**1:45:47** by Chadou on December 8, 2010  
+**1:45:37** by Chadou on December 29, 2010  
+**1:44:27** by Chadou on December 30, 2010  
+
 ### 2011  
+**1:41:13** by sincos on February 27, 2011  
+**1:40:51** by sincos on March 29, 2011  
+**1:39:32** by sincos on March 29, 2011  
+**1:37:48** by sincos on April 15, 2011  
+**1:37:41** by トーボウ on May 28, 2011  
+**1:36:06** by トーボウ on July 24, 2011  
+**1:35:55** by トーボウ on August 5, 2011  
+**1:35:28** by sincos on September 11, 2011  
+**1:34:58** by トーボウ on September 15?, 2011  
 **[1:34:50](https://www.youtube.com/watch?v=TUsFLq4Rqkk)** by トーボウ on October 10, 2011  
+**[1:34:25](https://www.nicovideo.jp/watch/sm16119678)** by sincos on November 08, 2011  
+**1:34:20** by トーボウ on November 13, 2011  
+**1:34:02** by トーボウ on November 30, 2011  
 **[1:33:01](https://www.youtube.com/watch?v=bEDeCtvRmQ4)** by sincos on December 24, 2011(?)  
                                               
 ### 2012  
