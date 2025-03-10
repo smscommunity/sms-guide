@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: Pinna 6
-permalink: /shines/pinna/episode1/
+permalink: /shines/pinna/episode6/
 parent: Pinna Park
 grand_parent: Shines
 ---
