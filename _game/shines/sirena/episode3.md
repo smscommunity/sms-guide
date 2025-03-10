@@ -5,7 +5,7 @@ permalink: /shines/sirena/episode3/
 parent: Sirena Beach
 grand_parent: Shines
 ---
-## **Sirena 3**
+# **Sirena 3**
 #### Front side, no GWK  
 *Beginner*  
 {% include yt.html id="0ZLzPKq1T3g" %}  
