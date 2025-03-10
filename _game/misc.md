@@ -29,7 +29,7 @@ A WIP decomp of Super Mario Sunshine.
 **[Any%(No ACE) in 1:05:47.71](https://youtu.be/igm67ZABQgE)** (zelpikukirby, Nov 2024)  
 **[Any%(ACE) in 09:50.49](https://youtu.be/2_DeEV7WOp8)** (zelpikukirby, Feb 2024)  
 **[120 Shines in 2:23:29.42](https://youtu.be/CLhC_M_IDUo)** (zelpikukirby, Feb 2023)  
-**[Any%(ACE) LOTAD in 34.28.30](https://youtu.be/I7E4huWppvc?si=9CHhzjqLt8RNxQoI)** (NokiDoki, Dec 2021)  
+**[Any%(ACE) LOTAD in 34:28.30](https://youtu.be/I7E4huWppvc?si=9CHhzjqLt8RNxQoI)** (NokiDoki, Dec 2021)  
 **[Any% in 1:07:52.96](https://www.youtube.com/watch?v=5VLKqijYrbA)** (zelpikukirby, Goldfire, Mar 2018)  
 
 ## Documentaries  
