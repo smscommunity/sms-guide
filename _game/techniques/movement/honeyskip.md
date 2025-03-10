@@ -4,7 +4,7 @@ title: Honey Skip
 permalink: /techniques/movement/honeyskip/
 parent: Movement
 grand_parent: Techniques
-nav_order: 3
+nav_order: 4
 ---
 # Honey Skip
 *( guide by **Metacor** and **shoutplenty** – [original](https://gist.github.com/Metacor/6392df6b11599370f479f87f4df5431d) )*  
