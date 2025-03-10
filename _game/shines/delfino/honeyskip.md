@@ -4,7 +4,7 @@ title: Honey Skip
 permalink: /shines/delfino/honeyskip/
 parent: Delfino Plaza
 grand_parent: Shines
-nav_order: 3
+nav_order: 4
 ---
 # Honey Skip
 *( guide by **Metacor** and **shoutplenty** – [original](https://gist.github.com/Metacor/6392df6b11599370f479f87f4df5431d) )*  
