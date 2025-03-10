@@ -5,7 +5,7 @@ permalink: /shines/sirena/episode7/
 parent: Sirena Beach
 grand_parent: Shines
 ---
-## **Sirena 7**  
+# **Sirena 7**  
 #### No Quick kill  
 *Beginner*  
 {% include yt.html id="p9cibphshqo" %}  
