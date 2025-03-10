@@ -10,6 +10,20 @@ nav_order: 3
 
 Pianta Village's entrance is a red pipe high on top of the Shine Gate. This is difficult to climb for a casual without the use of either Yoshi (requires Pinna 4 shine) or a rocket (30 shines).
 
+#### No Momentum Spin, No Awning Jump, Spinjump + Y-Turn
+*Beginner, Recommended*  
+- Lock the camera with L, then dive and rollout up-left notch
+- Spinjump up-left and wallkick dive onto the yellow roof, holding forward and preserving your momentum into your running speed
+- Jumpdive onto the yellow roof, rollout and jump
+- Hover across to the grass and spinjump wallkick hover up to the white ledge
+- Jump and do a landing spinjump, and press Y very shortly after your jump. *Not at the same time*
+  - Its important to finish spinning just before you land, so you are holding forward and let Mario run for at least one frame to have enough speed/height. [More details on spinjumps](/sms-guide/techniques/spinjumps/)
+- Right when you enter Y-Cam, hold left to turn and once you reach a 45° angle to the wall, press Y to exit Y-Cam then hold A to wallkick (or double tap A holding the second press, but using Y to exit Y-Cam provides the best muscle memory for infinite wallkicks
+- Hover backwards onto the Shine Gate
+- Jump and tap hover and fall into the pipe
+
+{% include yt.html id="57gviq3JLoI" %}  
+
 #### Triple Jump
 *Beginner/Intermediate*  
 - Hoverslide forwards and slightly to the left, take care to not reenter the M behind you
@@ -20,11 +34,12 @@ Pianta Village's entrance is a red pipe high on top of the Shine Gate. This is d
   - *Alternatively, you can also simply wallkick off the white part of the shine gate.*
 - Do a triple jump *with some speed* and hover at the peak of your jump
 - Turn around and ledgegrab the Shine Gate
+- Jump and tap hover and fall into the pipe
 
 {% include yt.html id="zwUKiy2wr3A" %}  
 
-#### Spinjump + Y-Turn
-*Beginner/Intermediate*  
+#### Momentum Spin, Spinjump + Y-Turn
+*Intermediate*  
 - Hoverslide forwards and slightly to the left, take care to not reenter the M behind you
 - Hover into the wall and do a landing spinjump, or buffer a running spinjump into the wall and spinjump, up through the awning
 - Bounce up and dive once you rise above the roof
@@ -35,6 +50,7 @@ Pianta Village's entrance is a red pipe high on top of the Shine Gate. This is d
   - Its important to finish spinning just before you land, so you are holding forward and let Mario run for at least one frame to have enough speed/height. [More details on spinjumps](/sms-guide/techniques/spinjumps/)
 - Right when you enter Y-Cam, hold left to turn and once you reach a 45° angle to the wall, press Y to exit Y-Cam then hold A to wallkick (or double tap A holding the second press, but using Y to exit Y-Cam provides the best muscle memory for infinite wallkicks
 - Hover backwards onto the Shine Gate
+- Jump and tap hover and fall into the pipe
 
 {% include yt.html id="J4BzX00buXY" %}  
 
