@@ -9,8 +9,9 @@ grand_parent: Shines
 Bianco 3 is made up of two parts: the Entry and the Secret. You should be comfortable with hoverslides, (jump) dive rollouts, spin jumps, sideflips, and triple jumps to have success with this shine.
 ## Entry
 Both the Beginner and Advanced Entry strats utilize a majority of the same movement. The one difference will be called out in the Advanced section.
-### Beginner
+
 #### Pole Wall Kick
+*Beginner*  
 - From the start, hold up and hoverslide
 - Aim towards roughly the middle of the log and buffer a hover by holding R
 - Briefly hover when Mario slides off the path and double jump off the log
@@ -25,14 +26,14 @@ Both the Beginner and Advanced Entry strats utilize a majority of the same movem
 
 If you struggle with the Pole Wall Kick, you can spin jump into the cliff wall, then wall kick and hover to the cliff instead.
 {% include yt.html id="tglJP5itMAU" %}
-### Advanced
+
 #### One-Slide
+*Advanced*  
 This strat differs from the beginner strat in how Mario passes through the doorway. Instead of a dive/rollout and jump/spray into dive, the entire sequence can be accomplished with a well-positioned and well-timed hoverslide. See timestampe 0:14 of the video below for where to begin the hoverslide.
 {% include yt.html id="5yFxfopfdI0" %}
 ## Secret
-
-### Beginner
 #### Triple Jump Dive
+*Beginner*  
 - Run forward briefly then begin a triple jump sequence
 - Triple jump dive up to the fourth moving block and rollout onto the fifth block
 - Spin jump dive up to the orange blocks, rollout to the center block, adjusting left if necessary
@@ -40,8 +41,8 @@ This strat differs from the beginner strat in how Mario passes through the doorw
 - The green path consists of a jumpdive/rollout and dive/rollout. One of the rollouts needs to be a short rollout for proper spacing
 - Dive rollout onto the first star, rollout to the second, then rollout and jump dive to the shine
 {% include yt.html id="U0i6C8VO50k" %}
-### Advanced
 #### Jump Dive
+*Advanced*  
 - Jump dive as soon as mario lands and hold left. Do a short rollout to the edge of the first block
 - Jump up/right to the second block and spin jump dive to the fourth block
 - Spin jump dive up to the orange blocks and rollout to the middle block
