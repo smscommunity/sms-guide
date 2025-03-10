@@ -6,6 +6,6 @@ parent: Gelato Beach
 grand_parent: Shines
 nav_order: 8
 ---
-# Gelato Beach Skip *(GBS)*
+# Gelato 8
 
-### [Check out our page on GBS](/sms-guide/techniques/movement/gbs/)
+### [Gelato Beach Skip Page](/sms-guide/techniques/movement/gbs/)
