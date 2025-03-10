@@ -6,7 +6,7 @@ parent: Pinna Park
 grand_parent: Shines
 ---
 # Pinna 6
-The standard Pinna 6 entry done is skipped with [EYG](/sms-guide/techniques/maneuvers/eyg/). This saves about 
+The standard Pinna 6 entry done is skipped with [EYG](/sms-guide/techniques/maneuvers/eyg/) in categories that allow it.
 
 ## Entrance (no EYG)
 <details markdown="block">
