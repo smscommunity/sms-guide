@@ -4,7 +4,7 @@ title: Pianta Early
 permalink: /techniques/movement/piantaearly/
 parent: Movement
 grand_parent: Techniques
-nav_order: 2
+nav_order: 3
 ---
 # Pianta Early
 
