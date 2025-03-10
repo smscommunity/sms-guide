@@ -32,7 +32,7 @@ Pianta Village's entrance is a red pipe high on top of the Shine Gate. This is d
 - Rollout onto the green roof, holding forward and preserving your momentum into your running speed
 - Jumpdive onto the yellow roof, and do an instant momentum spinjump off the tip of the roof. Hover at the peak of your jump to avoid a ledgegrab on the white ledge.
   - *Alternatively, you can also simply wallkick off the white part of the shine gate.*
-- Do a triple jump *with some speed* and hover at the peak of your jump
+- Do a triple jump *with some speed* and hover at the peak of your jump (4 frame window)
 - Turn around and ledgegrab the Shine Gate
 - Jump and tap hover and fall into the pipe
 
