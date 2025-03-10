@@ -5,7 +5,7 @@ permalink: /shines/sirena/episode6/
 parent: Sirena Beach
 grand_parent: Shines
 ---
-## **Sirena 6**
+# **Sirena 6**
 #### JP  
 {% include yt.html id="XdkyUMf_27E" %}  
 #### NTSC-U/PAL  
