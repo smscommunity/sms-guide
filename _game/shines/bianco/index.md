@@ -6,4 +6,3 @@ permalink: /shines/bianco/
 parent: Shines
 has_children: true
 ---
-Bianco is the first world of nearly every run.
