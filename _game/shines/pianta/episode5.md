@@ -21,7 +21,7 @@ Pianta 5 is made up of two parts: the Entry and the Secret.
 - Spin jump and hover to the green spotted mushroom and perform yoshi skip
 </details>
 
-### [Yoshi Skip Page](https://smscommunity.github.io/sms-guide/shines/pianta/yoshiskip/)
+### [Yoshi Skip Page](/sms-guide/techniques/maneuvers/yoshiskip/)
 
 ## Secret
 
