@@ -7,7 +7,7 @@ grand_parent: Techniques
 nav_order: 6
 ---
 
-# EYG
+# Early Yoshi-Go-Round (EYG)
 This is a strat where we access the Yoshi-Go-Round early, and skip Pinna Park episode 5.  
 Pinna Park episode 4 is required to be completed to unlock Yoshi for this strategy.  
 Due to the difficulty of this strategy, its usually recommended to just do Pinna Park episode 5 
