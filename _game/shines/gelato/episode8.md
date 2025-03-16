@@ -8,4 +8,4 @@ nav_order: 8
 ---
 # Gelato 8
 
-### [Gelato Beach Skip Page](/sms-guide/techniques/movement/gbs/)
+### [Gelato Beach Skip Page](/sms-guide/techniques/maneuvers/gbs/)
