@@ -19,7 +19,7 @@ Rules are non-italicised and *guidelines (on best practices) are italicised*.
 2. **Permitted practice codes**: all codes are generally allowed, but some levels have specific restrictions **posted in the note on the level's name**. Specific rules:
     1. **Free Pause** is allowed but midair pausing is banned.
     2. **Fast Text (DPad Functions)** is allowed except for Pianta 5 Full, Secret and Reds.
-    3. **Remove Saveboxes** is no longer available so just assume it's banned!
+    3. **Remove Saveboxes** is banned if it has an effect on gameplay.
     4. **Any Fruit Opens Yoshi Eggs** is always allowed.
     5. **FMV Skips** is allowed but skipping cutscenes by pressing a button (i.e. not exit area) is banned specifically in Pinna 1.
     6. **Position Store/Load (DPad Functions)** is allowed specifically outside the part of the level being timed – usually to set up a starting position.
@@ -27,7 +27,7 @@ Rules are non-italicised and *guidelines (on best practices) are italicised*.
 
 3. **Timer**: all times must be **obtained directly from the in-game timer** (IGT) provided by the **Shine Get Timer** (SGT) practice code, version 2 or later (from Oct 2019), *with two exceptions:* (1) SGT may be left off for ILs using vanilla IGT, and (2) runs may be retimed (as below). Consult example videos to see where time starts and ends for a given level.
     1. **Retimes may be requested** by typing `/ticket create` in the SMS discord. The included video must be somewhat cropped (i.e. <5 mins long). Examples of common retime situations are ILs from full-game runs or done without fast text by accident.
-    2. **Retimes are available for all levels except** those where accurate load timing hasn't been done by the community, namely `Bianco 2; Ricco 1; Pinna 1; Noki 3,8; Airstrip; Corona Mountain (Full)`.
+    2. **Retimes are available for all levels except** those where accurate load timing hasn't been done by the community, namely `Bianco 2; Ricco 1; Pinna 1; Noki 8; Airstrip; Corona Mountain (Full)`.
 
 4. **Video requirement**:
     1. **Video is required for times in the top 3 and/or top 15% of a level leaderboard**. The cutoff times for each level are shown in a row at the top of the sheet. Any PB that can't be posted because of this should go in a note over the relevant cell. Runs in the top 15% but not top 10% without video may be accepted on appeal.
