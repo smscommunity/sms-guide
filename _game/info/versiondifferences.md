@@ -11,21 +11,10 @@ nav_order: 1
 
 <img src="https://i.imgur.com/JX7U7is.jpeg" width="500">  
 
-JP is faster than PAL by ~1.7 seconds, and JP is more likely to hit early cycle in PV5 which saves an additional 15-20 seconds.
+JP is faster than PAL by up to 3.5 seconds, and JP is more likely to hit early cycle in PV5 which saves an additional 15-20 seconds.
 
-[Why is JP Faster?](https://docs.google.com/spreadsheets/d/1Dl7XqJX23L-Bni0vlFGmu79RJUjtmsSpV1dmusbnQwM/edit?gid=1076198849#gid=1076198849)  
-*by shoutplenty and Despin*  
-
-| Desc.  | Time |
-|---|---|
-| game loads:  | -20.9  |
-| text:  | +5.44  |
-| fades:  | +8.27 |
-| Sirena 6  | +5.5 |
-| EYG  | +2.5  |
-| Pianta 1  | -1.5 |
-| Pinna 3  | -1.0  |
-| **JP**  | **-1.7** |
+[Why is JP Faster?](https://docs.google.com/document/d/1WCNBt855KyMkNUGAO51sy8Z45HjpBW3Y3AlK7ajro8M/edit?usp=sharing)  
+*by Pogonateur*  
 
 <details markdown="block">
   <summary markdown="span">
