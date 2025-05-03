@@ -7,10 +7,10 @@ nav_exclude: true
 
 # Dolphin 
 
-### Settings
+### Graphics Settings
 
-<img src="/sms-guide/assets/setup/enhancements_tab.png">
-<img src="/sms-guide/assets/setup/hacks_tab.png">
+<img src="/sms-guide/assets/setup/enhancements_tab.png" width="400">
+<img src="/sms-guide/assets/setup/hacks_tab.png" width="400">
 
 ### Input Lag
 
@@ -19,4 +19,3 @@ nav_exclude: true
 - Make sure Vsync is off
 - Play in fullscreen, and turn off borderless fullscreen
 - Overclock your adapter, tutorial found [here](https://docs.google.com/document/d/1cQ3pbKZm_yUtcLK9ZIXyPzVbTJkvnfxKIyvuFMwzWe0/edit?tab=t.0)
-
