@@ -12,13 +12,13 @@ nav_order: 5
 In order to submit to the [official leaderboards](https://www.speedrun.com/sms), you need to play on one of the supported platforms:
 
 - Nintendo Wii/Gamecube
-- Super Mario 3D All Stars
+- Super Mario 3D All Stars  
 [**Recommended Hardware**](/sms-guide/setup#recommended-hardware)
 
 These emulators are allowed for times slower than the threshold defined in the Category Rules:
 
 - Dolphin Emulator
-- Nintendont
+- Nintendont  
 [**Emulator Guide**](/sms-guide/setup/emu)
 
 There are small and large differences between the versions which will affect your speedruns. Find the full list of differences in our [version differences](https://smscommunity.github.io/sms-guide/game/versiondifferences) page.
