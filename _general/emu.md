@@ -9,8 +9,8 @@ nav_exclude: true
 
 ### Graphics Settings
 
-<img src="/sms-guide/assets/setup/enhancements_tab.png" width="400">
-<img src="/sms-guide/assets/setup/hacks_tab.png" width="400">
+<img src="/sms-guide/assets/setup/enhancements_tab.png">
+<img src="/sms-guide/assets/setup/hacks_tab.png">
 
 ### Input Lag
 
