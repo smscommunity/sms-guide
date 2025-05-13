@@ -13,7 +13,7 @@ nav_exclude: true
 4. Click your profile and find the splits you uploaded
 5. Click on the Golds tab
 6. Click on "Merge Subsplits" seen in the image below
-7. You now have your best world segments
+7. You now have your best world segments (you can also unmerge these at any time)
 
 <img src="/sms-guide/assets/setup/mergesubsplits.png">
 
