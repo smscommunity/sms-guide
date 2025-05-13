@@ -7,9 +7,6 @@ nav_exclude: true
 
 # Convert single shine splits to world splits with therun.gg  
 
-<img src="/sms-guide/assets/setup/enhancements_tab.png">
-<img src="/sms-guide/assets/setup/hacks_tab.png">
-
 1. Go to [therun.gg](https://therun.gg)
 2. Log in with Twitch at the top right.
 3. Click upload, and upload the splits you would like to convert.
