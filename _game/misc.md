@@ -25,6 +25,9 @@ Sheet of blindfolded runs.
 [Decomp](https://github.com/doldecomp/sms){: .btn }  
 A WIP decomp of Super Mario Sunshine.  
 
+[Zelpikukirby Blog Translations](https://zeldocto.notion.site/Zelpikukirby-Blog-Translations-1f2c1a5b3cbc8010879cd3f6c656eb72){: .btn }  
+English Translations of SMS TASer Zelpikukirby's blog posts.  
+
 ## TASes  
 **[Any%(No ACE) in 1:05:47.71](https://youtu.be/igm67ZABQgE)** (zelpikukirby, Nov 2024)  
 **[Any%(ACE) in 09:50.49](https://youtu.be/2_DeEV7WOp8)** (zelpikukirby, Feb 2024)  
