@@ -5,3 +5,5 @@ permalink: /techniques/hoverslides/
 parent: Techniques
 nav_exclude: true
 ---
+# Hoverslides
+placeholder text
