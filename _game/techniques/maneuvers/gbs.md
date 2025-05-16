@@ -52,7 +52,7 @@ nav_order: 2
 
 ## The Setup
 
-* First tip, always make sure your camera is to the right of Mario, or facing the direction of the coral reef before pressing L to center your camera. Centering the camera from the left or right sides results in different angle units. This is one of the leading causes of a failed GBS. Here is a visual example:
+* First tip, always make sure your camera is to the right of Mario, or facing the direction of the coral reef before pressing L to center your camera. Centering the camera from the left or right sides results in different angle units. **This is one of the leading causes of a failed GBS.** Here is a visual example:
 
 <img src="/sms-guide/assets/shines/gelato/episode8/gbsangle.png" width="600">
 
