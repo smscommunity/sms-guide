@@ -69,7 +69,7 @@ Index of external links to routes.
 [Link](https://docs.google.com/spreadsheets/d/1xbp-U7aAu9WN2HquHgFWNPBahA2thGEg9_LzJGxSP2s/edit?gid=0#gid=0){: .btn }  
 *by bancakes*
 
-# Category Extension Extensions  
+# Category Extensions Extensions  
 
 ## All Signs  
 [Link](https://www.notion.so/The-Signs-in-Super-Mario-Sunshine-65e463313d4b4bcaa701ad2864731ae0?pvs=4){: .btn }  
