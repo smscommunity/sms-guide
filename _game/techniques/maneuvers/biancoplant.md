@@ -37,7 +37,7 @@ Saves ~0.5s over 2014 TAS Movement
 - Do a landing spinjump out of your rollout
 - Hover (for as short as possible) as you become high enough to land on the awning, and dive onto the awning
 - Again, hover as you become high enough to get onto the roof, and dive onto the roof
-- When you rollout, hold A for a long rollout, making sure to avoid this part of the roof:
+- When you rollout, hold A for a long rollout, making sure to avoid this part of the roof to keep your rollout from being eaten:
 
 <img src="/sms-guide/assets/techniques/maneuvers/biancoplant/scumbagroof.png" width="600">
 
