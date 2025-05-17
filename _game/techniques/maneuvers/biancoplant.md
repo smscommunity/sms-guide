@@ -43,6 +43,6 @@ Saves ~0.5s over 2014 TAS Movement
 <img src="/sms-guide/assets/techniques/maneuvers/biancoplant/scumbagroof.png" width="600">
 
 - Slowly aim up as you fall, keeping the stream of water hitting the plant
-- After ~2.5s after you started spraying, un Y-Cam and backflip forward  
+- After ~2.5s after you started spraying, un Y-Cam and backflip dive forward  
 
 {% include yt.html id="kKX5vObntZM" %}  
