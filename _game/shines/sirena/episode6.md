@@ -11,5 +11,5 @@ grand_parent: Shines
 #### NTSC-U/PAL  
 {% include yt.html id="zxuyh3m67Ww" %}  
 
-Version difference explanation
+### Version difference explanation
 <img src="https://i.imgur.com/hfTbIT4.png">
