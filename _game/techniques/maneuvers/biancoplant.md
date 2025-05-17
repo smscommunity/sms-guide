@@ -37,11 +37,11 @@ Saves ~0.5s over 2014 TAS Movement
 - Do a landing spinjump out of your rollout
 - Hover (for as short as possible) as you become high enough to land on the awning, and dive onto the awning
 - Again, hover as you become high enough to get onto the roof, and dive onto the roof
-- As you land on the roof, press A+Y then start spraying, just above the horizon so you spray the plant early
 - When you rollout, hold A for a long rollout, making sure to avoid this part of the roof:
 
 <img src="/sms-guide/assets/techniques/maneuvers/biancoplant/scumbagroof.png" width="600">
 
+- As you land on the red roof, press A+Y to jump and start spraying, aim just above the horizon so you spray the plant early
 - Slowly aim up as you fall, keeping the stream of water hitting the plant
 - After ~2.5s after you started spraying, un Y-Cam and backflip dive forward  
 
