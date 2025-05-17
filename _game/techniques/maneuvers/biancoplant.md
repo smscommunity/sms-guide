@@ -26,7 +26,7 @@ Saves ~0.9s over Normal Movement
 - Rollout as you pass the bananas
 - Dive to the right, rollout and hit Y at the same time, and spray while rolling out.
 - Aim in an arc hitting the plant
-- After about 2.5s of spraying, tap Y to get out of Y-Cam and backflip forward
+- After about 2.5s of spraying, exit Y-Cam and backflip forward
 
 {% include yt.html id="GMvPH3mzKms" %}  
 #### Roof "Scumbag" Movement
@@ -41,8 +41,8 @@ Saves ~0.5s over 2014 TAS Movement
 
 <img src="/sms-guide/assets/techniques/maneuvers/biancoplant/scumbagroof.png" width="600">
 
-- As you land on the red roof, press A+Y to jump and enter y-cam, and start spraying just above the horizon, so you spray the plant early
+- As you land on the red roof, press A+Y to jump and enter Y-Cam, and start spraying just above the horizon, so you spray the plant early
 - Slowly aim up as you fall, keeping the stream of water hitting the plant
-- After ~2.5s after you started spraying, un Y-Cam and backflip dive forward  
+- After ~2.5s after you started spraying, exit Y-Cam and backflip dive forward  
 
 {% include yt.html id="kKX5vObntZM" %}  
