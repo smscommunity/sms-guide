@@ -12,4 +12,5 @@ grand_parent: Shines
 {% include yt.html id="zxuyh3m67Ww" %}  
 
 ### Version difference explanation
-<img src="https://i.imgur.com/hfTbIT4.png">
+
+<img src="/sms-guide/assets/shines/sirena/episode6/s6_version_diff.png">
