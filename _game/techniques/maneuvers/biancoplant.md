@@ -26,7 +26,7 @@ Saves ~0.9s over Normal Movement
 - Rollout as you pass the bananas
 - Dive to the right, rollout and hit Y at the same time, and spray while rolling out.
 - Aim in an arc hitting the plant
-- After about 2.5s of spraying, exit Y-Cam and backflip forward
+- After about 2.5s of spraying, exit Y-Cam and backflip dive forward
 
 {% include yt.html id="GMvPH3mzKms" %}  
 #### Roof "Scumbag" Movement
