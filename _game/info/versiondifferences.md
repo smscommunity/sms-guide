@@ -7,6 +7,8 @@ nav_order: 1
 ---
 # Version Differences
 
+Differences that don't effect speedruns: [The Cutting Room Floor](https://tcrf.net/Super_Mario_Sunshine/Version_Differences)  
+
 ### NTSC-J (JP 1.0)
 
 <img src="https://i.imgur.com/JX7U7is.jpeg" width="500">  
