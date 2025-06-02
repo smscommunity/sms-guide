@@ -11,7 +11,7 @@ nav_exclude: true
 
 # Dolphin Settings  
 
-**Game Properties**
+**Game Properties**  
 *Make sure options without checks are set as "undetermined", not "off"*  
 
 Synchronize GPU Thread: On (Stops crashes from long play sessions, this may no longer be required)  
