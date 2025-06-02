@@ -5,9 +5,10 @@ permalink: /setup/emu
 nav_exclude: true
 ---
 
-# Dolphin 
+# Emulator Setup  
 
-[Original Guide](https://imgur.com/a/tested-version-dolphin-5-0-11991-beta-metacor-qj6vrmM) by Metacor
+[Original Guide](https://imgur.com/a/tested-version-dolphin-5-0-11991-beta-metacor-qj6vrmM) by Metacor  
+[Dolphin Download](https://dolphin-emu.org/)  
 
 # Dolphin Settings  
 
