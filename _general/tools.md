@@ -29,7 +29,7 @@ Full tutorial for setting up practice codes.
 ### Wii Homebrew Apps
 
 [Nintendont](https://zint.ch/NintendontPackager/){: .btn }  
-Game loader app used to practice with cheat codes and run ILs; removes region locks; not used for RTA runs because of inaccurate loading times and lag. *Use the latest version, 6.498 or later; 6.489 is also fine but earlier/later versions often have problems.*.
+Game loader app used to practice with cheat codes and run ILs; removes region locks; can be used for RTA runs until the category video cutoff time, because of inaccurate loading times and lag. *Use the latest version*.
 
 [Gecko OS](https://wiibrew.org/w/images/d/dd/Gecko1931.zip){: .btn }  
 Game loader app used for SMS RTA runs; removes region locks. *Links to just the program; installation same as Nintendont.
