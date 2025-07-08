@@ -14,9 +14,9 @@ has_toc: false
 1. TOC
 {:toc}
 
-# [IL Spreadsheet](https://sunmar.io/il){: .btn }
+## [IL Spreadsheet](https://sunmar.io/il){: .btn }
 
-SMS has leaderboards on this spreadsheet for various individual-level–based categories, for practice, competition and analysis. The full spreadsheet comprises tabs for:
+SMS has leaderboards on this spreadsheet for various individual-level–based categories, for practice, competition, and analysis. The full spreadsheet comprises tabs for:
 * **ILs** – mostly-unrestricted ILs. The challenge of optimising a single level as much as possible co-exists with practice for Any% and other blue-coin–less categories.
 * **RTA Strat ILs** – ILs on different strats to optimise and compare them. A kind of living documentation that gives an overview of how fast different things are.
 * **120 ILs** – ILs with blue-coin requirements, for 120-Shine segment practice.
@@ -25,7 +25,7 @@ SMS has leaderboards on this spreadsheet for various individual-level–based ca
 * ***CE Extensions** – for extra category extensions (CEs); not ILs but just kept on this sheet.*
 
 ### Using the Sheet
-First, **join** the sheet by messaging one of the admins mentioned on the sheet's front page on Discord with your Google account's email address. Be warned that **the name on your Google account will be clearly visible in the sheet's activity**. Once given access, you can freely edit the space at the end of each sheet – take out a row (column in the case of RTA Strat ILs) on any sheet you want by typing in your name, and now, you can submit times – see the [submission guide](#submission-guide-ils-sheet). A mod will later protect your row so only you and the mods can edit it. Don't take out a row unless you'll enter a time right away! Empty rows get removed from time to time.
+First, **join** the sheet by messaging one of the admins mentioned on the sheet's front page on Discord with your Google account's email address. Be warned that **the name on your Google account will be clearly visible in the sheet's activity**. Once given access, you can freely edit the space at the end of each sheet – take out a row (column in the case of RTA Strat ILs) on any sheet you want by typing in your name, and now, you can enter your times. A mod will later protect your row so only you and the mods can edit it.
 
 ### Sheet Rules
 [ILs Sheet Rules](/sms-guide/info/il/rules/){: .btn }
