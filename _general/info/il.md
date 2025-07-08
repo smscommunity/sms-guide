@@ -14,7 +14,7 @@ has_toc: false
 1. TOC
 {:toc}
 
-[IL Spreadsheet](https://sunmar.io/il){: .btn }
+# [IL Spreadsheet](https://sunmar.io/il){: .btn }
 
 SMS has leaderboards on this spreadsheet for various individual-level–based categories, for practice, competition and analysis. The full spreadsheet comprises tabs for:
 * **ILs** – mostly-unrestricted ILs. The challenge of optimising a single level as much as possible co-exists with practice for Any% and other blue-coin–less categories.
