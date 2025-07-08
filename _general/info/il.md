@@ -29,7 +29,7 @@ SMS has leaderboards on this spreadsheet for various individual-level–based ca
 First, **join** the sheet by messaging one of the admins mentioned on the sheet's front page on Discord with your Google account's email address. Be warned that **the name on your Google account will be clearly visible in the sheet's activity**. Once given access, you can freely edit the space at the end of each sheet – take out a row (column in the case of RTA Strat ILs) on any sheet you want by typing in your name, and now, you can submit times – see the [submission guide](#submission-guide-ils-sheet). A mod will later protect your row so only you and the mods can edit it. Don't take out a row unless you'll enter a time right away! Empty rows get removed from time to time.
 
 ### Sheet Rules
-[ILs Sheet Rules](il/rules){: .btn }
+[ILs Sheet Rules](/sms-guide/info/il/rules/){: .btn }
 
 Please read the rules of the IL spreadsheet at this link. These rules apply to the main tab, **ILs**; other tabs loosely abide by these but their rules are informal and have some deviations. Check example videos from the sheet you're interested in and ask in the Discord's #help channel if still unclear.
 
@@ -63,7 +63,7 @@ The cost of recording an IL video for someone who's able to record an Any% run i
 Everybody should check this out to find out what options are available for recording videos of ILs, as well as cropping, frame-analysing/retiming and downloading them. YouTube submissions are preferred, though Twitch clips are fine if that's simpler for you. Twitter is allowed but discouraged. These preferences are due to how easy it is to frame-advance and download videos, as well as Twitter's uncontrollable viewer-side video hyper-compression.
 
 ### Links
-Hyperlinks are used to link videos for IL submissions; right-click a cell, then **Insert Link** (or ctrl+k). If you replace a time with video with one without video, check that the link is gone (possibly right-click, then **Remove Link**). Make sure to check [rule #5: video validity criteria](/sms-guide/info/il/rules/) for the rules and guidelines the video must/should conform to.
+Hyperlinks are used to link videos for IL submissions; right-click a cell, then **Insert Link** (or ctrl+k). If you replace a time with video with one without video, check that the link is gone (possibly right-click, then **Remove Link**). Make sure to check [rules #4 and #5](/sms-guide/info/il/rules/) for the rules and guidelines the video must/should conform to.
 
 If you're struggling to link a video (e.g. the link keeps getting recoloured black and not counted in your video count despite being there), try selecting the cell, menuing into *Format > Number > Plain Text*, then ctrl+k and click *Apply* – this is a known workaround for buggy link detection.
 
