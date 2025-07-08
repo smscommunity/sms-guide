@@ -44,4 +44,4 @@ Rules are non-italicised and *guidelines (on best practices) are italicised*.
 
 6. ***Deletions**: removal of submissions is discouraged, because the sheet aims to record all runs that are known to have happened, which also improves the accuracy of the points system.*
 
-7. **Vandalism**: you may choose any colour for your name as long as it contrasts enough with the white background to be easily legible (it must give 2:1 or above on [this](https://webaim.org/resources/contrastchecker/)), but may not change the formatting of anything else on the sheet.
+7. **Vandalism**: you may choose any color for your name as long as its legible, but may not change the formatting of anything else on the sheet.
