@@ -67,7 +67,10 @@ Hyperlinks are used to link videos for IL submissions; right-click a cell, then 
 If you're struggling to link a video (e.g. the link keeps getting recoloured black and not counted in your video count despite being there), try selecting the cell, menuing into *Format > Number > Plain Text*, then ctrl+k and click *Apply* – this is a known workaround for buggy link detection.
 
 ### Notes
-Adding notes is a convenient way of commenting on your submissions in a way that's immediately apparent to people browsing the sheet. Right-click a cell and select **Insert Note**. Don't use comments, since anyone can delete them.
+Adding notes is a convenient way of commenting on your submissions in a way that's immediately apparent to people browsing the sheet. Right-click a cell and select **Insert Note**. Don't use comments, those can be deleted by anyone and are used to update mods about a WR on the RTA sheet.
+
+### Comments
+Adding a comment is our process of easily alerting the mods to update your newly achieved WR on the RTA sheet, since currently it is not automated. Just add a comment on your cell that has your time/submission as "new WR". Add the level name as well if you would like. The comment will be removed once a mod updated the WR row with your time.
 
 ### IGT
 
