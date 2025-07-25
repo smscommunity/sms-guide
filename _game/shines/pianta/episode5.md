@@ -32,8 +32,6 @@ The chucksters always throw Mario directly opposite of the direction they are fa
 - Talk to the third chuckster. Similar to the second chuckster, it is possible to attain "platform skip" and make it all the way to the final platform with a tight enough angle and a well timed A+B input.
 
 {% include yt.html id="msLTEo7iUkg" %}
-</details>
-
 
 ### Early Cycle
 The final chuckster can stop at one of 6 nodes on the upper platform. These are shown below:
