@@ -65,12 +65,12 @@ A strat lost to time and rediscovered to be faster, you go left first and trigge
     Forgotten - Click to Expand
   </summary>
   {: .text-gamma}
+#### Good 2nd(A), Good 3rd(C).  
+{% include yt.html id="Bz_l6_86h-Q" %}  
+  
 #### Good 2nd(A), Bad 3rd(C).  
 {% include yt.html id="Viy4GiOKJXw" %}  
 
-#### Good 2nd(A), Good 3rd(C).  
-{% include yt.html id="Viy4GiOKJXw" %}  
-
 #### Bad 2nd(A), Good 3rd(C).  
-{% include yt.html id="Viy4GiOKJXw" %}  
+{% include yt.html id="tDcJhRAA9_Y" %}  
 </details>   
