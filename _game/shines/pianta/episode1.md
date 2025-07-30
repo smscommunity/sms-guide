@@ -49,7 +49,7 @@ These are typical RTA strats for when the A Chomp goes down the blue Normal path
 *Beginner and NTSC-U/PAL Friendly*  
 {% include yt.html id="tJDFV1A7was" %}  
 
-#### Over the Wall  
+#### Down Bad  
 *Advanced*  
 {% include yt.html id="Viy4GiOKJXw" %}  
 </details>   
