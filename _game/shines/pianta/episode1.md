@@ -24,20 +24,16 @@ These are typical RTA strats for when the A Chomp goes down the blue Normal path
   </summary>
   {: .text-gamma}
 #### Wait at Wall  
-*Beginner and NTSC-U/PAL Friendly*  
+*Beginner and NTSC-U/PAL Friendly, use spam sprays instead of hover*  
 {% include yt.html id="_ZkoUbYRWrk" %}  
 
 #### Bait Chomp  
-*Beginner and NTSC-U/PAL Friendly*  
+*Beginner and NTSC-U/PAL Friendly, use spam sprays instead of hover*  
 {% include yt.html id="BO18jxRH70M" %}  
-
-#### Bait Chomp [Yamata Strat]  
-*Intermediate and NTSC-U/PAL Friendly*  
-{% include yt.html id="OoD4qy-ngWw" %}  
 
 #### Slide Past  
 *Advanced*  
-{% include yt.html id="Viy4GiOKJXw" %}  
+{% include yt.html id="Bz_l6_86h-Q" %}  
 </details>   
 
 <details markdown="block">
