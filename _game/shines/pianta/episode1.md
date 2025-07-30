@@ -16,7 +16,7 @@ Pianta 1 is a shine where you need to pull the tails of 3 Chomps, shooting them 
 <img src="https://i.imgur.com/fw4J7TW.png">  
 
 ### Normal 1st(A) Chomp Pattern  
-These are typical RTA strats for when the A Chomp goes down the blue Normal path, and varies on what Chomp B and C do.  
+These are typical RTA strats for when the A Chomp goes down the blue Normal path, and varies mainly on what Chomp C does.  
 
 <details markdown="block">
   <summary markdown="span">
