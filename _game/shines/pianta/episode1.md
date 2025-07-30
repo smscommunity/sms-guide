@@ -57,7 +57,7 @@ These are typical RTA strats for when the A Chomp goes down the blue Normal path
 
 ### Forgotten Strat (1st is now B, 2nd is now A)   
 
-A strat lost to time and rediscovered to be faster, you go left first and trigger Chomp B first instead of Chomp A, if you see Chomp A go down the purple Forgotten (Left First) path.  
+A strat lost to time and rediscovered to be faster, you go left first and trigger Chomp B first instead of Chomp A, if you see Chomp A go down the purple/red "Forgotten" path.  
 *All of these are Advanced*  
 
 <details markdown="block">
