@@ -11,9 +11,9 @@ Pianta 1 is a shine where you need to pull the tails of 3 Chomps, shooting them 
 
 *This level has a [version difference](/sms-guide/game/versiondifferences)*  
 
-- You cannot put the chomplets out with your hover nozzle immediately on NTSC-U/PAL. 
+- You cannot put the chomplets out with your hover nozzle **immediately** on NTSC-U/PAL.  
 
-<img src="https://i.imgur.com/fw4J7TW.png">  
+<img src="/sms-guide/assets/shines/pianta/episode1/chomplettemap.png">  
 
 ### Normal 1st(A) Chomp Pattern  
 These are typical RTA strats for when the A Chomp goes down the blue Normal path, and varies mainly on what Chomp C does.  
