@@ -9,7 +9,7 @@ grand_parent: Shines
 
 Pianta 1 is a shine where you need to pull the tails of 3 Chomps, shooting them into a body of water to cool them off.  
 
-*This level has a [version difference](https://smscommunity.notion.site/Version-Differences-a2da9d8b0b33445a9f361d633f38e969)*  
+*This level has a [version difference](/sms-guide/game/versiondifferences)*  
 
 - You cannot put the chomplets out with your hover nozzle immediately on NTSC-U/PAL. 
 
@@ -68,6 +68,6 @@ A strat lost to time and rediscovered to be faster, you go left first and trigge
 {% include yt.html id="tDcJhRAA9_Y" %}  
 
 #### Good 2nd(A), **Bad 3rd(C). Early**  
-*If you are early, you can bait the chomp back, Otherwise, do (typical RTA strat or Down Bad)[sms-guide/shines/pianta/episode1/#typical-rta-strat]*  
+*If you are early, you can bait the chomp back, Otherwise, do [typical RTA strat or Down Bad](sms-guide/shines/pianta/episode1/#typical-rta-strat)*  
 {% include yt.html id="YMXdBLGHEEc" %}  
 </details>   
