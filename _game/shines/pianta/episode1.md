@@ -68,6 +68,6 @@ A strat lost to time and rediscovered to be faster, you go left first and trigge
 {% include yt.html id="tDcJhRAA9_Y" %}  
 
 #### Good 2nd(A), **Bad 3rd(C). Early**  
-*If you are early, you can bait the chomp back, Otherwise, do [typical RTA strat or Down Bad](sms-guide/shines/pianta/episode1/#typical-rta-strat)*  
+*If you are early, you can bait the chomp back, Otherwise, do [typical RTA strat or Down Bad](#typical-rta-strat)*  
 {% include yt.html id="YMXdBLGHEEc" %}  
 </details>   
