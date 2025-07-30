@@ -7,7 +7,7 @@ grand_parent: Shines
 ---
 # Pianta 1 
 
-Pianta 1 is a shine where you need to put out and pull the tails of 3 Chomps, and put them into a body of water.  
+Pianta 1 is a shine where you need to pull the tails of 3 Chomps, shooting them into a body of water to cool them off.  
 
 *This level has a [version difference](https://smscommunity.notion.site/Version-Differences-a2da9d8b0b33445a9f361d633f38e969)*  
 
