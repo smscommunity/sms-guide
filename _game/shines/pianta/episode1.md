@@ -29,7 +29,7 @@ These are typical RTA strats for when the A Chomp goes down the blue Normal path
 
 #### Bait Chomp  
 *Beginner and NTSC-U/PAL Friendly*  
-{% include yt.html id="_ZkoUbYRWrk" %}  
+{% include yt.html id="BO18jxRH70M" %}  
 
 #### Bait Chomp [Yamata Strat]  
 *Intermediate and NTSC-U/PAL Friendly*  
