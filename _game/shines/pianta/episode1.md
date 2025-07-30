@@ -69,7 +69,7 @@ A strat lost to time and rediscovered to be faster, you go left first and trigge
 {% include yt.html id="Bz_l6_86h-Q" %}  
   
 #### Good 2nd(A), Bad 3rd(C).  
-{% include yt.html id="Viy4GiOKJXw" %}  
+{% include yt.html id="YMXdBLGHEEc" %}  
 
 #### Bad 2nd(A), Good 3rd(C).  
 {% include yt.html id="tDcJhRAA9_Y" %}  
