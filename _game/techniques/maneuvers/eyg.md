@@ -13,8 +13,10 @@ Pinna Park episode 4 is required to be completed to unlock Yoshi for this strate
 Due to the difficulty of this strategy, its usually recommended to just do Pinna Park episode 5 
 and episode 6 as intended until you reach a low 1:2x time (Any% no ACE) as it only saves a little over a minute.  
 
-Fruit Locations:  
-<img src="/sms-guide/assets/techniques/maneuvers/eyg/PinnaBeachFruits.png" width="600">  
+**Fruit Locations:**  
+<a href="/sms-guide/assets/techniques/maneuvers/eyg/PinnaBeachFruits.png" target="_blank">
+  <img src="/sms-guide/assets/techniques/maneuvers/eyg/PinnaBeachFruits.png" width="600">
+</a>
 
 ### [Tutorials Page](https://smscommunity.github.io/sms-guide/tutorials/)  
 *2-Stu is generally considered outdated, but some people find it easier. Feel free to experiment!*  
