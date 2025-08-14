@@ -25,18 +25,17 @@ Chance of getting a fruit cycle is 70% until going to 3 health or below.
 
 <img src="/sms-guide/assets/shines/sirena/episode5/slothealthstats.png">  
 
-## Entering the Fight  
+#### Entering the Fight  
 Optimal Entry  
 {% include yt.html id="xURSkskvXWk" %}  
 
 There is a small area you are able to get a ground pound that instantly triggers the elevator as shown in the video.  
 <img src="/sms-guide/assets/shines/sirena/episode5/kbgptrigger.png">  
 
-## The Fight  
-#### Optimal Fight  
+#### The Fight  
 {% include yt.html id="Db7NxthMMOY" %}  
 
-The second the fight starts and you gain control of Mario, you notice FoundYourGun do a backflip dive into the center of the arena. This is a trick called laugh skip and saves around 2 seconds. This also makes the hitboxes for the purple buttons much larger (for some reason).  
+The second the fight starts and you gain control of Mario, you notice FoundYourGun do a backflip dive into the center of the arena. This is a trick called **laugh skip** and saves ~2 seconds. This also makes the hitboxes for the purple buttons much larger (for some reason).  
 
 - Once you take control of Mario, backflip dive into the center of the arena to activate laugh skip.
 - You can optionally ground pound the purple squares to stop the rotation of the roulette wheels to make grabbing the fruit easier.
