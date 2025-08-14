@@ -9,35 +9,21 @@ grand_parent: Shines
 # Sirena 5  
 Sirena 5 is another notorious level, since you only have a 34.3% chance of getting perfect RNG.  
 
-<details markdown="block">
-  <summary markdown="span">
-    Video Explanation - Click for Details
-  </summary> 
+#### Video Explanation
 {% include yt.html id="0_WZhr2ByyQ" %}  
-</details>  
-
-Getting a fruit cycle is 70% until going to 3 health or below.
 
 Perfect cycles are: Fruit🍍, Not Fruit❌, Fruit🍍, Not Fruit❌, Fruit🍍. (if not going for [Cycle Skips](sms-guide/shines/sirena/episode5/#cycle-skips))  
 
-<details markdown="block">
-  <summary markdown="span">
-    Slot Statistics - Click for Details
-  </summary>
-  {: .text-gamma}
+Chance of getting a fruit cycle is 70% until going to 3 health or below.
 Row = What was last spawned  
 Column = What will be spawned next  
 <img src="https://i.imgur.com/8sDOKue.jpeg">  
-</details>  
 
 ## Entering the Fight  
-<details markdown="block">
-  <summary markdown="span">
-    Optimal Entry - Click for Details
-  </summary>    
+Optimal Entry  
 {% include yt.html id="xURSkskvXWk" %}  
 
-There is a small area you are able to get an InstaGP as shown in the video. 
+There is a small area you are able to get an Instant ground pound as shown in the video. 
 <img src="https://i.imgur.com/MXJnXxq.jpeg">  
 </details>  
 
