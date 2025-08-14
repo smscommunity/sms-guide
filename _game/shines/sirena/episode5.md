@@ -16,7 +16,8 @@ Perfect cycles are: Fruit🍍, Not Fruit❌, Fruit🍍, Not Fruit❌, Fruit🍍.
 
 Chance of getting a fruit cycle is 70% until going to 3 health or below.  
 - Row = *What was last spawned*  
-- Column = *What will be spawned next*  
+- Column = *What will be spawned next*
+
 <img src="/sms-guide/assets/shines/sirena/episode5/slothealthstats.png">  
 
 ## Entering the Fight  
