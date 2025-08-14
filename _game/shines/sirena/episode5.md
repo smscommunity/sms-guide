@@ -23,7 +23,7 @@ Column = What will be spawned next
 Optimal Entry  
 {% include yt.html id="xURSkskvXWk" %}  
 
-There is a small area you are able to get a ground pound that instantly triggers the elevator as shown in the video. 
+There is a small area you are able to get a ground pound that instantly triggers the elevator as shown in the video.  
 <img src="/sms-guide/assets/shines/sirena/episode5/kbgptrigger.png">  
 </details>  
 
