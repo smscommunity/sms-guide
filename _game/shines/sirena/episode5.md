@@ -9,6 +9,11 @@ grand_parent: Shines
 # Sirena 5  
 Sirena 5 is another notorious level, since you only have a 34.3% chance of getting perfect RNG.  
 
+1. [Explanation](/sms-guide/shines/sirena/episode5/#video-explanation)
+2. [Entry](/sms-guide/shines/sirena/episode5/#entering-the-fight)
+3. [The Fight](/sms-guide/shines/sirena/episode5/#the-fight)
+4. [Cycle Skips](/sms-guide/shines/sirena/episode5/#cycle-skips)
+
 #### Video Explanation
 {% include yt.html id="0_WZhr2ByyQ" %}  
 
