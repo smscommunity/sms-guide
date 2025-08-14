@@ -36,7 +36,7 @@ Chance of getting a fruit cycle is 70% until going to 3 health or below.
 
 <details markdown="block">
   <summary markdown="span">
-    Instant elevator trigger - Click for Details
+    Instant Elevator Trigger - Click for Details
   </summary>
 {: .text-gamma}
 There is a small area you are able to get a ground pound that instantly triggers the elevator as shown in the video.  
