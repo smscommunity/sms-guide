@@ -19,11 +19,17 @@ Sirena 5 is another notorious level, since you only have a 34.3% chance of getti
 
 Perfect cycles are: Fruit🍍, Not Fruit❌, Fruit🍍, Not Fruit❌, Fruit🍍. (if not going for [Cycle Skips](sms-guide/shines/sirena/episode5/#cycle-skips))  
 
+<details markdown="block">
+  <summary markdown="span">
+    Slot Statistics - Click for Details
+  </summary>
+{: .text-gamma}
 Chance of getting a fruit cycle is 70% until going to 3 health or below.  
 - Row = *What was last spawned*  
 - Column = *What will be spawned next*
 
 <img src="/sms-guide/assets/shines/sirena/episode5/slothealthstats.png">  
+</details>  
 
 #### Entering the Fight  
 {% include yt.html id="xURSkskvXWk" %}  
