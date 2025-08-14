@@ -18,7 +18,7 @@ Sirena 5 is another notorious level, since you only have a 34.3% chance of getti
 
 Getting a fruit cycle is 70% until going to 3 health or below.
 
-Perfect cycles are: Fruit🍍, Not Fruit❌, Fruit🍍, Not Fruit❌, Fruit🍍.  
+Perfect cycles are: Fruit🍍, Not Fruit❌, Fruit🍍, Not Fruit❌, Fruit🍍. (if not going for [Cycle Skips](sms-guide/shines/sirena/episode5/#cycle-skips))  
 
 <details markdown="block">
   <summary markdown="span">
@@ -53,7 +53,7 @@ The second the fight starts and you gain control of Mario, you notice FoundYourG
   1. If you get a Fruit🍍 cycle for the first roll, this it optimal.
   2. If you get a Not Fruit❌ for the first roll, *or when you should optimally get a Fruit🍍 cycle*, this is an extra **NON-MANDATORY** cycle and you can cancel it the moment you notice the slot not stopping on fruit.
   3. If you get a Fruit🍍 cycle, then a Not Fruit❌ cycle after, this is an extra **MANDATORY** cycle, and you have to wait until the enemies completely spawn before cancelling the cycle.
-- As stated before, optimally the cycles are: Fruit🍍, Not Fruit❌, Fruit🍍, Not Fruit❌, Fruit🍍.
+- As stated before, optimally the cycles are: Fruit🍍, Not Fruit❌, Fruit🍍, Not Fruit❌, Fruit🍍. (if not going for [Cycle Skips](sms-guide/shines/sirena/episode5/#cycle-skips))
 - Once you get a Fruit🍍 cycle, grab a pepper and throw it into King Boo's tongue.
 - After he reacts to the pepper, throw a normal fruit into King Boo.
 - Repeat this 3 times.
