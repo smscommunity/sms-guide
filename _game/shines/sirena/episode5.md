@@ -17,14 +17,14 @@ Perfect cycles are: Fruit🍍, Not Fruit❌, Fruit🍍, Not Fruit❌, Fruit🍍.
 Chance of getting a fruit cycle is 70% until going to 3 health or below.
 Row = What was last spawned  
 Column = What will be spawned next  
-<img src="https://i.imgur.com/8sDOKue.jpeg">  
+<img src="/sms-guide/assets/shines/sirena/episode5/slothealthstats.png">  
 
 ## Entering the Fight  
 Optimal Entry  
 {% include yt.html id="xURSkskvXWk" %}  
 
-There is a small area you are able to get an Instant ground pound as shown in the video. 
-<img src="https://i.imgur.com/MXJnXxq.jpeg">  
+There is a small area you are able to get a ground pound that instantly triggers the elevator as shown in the video. 
+<img src="/sms-guide/assets/shines/sirena/episode5/kbgptrigger.png">  
 </details>  
 
 ## The Fight  
