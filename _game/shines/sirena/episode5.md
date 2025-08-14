@@ -47,11 +47,20 @@ There is a small area you are able to get an InstaGP as shown in the video.
 
 The second the fight starts and you gain control of Mario, you notice FoundYourGun do a backflip dive into the center of the arena. This is a trick called laugh skip and saves around 2 seconds. This also makes the hitboxes for the purple buttons much larger (for some reason).
 
-Nothing much to note of the fight besides throwing peppers into his mouth, then throwing a normal fruit at him right after.
+- Once you take control of Mario, backflip dive into the center of the arena to activate laugh skip.
+- You can optionally ground pound the purple squares to stop the rotation of the roulette wheels to make grabbing the fruit easier.
+- Spray King Boo the second he comes out of the ground.
+  1. If you get a Fruit🍍 cycle for the first roll, this it optimal.
+  2. If you get a Not Fruit❌ for the first roll, *or when you should optimally get a Fruit🍍 cycle*, this is an extra **NON-MANDATORY** cycle and you can cancel it the moment you notice the slot not stopping on fruit.
+  3. If you get a Fruit🍍 cycle, then a Not Fruit❌ cycle after, this is an extra **MANDATORY** cycle, and you have to wait until the enemies completely spawn before cancelling the cycle.
+- As stated before, optimally the cycles are: Fruit🍍, Not Fruit❌, Fruit🍍, Not Fruit❌, Fruit🍍.
+- Once you get a Fruit🍍 cycle, grab a pepper and throw it into King Boo's tongue.
+- After he reacts to the pepper, throw a normal fruit into King Boo.
+- Repeat this 3 times.
 
 Important tips:
-- You can cancel Not Fruit❌ cycles, but you have to wait until the enemies/bubbles/coins are spawned in a **MANDATORY** Not Fruit❌ cycle before cancelling it.
-- If it is an "extra" cycle, where it is an *extra* Not Fruit❌ cycle, and **NOT A MANDATORY ONE**, you can cancel it the second you see the slot land on a non-fruit.
+- Aim to throw the pepper at his tongue
+- Each fruit has a different throw arc. Learn them.
 - You can hover into a durian if its placement is convenient for a quick fruit launch after throwing a pepper.
 
 ## Cycle Skips
