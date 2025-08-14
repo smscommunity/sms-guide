@@ -26,11 +26,16 @@ Chance of getting a fruit cycle is 70% until going to 3 health or below.
 <img src="/sms-guide/assets/shines/sirena/episode5/slothealthstats.png">  
 
 #### Entering the Fight  
-Optimal Entry  
 {% include yt.html id="xURSkskvXWk" %}  
 
+<details markdown="block">
+  <summary markdown="span">
+    Instant elevator trigger - Click for Details
+  </summary>
+{: .text-gamma}
 There is a small area you are able to get a ground pound that instantly triggers the elevator as shown in the video.  
 <img src="/sms-guide/assets/shines/sirena/episode5/kbgptrigger.png">  
+</details>  
 
 #### The Fight  
 {% include yt.html id="Db7NxthMMOY" %}  
