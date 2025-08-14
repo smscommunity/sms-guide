@@ -14,9 +14,9 @@ Sirena 5 is another notorious level, since you only have a 34.3% chance of getti
 
 Perfect cycles are: Fruit🍍, Not Fruit❌, Fruit🍍, Not Fruit❌, Fruit🍍. (if not going for [Cycle Skips](sms-guide/shines/sirena/episode5/#cycle-skips))  
 
-Chance of getting a fruit cycle is 70% until going to 3 health or below.
-Row = What was last spawned  
-Column = What will be spawned next  
+Chance of getting a fruit cycle is 70% until going to 3 health or below.  
+- Row = *What was last spawned*  
+- Column = *What will be spawned next*  
 <img src="/sms-guide/assets/shines/sirena/episode5/slothealthstats.png">  
 
 ## Entering the Fight  
@@ -31,7 +31,7 @@ There is a small area you are able to get a ground pound that instantly triggers
 #### Optimal Fight  
 {% include yt.html id="Db7NxthMMOY" %}  
 
-The second the fight starts and you gain control of Mario, you notice FoundYourGun do a backflip dive into the center of the arena. This is a trick called laugh skip and saves around 2 seconds. This also makes the hitboxes for the purple buttons much larger (for some reason).
+The second the fight starts and you gain control of Mario, you notice FoundYourGun do a backflip dive into the center of the arena. This is a trick called laugh skip and saves around 2 seconds. This also makes the hitboxes for the purple buttons much larger (for some reason).  
 
 - Once you take control of Mario, backflip dive into the center of the arena to activate laugh skip.
 - You can optionally ground pound the purple squares to stop the rotation of the roulette wheels to make grabbing the fruit easier.
@@ -44,9 +44,9 @@ The second the fight starts and you gain control of Mario, you notice FoundYourG
 - After he reacts to the pepper, throw a normal fruit into King Boo.
 - Repeat this 3 times.
 
-Important tips:
-- Aim to throw the pepper at his tongue
-- Each fruit has a different throw arc. Learn them.
+Important tips:  
+- Aim to throw the pepper at his tongue  
+- Each fruit has a different throw arc. Learn them.  
 - You can hover into a durian if its placement is convenient for a quick fruit launch after throwing a pepper.
 
 ## Cycle Skips
