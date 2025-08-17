@@ -3,6 +3,7 @@ layout: default
 title: Tutorials
 permalink: /tutorials/
 nav_order: 3
+has_children: true
 ---
 
 # Tutorials
