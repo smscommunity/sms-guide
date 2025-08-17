@@ -7,4 +7,4 @@ grand_parent: Tutorials
 parent: Backup Library
 ---
 **Episode** | **Strat (Backup) + Video Link** | **Difficulty** | **Author**  
-Ep. 4 | [Grass Slide (Dropped Spin)](https://www.twitch.tv/inkstar/clip/ObservantPeacefulDiamondRaccAttack-y8pFrcdgyeadMPio) | Difficult | by inkstar
+Ep. 4 | [Grass Slide (Dropped Spin)](https://www.twitch.tv/inkstar/clip/ObservantPeacefulDiamondRaccAttack-y8pFrcdgyeadMPio) | Advanced | by inkstar
