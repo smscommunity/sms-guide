@@ -6,4 +6,4 @@ nav_order: 1
 parent: Tutorials
 has_children: true
 ---
-A collection of backup strats organized by Shine/Standard Any% order.
+A collection of backup strats organized by world.
