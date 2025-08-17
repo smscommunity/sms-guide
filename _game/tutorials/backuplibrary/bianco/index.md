@@ -6,4 +6,5 @@ permalink: /tutorials/backuplibrary/bianco/
 grand_parent: Tutorials
 parent: Backup Library
 ---
-[**Episode 4: Grass Slide (Dropped Spin)**](https://www.twitch.tv/inkstar/clip/ObservantPeacefulDiamondRaccAttack-y8pFrcdgyeadMPio) | by inkstar
+Ep. # | Strat (Backup) | Author  
+**Episode 4 | [Grass Slide (Dropped Spin)**](https://www.twitch.tv/inkstar/clip/ObservantPeacefulDiamondRaccAttack-y8pFrcdgyeadMPio) | by inkstar
