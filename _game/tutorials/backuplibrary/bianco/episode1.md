@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Bianco 1
-permalink: /shines/bianco/episode1/
+permalink: /tutorials/backuplibrary/bianco/episode1/
+grand_parent: Tutorials
 parent: Bianco Hills
-grand_parent: Backup Library
+nav_order: 1
 ---
