@@ -7,4 +7,4 @@ grand_parent: Tutorials
 parent: Backup Library
 ---
 **Episode** | **Strat (Backup) + Video Link** | **Difficulty** | **Author**  
-Ep. 3 | [TAS Strat (Early Hover Coin 5)](https://youtu.be/N4p15gsYz-4) | Advanced | by Zeldocto
+Ep. 3 | [TAS Strat (Early Hover Coin 5)](https://youtu.be/hcsOC8tt9l0) | Advanced | by Zeldocto
