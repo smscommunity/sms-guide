@@ -12,7 +12,7 @@ There is a .6 timesave (each time you do it) found where if you read a sign duri
 After the race starts, read the sign then close the textbox that pops up.  
 
 Finish the race, then make sure to face within a **5-10 degree angle** of where Piantissimo lands and finishes the race.  
-<img src="https://i.imgur.com/38YNF0K.png" width=500>  
+<img src="/sms-guide/assets/techniques/signstrats/signangle.png" width=500>  
 
 ## Visual Cues  
 <details markdown="block">
@@ -22,7 +22,7 @@ Finish the race, then make sure to face within a **5-10 degree angle** of where 
 
 Using the grass texture and the seam on the fence, you can line Mario up like so.  
 **Make sure to not be too far back** or *you won't trigger Piantissimo's text* (and possibly dive off the edge).  
-<img src="https://i.imgur.com/vbVbPkT.gif">  
+<img src="/sms-guide/assets/techniques/signstrats/pv2visualcue.gif">  
 </details>  
 
 <details markdown="block">
@@ -33,7 +33,7 @@ Using the grass texture and the seam on the fence, you can line Mario up like so
 Using the pole and the seam of the wall texture in the background, grab the pole, line them up and press B to let go. Walk forward until you are almost touching the flagpole.  
 You can press A+B once you regain control of Mario, and bonk off and grab the shine immediately.   
 {% include yt.html id="bK0B1kZTcQs" %}  
-<img src="https://i.imgur.com/gWIJQnW.png">  
+<img src="/sms-guide/assets/techniques/signstrats/nb5visualcue.png">  
 
 </details>  
 <details markdown="block">
@@ -41,6 +41,6 @@ You can press A+B once you regain control of Mario, and bonk off and grab the sh
     Gelato 5 - Click for Details
   </summary>  
 
-<img src="https://i.imgur.com/PBwYaOR.jpeg">  
-<img src="https://i.imgur.com/P11z6L7.jpeg">  
+<img src="/sms-guide/assets/techniques/signstrats/gb5visualcue1.jpeg">  
+<img src="/sms-guide/assets/techniques/signstrats/gb5visualcue2.jpeg">  
 </details>  
