@@ -150,7 +150,7 @@ Times above on Reset Timing, Times below on File Select timing
 *GCN/Wii*  
 ### 2024  
 **[2:17:29](https://www.youtube.com/watch?v=oYoZ0jk_h2I)** by a_ on August 24, 2024  
-**[46:55](https://www.youtube.com/watch?v=CX3Q9p1dPFw)** by orange117 on September 10, 2024  
+**[46:55](https://youtu.be/o7tH8m5dQNg)** by orange117 on September 10, 2024  
 **[36:15](https://www.youtube.com/watch?v=Zh2N76gAXKI)** by Jcool114 on September 14, 2024  
 **[31:32](https://www.youtube.com/watch?v=3DcBUpekKQE)** by Jcool114 on September 15, 2024  
 **[23:57](https://www.youtube.com/watch?v=KkrKY0wwZRQ)** by Jcool114 on September 16, 2024  
