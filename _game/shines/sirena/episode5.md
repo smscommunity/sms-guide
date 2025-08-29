@@ -26,7 +26,7 @@ Perfect cycles are: Fruit🍍, Not Fruit❌, Fruit🍍, Not Fruit❌, Fruit🍍.
 {: .text-gamma}
 ### Slot Statistics  
 
-**# extras/n** | **"exactly n extras"** | **"n extras or fewer"** | **"more than n extras"**
+**# of extras/n** | **exactly n extras** | **n extras or fewer** | **more than n extras**
 0 | 34.3% | 34.3% | 65.7%
 1 | 30.87% | 65.17% | 34.83%
 2 | 18.522% | 83.692% | 16.308%
