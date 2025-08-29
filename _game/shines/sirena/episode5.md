@@ -25,7 +25,23 @@ Perfect cycles are: Fruit🍍, Not Fruit❌, Fruit🍍, Not Fruit❌, Fruit🍍.
   </summary>
 {: .text-gamma}
 ### Slot Statistics  
-<img src="/sms-guide/assets/shines/sirena/episode5/kbslotstats.png">  
+# extras/n | "exactly n extras" | "n extras or fewer" | "more than n extras"
+0 | 34.3% | 34.3% | 65.7%
+1 | 30.87% | 65.17% | 34.83%
+2 | 18.522% | 83.692% | 16.308%
+3 | 9.261% | 92.953% | 7.047%
+4 | 4.16745% | 97.12045% | 2.87955%
+5 | 1.750329% | 98.870779% | 1.129221%
+6 | 0.7001316% | 99.5709106% | 0.4290894%
+7 | 0.27005076% | 99.84096136% | 0.15903864%
+8 | 0.10126904% | 99.9422304% | 0.05776961%
+9 | 0.03713198% | 99.97936237% | 0.02063763%
+10 | 0.01336751% | 99.99272989% | 0.00727011%
+11 | 0.00473939% | 99.99746928% | 0.00253072%
+12 | 0.00165879% | 99.99912806% | 0.00087194%
+13 | 0.0005742% | 99.99970226% | 0.00029774%
+14 | 0.00019687% | 99.99989913% | 0.00010087%
+
 Chance of getting a fruit cycle is 70% until going down to 3 health or below.  
 
 ### Slot Chances Based on Health
