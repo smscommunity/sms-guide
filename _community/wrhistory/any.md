@@ -144,6 +144,9 @@ Times above on Reset Timing, Times below on File Select timing
 ### 2025
 **[1:12:50](https://www.youtube.com/watch?v=0yVq3zR-eLk)** by inkstar on March 2, 2025  
 **[1:12:49](https://www.youtube.com/watch?v=0bSCUVc5EMs)** by JJsrl on March 3, 2025  
+**[1:12:44](https://www.youtube.com/watch?v=zeHfnJS4cUc)** by inkstar on May 10, 2025  
+**[1:12:41](https://www.youtube.com/watch?v=8qmNT9V60ps)** by inkstar on June 20, 2025  
+**[1:12:37](https://www.youtube.com/watch?v=c_Y4fmr3s60)** by inkstar on July 9, 2025  
 
 
 ## ACE
