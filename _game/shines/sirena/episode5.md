@@ -25,7 +25,7 @@ Perfect cycles are: Fruit🍍, Not Fruit❌, Fruit🍍, Not Fruit❌, Fruit🍍.
   </summary>
 {: .text-gamma}
 ### Slot Statistics  
-<img src="/sms-guide/assets/shines/sirena/episode5/slothealthstats.png">  
+<img src="/sms-guide/assets/shines/sirena/episode5/kbslotstats.png">  
 Chance of getting a fruit cycle is 70% until going down to 3 health or below.  
 
 ### Slot Chances Based on Health
