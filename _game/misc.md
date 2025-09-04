@@ -37,7 +37,7 @@ English Translations of SMS TASer Zelpikukirby's blog posts.
 
 ## Documentaries  
 **[ACE Explanation & Documentary](https://youtu.be/TJXQD8ZRtU0)** (Abyssoft, Jan 2025)  
-**[ACE Explanation](https://youtu.be/ua2YMo0yUjM)** (GlitchDoctor, Oct 2024)  
+**[ACE Explanation & Documentary](https://youtu.be/ua2YMo0yUjM)** (GlitchDoctor, Oct 2024)  
 **[ACE Documentary](https://youtu.be/v0nYrZw0ID8)** (LunaticJ, Sept 2024)  
 **[1:12 Journey](https://youtu.be/nHZIjx7OlUM)** (LunaticJ, Jul 2024)  
 **[Toobou's Legacy](https://youtu.be/V44Asd8l-b8)** (AverageTrey, Dec 2023)  
