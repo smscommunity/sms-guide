@@ -23,7 +23,7 @@ Sheet of low-A-press runs.
 Sheet of blindfolded runs.  
 
 [Decomp](https://github.com/doldecomp/sms){: .btn }  
-A WIP decomp of Super Mario Sunshine.  
+A WIP decomp of Super Mario Sunshine. Please contribute to the completion!  
 
 [Zelpikukirby Blog Translations](https://zeldocto.notion.site/Zelpikukirby-Blog-Translations-1f2c1a5b3cbc8010879cd3f6c656eb72){: .btn }  
 English Translations of SMS TASer Zelpikukirby's blog posts.  
@@ -36,8 +36,8 @@ English Translations of SMS TASer Zelpikukirby's blog posts.
 **[Any% in 1:07:52.96](https://www.youtube.com/watch?v=5VLKqijYrbA)** (zelpikukirby, Goldfire, Mar 2018)  
 
 ## Documentaries  
-**[ACE Explanation](https://youtu.be/TJXQD8ZRtU0)** (Abyssoft, Jan 2025)  
-**[ACE Documentary](https://youtu.be/ua2YMo0yUjM)** (GlitchDoctor, Oct 2024)  
+**[ACE Explanation & Documentary](https://youtu.be/TJXQD8ZRtU0)** (Abyssoft, Jan 2025)  
+**[ACE Explanation](https://youtu.be/ua2YMo0yUjM)** (GlitchDoctor, Oct 2024)  
 **[ACE Documentary](https://youtu.be/v0nYrZw0ID8)** (LunaticJ, Sept 2024)  
 **[1:12 Journey](https://youtu.be/nHZIjx7OlUM)** (LunaticJ, Jul 2024)  
 **[Toobou's Legacy](https://youtu.be/V44Asd8l-b8)** (AverageTrey, Dec 2023)  
