@@ -26,8 +26,11 @@ Best place to start, slightly outdated.
 **[120 Shines Tutorial Playlist (Switchmaster64 \| 2021/01/02)](https://www.youtube.com/playlist?list=PLvopRyTdDkBZTFJLtl3g5SknLBNuCLEws)**  
 Best place to start; assumes knowledge of the Any% tutorial playlist.
 
-**[All Shines Index (Milk, Dutchj + others \| 2015/07/26 – 2016/02/06 + updates)](https://docs.google.com/spreadsheets/d/19wxG81nHkHlGVPRJZJKp8VcxSeGbRZnKmR9lN7jJSwM/edit#gid=1779352269)**  
+**[All Shines Index (Milk, Dutchj + others \| 2015/07/26 – 2016/02/06)](https://docs.google.com/spreadsheets/d/19wxG81nHkHlGVPRJZJKp8VcxSeGbRZnKmR9lN7jJSwM/edit#gid=1779352269)**  
 A good but old set of strats, often better alternatives to the ones in the Any% tutorial playlist.
+
+**ACE [Beginner](https://www.youtube.com/watch?v=1eYZuGjuSkw) and [Advanced](https://www.youtube.com/watch?v=b9bKwyUDX2Q) Video Tutorials (JTown2909 \| 2025/01/22**  
+In-depth video tutorials on how to preform ACE speedruns for both beginner and advanced routes.
 
 ## Full-Game (Backup)
 Like the previous section, but more useful for alternative takes if you get stuck. Note that the older the tutorial, the more likely things are to be out-of-date.
