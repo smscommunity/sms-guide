@@ -37,6 +37,14 @@ Instakill/quick kill setups vary, and are described on each respective [Shines](
 
 ## Sirena Entry (Any%)  
 
+<details markdown="block">
+  <summary markdown="span">
+    Shadow Mario Left/Right RNG - Click to Expand
+  </summary>
+{: .text-gamma}
+<img src="/sms-guide/assets/techniques/instakils/yoshismtriggerrng.png" width=500>  
+</details>  
+
 #### Quick Kill
 {% include yt.html id="q8_1FvsuuYE" %}  
 
