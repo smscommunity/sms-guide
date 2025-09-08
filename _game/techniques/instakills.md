@@ -42,6 +42,7 @@ Instakill/quick kill setups vary, and are described on each respective [Shines](
     Shadow Mario Left/Right RNG - Click to Expand
   </summary>
 {: .text-gamma}
+The direction Shadow Mario runs is RNG if he chooses left or right. Left is optimal as the banana is very close. Luckily to the right still has a banana over under the fruit seller awnings, but still loses several seconds. The RNG is weighted as you approach Shadow Mario more directly from the side as shown in the image below.  
 <img src="/sms-guide/assets/techniques/instakills/yoshismtriggerrng.png">  
 </details>  
 
