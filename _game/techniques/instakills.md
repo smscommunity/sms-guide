@@ -42,7 +42,7 @@ Instakill/quick kill setups vary, and are described on each respective [Shines](
     Shadow Mario Left/Right RNG - Click to Expand
   </summary>
 {: .text-gamma}
-<img src="/sms-guide/assets/techniques/instakils/yoshismtriggerrng.png" width=500>  
+<img src="/sms-guide/assets/techniques/instakills/yoshismtriggerrng.png" width=500>  
 </details>  
 
 #### Quick Kill
