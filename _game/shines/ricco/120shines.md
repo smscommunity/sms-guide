@@ -69,13 +69,13 @@ This might be the most infamous level in the run. You must get Yoshi to eat the 
 Notes:
 - If you ever end up in a sewer, DO NOT GET SEWER GLITCH. If you touch a durian with sewer glitch it will launch and might go in the water.
 
-### Butterflies
+#### Butterflies
 Eat the butterflies near yoshi.
 
-### Fish Bucket
+#### Fish Bucket
 The next coin is in the bucket of blue fish near where Yoshi was. Spray the left bucket (no need to spam spray) and the coin should appear.
 
-### Wall M
+#### Wall M
 The next coin is on a far wall. We need to keep Yoshi to get the shine at the end of the level. You can move along the cliffs on the side of the stage, or you can spray the fish with Yoshi to create moving platforms which is slower.
 
 Notes:
@@ -87,6 +87,12 @@ After getting the far M on the cliff wall, move across the platforms with Yoshi 
 
 Notes:
 - You can clip directly into the shine cage with Yoshi by fluttering backwards into a corner.
+
+### Fruit Machine
+- Initially, all fruit has a 20% chance of spawning.
+- The game will re-roll the RNG up to three times if it rolls a fruit that is already spawned, after which it will create a "ghost" fruit.
+- Probability of 3 or fewer tries is 58.6% and anything more should be considered back luck.
+- [This spreadsheet](https://docs.google.com/spreadsheets/d/1xIVyWnNunZre9GAAMbc2z4NvweOlJpv9A0VZutQRm2s/edit?gid=0#gid=0) of the odds is not entirely accurate as fruit will start to despawn after about 7 tries or so, which reduces the probability of getting a durian. 
 
 ## Ricco 4 Reds
 Same as 96 Shines
