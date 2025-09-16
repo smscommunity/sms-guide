@@ -92,7 +92,8 @@ Notes:
 - Initially, all fruit has a 20% chance of spawning.
 - The game will re-roll the RNG up to three times if it rolls a fruit that is already spawned, after which it will create a "ghost" fruit.
 - Probability of 3 or fewer tries is 58.6% and anything more should be considered back luck.
-- [This spreadsheet](https://docs.google.com/spreadsheets/d/1xIVyWnNunZre9GAAMbc2z4NvweOlJpv9A0VZutQRm2s/edit?gid=0#gid=0) of the odds is not entirely accurate as fruit will start to despawn after about 7 tries or so, which reduces the probability of getting a durian. 
+- [This spreadsheet](https://docs.google.com/spreadsheets/d/1xIVyWnNunZre9GAAMbc2z4NvweOlJpv9A0VZutQRm2s/edit?gid=0#gid=0) of the odds is not entirely accurate as fruit will start to despawn after about 7 tries or so, which reduces the probability of getting a durian.
+- Fruits from the fruit machine despawn 40 seconds after they come out (as opposed to 2 minutes after being moved like every other fruit in the game)
 
 ## Ricco 4 Reds
 Same as 96 Shines
