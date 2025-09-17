@@ -25,9 +25,8 @@ Rules are non-italicised and *guidelines (on best practices) are italicised*.
     6. **Position Store/Load (DPad Functions)** is allowed specifically outside the part of the level being timed – usually to set up a starting position.
     7. **Fix Manta Splitting** is required for Sirena 1.
 
-3. **Timer**: all times must be **obtained directly from the in-game timer** (IGT) provided by the **Shine Get Timer** (SGT) practice code, version 2 or later (from Oct 2019), *with two exceptions:* (1) SGT may be left off for ILs using vanilla IGT, and (2) runs may be retimed (as below). Consult example videos to see where time starts and ends for a given level.
-    1. **Retimes may be requested** by typing `/ticket create` in the SMS discord. The included video must be somewhat cropped (i.e. <5 mins long). Examples of common retime situations are ILs from full-game runs or done without fast text by accident.
-    2. **Retimes are available for all levels except** those where accurate load timing hasn't been done by the community, namely `Bianco 2; Ricco 1; Pinna 1; Noki 8; Airstrip; Corona Mountain (Full)`.
+3. **Timer**: all times must be provided by the **Shine Get Timer** (SGT) practice code, version 2 or later (from Oct 2019), or the **Quarter Frame Timer** (QFT) practice code, *with one exception:* You don't need either practice code when using vanilla IGT (like for Pianta 6), you just need the Never Pause IGT practice code. Consult example videos to see where time starts and ends for a given level.
+    1. **Retimes may be requested** by typing `/ticket create` in the SMS discord. The included video must be somewhat cropped (i.e. <5 mins long). Examples of common retime situations are ILs from full-game runs, other times around your recently achieved PB (due to SGT being inaccurate), or done without fast text by accident.
 
 4. **Video requirement**:
     1. **Video is required for times in the top 3 and/or top 15% of a level leaderboard**. The cutoff times for each level are shown in a row at the top of the sheet. Any PB that can't be posted because of this should go in a note over the relevant cell. Runs in the top 15% but not top 10% without video may be accepted on appeal.
