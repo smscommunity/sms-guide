@@ -11,7 +11,7 @@ Differences that don't effect speedruns: [The Cutting Room Floor](https://tcrf.n
 
 ### NTSC-J (JP 1.0)
 
-<img src="https://i.imgur.com/JX7U7is.jpeg" width="500">  
+<img src="/sms-guide/assets/info/versiondifferences/smsjp.jpeg" width="500">  
 
 JP is faster than PAL by up to 3.5 seconds, and JP is more likely to hit early cycle in PV5 which saves an additional 15-20 seconds.
 
@@ -39,7 +39,7 @@ JP is faster than PAL by up to 3.5 seconds, and JP is more likely to hit early c
 
 ### NTSC-J A (JP 1.1)  
 
-<img src="https://i.imgur.com/1CQIPXc.jpeg" width="500">  
+<img src="/sms-guide/assets/info/versiondifferences/jp10vs11.jpeg" width="500"> 
 
 A somewhat rare (estimated ~1/20) updated version of JP 1.0, featuring small patches making it more similar to NTSC-U or PAL.  
 
@@ -56,7 +56,7 @@ A somewhat rare (estimated ~1/20) updated version of JP 1.0, featuring small pat
 
 ### PAL (1.1)
 
-<img src="https://i.imgur.com/hNUn6Pn.jpeg" width="500">  
+<img src="/sms-guide/assets/info/versiondifferences/smspal.jpeg" width="500"> 
 
 <details markdown="block">
   <summary markdown="span">
@@ -79,7 +79,7 @@ A somewhat rare (estimated ~1/20) updated version of JP 1.0, featuring small pat
 
 ### NTSC-U (1.1)
 
-<img src="https://i.imgur.com/HL9hgq9.jpeg" width="500">  
+<img src="/sms-guide/assets/info/versiondifferences/smsntscu.jpeg" width="500"> 
 
 The slowest version since it is identical to PAL, but with no language options or fast fades, losing +19.65 seconds.  
 
@@ -89,7 +89,7 @@ The Korean version, identical to NTSC-U but it can run on JP consoles.
 
 ### 3D All-Stars (Switch)
 
-<img src="https://i.imgur.com/SWCQBJc.jpeg" width="500">  
+<img src="/sms-guide/assets/info/versiondifferences/sms3das.jpeg" width="500"> 
 
 The limited-edition Nintendo Switch version, which also includes Super Mario 64 and Super Mario Galaxy. Saves almost 2 minutes (-01:55.12) to loads over Japanese, but is glitchy and has worse controls. All these factors make it less competitive.  
 
