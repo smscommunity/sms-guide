@@ -112,4 +112,3 @@ Notes:
 
 This changes Episode 1, 2, and 100s. It is very difficult to get the linked and 3 coins in 100s and failing will lose significant time.
 
-{% include yt.html id="FkDZ2lsex4k" %}
