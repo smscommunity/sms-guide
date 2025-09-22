@@ -17,7 +17,7 @@ nav_order: 8
 - Fruits from the fruit machine despawn 40 seconds after they come out (as opposed to 2 minutes after being moved like every other fruit in the game)
 
 ### 79/96+
-Its not too complicated for this strat. Grab the turbo in the cage in the boat in front of you. Use it to go quickly grab the rocket under the helipad (where you fight Blooper in Ricco 5). Then grab a coconut up off the tree on the cliffside and put it in a spot where you can pick it back up. Rocket storage twice then grab the coconut, then sidestep off the ledge activating your rocket storage. Use Y-Cam if needed to adjust your angle. You will need to land on the platform with the caged Shine Sprite. Place the coconut while standing on the 5th row of dots on the platform's texture, and jump and grab the cage. Climb down into the coconut and it should clip you through.  
+Grab the turbo in the cage in the boat in front of you. Use it to go quickly grab the rocket under the helipad (where you fight Blooper in Ricco 5). Then grab a coconut up off the tree on the cliffside and put it in a spot where you can pick it back up. Rocket storage twice then grab the coconut, then sidestep off the ledge activating your rocket storage. Use Y-Cam if needed to adjust your angle. You will need to land on the platform with the caged Shine Sprite. Place the coconut while standing on the 5th row of dots on the platform's texture, and jump and grab the cage. Climb down into the coconut and it should clip you through.  
 
 {% include yt.html id="hNOd6v4dfiA" %}  
 
@@ -38,13 +38,11 @@ The next coin is in the bucket of blue fish near where Yoshi was. Spray the left
 #### Wall M
 The next coin is on a far wall. We need to keep Yoshi to get the shine at the end of the level. You can move along the cliffs on the side of the stage, or you can spray the fish with Yoshi to create moving platforms which is slower.
 
-Notes:
-- If you ever end up in a sewer, DO NOT GET SEWER GLITCH. If you touch a durian with sewer glitch it will launch and might go in the water.
-- Yoshi can spin jump very high, you can cover large gaps with this.
-- Doing a jump-spin-flutter with Yoshi can cover a surprising amount of horizontal distance. It's very useful for moving along the cliffs and platforms in this section.
-
 #### Platform M
 After getting the far M on the cliff wall, move across the platforms with Yoshi to get the M on the floor of a platform. After spawning the coin, Y-turn up to spray the Jelly above the shine. Collect, the coin, spin jump towards the shine with Yoshi, and collect the shine.
 
 Notes:
 - You can clip directly into the shine cage with Yoshi by fluttering backwards into a corner.
+- If you ever end up in a sewer, DO NOT GET SEWER GLITCH. If you touch a durian with sewer glitch it will launch and might go in the water.
+- Yoshi can spin jump very high, you can cover large gaps with this.
+- Doing a jump-spin-flutter with Yoshi can cover a surprising amount of horizontal distance. It's very useful for moving along the cliffs and platforms in this section.
