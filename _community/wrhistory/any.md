@@ -133,7 +133,6 @@ Times above on Reset Timing, Times below on File Select timing
 **No Improvements**  
 
 ### 2023  
-**[1:13:17](https://www.youtube.com/watch?v=9Y8FMwZsAIs)** by トーボウ on August 15, 2023  
 **[1:13:08](https://www.youtube.com/watch?v=U7o5L7720_0)** by JJsrl on September 10, 2023
 
 ### 2024
