@@ -109,6 +109,7 @@ Times above on Reset Timing, Times below on File Select timing
 **[1:14:40](https://www.youtube.com/watch?v=QwWSVON2gF4)** by nindiddeh on May 20, 2017  
   
 ### 2018  
+**No Improvements**  
   
 ### 2019  
 **[1:14:37](https://www.youtube.com/watch?v=hUMnX3s7DIw)** by Weegee on June 21, 2019  
