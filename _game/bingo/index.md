@@ -39,7 +39,7 @@ Collection of bingo resources and strategies.
 
 ## Current Season Information 
 
-### Current Standings 
+### Past Results
 [sms.bingo/standings](https://sms.bingo/standings)
 
 ### Current Goal List (v4.0)
