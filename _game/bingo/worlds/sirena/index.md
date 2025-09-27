@@ -8,4 +8,4 @@ grand_parent: Bingo
 ---
 ### Sirena 1 100 Coins
 
-<img src="/sms-guide/assets/bingo/sirena/sirena1100c.png">  
+<img src="/sms-guide/assets/bingo/worlds/sirena/sirena1100c.png">  
