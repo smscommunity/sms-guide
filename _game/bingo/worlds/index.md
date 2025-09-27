@@ -2,6 +2,7 @@
 layout: default
 title: Worlds
 permalink: /bingo/worlds/
+parent: Bingo
 nav_order: 1
 has_children: true
 ---
