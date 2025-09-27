@@ -85,3 +85,6 @@ Collection of bingo resources and strategies.
 - Helper Extension for Bingosync
 
 [github.com/cyrillebenoit/BingosyncPlus](https://github.com/cyrillebenoit/BingosyncPlus)
+
+### Restream Guide
+[docs.google.com/document/d/1Cd8kHuHXHefuB6Wybg_z35LzbWmvXFruyuCdg6mP7vs](https://docs.google.com/document/d/1Cd8kHuHXHefuB6Wybg_z35LzbWmvXFruyuCdg6mP7vs)
