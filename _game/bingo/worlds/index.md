@@ -6,9 +6,6 @@ parent: Bingo
 nav_order: 1
 has_children: true
 ---
-{: .no_toc } 
-1. TOC
-{:toc}
 
 A section for per-world strategies.  
 
