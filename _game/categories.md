@@ -78,4 +78,5 @@ Any% with using the hover nozzle banned.
 *There are many more real-time categories on the Category Extensions leaderboard.*
 
 ## Bingo
-SMS has a competitive bingo scene and biannual league; see the [**Discord**](https://sms.bingo/discord) and [**website**](https://sms.bingo).
+SMS has a competitive bingo scene and biannual league; see the [**Discord**](https://sms.bingo/discord) and [**website**](https://sms.bingo).  
+Also see the [wiki page](/sms-guide/bingo/).
