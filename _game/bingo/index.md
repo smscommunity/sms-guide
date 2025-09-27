@@ -70,11 +70,11 @@ Collection of bingo resources and strategies.
 
 ## Information
 
-### Pogo's Goal Rush Times List
-[pastebin.com/6MTLLpd3](https://pastebin.com/6MTLLpd3)
-
 ### Format Descriptions
 [sms.bingo/resources/formats](https://sms.bingo/resources/formats)
+
+### Pogo's Goal Rush Times List
+[pastebin.com/6MTLLpd3](https://pastebin.com/6MTLLpd3)
 
 ### Jeff's Guide to Draft Lockout
 [youtube.com/watch?v=muuQNWnhFew&feature=youtu.be&ab_channel=JoofCompass](https://www.youtube.com/watch?v=muuQNWnhFew&feature=youtu.be&ab_channel=JoofCompass)
