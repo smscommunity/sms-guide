@@ -4,8 +4,15 @@ title: Bingo
 permalink: /bingo/
 nav_order: 6
 has_children: true
+has_toc: false
 ---
+
 # Bingo
+
+{: .no_toc }
+
+1. TOC
+{:toc}
 
 Collection of bingo resources and strategies.  
 
