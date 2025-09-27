@@ -77,7 +77,7 @@ Collection of bingo resources and strategies.
 [pastebin.com/6MTLLpd3](https://pastebin.com/6MTLLpd3)
 
 ### Jeff's Guide to Draft Lockout
-[youtube.com/watch?v=muuQNWnhFew&feature=youtu.be&ab_channel=JoofCompass](https://www.youtube.com/watch?v=muuQNWnhFew&feature=youtu.be&ab_channel=JoofCompass)
+[youtube.com/watch?v=muuQNWnhFew](https://www.youtube.com/watch?v=muuQNWnhFew&feature=youtu.be&ab_channel=JoofCompass)
 
 ## Tools 
 
