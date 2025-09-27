@@ -5,10 +5,12 @@ permalink: /bingo/
 nav_order: 6
 has_children: false
 ---
+# Bingo
+
 Collection of bingo resources and strategies.  
 
-### Home Page
-[https://sms.bingo](https://sms.bingo)
+### Home Page 
+[sms.bingo](https://sms.bingo)
 
 ### Twitch Channels
 [**twitch.tv/SunshineCommunity**](https://twitch.tv/SunshineCommunity) *or* [**sunmar.io/SunshineCommunity**](https://sunmar.io/SunshineCommunity)   
