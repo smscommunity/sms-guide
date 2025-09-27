@@ -40,11 +40,12 @@ Collection of bingo resources and strategies.
 ## Current Season Information 
 
 ### Past Results
-[Season 5 Results](https://sms.bingo/standings)
-[Season 4 Results](https://season4.sms.bingo/standings)
-[Season 3 Results](https://season3.sms.bingo/standings)
-[Season 2 Results](https://season2.sms.bingo/standings)
-[All Time Results Spreadsheet (Updated 2024)](https://docs.google.com/spreadsheets/d/10zaW7PpnGBu-Pe1DTR-_YCrkWupelwYkAQ59IpzjN2A/edit?usp=sharing)
+
+[Season 5 Results](https://sms.bingo/standings)  
+[Season 4 Results](https://season4.sms.bingo/standings)  
+[Season 3 Results](https://season3.sms.bingo/standings)  
+[Season 2 Results](https://season2.sms.bingo/standings)  
+[All Time Results Spreadsheet (Updated 2024)](https://docs.google.com/spreadsheets/d/10zaW7PpnGBu-Pe1DTR-_YCrkWupelwYkAQ59IpzjN2A/edit?usp=sharing)  
 
 ### Current Goal List (v4.0)
 [pastebin.com/wPgjCheN](https://pastebin.com/wPgjCheN)
