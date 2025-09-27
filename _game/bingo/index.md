@@ -11,9 +11,6 @@ has_toc: false
 
 {: .no_toc }
 
-1. TOC
-{:toc}
-
 Collection of bingo resources and strategies.  
 
 ### Home Page 
