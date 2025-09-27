@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Shine Specific
-permalink: /bingo/shinespecific/
-nav_order: 1
+title: Sirena
+permalink: /bingo/sirena/
+nav_order: 5
 parent: Bingo
 has_children: false
 ---
 ### Sirena 1 100 Coins
 
-<img src="/sms-guide/assets/bingo/shinespecific/sirena1100c.png">  
+<img src="/sms-guide/assets/bingo/sirena/sirena1100c.png">  
