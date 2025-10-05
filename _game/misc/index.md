@@ -8,6 +8,8 @@ has_children: true
 
 # Misc Game Info
 
+{: .no_toc }
+
 ## General
 
 [Version Differences](https://smscommunity.github.io/sms-guide/game/versiondifferences){: .btn }  
