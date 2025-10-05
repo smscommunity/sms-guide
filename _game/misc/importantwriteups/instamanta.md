@@ -28,3 +28,6 @@ The function that spawns mantas on split adds an uninitialized floating-point va
 - Putting the manta under the death barrier makes it disappear, then kills it after 8 seconds; however it still moves around and puts goop on the floor until it dies.
 - Putting the manta off the edges of the map horizontally makes it disappear and kills it after 8 seconds, without putting goop on the floor.
 - Preventing the manta from spawning or initializing smaller mantas when it would split kills it immediately.  
+
+## Random Manta Fact
+When a manta splits, it calls RNG once to determine the facing angle of all the mantas it spawns, then spreads their directions over the full circle: if it’s spawning 2 mantas, they go 180° apart, 120° if it’s spawning 3, 90° if it’s spawning 4. 
