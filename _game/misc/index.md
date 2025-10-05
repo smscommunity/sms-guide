@@ -4,6 +4,7 @@ title: Misc Game Info
 permalink: /game/misc/
 nav_order: 6
 has_children: true
+has_toc: false
 ---
 
 # Misc Game Info
