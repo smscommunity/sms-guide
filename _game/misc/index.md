@@ -16,6 +16,9 @@ has_toc: false
 [Version Differences](https://smscommunity.github.io/sms-guide/game/versiondifferences){: .btn }  
 Up to date and detailed breakdown of the overall differences between game versions.
 
+[Important Write-Ups](https://smscommunity.github.io/sms-guide/game/misc/importantwriteups/){: .btn }  
+Important write-ups done by the community
+
 [Item Index](https://docs.google.com/spreadsheets/d/1lci2OALBqboBs_JT7IaXJfBXa-LbVpMcDZTDKALm160/edit?usp=sharing){: .btn }  
 Index of blue coin/nozzle/Yoshi locations and shine/blue coin classifications.
 
