@@ -8,5 +8,5 @@ has_children: true
 ---
 # Important Write-Ups
 
-Important or niche write-ups done by the community
+Important write-ups done by the community
 
