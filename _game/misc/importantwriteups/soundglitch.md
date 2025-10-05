@@ -4,7 +4,7 @@ title: Sound Glitch
 permalink: /game/misc/importantwriteups/soundglitch/
 nav_order: 1
 parent: Important Write-Ups
-grandparent: Misc Game Info
+grand_parent: Misc Game Info
 ---
 # Sound Glitch  
 *by Noki Doki*
