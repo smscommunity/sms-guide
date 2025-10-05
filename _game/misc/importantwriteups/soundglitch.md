@@ -17,6 +17,34 @@ As for the Gatekeeper effect, it turns out Gatekeepers start a cutscene when def
 
 So it seems that sound glitch would be related to some secondary BGM track that never properly ends? We also have a sound glitch crash log from Guy2308 playing on practice codes, which was later reproduced on vanilla by akane (with the only difference of SRR1 being 0000A032 instead of 0000B032).  
 
-
+    ******** EXCEPTION OCCURRED! ********
+    FrameMemory:804C55A0H
+    CONTEXT:803EB5A8H  (DSI EXCEPTION)
+    SRR0:   8004C5D8H   SRR1:0000B032H
+    DSISR:  04000000H   DAR: 00000001H
+    ---------------------------------TRACE
+    Address:   BackChain   LR save
+    80423C28:  80423C48    8004C524
+      [8004C524]: .text [8004C504: 168H]
+      processFrameWork__8JAIBasicFv JSystem.a JAIBasic.cpp
+    80423C48:  80423C50    8004C4F4
+      [8004C4F4]: .text [8004C4E4: 20H]
+      startFrameInterfaceWork__8JAIBasicFv JSystem.a JAIBasic.cpp
+    80423C50:  80423CC0    8017E5F8
+      [8017E5F8]: .text [8017E530: E8H]
+      mainLoop__6MSoundFv MSound.a MSound.cpp
+    80423CC0:  80423F28    800F9CE4
+      [800F9CE4]: .text [800F9954: 430H]
+      gameLoop__12TApplicationFv System.a Application.cpp
+    80423F28:  80423FF0    800FA058
+      [800FA058]: .text [800F9D9C: 450H]
+      proc__12TApplicationFv System.a Application.cpp
+    80423FF0:  80424000    80005628
+      [80005628]: .text [80005600: 44H]
+      main main.o
+    80424000:  FFFFFFFF    80005360
+      [80005360]: .init [8000522C: 138H]
+      __start os.a __start.c
+    --------------------------------
 
 The last saved LR value corresponds to the call to JAIBasic::checkDummyPositionBuffer(), which traverses a list of JAIDummyVec (this->field_0x0->field_0x22c), seemingly checks if each element represents a finished sound, and if so releases it by removing it from the list and inserting it at the start of this->field_0x0->field_0x228). However nothing ever seems to insert anything into field_0x22c, so this call effectively does nothing and the crash has to occur between it and the next function call from JAIBasic::processFrameWork().
