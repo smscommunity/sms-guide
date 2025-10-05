@@ -28,14 +28,16 @@ A WIP decomp of Super Mario Sunshine. Please contribute to the completion!
 [Zelpikukirby Blog Translations](https://zeldocto.notion.site/Zelpikukirby-Blog-Translations-1f2c1a5b3cbc8010879cd3f6c656eb72){: .btn }  
 English Translations of SMS TASer Zelpikukirby's blog posts.  
 
-## TASes  
+## Videos
+
+### TASes  
 **[Any%(No ACE) in 1:05:47.71](https://youtu.be/igm67ZABQgE)** (zelpikukirby, Nov 2024)  
 **[Any%(ACE) in 09:50.49](https://youtu.be/2_DeEV7WOp8)** (zelpikukirby, Feb 2024)  
 **[120 Shines in 2:23:29.42](https://youtu.be/CLhC_M_IDUo)** (zelpikukirby, Feb 2023)  
 **[Any%(ACE) LOTAD in 34:28.30](https://youtu.be/I7E4huWppvc?si=9CHhzjqLt8RNxQoI)** (NokiDoki, Dec 2021)  
 **[Any% in 1:07:52.96](https://www.youtube.com/watch?v=5VLKqijYrbA)** (zelpikukirby, Goldfire, Mar 2018)  
 
-## Documentaries  
+### Documentaries  
 **[ACE Explanation & Documentary](https://youtu.be/TJXQD8ZRtU0)** (Abyssoft, Jan 2025)  
 **[ACE Explanation & Documentary](https://youtu.be/ua2YMo0yUjM)** (GlitchDoctor, Oct 2024)  
 **[ACE Documentary](https://youtu.be/v0nYrZw0ID8)** (LunaticJ, Sept 2024)  
