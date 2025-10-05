@@ -4,7 +4,7 @@ title: Gelato 7
 permalink: /shines/gelato/episode7
 parent: Gelato Beach
 grand_parent: Shines
-nav_order: 8
+nav_order: 7
 ---
 # Gelato 7  
 
