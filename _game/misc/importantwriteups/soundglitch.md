@@ -7,6 +7,18 @@ parent: Important Write-Ups
 grand_parent: Misc Game Info
 ---
 # Sound Glitch  
+
+## What Happens?
+
+- [“Shine Get” jingle song doesn’t play.](https://www.youtube.com/clip/UgkxH0tl8Zp9TjrCBqMXCoK9Ui3_6uTe7_P7) (easy identifier)
+- All cutscenes last at least 6 seconds, [including death cutscenes](https://www.youtube.com/clip/UgkxX5eyy_9s6sJDUMLiYcD1UZT-SL-xpxm7).
+   - This effects cutscene behavior but not always visual length. [This can lead to weird behavior or time loss.](https://www.youtube.com/watch?v=OEJ80mihsVY)
+- [Mario can't move after killing a Gatekeeper.](https://www.youtube.com/watch?v=agiRDebluMc) (Goop plants are also known as a “Gatekeeper”)
+- Can happen while using practice codes
+- Game becomes prone to crashing, especially when collecting a shine.  
+
+
+## Technical Write-Up
 *by Noki Doki*
 
 Sound glitch is a poorly understood glitch in JP 1.0, which is triggered by unknown circumstances, and stays active until the game is turned off. Unlike its SM64 counterpart, SMS sound glitch can happen on mono audio. While it is active, the jingle that normally plays in the background while a Shine spawns is missing, the death fade-out takes longer, [short cutscenes last longer if a Shine is nearby](https://www.youtube.com/watch?v=VFKWhsmZpmA), and [Mario can't move after killing a Gatekeeper](https://www.youtube.com/watch?v=agiRDebluMc). But most notably, the game becomes prone to crashing upon grabbing a Shine.  
