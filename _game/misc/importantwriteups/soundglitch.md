@@ -27,7 +27,7 @@ A potential lead is that the game is hard-coded to make cutscenes last at least 
 
 As for the Gatekeeper effect, it turns out Gatekeepers start a cutscene when defeated, but the associated camera movement doesn't exist, so the cutscene normally ends instantly. Under sound glitch, it's extended to 6 seconds like any other, but the camera still doesn't have anything to do, making it look like normal gameplay where the player has no control. This effect can again be observed without sound glitch, by shooting the final hit on the Bianco Gatekeeper while ground pounding into the nearby manhole. If timed so that Mario enters the sewers before the water hits the Gatekeeper, Mario will be unable to move until the statue FMV starts.  
 
-So it seems that sound glitch would be related to some secondary BGM track that never properly ends? We also have a sound glitch crash log from Guy2308 playing on practice codes, which was later reproduced on vanilla by akane (with the only difference of SRR1 being 0000A032 instead of 0000B032).  
+So it seems that sound glitch would be related to some secondary BGM track that never properly ends? We also have a sound glitch crash log from Guy playing on practice codes, which was later reproduced on vanilla by Akane (with the only difference of SRR1 being 0000A032 instead of 0000B032).  
 
     ******** EXCEPTION OCCURRED! ********
     FrameMemory:804C55A0H
