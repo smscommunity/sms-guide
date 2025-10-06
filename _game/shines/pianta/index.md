@@ -6,3 +6,4 @@ permalink: /shines/pianta
 parent: Shines
 has_children: true
 ---
+# Pianta Village
