@@ -122,8 +122,8 @@ Tools for analysing speedruns.
 [therun.gg](https://therun.gg/){: .btn }  
 Split hosting website that lets you compare segments, combine splits to see best world segments, see extra details, and host races.  
 
-[Any% World Segment Calculator](https://docs.google.com/spreadsheets/d/1v-FhUuG77YuWI8zTrCd8S8TZYM0V2JDqHzhaFiLHn8E/edit?usp=sharing){: .btn }  
-A spreadsheet tool to convert your split file into world segment history and bests.
+[Any% Best World Total Calculator](https://zeldocto.github.io/worldcalc/){: .btn }  
+A tool by Zeldocto to convert your best world segments (obtained from therun.gg) into a total time.
 
 [Petey Pattern Tool](https://naosanpoyo.github.io/PeteyPattern/){: .btn }  
 An app tool to analyse the probability of a Bianco 5 Petey pattern.
