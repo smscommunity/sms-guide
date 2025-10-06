@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Load Transitions
-permalink: /info/il/retime/load.transitions/
-grand_parent: Misc General Info
+permalink: /il/retime/load.transitions/
+grand_parent: Individual Levels
 parent: Retiming
 nav_order: 4
 ---
