@@ -3,7 +3,7 @@ layout: default
 title: Video Tools
 permalink: /info/video-tools/
 parent: Misc General Info
-nav_order: 2
+nav_exclude: true
 ---
 
 # Video Tools
