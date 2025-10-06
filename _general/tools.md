@@ -45,7 +45,7 @@ Controller input visualizer.
 
 ### Emulator
 [Dolphin Emulator](https://dolphin-emu.org/download/){: .btn }  
-[\[Settings Guide\]](https://imgur.com/a/qj6vrmM)  
+[\[Settings Guide\]](https://smscommunity.github.io/sms-guide/setup/emu)  
 The only emulator used to play SMS on PC. *Use the latest beta version; never use the stable version.*  
 
 ## Speedrun Tools
