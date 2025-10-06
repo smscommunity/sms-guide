@@ -6,3 +6,4 @@ permalink: /shines/bianco/
 parent: Shines
 has_children: true
 ---
+# Bianco Hills
