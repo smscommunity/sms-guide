@@ -40,9 +40,11 @@ Game information, TAS, and documentaries.
 ### **COMMUNITY**  
 *Leaderboards, events, archives.* 
 
-1. **[Leaderboards](https://smscommunity.github.io/sms-guide/community/leaderboards/)**  
+1. **[WR History](https://smscommunity.github.io/sms-guide/community/wrhistory/)**  
+Complete world record history of the main categories.
+2. **[Leaderboards](https://smscommunity.github.io/sms-guide/community/leaderboards/)**  
 Links to leaderboards.
-2. **[Events](https://smscommunity.github.io/sms-guide/community/events/)**  
+3. **[Events](https://smscommunity.github.io/sms-guide/community/events/)**  
 A list of events and links to their pages and results.
-3. **[Misc Community](https://smscommunity.github.io/sms-guide/community/misc/)**  
+4. **[Misc Community Info](https://smscommunity.github.io/sms-guide/community/misc/)**  
 Miscellaneous/extra info.
