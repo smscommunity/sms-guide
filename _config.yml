@@ -6,10 +6,10 @@ kramdown:
   parse_block_html: true
 
 collections:
-  game:
+  general:
     permalink: "/:collection/:path/"
     output: true
-  general:
+  game:
     permalink: "/:collection/:path/"
     output: true
   community:
@@ -18,9 +18,9 @@ collections:
 
 just_the_docs:
   collections:
-    game:
-      name: Game
     general:
       name: General
+    game:
+      name: Game
     community:
       name: Community
