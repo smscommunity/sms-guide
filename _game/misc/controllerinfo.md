@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Controller Information
-permalink: /game/misc/importantwriteups/controllerinfo/
+permalink: /game/misc/controllerinfo/
 nav_order: 3
-parent: Important Write-Ups
-grand_parent: Misc Game Info
+parent: Misc Game Info
 ---
 
 # Controller Fixing Guide and Technical Information
