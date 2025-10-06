@@ -30,7 +30,7 @@ Pianta Village can be accessed at any time using a couple of methods to climb to
 4. **[Yoshi Skip](/sms-guide/techniques/maneuvers/yoshiskip/)**  
 Pianta 5 as intended requires Yoshi to complete, but is usually done without Yoshi using this technique. Alternatively, do Pianta after unlocking Yoshi (requires Pinna 4 shine).
 5. **[Early Yoshi-Go-Round](/sms-guide/techniques/maneuvers/eyg/) (EYG)**  
-Pinna 5 is usually skipped by accessing Pinna 6 secret from an earlier episode (usually 3 or 5). Yoshi is used so this must be done after Pinna 4, which unlocks it. Alternatively, do Pinna 5–6 as intended.
+Pinna 5 is usually skipped by accessing Pinna 6 secret from an earlier episode (usually 3 or 5), saving a little over a miunute if done on episode 3. Yoshi is used so this must be done after Pinna 4, which unlocks it. Alternatively, do Pinna 5–6 as intended.
 
 ## 120 Shines
 Any% (No ACE) with the additional requirement of collecting 120 shines (= 96 physical shines + 240 blue coins) and beating the final boss as the final shine.
