@@ -10,8 +10,8 @@ grand_parent: Misc Game Info
 
 ## What Happens?
 
-- [“Shine Get” jingle song doesn’t play.](https://www.youtube.com/clip/UgkxH0tl8Zp9TjrCBqMXCoK9Ui3_6uTe7_P7) (easy identifier)
-- All cutscenes last at least 6 seconds, [including death cutscenes](https://www.youtube.com/clip/UgkxX5eyy_9s6sJDUMLiYcD1UZT-SL-xpxm7).
+- [“Shine Get” jingle song doesn’t play.](https://youtu.be/IwojD6Hu8es) (easy identifier)
+- All cutscenes last at least 6 seconds, [including death cutscenes](https://youtu.be/dPA_1zdUod8).
    - This effects cutscene behavior but not always visual length. [This can lead to weird behavior or time loss.](https://www.youtube.com/watch?v=OEJ80mihsVY)
 - [Mario can't move after killing a Gatekeeper.](https://www.youtube.com/watch?v=agiRDebluMc) (Goop plants are also known as a “Gatekeeper”)
 - Can happen while using practice codes
