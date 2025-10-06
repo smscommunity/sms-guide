@@ -6,6 +6,9 @@ nav_order: 10
 
 # Misc Community Info
 
+**[Community SoB Sheet](https://docs.google.com/spreadsheets/d/12wDUXjLqmcUuWSEXWc1fHNJc24KlfyCh0pvibZYEQM0/edit?gid=1529893617#gid=1529893617&range=A1)**  
+*Same sheet as the IL sheet, a tab on the bottom.*  
+
 **[Default Split Titles](https://smscommunity.github.io/sms-guide/community/misc/split-titles/)**  
 *Default split titles for comparing during races.*  
 
