@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Instamanta
-permalink: /game/misc/importantwriteups/instamanta/
+permalink: /game/misc/instamanta/
 nav_order: 2
-parent: Important Write-Ups
-grand_parent: Misc Game Info
+parent: Misc Game Info
 ---
 # Instamanta
 *by Noki Doki*  
