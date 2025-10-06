@@ -6,3 +6,4 @@ permalink: /shines/noki/
 parent: Shines
 has_children: true
 ---
+# Noki Bay
