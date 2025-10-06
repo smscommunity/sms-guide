@@ -6,3 +6,4 @@ permalink: /shines/sirena
 parent: Shines
 has_children: true
 ---
+# Sirena Beach
