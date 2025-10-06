@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Sound Glitch
-permalink: /game/misc/importantwriteups/soundglitch/
-nav_order: 1
-parent: Important Write-Ups
-grand_parent: Misc Game Info
+permalink: /game/misc/soundglitch/
+nav_order: 2
+parent: Misc Game Info
 ---
 # Sound Glitch  
 
