@@ -4,7 +4,6 @@ title: Pinna 8
 permalink: /shines/pinna/episode8/
 parent: Pinna Park
 grand_parent: Shines
-nav_order: 8
 ---
 # Pinna 8
 
