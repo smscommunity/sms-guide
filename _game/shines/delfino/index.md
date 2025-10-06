@@ -6,3 +6,4 @@ permalink: /shines/delfino
 parent: Shines
 has_children: true
 ---
+# Delfino Plaza
