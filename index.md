@@ -31,10 +31,10 @@ An index of mostly external tutorials.
 4. **[Routes](https://smscommunity.github.io/sms-guide/routes/)**  
 Route documents compiled by the community.
 5. **[Techniques](https://smscommunity.github.io/sms-guide/techniques/)**  
-Descriptions of various techniques.
+Descriptions of various techniques and skips.
 6. **[Bingo](https://smscommunity.github.io/sms-guide/bingo/)**  
 Collection of bingo resources and strategies.
-7. **[Misc Game](https://smscommunity.github.io/sms-guide/game/misc/)**  
+7. **[Misc Game Info](https://smscommunity.github.io/sms-guide/game/misc/)**  
 Game information, TAS, and documentaries.
 
 ### **COMMUNITY**  
