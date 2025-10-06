@@ -2,7 +2,8 @@
 layout: default
 title: Emulator
 permalink: /setup/emu
-nav_exclude: true
+parent: Setup
+nav_order: 2
 ---
 
 # Emulator Setup  
