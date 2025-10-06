@@ -6,3 +6,4 @@ permalink: /shines/pinna
 parent: Shines
 has_children: true
 ---
+# Pinna Park
