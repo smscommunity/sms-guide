@@ -7,6 +7,9 @@ nav_order: 11
 
 # Editing Guide
 
+## [Easy to Follow Editing Guide](https://imgur.com/a/wiki-update-tutorial-1u94zIq)
+*by Zeldocto*
+
 This wiki setup is still **a draft**, so do bear in mind things that you find challenging and they'll come under the discussion of what wiki setup to use going forward.
 
 First, make a GitHub account, then create a fork of the main repository. On this fork, you will have full editing powers and can try out stuff without it impacting the main site.  
