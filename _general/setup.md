@@ -4,9 +4,11 @@ title: Setup
 permalink: /setup/
 nav_order: 1
 has_children: true
+has_toc: false
 ---
 
 # Setup
+
 {: .no_toc }
 
 ## Picking a Platform
