@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Boundaries
-permalink: /info/il/retime/boundary/
-grand_parent: Misc General Info
+permalink: /il/retime/boundary/
+grand_parent: Individual Levels
 parent: Retiming
 nav_order: 1
 ---
