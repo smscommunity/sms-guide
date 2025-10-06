@@ -5,6 +5,7 @@ permalink: /shines/
 nav_order: 2
 has_children: true
 ---
+# Shines
 
 A section for per-shine in-depth tutorials/strategies and write ups.  
 
