@@ -71,11 +71,11 @@ Audio plugin host for microphone sound processing; example plugins [here](https:
 
 ### Input Displays
 #### Software
-[NintendoSpy](https://github.com/jaburns/NintendoSpy){: .btn }  
-Input display software for used with GameCube input display hardware.
+[RetroSpy](https://github.com/retrospy/RetroSpy/releases/latest){: .btn }  
+Input display software for used with GameCube input display hardware, fork of NintendoSpy that fixes multiple issues..
 
 [Tron-Style GameCube Skins](https://drive.google.com/drive/folders/1y-pLcrQwD9EqCu9EH1ZFJZDNtTmmrbhR){: .btn }  
-Standard skins for Nintendospy made by Aliensqueakytoy.  
+Standard skins for RetroSpy/NintendoSpy made by Aliensqueakytoy.  
 
 [m-overlay](https://github.com/bkacjios/m-overlay){: .btn }  
 Input display sofware for use with Dolphin emulator; works out-of-the-box.  
