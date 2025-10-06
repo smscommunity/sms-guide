@@ -6,3 +6,4 @@ permalink: /shines/gelato
 parent: Shines
 has_children: true
 ---
+# Gelato Beach
