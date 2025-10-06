@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Text
-permalink: /info/il/retime/text/
-grand_parent: Misc General Info
+permalink: /il/retime/text/
+grand_parent: Individual Levels
 parent: Retiming
 nav_order: 2
 ---
