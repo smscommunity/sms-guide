@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Retiming
-permalink: /info/retime/
-parent: Misc General Info
+permalink: /info/il/retime/
+parent: Individual Levels
 has_children: True
 nav_order: 3
 has_toc: false
