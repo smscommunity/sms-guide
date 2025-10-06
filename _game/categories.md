@@ -22,7 +22,7 @@ Beat the final boss starting from a fresh file, timed in real time. The requirem
 ### Skips
 The shines can be done in the intended order, except for 5 skips that are usually used:
 1. **Bianco 1 Skip**  
-This shine is easily accessible in episode 1, so the Bianco 1 shine is always skipped.
+The Bianco 2 shine is easily accessible in episode 1, so the Bianco 1 shine is easily skipped.
 2. **[Gelato Beach Skip](/sms-guide/techniques/maneuvers/gbs/) (GBS)**  
 Collecting the Gelato 8 shine during Episode 1 lets you access episode 7 right after, and so swaps episodes 1–7 in Gelato Beach with episodes 7–8, saving ~12 minutes. Alternatively, you can play episodes 1–7 as normal.
 3. **[Pianta Early](/sms-guide/techniques/maneuvers/piantaearly/)**  
@@ -38,7 +38,7 @@ Any% (No ACE) with the additional requirement of collecting 120 shines (= 96 phy
 [Current Routes](/sms-guide/routes/#120-shines){: .btn }  
 
 ## ILs
-Complete an individual level (single shine), timed using an in-game timer. The full guide for these is [here](/sms-guide/info/il/).
+Complete an individual level (single shine), timed using an in-game timer. The full guide for these is [here](/sms-guide/il/).
 
 ## Misc RTA Categories
 The other popular real-time categories are:
@@ -51,6 +51,8 @@ Every episode from 1–8 in all 7 non-hub worlds, amounting to (2 + 7 × 8 = 58 
 Every shine from all 7 non-hub worlds, meaning 8 episodes, 2 hidden shines and 1 100-coin shine, amounting to (2 + 7 × 11 = 79 shines).
 * **96 Shines**  
 Every physical shine, meaning each one from 79 shines plus the additional 17 Delfino (hub-world) shines.
+* **Any% Hoverless**  
+Beat the final boss starting from a fresh file without using the hover nozzle.
 
 **Shine Rush**  
 Categories starting from after Airstrip with the goal of collecting shines (physical or from blue coins) as quickly as possible.
@@ -71,9 +73,6 @@ Starting from after Airstrip, collect 90 blue coins and trade them all for a tot
 Starting from a fresh file, collect all 240 blue coins, trade them all in, then beat the final boss.
 * **All Blues (NG+)**  
 Starting from a completed Any% file, collect 240 blue coins and trade them all in.
-
-**Any% Hoverless**  
-Any% with using the hover nozzle banned.
 
 *There are many more real-time categories on the Category Extensions leaderboard.*
 
