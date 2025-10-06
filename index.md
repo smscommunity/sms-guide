@@ -9,6 +9,16 @@ nav_exclude: true
 ## Table of Contents
 *Description of the page tabs on the left*  
 
+### **GENERAL**  
+*Documentation of anything else – rulesets, tools, methodologies.*  
+
+1. **[Setup](https://smscommunity.github.io/sms-guide/setup)**  
+Guides on setting up to speedrun.
+2. **[Tools](https://smscommunity.github.io/sms-guide/tools)**  
+An index of useful software.
+3. **[Misc General](https://smscommunity.github.io/sms-guide/info)**  
+E.g. IL guide+rules, retiming methodology, wiki-editing guide.
+
 ### **GAME**  
 *Documentation of game knowledge.* 
 
@@ -24,17 +34,6 @@ Route documents compiled by the community.
 Descriptions of various techniques.
 6. **[Misc Game](https://smscommunity.github.io/sms-guide/game/misc/)**  
 Game information, TAS, and documentaries.
-
-
-### **GENERAL**  
-*Documentation of anything else – rulesets, tools, methodologies.*  
-
-1. **[Setup](https://smscommunity.github.io/sms-guide/setup)**  
-Guides on setting up to speedrun.
-2. **[Tools](https://smscommunity.github.io/sms-guide/tools)**  
-An index of useful software.
-3. **[Misc General](https://smscommunity.github.io/sms-guide/info)**  
-E.g. IL guide+rules, retiming methodology, wiki-editing guide.
 
 ### **COMMUNITY**  
 *Leaderboards, events, archives.* 
