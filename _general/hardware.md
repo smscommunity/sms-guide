@@ -7,6 +7,8 @@ nav_order: 1
 ---
 # Recommended Hardware
 
+For software to record your speedruns, check out our [tools](https://smscommunity.github.io/sms-guide/tools#speedrun-tools) page under speedrun tools.  
+
 There are **four** options you have to capture your game when playing on console. These are ordered from best to worst quality.  
 1. You can use component cables if your capture card allows for it, or if you have a Retrotink 5X.
 2. Its recommended (due to cost) and comparable to component to use a Wii2HDMI and an HDMI capture card.  
@@ -50,8 +52,6 @@ There are **four** options you have to capture your game when playing on console
 <i> **$325** </i>  
 *2X-Pro does not support 480p*
 
-For software to record your speedruns, check out our [tools](https://smscommunity.github.io/sms-guide/tools#speedrun-tools) page under speedrun tools.  
-
 ## Peripherals
 
 ### Controllers
@@ -65,5 +65,5 @@ For software to record your speedruns, check out our [tools](https://smscommunit
 <i> **$20-$250+** Can buy the motherboard for cheap, or buy a preassembled controller from a community seller. Adds a hall-effect stick, button remapping, snapback filtering, and calibration. </i>  
 
 ### Memory Cards
-[Mcbazel (16344 blocks) Memory Card](https://marseilleinc.com/products/buy-mclassic){: .btn }  
+[Mcbazel (16344 blocks) Memory Card](https://a.co/d/24FOwof){: .btn }  
 <i> **$18** Has a button on the memory card to switch between 8 memory cards, useful for practice saves. </i>  
