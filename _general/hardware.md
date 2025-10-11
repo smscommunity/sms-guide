@@ -61,7 +61,7 @@ For software to record your speedruns, check out our [tools](https://smscommunit
 [Smash Ultimate Gamecube Controller](https://smscommunity.github.io/sms-guide/assets/general/hardware/smashultgccex.png){: .btn }  
 <i> **$50-$90** More expensive but can be bought new, different stick box deadzones make this strongly preference based. </i>  
 
-[PHOB GameCube Controller](https://smscommunity.github.io/sms-guide/assets/general/hardware/phobmobocex.pn){: .btn }  
+[PHOB GameCube Controller](https://smscommunity.github.io/sms-guide/assets/general/hardware/phobmobocex.png){: .btn }  
 <i> **$20-$250+** Can buy the motherboard for cheap, or buy a preassembled controller from a community seller. Adds a hall-effect stick, button remapping, snapback filtering, and calibration. </i>  
 
 ### Memory Cards
