@@ -7,7 +7,7 @@ nav_order: 1
 ---
 # Recommended Hardware
 
-* For software to record your speedruns, check out our [tools](https://smscommunity.github.io/sms-guide/tools#speedrun-tools) page under speedrun tools. *  
+<i> For software to record your speedruns, check out our [tools](https://smscommunity.github.io/sms-guide/tools#speedrun-tools) page under speedrun tools. </i>  
 
 There are **four** options you have to capture your game when playing on console. These are ordered from best to worst quality.  
 1. You can use component cables if your capture card allows for it, or if you have a Retrotink 5X.
