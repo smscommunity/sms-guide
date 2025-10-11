@@ -13,21 +13,23 @@ There are **four** options you have to capture your game when playing on console
 3. You can use S-Video and it will be slightly better than RCA.
 4. The lowest quality option you have is RCA connection. (Yellow, red, and white plugs)  
 
-## Wii2HDMI
+## Video
+
+### Wii2HDMI
 [Offbrand "BD&M"](https://www.amazon.com/dp/B0CZ716J42){: .btn }  
 <i> **$5** Cheap, lower quality assurance, diagonal scanlines in dark areas </i>    
 
 [Mayflash](https://www.amazon.com/dp/B07XG6X4TC){: .btn }  
 <i> **$15** Recommended, high quality </i>    
 
-## HDMI Capture Cards
+### HDMI Capture Cards
 [HDMI AliExpress Capture Card](https://www.aliexpress.us/item/3256804732218807.html?spm=a2g0o.productlist.main.5.36c5HsqEHsqEIy&algo_pvid=cff1c4f1-23e3-4a70-b05c-2f4a2e6bd4ba&algo_exp_id=cff1c4f1-23e3-4a70-b05c-2f4a2e6bd4ba-25&pdp_ext_f=%7B%22order%22%3A%223343%22%2C%22eval%22%3A%221%22%7D&pdp_npi=6%40dis%21USD%2111.28%213.78%21%21%2111.28%213.78%21%402103209b17563180118006572e95e6%2112000037945115206%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A47a738b%3Bm03_new_user%3A-29895%3BpisId%3A5000000174221210&curPageLogUid=r2It8N7xDp0n&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004918533559%7C_p_origin_prod%3A){: .btn }  
 <i> **$5** Cheap, very slight artifacting and color bleed </i>  
 
 [EVGA XR1 lite](https://a.co/d/6B7HP8d){: .btn }  
 <i> **$60** Higher quality </i>  
 
-## Component/VGA Capture Cards
+### Component/VGA Capture Cards
 
 <i> Recommended to use an Open Source Scan Converter (OSCC) like the Retrotink 5x-Pro along with an HDMI capture card for optimal quality </i>  
 
@@ -37,7 +39,7 @@ There are **four** options you have to capture your game when playing on console
 [Startech USB3HDCAP](https://www.startech.com/en-us/audio-video-products/usb3hdcap?srsltid=AfmBOooD_St0S-V0Gsu5IUK1_ip7rBXS7Y4NIbNrruGR6oTqchuXa-kH){: .btn }  
 <i> **$200** Higher quality </i>  
 
-## Upscalers
+### Upscalers
 [Mclassic](https://marseilleinc.com/products/buy-mclassic){: .btn }  
 <i> **$99** </i>  
 
@@ -49,3 +51,19 @@ There are **four** options you have to capture your game when playing on console
 *2X-Pro does not support 480p*
 
 For software to record your speedruns, check out our [tools](https://smscommunity.github.io/sms-guide/tools#speedrun-tools) page under speedrun tools.  
+
+## Peripherals
+
+### Controllers
+[Smash 4 Gamecube Controller](https://smscommunity.github.io/sms-guide/assets/general/hardware/smash4gccex.jpeg){: .btn }  
+<i> **$30-$60** Highly recommended to find a refurbished or good quality one on ebay, best budget controller. Note the flaming Smash logo as the identifier. </i>  
+
+[Smash Ultimate Gamecube Controller](https://smscommunity.github.io/sms-guide/assets/general/hardware/smashultgccex.png){: .btn }  
+<i> **$50-$90** More expensive but can be bought new, different stick box deadzones make this strongly preference based. </i>  
+
+[PHOB GameCube Controller](https://smscommunity.github.io/sms-guide/assets/general/hardware/phobmobocex.pn){: .btn }  
+<i> **$20-$250+** Can buy the motherboard for cheap, or buy a preassembled controller from a community seller. Adds a hall-effect stick, button remapping, snapback filtering, and calibration. </i>  
+
+### Memory Cards
+[Mcbazel (16344 blocks) Memory Card](https://marseilleinc.com/products/buy-mclassic){: .btn }  
+<i> **$18** Has a button on the memory card to switch between 8 memory cards, useful for practice saves. </i>  
