@@ -36,10 +36,10 @@ There are **four** options you have to capture your game when playing on console
 <i> Recommended to use an Open Source Scan Converter (OSCC) like the Retrotink 5x-Pro along with an HDMI capture card for optimal quality </i>  
 
 [RCA AliExpress Capture Card](https://www.aliexpress.us/item/3256807957178619.html?spm=a2g0o.productlist.main.28.583f635fngTluk&algo_pvid=063b2638-7390-418d-af56-2ce5e7429f12&algo_exp_id=063b2638-7390-418d-af56-2ce5e7429f12-54&pdp_ext_f=%7B"order"%3A"455"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21USD%219.67%212.67%21%21%2168.59%2118.95%21%402101ef7017602042428117182ea115%2112000043971452905%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A40ac3ec0%3Bm03_new_user%3A-29895%3BpisId%3A5000000187461913&curPageLogUid=4OzYTXDP0ouM&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008143493371%7C_p_origin_prod%3A){: .btn }  
-<i> **<$10** Very cheap, requires splitters (RCA Only) </i>  
+<i> **Less than $10** Very cheap, requires splitters (RCA Only) </i>  
 
 [Startech USB3HDCAP](https://www.startech.com/en-us/audio-video-products/usb3hdcap?srsltid=AfmBOooD_St0S-V0Gsu5IUK1_ip7rBXS7Y4NIbNrruGR6oTqchuXa-kH){: .btn }  
-<i> **$200** Higher quality </i>  
+<i> **$200** Higher quality, component. </i>  
 
 ### Upscalers
 [Mclassic](https://marseilleinc.com/products/buy-mclassic){: .btn }  
