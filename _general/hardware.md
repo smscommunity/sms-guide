@@ -65,5 +65,5 @@ There are **four** options you have to capture your game when playing on console
 <i> **$20-$250+** Can buy the motherboard for cheap, or buy a preassembled controller from a community seller. Adds a hall-effect stick, button remapping, snapback filtering, and calibration. </i>  
 
 ### Memory Cards
-[Mcbazel (16344 blocks) Memory Card](https://a.co/d/24FOwof){: .btn }  
-<i> **$18** Has a button on the memory card to switch between 8 memory cards, useful for practice saves. </i>  
+[1024MB 8 Bank (16344 blocks) Memory Card](https://a.co/d/24FOwof){: .btn }  
+<i> **$18** Has a button on the memory card to switch between 8 different memory cards, useful for practice saves. </i>  
