@@ -31,7 +31,7 @@ There are **four** options you have to capture your game when playing on console
 [EVGA XR1 lite](https://a.co/d/6B7HP8d){: .btn }  
 <i> **$60** Higher quality </i>  
 
-### Component/VGA Capture Cards
+### Component/RCA Capture Cards
 
 <i> Recommended to use an Open Source Scan Converter (OSCC) like the Retrotink 5x-Pro along with an HDMI capture card for optimal quality </i>  
 
