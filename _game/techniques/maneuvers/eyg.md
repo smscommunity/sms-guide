@@ -58,7 +58,6 @@ and episode 6 as intended until you reach a low 1:2x time (Any% no ACE) as it on
 {% include yt.html id="J_m8bx_Z_Eo" %}  
 </details>  
 
-
 <details markdown="block">
   <summary markdown="span">
     Video Demos - Click for Details
@@ -70,8 +69,13 @@ and episode 6 as intended until you reach a low 1:2x time (Any% no ACE) as it on
 {% include yt.html id="ptXonShHuWw" %}  
 </details>  
 
+<b> Tips: </b>  
+- Make sure to jump into the OoB wall with Yoshi when ground pound spraying the stu above you to reduce the chance of missing.
+- Do not let the stu go OoB while you clip into the park or he will despawn.
+- Stand in the front of the platform to reduce chance of you downwarping if the platform despawns early.
+
 ##  Advanced  
-Top level players who play **JP** do 1-Stu but only have it do 1 pound, saving some time. The timing is tight on this strat and no tutorials exist as of this moment.  
+Top level players who play **JP** do 1-Stu but only have it do 1 pound, or 1 pound 1 spin, saving some time. The timing is tight on this strat and requires specific movement.
 
 <details markdown="block">
   <summary markdown="span">
@@ -89,4 +93,14 @@ Top level players who play **JP** do 1-Stu but only have it do 1 pound, saving s
 **0 Pound** by *Noki Doki*  
 *This is an **exclusive PAL** strategy called 0 Pound that saves around 2.5 seconds*  
 {% include yt.html id="98kA5EcsFIk" %}  
+</details>  
+
+<details markdown="block">
+  <summary markdown="span">
+    Tutorials - Click for Details
+  </summary>
+  {: .text-gamma}
+#### Tutorials:  
+**1-Stu 1 Pound 1 Spin** by *Lotfy*  
+{% include yt.html id="quaG4E7SqCM" %}  
 </details>  
