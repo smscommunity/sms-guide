@@ -23,6 +23,9 @@ Individual level google spreadsheet that has a RTA Strats tab on the bottom, a g
 **[Any% (No ACE) Tutorial Playlist (Samura1man \| 2019/09/13)](https://www.youtube.com/playlist?list=PLh58B1tN_ac1c6-J3j1wu9dmkRJuFcOn1)**  
 Best place to start, slightly outdated.
 
+**[Any% (No ACE) Tutorial Playlist (GrandStarYoshi | 2015/02–07)](https://www.youtube.com/playlist?list=PLwXgjFebHpGDP_H0_YsNtkWtvXl2CkAn_)**  
+Full game; deprecated form of EYG (2YG).
+
 **[120 Shines Tutorial Playlist (Switchmaster64 \| 2021/01/02)](https://www.youtube.com/playlist?list=PLvopRyTdDkBZTFJLtl3g5SknLBNuCLEws)**  
 Best place to start; assumes knowledge of the Any% tutorial playlist.
 
@@ -41,9 +44,6 @@ From start to after Pianta 2.
 
 **[Any% (No ACE) Beginner Tutorial Video (Dutchj | 2016/06/13)](https://www.youtube.com/watch?v=XERf3paNpTQ)**  
 From start to after Gelato 7.
-
-**[Any% (No ACE) Tutorial Playlist (GrandStarYoshi | 2015/02–07)](https://www.youtube.com/playlist?list=PLwXgjFebHpGDP_H0_YsNtkWtvXl2CkAn_)**  
-Full game; deprecated form of EYG (2YG).
 
 **[Any% (No ACE) Tutorial Video (Samura1man | 2014/07/11)](https://www.youtube.com/watch?v=OLMOfh8wWEU)**  
 Full game except Airstrip; missing EYG.
