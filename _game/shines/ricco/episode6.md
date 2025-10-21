@@ -9,12 +9,18 @@ nav_order: 6
 # Ricco 6
 Ricco 6 is made up of two parts: the Entry and the Blooper Race.
 ## Entry
-{% include yt.html id="CE6Bj4qZqsY" %}
+{% include yt.html id="RwKVvVVtiZo" %}
 - Hoverslide to the right and fall off the dock between the wall and the small post
-- Hover breifly towards the red button, then fall in the water
-- Jump dive onto the logs, rollout, then ground pound the red button
+- Hover breifly towards the red button, then dive and rollout off the log
+- Jump dive over the red button and press Y to orient towards the green blooper and ground pound
+- After the textbox, either double dive or do a dive and small rollout onto the blooper
 
 ## Blooper Race
+
+A very important tip to keep in mind is that Mario's hitbox does not tilt when turning, like the visual would indicate. This can easily lead to missed coins so be wary of it.  
+
+<img src="/sms-guide/assets/shines/ricco/episode6/turninghitbox.jpg" width="400">
+
 The Blooper Race can either be done clockwise or counter-clockwise. Clockwise is marginally safer, but is about 1s slower.
 ### Counter-Clockwise Route
 <img src="/sms-guide/assets/shines/ricco/episode6/ccwroute.png" width="700">
@@ -29,6 +35,4 @@ Another riskier alternative is to go left of both pillars, [shown here.](https:/
 
 Follow the route shown above. Again, this is marginally safer, but loses roughly 1s over counter-clockwise route.
 
-A very important tip to keep in mind is that Mario's hitbox does not tilt when turning, like the visual would indicate. This can easily lead to missed coins so be wary of it.  
 
-<img src="/sms-guide/assets/shines/ricco/episode6/turninghitbox.jpg" width="400">
