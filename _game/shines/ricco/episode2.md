@@ -56,7 +56,7 @@ The checkpoints for the blooper race can be viewed [here.](https://twitter.com/Q
 {% include yt.html id="BW4DTmXYmhs" %}
 - Hold left while entering the race. After talking to the pianta, hoverslide up left.
 - Do a full rollout to land on the ledge, then buffer a spinjump up right.
-- Hover to land on the small ledge, then double a double jump and either hoverslide or spray and slide across the wall.
+- Hover to land on the small ledge, then hit a double jump and either hoverslide or spray and slide across the wall.
 - Fall off the wall, briefly hover, then spray while continuing to hold forward
 - Double jump to maintain speed and reach the first checkpoint. Turn around and hoverslide
 - Fall off the ledge, double jump, then triple jump while spraying. Dive into the water that was sprayed
