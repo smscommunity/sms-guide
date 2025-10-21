@@ -40,8 +40,8 @@ The checkpoints for the blooper race can be viewed [here.](https://twitter.com/Q
     Checkpoint Images from NokiDoki
   </summary>
   {: .text-gamma}
-<img src="https://i.imgur.com/U41gw4X.jpeg" width="200"> <img src="https://i.imgur.com/ACANvVC.jpeg" width="200">
-<img src="https://i.imgur.com/zSUXacc.jpeg" width="200"> <img src="https://i.imgur.com/4yUWxPQ.jpeg" width="200">
+<img src="/sms-guide/assets/shines/ricco/episode2/1.jpeg" width="200"> <img src="/sms-guide/assets/shines/ricco/episode2/2.jpeg" width="200">
+<img src="/sms-guide/assets/shines/ricco/episode2/3.jpeg" width="200"> <img src="/sms-guide/assets/shines/ricco/episode2/4.jpeg" width="200">
 </details>
 
 ### Beginner - Blooperful
@@ -52,14 +52,28 @@ The checkpoints for the blooper race can be viewed [here.](https://twitter.com/Q
 - Cut through the cones and make a jump over the wall. Once you jump over this wall, take a left to go over the next wall.
 - The shine is now complete. You can repeat these exact instructions to complete Ricco 2 Hidden.
 
-### Intermediate - Blooperless
-{% include yt.html id="EF9pEEC_m-g" %}
-- Hold up right while entering the race. Talk to the pianta, jump dive into him, then triple jump
-- GWKH into the wall and hover onto the ledge. Jump on top of the wall and hoverslide across
+### Intermediate (Standard, Buffered Spin) - Blooperless
+{% include yt.html id="BW4DTmXYmhs" %}
+- Hold left while entering the race. After talking to the pianta, hoverslide up left.
+- Do a full rollout to land on the ledge, then buffer a spinjump up right.
+- Hover to land on the small ledge, then double a double jump and either hoverslide or spray and slide across the wall.
 - Fall off the wall, briefly hover, then spray while continuing to hold forward
 - Double jump to maintain speed and reach the first checkpoint. Turn around and hoverslide
 - Fall off the ledge, double jump, then triple jump while spraying. Dive into the water that was sprayed
 - Slide forward, fall off, then spin jump and hover up to the next checkpoint
 - Hoverslide to the end, fall off the wall, and hover to the shine position
 
-Only one method of getting up on the wall is shown and described above. Other methods can be seen [here.](https://youtu.be/Xtp1CX4Vke4)
+### Intermediate (Alternate, Jesus Strat) - Blooperless
+{% include yt.html id="KjdAydNEmFU" %}
+These points will only cover the difference of the strat compared to above.
+- After watersliding and falling off the ledge where you would triple jump, instead you will switch to your nozzle then spam spray as you fall off the ledge.
+- Dive again to slide on the water, and fall off the ledge again across the water
+- Right before falling into the water, hover across then double jump dive. If you timed the hover correctly you will be coated in water. A backup can be to spray as you double jump.
+
+### Intermediate (Alternate Start, GWKH) - Blooperless
+{% include yt.html id="EF9pEEC_m-g" %}
+- Hold up right while entering the race. Talk to the pianta, jump dive into him, then triple jump
+- GWKH into the wall and hover onto the ledge. Jump on top of the wall and hoverslide across
+
+
+Other subarea start methods can be seen being compared [here.](https://youtu.be/Xtp1CX4Vke4)
