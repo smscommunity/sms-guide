@@ -25,7 +25,7 @@ Rules are non-italicised and *guidelines (on best practices) are italicised*.
     6. **Position Store/Load (DPad Functions)** is allowed specifically outside the part of the level being timed – usually to set up a starting position.
     7. **Fix Manta Splitting** is required for Sirena 1.
 
-3. **Timer**: all times must be provided by the **Shine Get Timer** (SGT) practice code, version 2 or later (from Oct 2019), or the **Quarter Frame Timer** (QFT) practice code, *with one exception:* You don't need either practice code when using vanilla IGT (like for Pianta 6), you just need the Never Pause IGT practice code. Consult example videos to see where time starts and ends for a given level.
+3. **Timer**: all times must be provided by the **Shine Get Timer** (SGT) practice code, version 2 or later (from Oct 2019), or the **Quarter Frame Timer** (QFT) practice code, *with one exception:* You don't need either practice code when using vanilla IGT (like for Pianta 6), you just need the Never Pause IGT practice code. QFT takes priority if both are enabled. Consult example videos to see where time starts and ends for a given level.
     1. **Retimes may be requested** by typing `/ticket create` in the SMS discord. The included video must be somewhat cropped (i.e. <5 mins long). Examples of common retime situations are ILs from full-game runs, other times around your recently achieved PB (due to SGT being inaccurate), or done without fast text by accident.
 
 4. **Video requirement**:
