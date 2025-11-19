@@ -34,10 +34,10 @@ Starting out, it is not uncommon for beginners to do the Blooperless entry, but 
 - Slide off the wall then y-turn into the entrance and hover into the loading zone
 
 ## Blooper Race
-The checkpoints for the blooper race can be viewed [here.](https://twitter.com/Qbe_Root/status/1456776358571483139)
+The checkpoints for the blooper race can be viewed [here](https://bsky.app/profile/nokidoki.bsky.social/post/3m5yzk6s7qk2r).
 <details markdown="block">
   <summary markdown="span">
-    Checkpoint Images from NokiDoki
+    Checkpoint Images from Noki Doki
   </summary>
   {: .text-gamma}
 <img src="/sms-guide/assets/shines/ricco/episode2/1.jpeg" width="200"> <img src="/sms-guide/assets/shines/ricco/episode2/2.jpeg" width="200">
