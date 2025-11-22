@@ -180,3 +180,5 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 | [**Rocket Storage**](https://youtu.be/4KMRX68iTSI) | Dutchj | 2017/05/15  |
 | [**Rocket Storage (in brief)**](https://youtu.be/g3U1UB9lSCM) | Dutchj | 2016/12/28  |
 | [**Bowser**](https://youtu.be/oQXx6-DbYxQ) | Kwaniza | 2014/12/26  |
+
+{: .no_toc }
