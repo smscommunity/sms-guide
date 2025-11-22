@@ -14,6 +14,8 @@ We are able to beat this threshold by quite a bit, even with beginner speedrunni
 
 Starting out, it is not uncommon for beginners to do the Blooperless entry, but use blooper in the secret. Calculating by the RTA sheet as of August 11th, 2022, the Blooperless entry RTA Strat is 18.85, and the Blooper entry RTA IL is 21.38, creating a theoretical difference of 2.53 seconds. In terms of the race, the optimal time with Blooperless with no set-up, meaning RTA, is 16.74, and players using the Blooper can expect to clock in around 25 seconds or less. However, since Blooperless takes some in-game time to set up, the difference is not the entire length of those two times. RTA wise, it is also expected at an early level players get around 18 seconds or a bit less on average.
 
+<img src="/sms-guide/assets/shines/ricco/episode2/bloopermechanics.jpeg">  
+
 ## Entry
 ### Beginner - Blooperful
 {% include yt.html id="iaWbBNLJVsE" %}
