@@ -65,6 +65,7 @@ Almost certainly too old to be useful.
 Miscellaneous tutorials for individual shines or general things like movement. Covering different strats per shine but sorted only by age; the older the tutorial, the more likely things are to be out-of-date.
 
 **Movement**  
+
 | Topic + Link | Video Author   | Date       |
 |--------------|---------------|------------|
 | [**Spin-jump**](https://www.youtube.com/watch?v=11XgrGZErAA) | Dutchj | 2017/05/16 |
@@ -72,6 +73,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 | [**GWK**](https://www.youtube.com/watch?v=JZXoqc0Eywc) | Dutchj | 2017/05/15 |
 
 **Delfino Plaza**  
+
 | Topic + Link | Video Author   | Date       |
 |--------------|---------------|------------|
 | [**Sirena Whenever**](https://www.youtube.com/watch?v=ZhoGf9vBPek) | SidedWilliams | 2022/04/04 |
@@ -84,6 +86,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 | [**Pachinko**](https://youtu.be/awJcLEhd0Cs) | Paperario | 2019/01/03 |
 
 **Bianco Hills**  
+
 | Topic + Link | Video Author   | Date       |
 |--------------|---------------|------------|
 | [**bh2: Petey**](https://youtu.be/pQJZd5pIu3g) | Dutchj | 2015/08/11 |
@@ -94,12 +97,14 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 | [**bh7: Beginner**](https://youtu.be/Ew0bTZ6BF9o) | Dutchj | 2015/07/28  |
 
 **Ricco Harbor**  
+
 | Topic + Link | Video Author   | Date       |
 |--------------|---------------|------------|
 | [**rh2: Blooperless**](https://youtu.be/O1_DaQBh3OU) | Dutchj | 2017/05/16  |
 | [**rh7: Beginner**](https://youtu.be/5tIUuA1-Blg) | Dutchj | 2015/07/28  |
 
 **Gelato Beach**  
+
 | Topic + Link | Video Author   | Date       |
 |--------------|---------------|------------|
 | [**gbs: Basic**](https://www.youtube.com/watch?v=YzQOVWhXtsM) | Leannehef | 2023/08/13  |
@@ -113,6 +118,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 | [**gb4: Sandbird - Non-120**](https://youtu.be/LjzM1sLwsqU) | ModestTomato | 2021/12/20  |
 
 **Pinna Park**  
+
 | Topic + Link | Video Author   | Date       |
 |--------------|---------------|------------|
 | [**pp1: Mecha**](https://youtu.be/hmK0lnVU6kA) | mwolfe11 | 2020/06/16  |
@@ -131,6 +137,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 | [**pp8: Beginner**](https://youtu.be/WgudrGUDW9g) | GravityBeatle | 2021/02/15 |
 
 **Sirena Beach**  
+
 | Topic + Link | Video Author   | Date       |
 |--------------|---------------|------------| 
 | [**sb1: Manta 2nd Phase**](https://youtu.be/LbS5JZQ3oRM) | Dutchj | 2017/05/17  |
@@ -140,6 +147,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 | [**sb7**](https://youtu.be/eOOY-f3oVxA) | Metacor | 2019/01/23  |
 
 **Noki Bay**  
+
 | Topic + Link | Video Author   | Date       |
 |--------------|---------------|------------| 
 | [**nb4: Eel**](https://youtu.be/3u8lY285CWM) | Samura1man | 2019/09/05  |
@@ -152,6 +160,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 | [**nb8**](https://youtu.be/bVsKcrenRYw) | Paperario | 2020/05/14  |
 
 **Pianta Village**  
+
 | Topic + Link | Video Author   | Date       |
 |--------------|---------------|------------|
 | [**pv\*: Bridge Waterslide**](https://youtu.be/piznwtr3kCA) | Dutchj | 2017/05/18  |
@@ -164,6 +173,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 | [**pv7**](https://youtu.be/YuBm32Jcv3c) | Kaffelon | 2014/11/19  |
 
 **Corona**  
+
 | Topic + Link | Video Author   | Date       |
 |--------------|---------------|------------|
 | [**Speedboat + Backup**](https://youtu.be/Y1xIRJRvvI4) | Dutchj | 2017/05/19  |
