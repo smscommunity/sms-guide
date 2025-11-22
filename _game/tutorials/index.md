@@ -11,9 +11,6 @@ has_children: true
 
 Index of external links to game tutorials.
 
-1. TOC
-{:toc}
-
 ## Full-Game (Recommended)
 This is a set of all-in-one video playlists and shine-breakdown spreadsheets covering the whole game (Any% or 120 Shines). These ones are recommended when starting.
 
@@ -62,7 +59,7 @@ Probably too old to be useful.
 Almost certainly too old to be useful. 
 
 ## Individual Shines/Generic
-Miscellaneous tutorials for individual shines or general things like movement. Covering different strats per shine but sorted only by age; the older the tutorial, the more likely things are to be out-of-date.
+Miscellaneous tutorials for individual shines or general things like movement. Covering different strats per shine and sorted by age; the older the tutorial, the more likely things are to be out-of-date.
 
 **Movement**  
 
@@ -181,4 +178,3 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 | [**Rocket Storage (in brief)**](https://youtu.be/g3U1UB9lSCM) | Dutchj | 2016/12/28  |
 | [**Bowser**](https://youtu.be/oQXx6-DbYxQ) | Kwaniza | 2014/12/26  |
 
-{: .no_toc }
