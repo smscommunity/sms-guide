@@ -65,13 +65,13 @@ Almost certainly too old to be useful.
 Miscellaneous tutorials for individual shines or general things like movement. Covering different strats per shine but sorted only by age; the older the tutorial, the more likely things are to be out-of-date.
 
 **Movement**  
-**Topic + Link** | **Video Author** | **Date** 
+**Topic + Link** | **Video Author** | **Date**  
 [**Spin-jump**](https://www.youtube.com/watch?v=11XgrGZErAA) | Dutchj | 2017/05/16  
 [**Hoverslide**](https://www.youtube.com/watch?v=7BZwIG3jpN0) | Dutchj | 2016/12/28  
 [**GWK**](https://www.youtube.com/watch?v=JZXoqc0Eywc) | Dutchj | 2017/05/15  
 
 **Delfino Plaza**  
-**Topic + Link** | **Video Author** | **Date** 
+**Topic + Link** | **Video Author** | **Date**  
 [**Sirena Whenever**](https://www.youtube.com/watch?v=ZhoGf9vBPek) | SidedWilliams | 2022/04/04  
 [**Beginner Pianta Early**](https://www.youtube.com/watch?v=wRQSiejKsUQ) | GrandStarYoshi | 2014/09/28  
 [**Fech Pianta Early**](https://www.youtube.com/watch?v=minnHKhgYe8) | plankton | 2021/11/11 *(advanced)*  
@@ -82,7 +82,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**Pachinko**](https://youtu.be/awJcLEhd0Cs) | Paperario | 2019/01/03  
 
 **Bianco Hills**  
-**Topic + Link** | **Video Author** | **Date** 
+**Topic + Link** | **Video Author** | **Date**  
 [**bh2: Petey**](https://youtu.be/pQJZd5pIu3g) | Dutchj | 2015/08/11  
 [**bh5: Petey - 120 Shines**](https://youtu.be/eCZruyLJF9A) | Paperario | 2020/08/26 *(analysis of blue coin variations)*  
 [**bh5: Petey RNG**](https://www.youtube.com/watch?v=Kh_Qhdfy1io) | Noki Doki | 2019/02/04  
@@ -91,12 +91,12 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**bh7: Beginner**](https://youtu.be/Ew0bTZ6BF9o) | Dutchj | 2015/07/28  
 
 **Ricco Harbor**  
-**Topic + Link** | **Video Author** | **Date** 
+**Topic + Link** | **Video Author** | **Date**  
 [**rh2: Blooperless**](https://youtu.be/O1_DaQBh3OU) | Dutchj | 2017/05/16  
 [**rh7: Beginner**](https://youtu.be/5tIUuA1-Blg) | Dutchj | 2015/07/28  
 
 **Gelato Beach**  
-**Topic + Link** | **Video Author** | **Date** 
+**Topic + Link** | **Video Author** | **Date**  
 [**gbs: Basic**](https://www.youtube.com/watch?v=YzQOVWhXtsM) | Leannehef | 2023/08/13  
 [**gbs: Yossy Spot**](https://youtu.be/I-P6he1nSQY) | Jpep | 2020/12/12  
 [**gbs: Basic**](https://youtu.be/KDajrXdneXI) | Samura1man | 2019/09/08  
@@ -108,7 +108,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**gb4: Sandbird - Non-120**](https://youtu.be/LjzM1sLwsqU) | ModestTomato | 2021/12/20  
 
 **Pinna Park**  
-**Topic + Link** | **Video Author** | **Date** 
+**Topic + Link** | **Video Author** | **Date**  
 [**pp1: Mecha**](https://youtu.be/hmK0lnVU6kA) | mwolfe11 | 2020/06/16  
 [**pp1: Mecha Early 4th Rocket Grab**](https://youtu.be/H1y0Vo9P-3Y) | Paperario | 2018/12/15  
 [**pp1: Mecha Advanced**](https://youtu.be/bK7wq9zyT_Q) | Dutchj | 2017/05/17 *(old 3rd/4th rocket strats)*  
@@ -125,7 +125,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**pp8: Beginner**](https://youtu.be/WgudrGUDW9g) | GravityBeatle | 2021/02/15 
 
 **Sirena Beach**  
-**Topic + Link** | **Video Author** | **Date** 
+**Topic + Link** | **Video Author** | **Date**  
 [**sb1: Manta 2nd Phase**](https://youtu.be/LbS5JZQ3oRM) | Dutchj | 2017/05/17  
 [**sb1: Manta**](https://youtu.be/ADoBd7fwkTw) | Dutchj | 2015/04/08  
 [**sb3: Banana Clip**](https://youtu.be/x6_thCTSVDg) | Dutchj | 2017/05/18  
@@ -133,7 +133,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**sb7**](https://youtu.be/eOOY-f3oVxA) | Metacor | 2019/01/23  
 
 **Noki Bay**  
-**Topic + Link** | **Video Author** | **Date** 
+**Topic + Link** | **Video Author** | **Date**  
 [**nb4: Eel**](https://youtu.be/3u8lY285CWM) | Samura1man | 2019/09/05  
 [**nb4: Eel**](https://youtu.be/xwcDh99nKyA) | Dutchj | 2017/05/18  
 [**nb4: Eel 6-Tooth**](https://youtu.be/tdz2Deg92-M) | Stelzig | 2016/09/10  
@@ -144,7 +144,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**nb8**](https://youtu.be/bVsKcrenRYw) | Paperario | 2020/05/14  
 
 **Pianta Village**  
-**Topic + Link** | **Video Author** | **Date** 
+**Topic + Link** | **Video Author** | **Date**  
 [**pv\*: Bridge Waterslide**](https://youtu.be/piznwtr3kCA) | Dutchj | 2017/05/18  
 [**pv\*: Bridge Waterslide (in brief)**](https://youtu.be/kDsQv5NCkaw) | Dutchj | 2016/12/31  
 [**pv3: Damage Boost**](https://youtu.be/pOGWg0XBw3o) | Dutchj | 2017/05/19  
@@ -155,7 +155,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**pv7**](https://youtu.be/YuBm32Jcv3c) | Kaffelon | 2014/11/19  
 
 **Corona**  
-**Topic + Link** | **Video Author** | **Date** 
+**Topic + Link** | **Video Author** | **Date**  
 [**Speedboat + Backup**](https://youtu.be/Y1xIRJRvvI4) | Dutchj | 2017/05/19  
 [**Rocket Storage**](https://youtu.be/4KMRX68iTSI) | Dutchj | 2017/05/15  
 [**Rocket Storage (in brief)**](https://youtu.be/g3U1UB9lSCM) | Dutchj | 2016/12/28  
