@@ -65,13 +65,13 @@ Almost certainly too old to be useful.
 Miscellaneous tutorials for individual shines or general things like movement. Covering different strats per shine but sorted only by age; the older the tutorial, the more likely things are to be out-of-date.
 
 **Movement**  
-**Topic + Link** | **Video Author** | **Date**  
+**Topic + Link** | **Video Author** | **Date**
 [**Spin-jump**](https://www.youtube.com/watch?v=11XgrGZErAA) | Dutchj | 2017/05/16
 [**Hoverslide**](https://www.youtube.com/watch?v=7BZwIG3jpN0) | Dutchj | 2016/12/28
 [**GWK**](https://www.youtube.com/watch?v=JZXoqc0Eywc) | Dutchj | 2017/05/15
 
 **Delfino Plaza**  
-**Topic + Link** | **Video Author** | **Date**  
+**Topic + Link** | **Video Author** | **Date**
 [**Sirena Whenever**](https://www.youtube.com/watch?v=ZhoGf9vBPek) | SidedWilliams | 2022/04/04
 [**Beginner Pianta Early**](https://www.youtube.com/watch?v=wRQSiejKsUQ) | GrandStarYoshi | 2014/09/28
 [**Fech Pianta Early**](https://www.youtube.com/watch?v=minnHKhgYe8) | plankton | 2021/11/11 *(advanced)*
