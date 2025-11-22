@@ -7,7 +7,6 @@ has_children: true
 ---
 
 # Tutorials
-{: .no_toc }
 
 Index of external links to game tutorials.
 
