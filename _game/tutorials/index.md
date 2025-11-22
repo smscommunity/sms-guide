@@ -136,7 +136,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 | [**sb1: Manta 2nd Phase**](https://youtu.be/LbS5JZQ3oRM) | Dutchj | 2017/05/17  |
 | [**sb1: Manta**](https://youtu.be/ADoBd7fwkTw) | Dutchj | 2015/04/08  |
 | [**sb3: Banana Clip**](https://youtu.be/x6_thCTSVDg) | Dutchj | 2017/05/18  |
-| [**sb4s: 1st + 2nd momentum spin**](https://youtu.be/EqrCqiDM8uM) (Bloodwhale | 2017/02/03  |
+| [**sb4s: 1st + 2nd momentum spin**](https://youtu.be/EqrCqiDM8uM) | Bloodwhale | 2017/02/03  |
 | [**sb7**](https://youtu.be/eOOY-f3oVxA) | Metacor | 2019/01/23  |
 
 **Noki Bay**  
