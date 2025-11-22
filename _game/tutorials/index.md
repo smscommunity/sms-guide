@@ -65,7 +65,8 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 
 | Topic + Link | Video Author   | Date       |
 |--------------|---------------|------------|
-| [**Spin-jump**](https://www.youtube.com/watch?v=11XgrGZErAA) | Dutchj | 2017/05/16 |
+| [**The Many Types of Spinjumps**](https://www.youtube.com/watch?v=zlG8El1UUVc) | AverageTrey | 2021/10/11 |
+| [**Buffered Spinjumps**](https://www.youtube.com/watch?v=11XgrGZErAA) | Dutchj | 2017/05/16 |
 | [**Hoverslide**](https://www.youtube.com/watch?v=7BZwIG3jpN0) | Dutchj | 2016/12/28 |
 | [**GWK**](https://www.youtube.com/watch?v=JZXoqc0Eywc) | Dutchj | 2017/05/15 |
 
