@@ -81,20 +81,20 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**Pachinko** (Paperario \| 2019/01/03)](https://youtu.be/awJcLEhd0Cs)  
 
 **Bianco**  
-[**b2: Entry** (shoutplenty \| 2021/03/09)](https://smscommunity.github.io/sms-guide/shines/b2)  
-[**b2: Petey** (Dutchj \| 2015/08/11)](https://youtu.be/pQJZd5pIu3g)  
-[**b5: Petey [120 Shines]** (Paperario \| 2020/08/26)](https://youtu.be/eCZruyLJF9A) *(analysis of blue coin variations)*  
-[**b5: Petey RNG** (Noki Doki \| 2019/02/04)](https://www.youtube.com/watch?v=Kh_Qhdfy1io)  
-[**b6s: All** (Metacor \| 2020/05/28)](https://youtu.be/TIHSZkFie9A)  
-[**b6s: Cube Skip** (Dutchj \| 2017/05/16)](https://youtu.be/1IJjgv9OIMQ)  
-[**b7: Beginner** (Dutchj \| 2015/07/28)](https://youtu.be/Ew0bTZ6BF9o)  
+[**bh2: Entry** (shoutplenty \| 2021/03/09)](https://smscommunity.github.io/sms-guide/shines/b2)  
+[**bh2: Petey** (Dutchj \| 2015/08/11)](https://youtu.be/pQJZd5pIu3g)  
+[**bh5: Petey [120 Shines]** (Paperario \| 2020/08/26)](https://youtu.be/eCZruyLJF9A) *(analysis of blue coin variations)*  
+[**bh5: Petey RNG** (Noki Doki \| 2019/02/04)](https://www.youtube.com/watch?v=Kh_Qhdfy1io)  
+[**bh6s: All** (Metacor \| 2020/05/28)](https://youtu.be/TIHSZkFie9A)  
+[**bh6s: Cube Skip** (Dutchj \| 2017/05/16)](https://youtu.be/1IJjgv9OIMQ)  
+[**bh7: Beginner** (Dutchj \| 2015/07/28)](https://youtu.be/Ew0bTZ6BF9o)  
 
 **Ricco**  
-[**r1: Blooper Fight** (EquivocalGenius \| 2021/05/17)](https://smscommunity.github.io/sms-guide/shines/r1)  
-[**r2: Blooperless** (Dutchj \| 2017/05/16)](https://youtu.be/O1_DaQBh3OU)  
-[**r4s: Beginner** (shoutplenty \| 2021/06/11)](https://smscommunity.github.io/sms-guide/shines/ricco/episode4#beginner---yellow-cycle)  
-[**r5: Blooper Fight** (Jpep \| 2021/05/19)](https://smscommunity.github.io/sms-guide/shines/r5)  
-[**r7: Beginner** (Dutchj \| 2015/07/28)](https://youtu.be/5tIUuA1-Blg)  
+[**rh1: Blooper Fight** (EquivocalGenius \| 2021/05/17)](https://smscommunity.github.io/sms-guide/shines/r1)  
+[**rh2: Blooperless** (Dutchj \| 2017/05/16)](https://youtu.be/O1_DaQBh3OU)  
+[**rh4s: Beginner** (shoutplenty \| 2021/06/11)](https://smscommunity.github.io/sms-guide/shines/ricco/episode4#beginner---yellow-cycle)  
+[**rh5: Blooper Fight** (Jpep \| 2021/05/19)](https://smscommunity.github.io/sms-guide/shines/r5)  
+[**rh7: Beginner** (Dutchj \| 2015/07/28)](https://youtu.be/5tIUuA1-Blg)  
 
 **Gelato**  
 [**gbs: Basic** (Leannehef \| 2023/08/13)](https://www.youtube.com/watch?v=YzQOVWhXtsM)  
@@ -103,18 +103,18 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**gbs: Basic Stickless** (Trustfall \| 2017/06/08)](https://youtu.be/DPn6m8YF8hk)  
 [**gbs: Backflip** (Dutchj \| 2017/05/16)](https://youtu.be/SxE0zDYr_fs) *(advanced)*  
 [**gbs: Basic** (Bounceyboy \| 2014/11/25)](https://youtu.be/DovjgxRbEjE)  
-[**g7: Beginner** (Dutchj \| 2015/11/29)](https://youtu.be/jJSVc_VMEc4)  
-[**g3: Wiggler** (AverageTrey \| 2021/01/22)](https://www.twitch.tv/videos/883250765)  
-[**g3: Wiggler 3rd Hit** (Pogonateur \| 2020/11/03)](https://youtu.be/RE-fUCuGjtk)  
-[**g4: Sandbird (Non-120)** (ModestTomato \| 2021/12/20)](https://youtu.be/LjzM1sLwsqU)  
+[**gb7: Beginner** (Dutchj \| 2015/11/29)](https://youtu.be/jJSVc_VMEc4)  
+[**gb3: Wiggler** (AverageTrey \| 2021/01/22)](https://www.twitch.tv/videos/883250765)  
+[**gb3: Wiggler 3rd Hit** (Pogonateur \| 2020/11/03)](https://youtu.be/RE-fUCuGjtk)  
+[**gb4: Sandbird (Non-120)** (ModestTomato \| 2021/12/20)](https://youtu.be/LjzM1sLwsqU)  
 
 **Pinna**  
-[**p1: Mecha** (mwolfe11 \| 2020/06/16)](https://youtu.be/hmK0lnVU6kA)  
-[**p1: Mecha Early 4th Rocket Grab** (Paperario \| 2018/12/15)](https://youtu.be/H1y0Vo9P-3Y)  
-[**p1: Mecha Advanced** (Dutchj \| 2017/05/17)](https://youtu.be/bK7wq9zyT_Q) *(old 3rd/4th rocket strats)*  
-[**p1: Mecha Basic + CS Skips** (Dutchj \| 2015/12/07)](https://youtu.be/aTBfcfaXfMw) *(old)*  
-[**p2: Bullet Bills [120 Shines]** (Pogonateur \| 2019/11/08)](https://youtu.be/09EzJgZ-fzQ)  
-[**p4: 1-Cycle** (Dutchj \| 2017/05/17)](https://youtu.be/PR2gL6GP9Zs)  
+[**pp1: Mecha** (mwolfe11 \| 2020/06/16)](https://youtu.be/hmK0lnVU6kA)  
+[**pp1: Mecha Early 4th Rocket Grab** (Paperario \| 2018/12/15)](https://youtu.be/H1y0Vo9P-3Y)  
+[**pp1: Mecha Advanced** (Dutchj \| 2017/05/17)](https://youtu.be/bK7wq9zyT_Q) *(old 3rd/4th rocket strats)*  
+[**pp1: Mecha Basic + CS Skips** (Dutchj \| 2015/12/07)](https://youtu.be/aTBfcfaXfMw) *(old)*  
+[**pp2: Bullet Bills [120 Shines]** (Pogonateur \| 2019/11/08)](https://youtu.be/09EzJgZ-fzQ)  
+[**pp4: 1-Cycle** (Dutchj \| 2017/05/17)](https://youtu.be/PR2gL6GP9Zs)  
 [**eyg: 1-Stu 1 pound 1 spin** (Lotfy \| 2025/08/10)](https://www.youtube.com/watch?v=quaG4E7SqCM) *(advanced)*  
 [**eyg: 1-Stu 5YG** (shoutplenty \| 2023/01/21)](https://youtu.be/UJ5RNJK6LRM) *(beginner)*  
 [**eyg: 1-Stu** (Noki Doki \| 2020/04/15)](https://youtu.be/0plZQdNSo18)  
@@ -122,35 +122,35 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**eyg: 2-Stu** (Dutchj \| 2017/05/17)](https://youtu.be/tvq-WY7YFsc)  
 [**eyg: 2-Stu 5YG (in brief)** (Dutchj \| 2016/08/22)](https://youtu.be/PrfQ5FUUhNQ)  
 [**eyg: 2-Stu** (Strongman Lin \| 2016/05/23)](https://www.youtube.com/watch?v=0xm2-QkrL4M)  
-[**p8** (GravityBeatle \| 2021/02/15)](https://youtu.be/WgudrGUDW9g) *(beginner)*  
+[**pp8** (GravityBeatle \| 2021/02/15)](https://youtu.be/WgudrGUDW9g) *(beginner)*  
 
 **Sirena**  
-[**s1: Manta 2nd Phase** (Dutchj \| 2017/05/17)](https://youtu.be/LbS5JZQ3oRM)  
-[**s1: Manta** (Dutchj \| 2015/04/08)](https://youtu.be/ADoBd7fwkTw)  
-[**s3: Banana Clip** (Dutchj \| 2017/05/18)](https://youtu.be/x6_thCTSVDg)  
-[**s4s** (Bloodwhale \| 2017/02/03)](https://youtu.be/EqrCqiDM8uM) *(1st + 2nd momentum spin)*  
-[**s7** (Metacor \| 2019/01/23)](https://youtu.be/eOOY-f3oVxA)  
+[**sb1: Manta 2nd Phase** (Dutchj \| 2017/05/17)](https://youtu.be/LbS5JZQ3oRM)  
+[**sb1: Manta** (Dutchj \| 2015/04/08)](https://youtu.be/ADoBd7fwkTw)  
+[**sb3: Banana Clip** (Dutchj \| 2017/05/18)](https://youtu.be/x6_thCTSVDg)  
+[**sb4s** (Bloodwhale \| 2017/02/03)](https://youtu.be/EqrCqiDM8uM) *(1st + 2nd momentum spin)*  
+[**sb7** (Metacor \| 2019/01/23)](https://youtu.be/eOOY-f3oVxA)  
 
 **Noki**  
-[**n4: Eel** (Samura1man \| 2019/09/05)](https://youtu.be/3u8lY285CWM)  
-[**n4: Eel** (Metacor \| 2019/07/07)](https://gist.github.com/Metacor/48d83d1765083cc45c71b1545f3ca292)  
-[**n4: Eel** (Dutchj \| 2017/05/18)](https://youtu.be/xwcDh99nKyA)  
-[**n4: Eel 6-Tooth** (Stelzig \| 2016/09/10)](https://youtu.be/tdz2Deg92-M)  
-[**n6s: Galapagos Cycle** (Jpep \| 2020/12/07)](https://youtu.be/FYjgyYxh_y8)  
-[**n6s: Green Cycle** (Metacor \| 2020/04/02)](https://youtu.be/n4EsVB13wuE)  
-[**n6s: Blue Cycle** (Dutchj \| 2017/05/18)](https://youtu.be/OI-8ONnKMyU)  
-[**n7** (Metacor \| 2019/01/24)](https://youtu.be/4EDWHLlORi0)  
-[**n8** (Paperario \| 2020/05/14)](https://youtu.be/bVsKcrenRYw)  
+[**nb4: Eel** (Samura1man \| 2019/09/05)](https://youtu.be/3u8lY285CWM)  
+[**nb4: Eel** (Metacor \| 2019/07/07)](https://gist.github.com/Metacor/48d83d1765083cc45c71b1545f3ca292)  
+[**nb4: Eel** (Dutchj \| 2017/05/18)](https://youtu.be/xwcDh99nKyA)  
+[**nb4: Eel 6-Tooth** (Stelzig \| 2016/09/10)](https://youtu.be/tdz2Deg92-M)  
+[**nb6s: Galapagos Cycle** (Jpep \| 2020/12/07)](https://youtu.be/FYjgyYxh_y8)  
+[**nb6s: Green Cycle** (Metacor \| 2020/04/02)](https://youtu.be/n4EsVB13wuE)  
+[**nb6s: Blue Cycle** (Dutchj \| 2017/05/18)](https://youtu.be/OI-8ONnKMyU)  
+[**nb7** (Metacor \| 2019/01/24)](https://youtu.be/4EDWHLlORi0)  
+[**nb8** (Paperario \| 2020/05/14)](https://youtu.be/bVsKcrenRYw)  
 
 **Pianta**  
-[**q\*: Bridge Waterslide** (Dutchj \| 2017/05/18)](https://youtu.be/piznwtr3kCA)  
-[**q\*: Bridge Waterslide (in brief)** (Dutchj \| 2016/12/31)](https://youtu.be/kDsQv5NCkaw)  
-[**q3: Damage Boost** (Dutchj \| 2017/05/19)](https://youtu.be/pOGWg0XBw3o)  
-[**q4: All Chomp Patterns** (Dutchj \| 2017/05/19)](https://youtu.be/b7aunLqaQp0)  
-[**q5: Yoshi Skip** (Dutchj \| 2017/05/19)](https://youtu.be/LcJ2bKN-Hr0)  
-[**q5: Yoshi Skip (in brief)** (Dutchj \| 2016/12/04)](https://youtu.be/-NMqyxOMC9o)  
-[**q5s: Chuckster Manip** (Noki Doki \| 2018/06/08)](https://www.youtube.com/watch?v=IZTcoSITMis)  
-[**q7** (Kaffelon \| 2014/11/19)](https://youtu.be/YuBm32Jcv3c)  
+[**pv\*: Bridge Waterslide** (Dutchj \| 2017/05/18)](https://youtu.be/piznwtr3kCA)  
+[**pv\*: Bridge Waterslide (in brief)** (Dutchj \| 2016/12/31)](https://youtu.be/kDsQv5NCkaw)  
+[**pv3: Damage Boost** (Dutchj \| 2017/05/19)](https://youtu.be/pOGWg0XBw3o)  
+[**pv4: All Chomp Patterns** (Dutchj \| 2017/05/19)](https://youtu.be/b7aunLqaQp0)  
+[**pv5: Yoshi Skip** (Dutchj \| 2017/05/19)](https://youtu.be/LcJ2bKN-Hr0)  
+[**pv5: Yoshi Skip (in brief)** (Dutchj \| 2016/12/04)](https://youtu.be/-NMqyxOMC9o)  
+[**pv5s: Chuckster Manip** (Noki Doki \| 2018/06/08)](https://www.youtube.com/watch?v=IZTcoSITMis)  
+[**pv7** (Kaffelon \| 2014/11/19)](https://youtu.be/YuBm32Jcv3c)  
 
 **Corona**  
 [**Speedboat + Backup** (Dutchj \| 2017/05/19)](https://youtu.be/Y1xIRJRvvI4)  
