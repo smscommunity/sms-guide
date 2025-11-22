@@ -7,7 +7,10 @@ grand_parent: Shines
 nav_order: 6
 ---
 # Ricco 6
-Ricco 6 is made up of two parts: the Entry and the Blooper Race.
+Ricco 6 is made up of two parts: the Entry and the Blooper Race.  
+
+<img src="/sms-guide/assets/shines/ricco/episode2/bloopermechanics.jpeg">  
+
 ## Entry
 {% include yt.html id="RwKVvVVtiZo" %}
 - Hoverslide to the right and fall off the dock between the wall and the small post
