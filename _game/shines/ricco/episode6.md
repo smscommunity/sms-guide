@@ -9,7 +9,7 @@ nav_order: 6
 # Ricco 6
 Ricco 6 is made up of two parts: the Entry and the Blooper Race.  
 
-<img src="/sms-guide/assets/shines/ricco/episode2/bloopermechanics.jpeg">  
+<img src="/sms-guide/assets/shines/ricco/episode2/bloopermechanics.jpg">  
 
 ## Entry
 {% include yt.html id="RwKVvVVtiZo" %}
