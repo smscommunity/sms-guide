@@ -65,10 +65,10 @@ Almost certainly too old to be useful.
 Miscellaneous tutorials for individual shines or general things like movement. Covering different strats per shine but sorted only by age; the older the tutorial, the more likely things are to be out-of-date.
 
 **Movement**  
-**Topic** | **Link** | **Video Author** | **Date**  
-Spin-jump | [Link](https://www.youtube.com/watch?v=11XgrGZErAA) | Dutchj | 2017/05/16
-Hoverslide | [Link](https://www.youtube.com/watch?v=7BZwIG3jpN0) | Dutchj | 2016/12/28
-GWK | [Link](https://www.youtube.com/watch?v=JZXoqc0Eywc) | Dutchj | 2017/05/15
+**Topic** | **Video Author** | **Date**  
+[**Spin-jump**](https://www.youtube.com/watch?v=11XgrGZErAA) | Dutchj | 2017/05/16
+[**Hoverslide**](https://www.youtube.com/watch?v=7BZwIG3jpN0) | Dutchj | 2016/12/28
+[**GWK**](https://www.youtube.com/watch?v=JZXoqc0Eywc) | Dutchj | 2017/05/15
 
 **Delfino Plaza**  
 **Topic + Link** | **Video Author** | **Date**
