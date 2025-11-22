@@ -59,29 +59,30 @@ Probably too old to be useful.
 Almost certainly too old to be useful. 
 
 ## Individual Shines/Generic
-Miscellaneous tutorials for individual shines or general things like movement. Covering different strats per shine and sorted by age; the older the tutorial, the more likely things are to be out-of-date.
+Miscellaneous tutorials for individual shines or general things like movement. Covering different strats per sorted by shine and age; the older the tutorial, the more likely things are to be out-of-date.
 
 **Movement**  
 
 | Topic + Link | Video Author   | Date       |
 |--------------|---------------|------------|
+| [**Infinite Wallkicks**](https://www.youtube.com/watch?v=4N0fQFowtV8) | AverageTrey | 2023/10/25 |
 | [**The Many Types of Spinjumps**](https://www.youtube.com/watch?v=zlG8El1UUVc) | AverageTrey | 2021/10/11 |
 | [**Buffered Spinjumps**](https://www.youtube.com/watch?v=11XgrGZErAA) | Dutchj | 2017/05/16 |
-| [**Hoverslide**](https://www.youtube.com/watch?v=7BZwIG3jpN0) | Dutchj | 2016/12/28 |
 | [**GWK**](https://www.youtube.com/watch?v=JZXoqc0Eywc) | Dutchj | 2017/05/15 |
+| [**Hoverslide**](https://www.youtube.com/watch?v=7BZwIG3jpN0) | Dutchj | 2016/12/28 |
 
 **Delfino Plaza**  
 
 | Topic + Link | Video Author   | Date       |
 |--------------|---------------|------------|
 | [**Sirena Whenever**](https://www.youtube.com/watch?v=ZhoGf9vBPek) | SidedWilliams | 2022/04/04 |
-| [**Beginner Pianta Early**](https://www.youtube.com/watch?v=wRQSiejKsUQ) | GrandStarYoshi | 2014/09/28 |
 | [**Fech Pianta Early**](https://www.youtube.com/watch?v=minnHKhgYe8) | plankton | 2021/11/11 *(advanced)* |
 | [**Honey Skip Setup**](https://youtu.be/uG9aa9sFWlI) | Zeldocto | 2025/11/22 |
 | [**In-Depth Honey Skip**](https://www.twitch.tv/videos/588490811) | Weegee | 2020/04/10 |
 | [**Honey Skip Setup**](https://youtu.be/PC6uz3Mb0v8) | Samura1man | 2019/09/03 |
 | [**Jelly Skip 1**](https://youtu.be/0u_tKFWB-WU) | Paperario | 2019/03/21 |
 | [**Pachinko**](https://youtu.be/awJcLEhd0Cs) | Paperario | 2019/01/03 |
+| [**Beginner Pianta Early**](https://www.youtube.com/watch?v=wRQSiejKsUQ) | GrandStarYoshi | 2014/09/28 |
 
 **Bianco Hills**  
 
