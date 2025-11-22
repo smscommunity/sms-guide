@@ -69,7 +69,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**Hoverslide** (Dutchj \| 2016/12/28)](https://www.youtube.com/watch?v=7BZwIG3jpN0)  
 [**GWK** (Dutchj \| 2017/05/15)](https://www.youtube.com/watch?v=JZXoqc0Eywc)  
 
-**Delfino**  
+**Delfino Plaza**  
 [**Sirena Whenever** (SidedWilliams \| 2022/04/04)](https://www.youtube.com/watch?v=ZhoGf9vBPek)  
 [**Beginner Pianta Early** (GrandStarYoshi \| 2014/09/28)](https://www.youtube.com/watch?v=wRQSiejKsUQ)  
 [**Fech Pianta Early** (plankton \| 2021/11/11)](https://www.youtube.com/watch?v=minnHKhgYe8)  
@@ -80,7 +80,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**Jelly Skip 1** (Paperario \| 2019/03/21)](https://youtu.be/0u_tKFWB-WU)  
 [**Pachinko** (Paperario \| 2019/01/03)](https://youtu.be/awJcLEhd0Cs)  
 
-**Bianco**  
+**Bianco Hills**  
 [**bh2: Entry** (shoutplenty \| 2021/03/09)](https://smscommunity.github.io/sms-guide/shines/b2)  
 [**bh2: Petey** (Dutchj \| 2015/08/11)](https://youtu.be/pQJZd5pIu3g)  
 [**bh5: Petey [120 Shines]** (Paperario \| 2020/08/26)](https://youtu.be/eCZruyLJF9A) *(analysis of blue coin variations)*  
@@ -89,14 +89,14 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**bh6s: Cube Skip** (Dutchj \| 2017/05/16)](https://youtu.be/1IJjgv9OIMQ)  
 [**bh7: Beginner** (Dutchj \| 2015/07/28)](https://youtu.be/Ew0bTZ6BF9o)  
 
-**Ricco**  
+**Ricco Harbor**  
 [**rh1: Blooper Fight** (EquivocalGenius \| 2021/05/17)](https://smscommunity.github.io/sms-guide/shines/r1)  
 [**rh2: Blooperless** (Dutchj \| 2017/05/16)](https://youtu.be/O1_DaQBh3OU)  
 [**rh4s: Beginner** (shoutplenty \| 2021/06/11)](https://smscommunity.github.io/sms-guide/shines/ricco/episode4#beginner---yellow-cycle)  
 [**rh5: Blooper Fight** (Jpep \| 2021/05/19)](https://smscommunity.github.io/sms-guide/shines/r5)  
 [**rh7: Beginner** (Dutchj \| 2015/07/28)](https://youtu.be/5tIUuA1-Blg)  
 
-**Gelato**  
+**Gelato Beach**  
 [**gbs: Basic** (Leannehef \| 2023/08/13)](https://www.youtube.com/watch?v=YzQOVWhXtsM)  
 [**gbs: Yossy Spot** (Jpep \| 2020/12/12)](https://youtu.be/I-P6he1nSQY)  
 [**gbs: Basic** (Samura1man \| 2019/09/08)](https://youtu.be/KDajrXdneXI)  
@@ -108,7 +108,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**gb3: Wiggler 3rd Hit** (Pogonateur \| 2020/11/03)](https://youtu.be/RE-fUCuGjtk)  
 [**gb4: Sandbird (Non-120)** (ModestTomato \| 2021/12/20)](https://youtu.be/LjzM1sLwsqU)  
 
-**Pinna**  
+**Pinna Park**  
 [**pp1: Mecha** (mwolfe11 \| 2020/06/16)](https://youtu.be/hmK0lnVU6kA)  
 [**pp1: Mecha Early 4th Rocket Grab** (Paperario \| 2018/12/15)](https://youtu.be/H1y0Vo9P-3Y)  
 [**pp1: Mecha Advanced** (Dutchj \| 2017/05/17)](https://youtu.be/bK7wq9zyT_Q) *(old 3rd/4th rocket strats)*  
@@ -124,14 +124,14 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**eyg: 2-Stu** (Strongman Lin \| 2016/05/23)](https://www.youtube.com/watch?v=0xm2-QkrL4M)  
 [**pp8** (GravityBeatle \| 2021/02/15)](https://youtu.be/WgudrGUDW9g) *(beginner)*  
 
-**Sirena**  
+**Sirena Beach**  
 [**sb1: Manta 2nd Phase** (Dutchj \| 2017/05/17)](https://youtu.be/LbS5JZQ3oRM)  
 [**sb1: Manta** (Dutchj \| 2015/04/08)](https://youtu.be/ADoBd7fwkTw)  
 [**sb3: Banana Clip** (Dutchj \| 2017/05/18)](https://youtu.be/x6_thCTSVDg)  
 [**sb4s** (Bloodwhale \| 2017/02/03)](https://youtu.be/EqrCqiDM8uM) *(1st + 2nd momentum spin)*  
 [**sb7** (Metacor \| 2019/01/23)](https://youtu.be/eOOY-f3oVxA)  
 
-**Noki**  
+**Noki Bay**  
 [**nb4: Eel** (Samura1man \| 2019/09/05)](https://youtu.be/3u8lY285CWM)  
 [**nb4: Eel** (Metacor \| 2019/07/07)](https://gist.github.com/Metacor/48d83d1765083cc45c71b1545f3ca292)  
 [**nb4: Eel** (Dutchj \| 2017/05/18)](https://youtu.be/xwcDh99nKyA)  
@@ -142,7 +142,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 [**nb7** (Metacor \| 2019/01/24)](https://youtu.be/4EDWHLlORi0)  
 [**nb8** (Paperario \| 2020/05/14)](https://youtu.be/bVsKcrenRYw)  
 
-**Pianta**  
+**Pianta Village**  
 [**pv\*: Bridge Waterslide** (Dutchj \| 2017/05/18)](https://youtu.be/piznwtr3kCA)  
 [**pv\*: Bridge Waterslide (in brief)** (Dutchj \| 2016/12/31)](https://youtu.be/kDsQv5NCkaw)  
 [**pv3: Damage Boost** (Dutchj \| 2017/05/19)](https://youtu.be/pOGWg0XBw3o)  
