@@ -65,95 +65,98 @@ Almost certainly too old to be useful.
 Miscellaneous tutorials for individual shines or general things like movement. Covering different strats per shine but sorted only by age; the older the tutorial, the more likely things are to be out-of-date.
 
 **Movement**  
-[**Spin-jump** (Dutchj \| 2017/05/16)](https://www.youtube.com/watch?v=11XgrGZErAA)  
-[**Hoverslide** (Dutchj \| 2016/12/28)](https://www.youtube.com/watch?v=7BZwIG3jpN0)  
-[**GWK** (Dutchj \| 2017/05/15)](https://www.youtube.com/watch?v=JZXoqc0Eywc)  
+**Topic + Link** | **Video Author** | **Date** 
+[**Spin-jump**](https://www.youtube.com/watch?v=11XgrGZErAA) | Dutchj | 2017/05/16  
+[**Hoverslide**](https://www.youtube.com/watch?v=7BZwIG3jpN0) | Dutchj | 2016/12/28  
+[**GWK**](https://www.youtube.com/watch?v=JZXoqc0Eywc) | Dutchj | 2017/05/15  
 
 **Delfino Plaza**  
-[**Sirena Whenever** (SidedWilliams \| 2022/04/04)](https://www.youtube.com/watch?v=ZhoGf9vBPek)  
-[**Beginner Pianta Early** (GrandStarYoshi \| 2014/09/28)](https://www.youtube.com/watch?v=wRQSiejKsUQ)  
-[**Fech Pianta Early** (plankton \| 2021/11/11)](https://www.youtube.com/watch?v=minnHKhgYe8)  
-[**Honey Skip** (Zeldocto \| 2025/11/22)](https://youtu.be/uG9aa9sFWlI)  
-[**Honey Skip** (Metacor \| 2020/05/05)](https://gist.github.com/Metacor/6392df6b11599370f479f87f4df5431d)  
-[**Honey Skip** (Weegee \| 2020/04/10)](https://www.twitch.tv/videos/588490811)  
-[**Honey Skip** (Samura1man \| 2019/09/03)](https://youtu.be/PC6uz3Mb0v8)  
-[**Jelly Skip 1** (Paperario \| 2019/03/21)](https://youtu.be/0u_tKFWB-WU)  
-[**Pachinko** (Paperario \| 2019/01/03)](https://youtu.be/awJcLEhd0Cs)  
+**Topic + Link** | **Video Author** | **Date** 
+[**Sirena Whenever**](https://www.youtube.com/watch?v=ZhoGf9vBPek) | SidedWilliams | 2022/04/04  
+[**Beginner Pianta Early**](https://www.youtube.com/watch?v=wRQSiejKsUQ) | GrandStarYoshi | 2014/09/28  
+[**Fech Pianta Early**](https://www.youtube.com/watch?v=minnHKhgYe8) | plankton | 2021/11/11 *(advanced)*  
+[**Honey Skip Setup**](https://youtu.be/uG9aa9sFWlI) | Zeldocto | 2025/11/22  
+[**In-Depth Honey Skip**](https://www.twitch.tv/videos/588490811) | Weegee | 2020/04/10  
+[**Honey Skip Setup**](https://youtu.be/PC6uz3Mb0v8) | Samura1man | 2019/09/03  
+[**Jelly Skip 1**](https://youtu.be/0u_tKFWB-WU) | Paperario | 2019/03/21  
+[**Pachinko**](https://youtu.be/awJcLEhd0Cs) | Paperario | 2019/01/03  
 
 **Bianco Hills**  
-[**bh2: Entry** (shoutplenty \| 2021/03/09)](https://smscommunity.github.io/sms-guide/shines/b2)  
-[**bh2: Petey** (Dutchj \| 2015/08/11)](https://youtu.be/pQJZd5pIu3g)  
-[**bh5: Petey [120 Shines]** (Paperario \| 2020/08/26)](https://youtu.be/eCZruyLJF9A) *(analysis of blue coin variations)*  
-[**bh5: Petey RNG** (Noki Doki \| 2019/02/04)](https://www.youtube.com/watch?v=Kh_Qhdfy1io)  
-[**bh6s: All** (Metacor \| 2020/05/28)](https://youtu.be/TIHSZkFie9A)  
-[**bh6s: Cube Skip** (Dutchj \| 2017/05/16)](https://youtu.be/1IJjgv9OIMQ)  
-[**bh7: Beginner** (Dutchj \| 2015/07/28)](https://youtu.be/Ew0bTZ6BF9o)  
+**Topic + Link** | **Video Author** | **Date** 
+[**bh2: Petey**](https://youtu.be/pQJZd5pIu3g) | Dutchj | 2015/08/11  
+[**bh5: Petey - 120 Shines**](https://youtu.be/eCZruyLJF9A) | Paperario | 2020/08/26 *(analysis of blue coin variations)*  
+[**bh5: Petey RNG**](https://www.youtube.com/watch?v=Kh_Qhdfy1io) | Noki Doki | 2019/02/04  
+[**bh6s: All**](https://youtu.be/TIHSZkFie9A) | Metacor | 2020/05/28  
+[**bh6s: Cube Skip**](https://youtu.be/1IJjgv9OIMQ) | Dutchj | 2017/05/16  
+[**bh7: Beginner**](https://youtu.be/Ew0bTZ6BF9o) | Dutchj | 2015/07/28  
 
 **Ricco Harbor**  
-[**rh1: Blooper Fight** (EquivocalGenius \| 2021/05/17)](https://smscommunity.github.io/sms-guide/shines/r1)  
-[**rh2: Blooperless** (Dutchj \| 2017/05/16)](https://youtu.be/O1_DaQBh3OU)  
-[**rh4s: Beginner** (shoutplenty \| 2021/06/11)](https://smscommunity.github.io/sms-guide/shines/ricco/episode4#beginner---yellow-cycle)  
-[**rh5: Blooper Fight** (Jpep \| 2021/05/19)](https://smscommunity.github.io/sms-guide/shines/r5)  
-[**rh7: Beginner** (Dutchj \| 2015/07/28)](https://youtu.be/5tIUuA1-Blg)  
+**Topic + Link** | **Video Author** | **Date** 
+[**rh2: Blooperless**](https://youtu.be/O1_DaQBh3OU) | Dutchj | 2017/05/16  
+[**rh7: Beginner**](https://youtu.be/5tIUuA1-Blg) | Dutchj | 2015/07/28  
 
 **Gelato Beach**  
-[**gbs: Basic** (Leannehef \| 2023/08/13)](https://www.youtube.com/watch?v=YzQOVWhXtsM)  
-[**gbs: Yossy Spot** (Jpep \| 2020/12/12)](https://youtu.be/I-P6he1nSQY)  
-[**gbs: Basic** (Samura1man \| 2019/09/08)](https://youtu.be/KDajrXdneXI)  
-[**gbs: Basic Stickless** (Trustfall \| 2017/06/08)](https://youtu.be/DPn6m8YF8hk)  
-[**gbs: Backflip** (Dutchj \| 2017/05/16)](https://youtu.be/SxE0zDYr_fs) *(advanced)*  
-[**gbs: Basic** (Bounceyboy \| 2014/11/25)](https://youtu.be/DovjgxRbEjE)  
-[**gb7: Beginner** (Dutchj \| 2015/11/29)](https://youtu.be/jJSVc_VMEc4)  
-[**gb3: Wiggler** (AverageTrey \| 2021/01/22)](https://www.twitch.tv/videos/883250765)  
-[**gb3: Wiggler 3rd Hit** (Pogonateur \| 2020/11/03)](https://youtu.be/RE-fUCuGjtk)  
-[**gb4: Sandbird (Non-120)** (ModestTomato \| 2021/12/20)](https://youtu.be/LjzM1sLwsqU)  
+**Topic + Link** | **Video Author** | **Date** 
+[**gbs: Basic**](https://www.youtube.com/watch?v=YzQOVWhXtsM) | Leannehef | 2023/08/13  
+[**gbs: Yossy Spot**](https://youtu.be/I-P6he1nSQY) | Jpep | 2020/12/12  
+[**gbs: Basic**](https://youtu.be/KDajrXdneXI) | Samura1man | 2019/09/08  
+[**gbs: Basic Stickless**](https://youtu.be/DPn6m8YF8hk) | Trustfall | 2017/06/08  
+[**gbs: Backflip**](https://youtu.be/SxE0zDYr_fs) | Dutchj | 2017/05/16 *(advanced)*  
+[**gbs: Basic**](https://youtu.be/DovjgxRbEjE) | Bounceyboy | 2014/11/25  
+[**gb7: Beginner**](https://youtu.be/jJSVc_VMEc4) | Dutchj | 2015/11/29  
+[**gb3: Wiggler 3rd Hit**](https://youtu.be/RE-fUCuGjtk) | Pogonateur | 2020/11/03  
+[**gb4: Sandbird - Non-120**](https://youtu.be/LjzM1sLwsqU) | ModestTomato | 2021/12/20  
 
 **Pinna Park**  
-[**pp1: Mecha** (mwolfe11 \| 2020/06/16)](https://youtu.be/hmK0lnVU6kA)  
-[**pp1: Mecha Early 4th Rocket Grab** (Paperario \| 2018/12/15)](https://youtu.be/H1y0Vo9P-3Y)  
-[**pp1: Mecha Advanced** (Dutchj \| 2017/05/17)](https://youtu.be/bK7wq9zyT_Q) *(old 3rd/4th rocket strats)*  
-[**pp1: Mecha Basic + CS Skips** (Dutchj \| 2015/12/07)](https://youtu.be/aTBfcfaXfMw) *(old)*  
-[**pp2: Bullet Bills [120 Shines]** (Pogonateur \| 2019/11/08)](https://youtu.be/09EzJgZ-fzQ)  
-[**pp4: 1-Cycle** (Dutchj \| 2017/05/17)](https://youtu.be/PR2gL6GP9Zs)  
-[**eyg: 1-Stu 1 pound 1 spin** (Lotfy \| 2025/08/10)](https://www.youtube.com/watch?v=quaG4E7SqCM) *(advanced)*  
-[**eyg: 1-Stu 5YG** (shoutplenty \| 2023/01/21)](https://youtu.be/UJ5RNJK6LRM) *(beginner)*  
-[**eyg: 1-Stu** (Noki Doki \| 2020/04/15)](https://youtu.be/0plZQdNSo18)  
-[**eyg: 2-Stu** (Samura1man \| 2019/09/04)](https://youtu.be/GbuZhbl82_U)  
-[**eyg: 2-Stu** (Dutchj \| 2017/05/17)](https://youtu.be/tvq-WY7YFsc)  
-[**eyg: 2-Stu 5YG (in brief)** (Dutchj \| 2016/08/22)](https://youtu.be/PrfQ5FUUhNQ)  
-[**eyg: 2-Stu** (Strongman Lin \| 2016/05/23)](https://www.youtube.com/watch?v=0xm2-QkrL4M)  
-[**pp8** (GravityBeatle \| 2021/02/15)](https://youtu.be/WgudrGUDW9g) *(beginner)*  
+**Topic + Link** | **Video Author** | **Date** 
+[**pp1: Mecha**](https://youtu.be/hmK0lnVU6kA) | mwolfe11 | 2020/06/16  
+[**pp1: Mecha Early 4th Rocket Grab**](https://youtu.be/H1y0Vo9P-3Y) | Paperario | 2018/12/15  
+[**pp1: Mecha Advanced**](https://youtu.be/bK7wq9zyT_Q) | Dutchj | 2017/05/17 *(old 3rd/4th rocket strats)*  
+[**pp1: Mecha Basic + CS Skips**](https://youtu.be/aTBfcfaXfMw) | Dutchj | 2015/12/07 *(old)*  
+[**pp2: Bullet Bills - 120 Shines**](https://youtu.be/09EzJgZ-fzQ) | Pogonateur | 2019/11/08  
+[**pp4: 1-Cycle**](https://youtu.be/PR2gL6GP9Zs) | Dutchj | 2017/05/17  
+[**eyg: 1-Stu 5YG**](https://youtu.be/UJ5RNJK6LRM) | shoutplenty | 2023/01/21 *(beginner)*  
+[**eyg: 1-Stu 1 pound 1 spin**](https://www.youtube.com/watch?v=quaG4E7SqCM) | Lotfy | 2025/08/10 *(advanced)*  
+[**eyg: 1-Stu**](https://youtu.be/0plZQdNSo18) | Noki Doki | 2020/04/15  
+[**eyg: 2-Stu**](https://youtu.be/GbuZhbl82_U) | Samura1man | 2019/09/04  
+[**eyg: 2-Stu**](https://youtu.be/tvq-WY7YFsc) | Dutchj | 2017/05/17  
+[**eyg: 2-Stu 5YG (in brief)**](https://youtu.be/PrfQ5FUUhNQ) | Dutchj | 2016/08/22  
+[**eyg: 2-Stu**](https://www.youtube.com/watch?v=0xm2-QkrL4M) | Strongman Lin | 2016/05/23  
+[**pp8: Beginner**](https://youtu.be/WgudrGUDW9g) | GravityBeatle | 2021/02/15 
 
 **Sirena Beach**  
-[**sb1: Manta 2nd Phase** (Dutchj \| 2017/05/17)](https://youtu.be/LbS5JZQ3oRM)  
-[**sb1: Manta** (Dutchj \| 2015/04/08)](https://youtu.be/ADoBd7fwkTw)  
-[**sb3: Banana Clip** (Dutchj \| 2017/05/18)](https://youtu.be/x6_thCTSVDg)  
-[**sb4s** (Bloodwhale \| 2017/02/03)](https://youtu.be/EqrCqiDM8uM) *(1st + 2nd momentum spin)*  
-[**sb7** (Metacor \| 2019/01/23)](https://youtu.be/eOOY-f3oVxA)  
+**Topic + Link** | **Video Author** | **Date** 
+[**sb1: Manta 2nd Phase**](https://youtu.be/LbS5JZQ3oRM) | Dutchj | 2017/05/17  
+[**sb1: Manta**](https://youtu.be/ADoBd7fwkTw) | Dutchj | 2015/04/08  
+[**sb3: Banana Clip**](https://youtu.be/x6_thCTSVDg) | Dutchj | 2017/05/18  
+[**sb4s: 1st + 2nd momentum spin**](https://youtu.be/EqrCqiDM8uM) (Bloodwhale | 2017/02/03  
+[**sb7**](https://youtu.be/eOOY-f3oVxA) | Metacor | 2019/01/23  
 
 **Noki Bay**  
-[**nb4: Eel** (Samura1man \| 2019/09/05)](https://youtu.be/3u8lY285CWM)  
-[**nb4: Eel** (Metacor \| 2019/07/07)](https://gist.github.com/Metacor/48d83d1765083cc45c71b1545f3ca292)  
-[**nb4: Eel** (Dutchj \| 2017/05/18)](https://youtu.be/xwcDh99nKyA)  
-[**nb4: Eel 6-Tooth** (Stelzig \| 2016/09/10)](https://youtu.be/tdz2Deg92-M)  
-[**nb6s: Galapagos Cycle** (Jpep \| 2020/12/07)](https://youtu.be/FYjgyYxh_y8)  
-[**nb6s: Green Cycle** (Metacor \| 2020/04/02)](https://youtu.be/n4EsVB13wuE)  
-[**nb6s: Blue Cycle** (Dutchj \| 2017/05/18)](https://youtu.be/OI-8ONnKMyU)  
-[**nb7** (Metacor \| 2019/01/24)](https://youtu.be/4EDWHLlORi0)  
-[**nb8** (Paperario \| 2020/05/14)](https://youtu.be/bVsKcrenRYw)  
+**Topic + Link** | **Video Author** | **Date** 
+[**nb4: Eel**](https://youtu.be/3u8lY285CWM) | Samura1man | 2019/09/05  
+[**nb4: Eel**](https://youtu.be/xwcDh99nKyA) | Dutchj | 2017/05/18  
+[**nb4: Eel 6-Tooth**](https://youtu.be/tdz2Deg92-M) | Stelzig | 2016/09/10  
+[**nb6s: Galapagos Cycle**](https://youtu.be/FYjgyYxh_y8) | Jpep | 2020/12/07  
+[**nb6s: Green Cycle**](https://youtu.be/n4EsVB13wuE) | Metacor | 2020/04/02  
+[**nb6s: Blue Cycle**](https://youtu.be/OI-8ONnKMyU) | Dutchj | 2017/05/18  
+[**nb7**](https://youtu.be/4EDWHLlORi0) | Metacor | 2019/01/24  
+[**nb8**](https://youtu.be/bVsKcrenRYw) | Paperario | 2020/05/14  
 
 **Pianta Village**  
-[**pv\*: Bridge Waterslide** (Dutchj \| 2017/05/18)](https://youtu.be/piznwtr3kCA)  
-[**pv\*: Bridge Waterslide (in brief)** (Dutchj \| 2016/12/31)](https://youtu.be/kDsQv5NCkaw)  
-[**pv3: Damage Boost** (Dutchj \| 2017/05/19)](https://youtu.be/pOGWg0XBw3o)  
-[**pv4: All Chomp Patterns** (Dutchj \| 2017/05/19)](https://youtu.be/b7aunLqaQp0)  
-[**pv5: Yoshi Skip** (Dutchj \| 2017/05/19)](https://youtu.be/LcJ2bKN-Hr0)  
-[**pv5: Yoshi Skip (in brief)** (Dutchj \| 2016/12/04)](https://youtu.be/-NMqyxOMC9o)  
-[**pv5s: Chuckster Manip** (Noki Doki \| 2018/06/08)](https://www.youtube.com/watch?v=IZTcoSITMis)  
-[**pv7** (Kaffelon \| 2014/11/19)](https://youtu.be/YuBm32Jcv3c)  
+**Topic + Link** | **Video Author** | **Date** 
+[**pv\*: Bridge Waterslide**](https://youtu.be/piznwtr3kCA) | Dutchj | 2017/05/18  
+[**pv\*: Bridge Waterslide (in brief)**](https://youtu.be/kDsQv5NCkaw) | Dutchj | 2016/12/31  
+[**pv3: Damage Boost**](https://youtu.be/pOGWg0XBw3o) | Dutchj | 2017/05/19  
+[**pv4: All Chomp Patterns**](https://youtu.be/b7aunLqaQp0) | Dutchj | 2017/05/19  
+[**pv5: Yoshi Skip**](https://youtu.be/LcJ2bKN-Hr0) | Dutchj | 2017/05/19  
+[**pv5: Yoshi Skip (in brief)**](https://youtu.be/-NMqyxOMC9o) | Dutchj | 2016/12/04  
+[**pv5s: Chuckster Manip**](https://www.youtube.com/watch?v=IZTcoSITMis) | Noki Doki | 2018/06/08  
+[**pv7**](https://youtu.be/YuBm32Jcv3c) | Kaffelon | 2014/11/19  
 
 **Corona**  
-[**Speedboat + Backup** (Dutchj \| 2017/05/19)](https://youtu.be/Y1xIRJRvvI4)  
-[**Rocket Storage** (Dutchj \| 2017/05/15)](https://youtu.be/4KMRX68iTSI)  
-[**Rocket Storage (in brief)** (Dutchj \| 2016/12/28)](https://youtu.be/g3U1UB9lSCM)  
-[**Bowser** (Kwaniza \| 2014/12/26)](https://youtu.be/oQXx6-DbYxQ)  
+**Topic + Link** | **Video Author** | **Date** 
+[**Speedboat + Backup**](https://youtu.be/Y1xIRJRvvI4) | Dutchj | 2017/05/19  
+[**Rocket Storage**](https://youtu.be/4KMRX68iTSI) | Dutchj | 2017/05/15  
+[**Rocket Storage (in brief)**](https://youtu.be/g3U1UB9lSCM) | Dutchj | 2016/12/28  
+[**Bowser**](https://youtu.be/oQXx6-DbYxQ) | Kwaniza | 2014/12/26  
