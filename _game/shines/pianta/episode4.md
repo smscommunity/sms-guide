@@ -20,8 +20,9 @@ Pianta 4 entails getting the Chomp to the bath on the other side of the map.
 An important tip to keep in mind is the hitbox for the screw you grab at the end of the chomp's chain is slightly behind the screw itself.  
 While holding the chain, press L to center your camera and hold forward while the Chomp is going down the path. When there is a fork in the road, the Chomp will always go down the path going away from Mario's current location.  
 
+*Advanced*  
 The inputs to let go of the Chomp's chain quickly is:  
-`Holding B -> Start holding A+B together -> Let go of both A+B -> Tap B`  
+`Hold B to hold the chain -> Without letting go of B, press A to make Mario jump -> While Mario is still in mid air after pressing A, release both A and B -> Tap B again to make Mario throw the chain`
 
 #### Left Path  
 *Beginner*  
