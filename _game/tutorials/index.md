@@ -100,6 +100,7 @@ Miscellaneous tutorials for individual shines or general things like movement. C
 | Topic + Link | Video Author   | Date       |
 |--------------|---------------|------------|
 | [**rh2: Blooperless**](https://youtu.be/O1_DaQBh3OU) | Dutchj | 2017/05/16  |
+| [**rh5: Sumi Skip**](https://www.youtube.com/watch?v=uZVeO0zhCX4) | Lotfy | 2025/11/25  |
 | [**rh7: Beginner**](https://youtu.be/5tIUuA1-Blg) | Dutchj | 2015/07/28  |
 
 **Gelato Beach**  
