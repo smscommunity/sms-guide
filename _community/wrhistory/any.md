@@ -108,9 +108,6 @@ Times above on Reset Timing, Times below on File Select timing
 1:14:55 by Levaten on May 9, 2017 (unverified)  
 **[1:14:40](https://www.youtube.com/watch?v=QwWSVON2gF4)** by nindiddeh on May 20, 2017  
   
-### 2018  
-**No Improvements**  
-  
 ### 2019  
 **[1:14:37](https://www.youtube.com/watch?v=hUMnX3s7DIw)** by Weegee on June 21, 2019  
 **[1:14:22](https://www.youtube.com/watch?v=nM9CioG6ntM)** by JJsrl on September 15, 2019  
@@ -129,9 +126,6 @@ Times above on Reset Timing, Times below on File Select timing
 **[1:13:25](https://www.youtube.com/watch?v=g5pCaI8BTMU)** by *Anonymous* on July 3, 2021  
 **[1:13:23](https://www.youtube.com/watch?v=ZMvxynHGdb8)** by *Anonymous* on July 10, 2021  
 **[1:13:17](https://www.youtube.com/watch?v=1coJWwnKEgs)** by *Anonymous* on August 1, 2021  
-
-### 2022  
-**No Improvements**  
 
 ### 2023  
 **[1:13:08](https://www.youtube.com/watch?v=U7o5L7720_0)** by JJsrl on September 10, 2023
