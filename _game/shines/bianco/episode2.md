@@ -217,11 +217,13 @@ There are two different methods for quickly filling Petey with water.
 
 #### Y-Cam Method
 
-Simply Y-Cam, then spray, then spam spray after to finish filling. This is slower, but can be more consistent for some players.
+Simply Y-Cam, aim at Petey's mouth, spray, then continuously spam spray to exit Y cam and finish filling. This is a few frames slower, but can be more consistent for beginners.
+
+{% include yt.html id="9eAMTFIRCHk" %}
 
 #### Backflip Method
 
-It takes 2 full spam sprays to fill Petey's mouth (go for 3 to be safe in case you partially miss). If you're having trouble, focusing on having two properly timed spam sprays can help you become more consistent with the timing.
+It takes 2 full spam sprays to fill Petey's mouth (go for 3 to be safe in case you partially miss). If you're having trouble, focusing on having three properly timed spam sprays can help you become more consistent with the timing, as well as making sure to focus on hitting R slightly before A.
 
 Start your backflip when Petey is almost finished turning, so that you are near the top of his head as he opens it to maximize your window for spam sprays.
 
