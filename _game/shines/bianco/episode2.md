@@ -10,9 +10,6 @@ grand_parent: Shines
 
 Bianco 2 demands special attention when learning because it has the most complex decision-making of any level in the game. The basic idea is to **approach** the lake as fast as possible, to be able to handle any pattern the **spider** (pondskater) throws at you and bounce off it, and to then know which cycle to go for for **windmill** wall-kicks (or riding the platform). Each of these sections is covered on a separate page. The **Petey** fight will be handled in a separate future section.
 
-1. TOC
-{:toc}
-
 ## Beginner Strategy
 Though it's tempting to crack this level on first visit since it's the 2nd shine in most full-game categories like Any% and 120 Shines, it's one of the most atypical and experience-heavy shines, so the biggest gains for a beginner are made by going for simplified strats and focusing on developing simple movement-oriented levels like Bianco 3 instead. As a beginner, go for the following (seen in the example video below):
 * any **approach** to the pond;
