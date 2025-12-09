@@ -242,4 +242,4 @@ If you have perfect spam sprays, Petey will always disintegrate in the same spot
 
 #### 120 Shines
 
-For 120 Shines, all you need to do is grab the windmill <img src="/sms-guide/assets/shines/pianta/episode1/chomplettemap.png" width="20"> before you either ride it up or wallkick up. 
+For 120 Shines, all you need to do is grab the windmill <img src="/sms-guide/assets/generaluse/M_Graffiti.png" width="20"> before you either ride it up or wallkick up. 
