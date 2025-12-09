@@ -239,3 +239,7 @@ After the third ground pound, you will want to orient yourself so you're facing 
 If you have perfect spam sprays, Petey will always disintegrate in the same spot. Look for this goop particle to vanish before you double jump hover to touch the lowest possible spot. See this image for proper positioning.
 
 ![](https://i.imgur.com/yrk0pfP.png)
+
+#### 120 Shines
+
+For 120 Shines, all you need to do is grab the windmill <img src="/sms-guide/assets/shines/pianta/episode1/chomplettemap.png" width="20"> before you either ride it up or wallkick up. 
