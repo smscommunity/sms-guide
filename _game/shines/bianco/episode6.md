@@ -86,3 +86,17 @@ The strats that will be available to you at the upper portion of the secret will
 - Jump dive to the green platform, rollout, and jump dive into the shine
 
 {% include yt.html id="AiU3yivYBNA" %}
+
+## 79/96 Shines
+
+If you do Bianco 6R with rocket, its estimated to save around 3-6 seconds including the slower entry. Refer to the 120 Shines section to see the secret movement.
+
+## 120 Shines
+
+### Entry
+
+{% include yt.html id="KBVG67mmPtA" %}
+
+### Secret 
+
+{% include yt.html id="m0whgLJ2zkU" %}
