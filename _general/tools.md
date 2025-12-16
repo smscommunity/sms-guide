@@ -114,7 +114,7 @@ Allows cropping before downloading; a bit buggy so recommend including an extra 
 Remote-desktop tools to stream OBS/LiveSplit/etc. to another computer, useful for e.g. single-monitor setups where you have an additional laptop. Chrome Remote Desktop will stream the whole desktop over the internet, while jsmpeg-vnc streams a single window over LAN.
 
 ### Analysis Tools
-Tools for analysing speedruns.
+Tools for analyzing speedruns.
 
 [therun.gg](https://therun.gg/){: .btn }  
 Split hosting website that lets you compare segments, combine splits to see best world segments, see extra details, and host races.  
