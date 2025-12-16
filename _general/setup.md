@@ -52,5 +52,7 @@ Setting up the file used for speedrunning without the introductory cutscenes.
 [Homebrew](https://wii.hacks.guide/) your wii and install [Nintendont](https://zint.ch/NintendontPackager/).  
 Check out our [in-depth guide](https://gct.zint.ch/guide.html) on installing practice codes.  
 
+:bangbang: MAKE SURE NATIVE CONTROLS ARE ON IN NINTENDONT SETTINGS :bangbang:
+
 **Save Files, Blank Splits, and Important Links**  
 Found on the speedrun.com [resources page](https://www.speedrun.com/sms/resources).  
