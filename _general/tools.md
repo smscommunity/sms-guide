@@ -92,7 +92,7 @@ A guide on soldering your own input display with an arduino.
 Tool to instantly and lossless trim, crop, and convert videos, and edit audio tracks.  
 
 [Avidemux](https://avidemux.sourceforge.net/download.html){: .btn }  
-Tool to retime and frame-analyse ILs and full runs.  
+Tool to retime and frame-analyze ILs and full runs.  
 
 *Find more of our video tools and in-depth explanations [here](https://smscommunity.github.io/sms-guide/info/video-tools/).*
 
@@ -123,4 +123,4 @@ Split hosting website that lets you compare segments, combine splits to see best
 A tool by Zeldocto to convert your best world segments ([obtained from therun.gg](https://smscommunity.github.io/sms-guide/setup/bestworlds/)) into a total time.
 
 [Petey Pattern Tool](https://naosanpoyo.github.io/PeteyPattern/){: .btn }  
-A tool by naosan to analyse the probability of a Bianco 5 Petey pattern.
+A tool by naosan to analyze the probability of a Bianco 5 Petey pattern.
