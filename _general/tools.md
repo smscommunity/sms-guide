@@ -116,14 +116,14 @@ Allows cropping before downloading; a bit buggy so recommend including an extra 
 [Chrome Remote Desktop](https://remotedesktop.google.com/){: .btn } [jsmpeg-vnc](https://github.com/phoboslab/jsmpeg-vnc){: .btn }  
 Remote-desktop tools to stream OBS/LiveSplit/etc. to another computer, useful for e.g. single-monitor setups where you have an additional laptop. Chrome Remote Desktop will stream the whole desktop over the internet, while jsmpeg-vnc streams a single window over LAN.
 
-## Analysis Tools
+### Analysis Tools
 Tools for analysing speedruns.
 
 [therun.gg](https://therun.gg/){: .btn }  
 Split hosting website that lets you compare segments, combine splits to see best world segments, see extra details, and host races.  
 
 [Any% Best World Total Calculator](https://zeldocto.github.io/worldcalc/){: .btn }  
-A tool by Zeldocto to convert your best world segments (obtained from therun.gg) into a total time.
+A tool by Zeldocto to convert your best world segments ([obtained from therun.gg](https://smscommunity.github.io/sms-guide/setup/bestworlds/)) into a total time.
 
 [Petey Pattern Tool](https://naosanpoyo.github.io/PeteyPattern/){: .btn }  
 An app tool to analyse the probability of a Bianco 5 Petey pattern.
