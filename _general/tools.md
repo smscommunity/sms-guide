@@ -100,9 +100,6 @@ Tool to retime and frame-analyse ILs and full runs.
 [yt-dlp](https://github.com/yt-dlp/yt-dlp){: .btn }  
 Local command-based downloader, can be used with GUIs to make it more user friendly.  
 
-[cobalt tools](https://cobalt.tools/){: .btn }  
-Online downloader for youtube, bluesky, twitter, twitch, and more.  
-
 [yt5s](https://yt5s.best/enlv101/){: .btn }  
 Alternative online downloader for YouTube.  
 
@@ -126,4 +123,4 @@ Split hosting website that lets you compare segments, combine splits to see best
 A tool by Zeldocto to convert your best world segments ([obtained from therun.gg](https://smscommunity.github.io/sms-guide/setup/bestworlds/)) into a total time.
 
 [Petey Pattern Tool](https://naosanpoyo.github.io/PeteyPattern/){: .btn }  
-An app tool to analyse the probability of a Bianco 5 Petey pattern.
+A tool by naosan to analyse the probability of a Bianco 5 Petey pattern.
