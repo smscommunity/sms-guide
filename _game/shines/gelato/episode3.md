@@ -14,7 +14,8 @@ Wiggler Ahoy! Full Steam Ahead!
 - Spray the first dunebud right away, activating it before Wiggler runs into it.
 - Wait until he **stops completely** before groundpounding him for the first hit (Earliest known acceptable frame is 16.28 SGT).
 - Make sure to spray the second dunebud and activate it before Wiggler runs into it.
-- There is an [audio cue](https://www.youtube.com/watch?v=RE-fUCuGjtk) for when to spray the third dunebud.  
+- There is an audio cue for when to spray the third dunebud.  
+[Tutorial](https://youtu.be/DlBOC5jC1WA) *by AverageTrey* - [Tutorial](https://www.youtube.com/watch?v=RE-fUCuGjtk) *by Pogonateur*
 
 [Wiggler Frame Testing](https://docs.google.com/spreadsheets/d/1dQDnL2mDIVbrdzOoQqqS3jzrm_9UBNnaRDhFAxmnoE0/edit?gid=0#gid=0)  
 *by Oatflaker*  
