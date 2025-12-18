@@ -25,6 +25,7 @@ nav_order: 1
 | Walking  | Up to 32 |
 | Hovering  | Down to 24  |
 | Buttslide  | 80+ |
+| Beyblade  | 80 |
 | Turbo (on land)  | 80.13 |
 | Turbo (on water)  | 78.02 |
 
