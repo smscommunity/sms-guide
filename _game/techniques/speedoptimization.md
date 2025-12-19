@@ -23,8 +23,8 @@ nav_order: 1
 | Rollout  | 55 |
 | Dive (in the air)  | 48 |
 | Dive (on the ground)  | Mario's speed + 15  |
-| Ground Pound  | 80 (Shows 75) [v speed] |
-| Terminal Velocity  | 75 |
+| Ground Pound  | 80 (Shows 75) [vertical speed] |
+| Terminal Velocity  | 75 [vertical speed] |
 | Hovering  | Down to 24  |
 | Buttslide  | 102.66+, dependent on slope angle |
 | Beyblade  | 80 |
