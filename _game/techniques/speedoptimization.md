@@ -19,10 +19,12 @@ nav_order: 1
 |---|---|
 | Hoverslide  | Up to 100.5  |
 | Any Jump  | Up to 80% of Mario's speed  |
+| Walking  | Up to 32 |
 | Rollout  | 55 |
 | Dive (in the air)  | 48 |
 | Dive (on the ground)  | Mario's speed + 15  |
-| Walking  | Up to 32 |
+| Ground Pound  | 80 (Shows 75) |
+| Terminal Velocity  | Down to 75 |
 | Hovering  | Down to 24  |
 | Buttslide  | 102.66+, dependent on slope angle |
 | Beyblade  | 80 |
