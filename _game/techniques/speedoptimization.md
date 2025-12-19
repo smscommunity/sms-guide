@@ -24,7 +24,7 @@ nav_order: 1
 | Dive (on the ground)  | Mario's speed + 15  |
 | Walking  | Up to 32 |
 | Hovering  | Down to 24  |
-| Buttslide  | 78 |
+| Buttslide  | 102.66+, dependent on slope angle |
 | Beyblade  | 80 |
 | Turbo (on land)  | 80.13 |
 | Turbo (on water)  | 78.02 |
