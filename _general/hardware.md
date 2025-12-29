@@ -20,6 +20,7 @@ There are **four** options you have to capture your game when playing on console
 ### Wii2HDMI
 [Offbrand "BD&M"](https://www.amazon.com/dp/B0CZ716J42){: .btn }  
 <i> **$5** Cheap, lower quality assurance, diagonal scanlines in dark areas </i>    
+<i> Potential issues: input delay, audio crackling, diagonal scan lines </i> 
 
 [Mayflash](https://www.amazon.com/dp/B07XG6X4TC){: .btn }  
 <i> **$15** Recommended, high quality </i>    
