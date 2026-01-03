@@ -72,10 +72,10 @@ To get through the entrance with a single slide requires some maneuvering betwee
 
 #### TAS Strat    
 *Advanced*  
-- **JP**  
+### **JP**  
 {% include yt.html id="ih72PfgTrlQ" %}  
 
-- **NTSC-U/PAL**  
+### **NTSC-U/PAL**  
 *You can run straight up the ramp past the electrokoopas, compared to having to zigzag on JP*  
 {% include yt.html id="SXlX0maWY6M" %}
 
