@@ -10,9 +10,11 @@ grand_parent: Shines
 
 Tips:
 <i>
+
 - Try your best to preserve forward momentum
 - Go neutral as you land for coin 7 to insantly be able to go backwards
 - Hover as little as possible, but if you need to, try to do it in a way that preserves your momentum
+
 </i>
 
 #### Right Side  
