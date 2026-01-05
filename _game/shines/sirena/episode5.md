@@ -49,6 +49,8 @@ Chance of getting a fruit cycle is 70% until going down to 3 health or below.
 - Row = *What was last spawned*  
 - Column = *What will be spawned next*
 
+Key takeaway is fruit cycle is 70% until going to 3 health or below.
+
 <img src="/sms-guide/assets/shines/sirena/episode5/slothealthstats.png">  
 </details>  
 
