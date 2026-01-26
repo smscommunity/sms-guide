@@ -31,15 +31,15 @@ nav_order: 2
 **Late/Safe Tree Throw**
 * A slightly harder strat then tree spray, but easier than normal tree throw.
 * Optimal movement from spawn is jumpdive, small rollout, spinjump dive into waterslide. Rollout as you approach the tree (small rollout to maximize waterslide distance) and spinjump dive onto the tree.
-* Line up your camera as you climb the tree [like this](https://imgur.com/DrBQTet).
+* Line up your camera as you climb the tree [like this](https://smscommunity.github.io/sms-guide/assets/techniques/maneuvers/gbs/gbs1.png).
 * You can also hold B as you climb the tree to buffer a grab and immediately grab the coconut. You can also time a ground pound to grab the coconut faster, but it is harder.
-* [You can also line your camera up](https://imgur.com/YoV7DLF) as you run off the tree and throw the coconut very late in your descent, close to the ground. When you throw the coconut in your jump animation will affect how much momentum the throw has. This has a low chance of going into the water unless your angle is far off.
+* [You can also line your camera up](https://smscommunity.github.io/sms-guide/assets/techniques/maneuvers/gbs/gbs2.png) as you run off the tree and throw the coconut very late in your descent, close to the ground. When you throw the coconut in your jump animation will affect how much momentum the throw has. This has a low chance of going into the water unless your angle is far off.
 
 ### Advanced
 
 **Optimal Tree Throw**
 * Same approach as Late/Safe Tree Throw Tutorial
-* [Line your camera up with the boardwalk](https://imgur.com/YoV7DLF), run off the tree leaves and throw the coconut as you become airborne. The earlier you throw the coconut as you are airborne, the farther it will go.
+* [Line your camera up with the boardwalk](https://smscommunity.github.io/sms-guide/assets/techniques/maneuvers/gbs/gbs2.png), run off the tree leaves and throw the coconut as you become airborne. The earlier you throw the coconut as you are airborne, the farther it will go.
 
 [Video Example](https://www.youtube.com/watch?v=Ek3-OIBbd_s) of a near perfect tree throw  
 -*FoundYourGun*, 2023
@@ -78,7 +78,7 @@ This is the original setup for the skip, and still used by many today.
 [Video Tutorial](https://www.youtube.com/watch?v=JPpC6Oh-h6s) *by shoutplenty*, 2023
 
 * As you approach the hut, do a small hop and throw the coconut at the peak of your jump. You want to jump when Mario reaches this point in the boardwalk.
-* Do a spin jump, and cancel it with a hover once you are at the same height as [this edge of the roof](https://imgur.com/KjP3fGY).
+* Do a spin jump, and cancel it with a hover once you are at the same height as [this edge of the roof](https://smscommunity.github.io/sms-guide/assets/techniques/maneuvers/gbs/gbs3.png).
 * You will do an instant ledgegrab on this ledge of the roof. Do a short hop out of this, and dive and keep holding B to dive into and grab the coconut.
 * You can snap your camera with L either as you grab the coconut, or as you grab the ledge of the roof.  
 [Video Example](https://www.youtube.com/watch?v=zcG6KElMBT4) of an optimal roof throw
@@ -91,7 +91,7 @@ This is the original setup for the skip, and still used by many today.
 [Video Tutorial](https://www.youtube.com/watch?v=KDajrXdneXI) *by Samura1Man* (2019)  
 [Video Tutorial](https://www.youtube.com/watch?v=DovjgxRbEjE) *by Bounceyboy* (2014)
 
-* Now on the roof, you want to align Mario’s feet with [this position on the roof](https://imgur.com/JFL5oY3). It stands out via the dark horizontal roof texture.
+* Now on the roof, you want to align Mario’s feet with [this position on the roof](https://smscommunity.github.io/sms-guide/assets/techniques/maneuvers/gbs/gbs4.png). It stands out via the dark horizontal roof texture.
 * Drop the coconut while the stick is neutral, then start holding forward to run into the coconut.
 * You will clip at the corner of the hut. Time a hover to hover up into the roof with Mario’s hat barely being visible.
 * The roof has a curve to it, needing you to reduce your speed to stay in line and not clip out of the bottom of the roof.
