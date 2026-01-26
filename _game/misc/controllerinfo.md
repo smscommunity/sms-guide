@@ -22,7 +22,7 @@ This guide contains 3 sections: a cleaning guide, a guide to decrease resistance
 **Cleaning**
 
 <p align="center">
-  <img src="https://i.imgur.com/QPGpZuz.jpg">
+  <img src="https://smscommunity.github.io/sms-guide/assets/misc/controllerinfo/gcc1.jpg">
 </p>
 
 - Locate and remove the 6 tri-point screws on the back of the controller.
@@ -31,14 +31,14 @@ This guide contains 3 sections: a cleaning guide, a guide to decrease resistance
 - Grab the corners of the motherboard inside the front shell and gently pull away to free it. Avoid grabbing and pulling on the rumble motor, it comes apart easily.
 
 <p align="center">
-  <img src="https://i.imgur.com/pudFu9v.jpg">
+  <img src="https://smscommunity.github.io/sms-guide/assets/misc/controllerinfo/gcc2.jpg">
 </p>
 
 - Pull on the grey contact pads gently and remove them.
 - Pull on the Control Stick and the C-Stick away from the motherboard until they come off. They are stuck in place quite tightly so don't be afraid to pull hard.
 
 <p align="center">
-  <img src="https://i.imgur.com/53NwgLI.jpg">
+  <img src="https://smscommunity.github.io/sms-guide/assets/misc/controllerinfo/gcc3.jpg">
 </p>
 
 - On the back shell, locate and remove the 4 Phillips screws.
@@ -48,7 +48,7 @@ This guide contains 3 sections: a cleaning guide, a guide to decrease resistance
 - It is usually recommended to remove this metal bracket piece entirely as it creates a lot of friction when pressing down on the trigger.
 
 <p align="center">
-  <img src="https://i.imgur.com/UDTTI0s.jpg">
+  <img src="https://smscommunity.github.io/sms-guide/assets/misc/controllerinfo/gcc4.jpg">
 </p>
 
 - Take the shells, the buttons and the triggers and let them stew in warm soapy water for 15-20 minutes.
@@ -56,7 +56,7 @@ This guide contains 3 sections: a cleaning guide, a guide to decrease resistance
 - Gently wash the contact pads in warm soapy water, again with the toothbrush. They are somewhat delicate so don't put too much force into it.
 
 <p align="center">
-  <img src="https://i.imgur.com/kKHO9MY.jpg">
+  <img src="https://smscommunity.github.io/sms-guide/assets/misc/controllerinfo/gcc5.jpg">
 </p>
 
 - To wash the motherboard, dip a Q-tip in rubbing alcohol (a toothbrush also works, though be careful that it is completely dry) and rub the board. 
@@ -65,25 +65,25 @@ This guide contains 3 sections: a cleaning guide, a guide to decrease resistance
 - You can also quickly scrub the metal pieces with a toothbrush and some alcohol if you wish to, but it's usually not necessary.
 
 <p align="center">
-  <img src="https://i.imgur.com/vszXQrC.jpg">
+  <img src="https://smscommunity.github.io/sms-guide/assets/misc/controllerinfo/gcc6.jpg">
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/sIVIIIH.jpg">
+  <img src="https://smscommunity.github.io/sms-guide/assets/misc/controllerinfo/gcc7.jpg">
 </p>
 
 - Once you're done, follow the steps back up to reassemble the controller. 
 - The sticks have a small notch on their underside which indicates which way is up.
 
 <p align="center">
-  <img src="https://i.imgur.com/t6SSDDx.jpg">
+  <img src="https://smscommunity.github.io/sms-guide/assets/misc/controllerinfo/gcc8.jpg">
 </p>
 
 - The controller cord won't fit if it doesn't encircle this small peg above the rumble motor. Push down on it hard so it stays put as you manipulate the shells.
 - Make sure the sliders for the triggers are pushed all the way up before putting the shells back together.
 
 <p align="center">
-  <img src="https://i.imgur.com/JMxmCRm.jpg">
+  <img src="https://smscommunity.github.io/sms-guide/assets/misc/controllerinfo/gcc9.jpg">
 </p>
 
 
