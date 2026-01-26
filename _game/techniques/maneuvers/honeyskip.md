@@ -21,14 +21,14 @@ Generally:
 * The more forward you are, the lower you want to hover
 
 **Bounding Boxes**  
-<img src="https://i.imgur.com/ELw9vzF.png" width="600">
+<img src="https://smscommunity.github.io/sms-guide/assets/techniques/maneuvers/honeyskip/hs1.png" width="600">
 
 **Visual Cues**  
-<img src="https://i.imgur.com/PuAXaH4.png" width="600">  
+<img src="https://smscommunity.github.io/sms-guide/assets/techniques/maneuvers/honeyskip/hs2.png" width="600">  
 * **Down Arrow**: The Brick next to the dark wall decoration should be atleast ~half way in view  
     *[Weegee's Visual Cue Video](https://youtu.be/toVzSQ1fLbg?t=184)*
 * **Side Arrows**: Pointing to 2 dark spots on the wall used as visual cues for when to stop hover  
-    *These might be very hard (or impossible) to see on some CRT setups ([example](https://i.imgur.com/RlWu1BA.png))*  
+    *These might be very hard (or impossible) to see on some CRT setups ([example](https://smscommunity.github.io/sms-guide/assets/techniques/maneuvers/honeyskip/hs3.png))*  
 * **Small Red Lines**: Showing ~equal distance between the white line on the left, and the wall on the right
 * **Large Red Line**: Showing a potential alternative visual cue for some setups
 
@@ -36,11 +36,11 @@ If we use the bottom of the lower dark spot as 0%, and the top of the higher dar
 then using different positions - we can get a range of %'s where Honey Skip will work
 
 **Setups**: Try to be as close to the wall as possible, while still having Mario's shadow showing *(click for pictures)*
-* [Left Most](https://i.imgur.com/mUdkDWo.jpg): This is nearly pixel perfect, you need to hover until the top of the lower dark spot   
+* [Left Most](https://smscommunity.github.io/sms-guide/assets/techniques/maneuvers/honeyskip/hsb1.jpeg): This is nearly pixel perfect, you need to hover until the top of the lower dark spot   
     *if you're too far forward, this spot may be impossible*
-* [Half Brick](https://i.imgur.com/SSe508R.jpg): works from -10% *(below the lower dark spot)* to 50% *(half way between the two)*
-* [3/4th Brick](https://i.imgur.com/hfjpznb.jpg): works from 0% *(bottom of lower dark spot)* to 90% *(bottom of the top dark spot)*
-* [Right Most](https://i.imgur.com/2RQMMWD.jpg): works from 10% *(top of the lower dark spot)* to 80% *(slightly below the top dark spot)*
+* [Half Brick](https://smscommunity.github.io/sms-guide/assets/techniques/maneuvers/honeyskip/hsb2.jpeg): works from -10% *(below the lower dark spot)* to 50% *(half way between the two)*
+* [3/4th Brick](https://smscommunity.github.io/sms-guide/assets/techniques/maneuvers/honeyskip/hsb3.jpeg): works from 0% *(bottom of lower dark spot)* to 90% *(bottom of the top dark spot)*
+* [Right Most](https://smscommunity.github.io/sms-guide/assets/techniques/maneuvers/honeyskip/hsb4.jpeg): works from 10% *(top of the lower dark spot)* to 80% *(slightly below the top dark spot)*
 
 **If you're too far forward *(tested ~1 pixel away from death plane)*;**  
 hover ~5% lower than you normally would for that spot, BUT not below the lower dark spot  
