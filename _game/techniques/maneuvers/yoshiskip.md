@@ -25,7 +25,7 @@ Yoshi Skip is an optional trick that many beginners go for along with [Gelato Be
 *Huff Setup*  
 - Walk into the tree at the spot shown in the picture below to clip into the tree:
 
-<img src="https://i.imgur.com/275bMMX.gif" width="500">
+<img src="https://smscommunity.github.io/sms-guide/assets/techniques/maneuvers/yoshiskip/ys.gif" width="500">
 
 - Briefly fall, then hover backwards to ledgegrab the mushroom in the red square.
 - Press B to wallslide, then shortly after Mario releases from the wall and starts falling, begin hovering.
