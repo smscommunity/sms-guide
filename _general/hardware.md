@@ -46,12 +46,15 @@ There are **four** options you have to capture your game when playing on console
 [Mclassic](https://marseilleinc.com/products/buy-mclassic){: .btn }  
 <i> **$99** </i>  
 
+[OSSC](https://www.aliexpress.us/item/3256807958615552.html?spm=a2g0n.productlist.0.0.66e71f36Fwdnv4&aff_platform=msite&m_page_id=ewciorbgcauahgni19c0a686a8719c3bbdde215b34&pdp_ext_f=%7B%22order%22%3A%221230%22%2C%22eval%22%3A%221%22%2C%22orig_sl_item_id%22%3A%221005008144930304%22%2C%22orig_item_id%22%3A%221005007956454163%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis!USD!252.00!118.44!!!1740.30!817.94!%402103122117697011411113573ec840!12000043981497097!sea!US!0!ABX!1!0!n_tag%3A-29910%3Bd%3A3681ca95%3Bm03_new_user%3A-29895&algo_pvid=a6fc0125-5d14-4fa3-8733-1cfb9aeda42c&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008144930304%7C_p_origin_prod%3A1005007956454163){: .btn }  
+<i> **$120** </i>  
+
 [PixelFX Morph](https://www.pixelfx.co/product-page/Morph-4k-Upscaler-Advanced-HDMI-Gaming-Media){: .btn }  
 <i> **$275** </i>  
 
 [Retrotink 5X-Pro](https://www.retrotink.com/product-page/5x-pro){: .btn }  
 <i> **$325** </i>  
-*2X-Pro does not support 480p*
+‼️ *2X-Pro does not support 480p, ensure you get a 5x-Pro for this game* ‼️
 
 ## Peripherals
 
