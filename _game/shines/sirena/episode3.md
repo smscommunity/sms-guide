@@ -9,6 +9,9 @@ grand_parent: Shines
 #### Front side, no GWK  
 *Beginner*  
 {% include yt.html id="0ZLzPKq1T3g" %}  
+#### Back side, no GWK, Ground Pound
+*Beginner*  
+{% include yt.html id="44_2qOcu7p4" %}  
 #### Back side, no GWK  
 *Intermediate*  
 {% include yt.html id="blF2ZjQva2g" %}  
