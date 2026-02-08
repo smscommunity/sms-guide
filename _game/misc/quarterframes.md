@@ -33,7 +33,7 @@ This means:
 |---|---|
 | Pause  | +1 QF  |
 | Pause and Save  | +2 QF  |
-| Blue Coin Textbox  | Set to 3 |
+| Blue Coin Savebox  | Set to 3 |
 
 
 | Object  | QF Reaction |
