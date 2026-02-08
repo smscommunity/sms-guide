@@ -18,7 +18,7 @@ So you’d expect:
 - Physics → applied once per frame
 - Movement → advances in full-frame steps
 
-But that’s not what actually happens.
+But that’s not all that actually happens.
 
 ## What is a "quarterframe"?
 
