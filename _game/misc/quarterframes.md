@@ -22,7 +22,7 @@ But that’s not what actually happens.
 
 ## What is a "quarterframe"?
 
-Like Super Mario 64, Super Mario Sunshine runs physics checks on a "quarterframe" basis (4 times per frame). While physics are checked 4 times a frame, your inputs are intuitavely only sent in at the first quarterframe, once per frame. These are commonly referred to as "QF 0, QF 1, QF 2, and QF 3".
+Like Super Mario 64, Super Mario Sunshine runs physics checks on a "quarterframe" basis (4 times per frame). These are commonly referred to as "QF 0, QF 1, QF 2, and QF 3". While physics are checked 4 times a frame, your inputs are intuitavely only sent in at the first quarterframe, once per frame.  
 
 This means:
 
