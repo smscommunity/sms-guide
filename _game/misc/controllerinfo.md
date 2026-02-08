@@ -2,7 +2,7 @@
 layout: default
 title: Controller Information
 permalink: /game/misc/controllerinfo/
-nav_order: 4
+nav_order: 5
 parent: Misc Game Info
 ---
 
