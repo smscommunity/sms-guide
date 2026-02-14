@@ -16,7 +16,7 @@ Rules are non-italicised and *guidelines (on best practices) are italicised*.
     1. **On 60Hz** (if you are on PAL, ensure 60Hz is enabled by holding B during startup with intro skip practice code off; NTSC is always 60Hz).
     2. **Never using save-states to reset** (use the level select practice code and e.g. exit area).
 
-2. **Permitted practice codes**: all codes are generally allowed, but some levels have specific restrictions **posted in the note on the level's name**. Specific rules:
+2. **Permitted practice codes**: all codes on the [practice code website](https://gct.zint.ch/) are generally allowed, but some levels have specific restrictions **posted in the note on the level's name**. Specific rules:
     1. **Free Pause** is allowed but midair pausing is banned.
     2. **Fast Text (DPad Functions)** is allowed except for Pianta 5 Full, Secret and Reds.
     3. **Remove Saveboxes** is banned if it has an effect on gameplay.
