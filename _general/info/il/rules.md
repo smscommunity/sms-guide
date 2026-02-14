@@ -7,7 +7,8 @@ nav_order: 1
 ---
 
 # IL Rules
-These rules apply to the main tab, **ILs**; other tabs loosely abide by these but their rules are informal and have some deviations. Check example videos from the sheet you're interested in and ask in the Discord's #help channel if still unclear.
+These rules apply to the main tab, **ILs**; other tabs loosely abide by these but their rules are informal and have some deviations. Check example videos from the sheet you're interested in and ask in the Discord's #help channel if still unclear.  
+(Example: RTA Sheet permits starting from a save state)  
 
 Rules are non-italicised and *guidelines (on best practices) are italicised*.
 
