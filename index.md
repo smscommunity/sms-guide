@@ -6,6 +6,8 @@ nav_exclude: true
 
 ### The best place to learn how to speedrun Super Mario Sunshine!  
 
+{% include counter.html %}
+
 ## Table of Contents
 *Description of the page tabs on the left*  
 
