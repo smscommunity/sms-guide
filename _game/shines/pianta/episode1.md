@@ -80,7 +80,7 @@ A strat lost to time and rediscovered to be faster, you go left first and trigge
 #### Bad 3rd, aggro bank shot (Down Bad).  
 {% include yt.html id="Viy4GiOKJXw" %}  
 
-Down Bad: How to play the bad 3rd chomp
+### Down Bad: How to play the bad 3rd chomp  
 *by spilledbeanseverywhere*
 
 ### Approaching the 3rd Chomp
