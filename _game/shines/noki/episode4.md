@@ -96,3 +96,10 @@ The shine spawn is on the left side of what looks to be a Square with a large do
   * if the Eel is going down after finishing a Spin Cycle
 
 *Note: if you forced the Eel's mouth to close by being too far down in its mouth, you can still clean its teeth*
+
+Hitboxes:  
+
+<img src="/sms-guide/assets/shines/noki/episode4/eelteeth1.png">  
+<img src="/sms-guide/assets/shines/noki/episode4/eelteeth2.png">  
+<img src="/sms-guide/assets/shines/noki/episode4/eelteeth3.png">  
+<img src="/sms-guide/assets/shines/noki/episode4/eelteeth4.png">  
