@@ -58,3 +58,6 @@ Spray on the way down. Pay attention to the blooper so you can see if the water 
 
 - Just as the Shine's eyes are about to become visible again during its rotation, input a hoverslide rollout, holding A for 5 frames or longer. The image above was taken 1 frame before Mario becomes actionnable again.
 -  For ILs, it is much easier to see the eyes of the Shine if it has not been collected already. To reset it to a non-collected state, reset the game and reenter the level from a fresh file.
+
+### Sumi Skip  
+{% include yt.html id="uZVeO0zhCX4" %}
