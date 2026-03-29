@@ -17,7 +17,7 @@ nav_exclude: true
 
 <img src="/sms-guide/assets/setup/mergesubsplits.png">
 
-To total the worlds, you have two options
+To total the worlds, you have two options besides adding them up:  
 - Use the [world calculator](https://zeldocto.github.io/worldcalc/) by Zeldocto  
    or  
 - Go in LiveSplit, delete all subsplits, and copy the gold times from therun.gg over to LiveSplit
