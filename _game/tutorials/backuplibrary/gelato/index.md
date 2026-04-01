@@ -2,8 +2,8 @@
 layout: default
 title: Gelato Beach
 nav_order: 2
-permalink: /tutorials/backuplibrary/gelato/
-grand_parent: Tutorials
+permalink: /tutorialarchive/backupstrats/gelato/
+grand_parent: Tutorial Archive
 parent: Backup Library
 ---
 **Episode** | **Strat (Fault) {Backup}** | **Difficulty** | **Video Author**  
