@@ -2,9 +2,9 @@
 layout: default
 title: Pinna Park
 nav_order: 4
-permalink: /tutorials/backuplibrary/pinna/
-grand_parent: Tutorials
-parent: Backup Library
+permalink: /tutorialarchive/backupstrats/pinna/
+grand_parent: Tutorial Archive
+parent: Backup Strats
 ---
 **Episode** | **Strat (Fault) {Backup}** | **Difficulty** | **Video Author**  
 Ep. 3 | [Any Strat (Fall down from boat) {Pole wallkicks}](https://www.twitch.tv/aether10n/clip/MistyBoxySheepRaccAttack-OQvwOXvRMOCwYEhn) | Beginner | AETHER1ON  
