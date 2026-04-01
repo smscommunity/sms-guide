@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Backup Strats
-permalink: /tutorials/backupstrats
+permalink: /tutorialarchive/backupstrats
 nav_order: 1
 parent: Tutorials
 has_children: true
