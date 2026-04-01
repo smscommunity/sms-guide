@@ -2,7 +2,7 @@
 layout: default
 title: Delfino Plaza
 nav_order: 8
-permalink: /tutorials/backuplibrary/delfino/
-grand_parent: Tutorials
+permalink: /tutorialarchive/backupstrats/delfino/
+grand_parent: Tutorial Archive
 parent: Backup Library
 ---
