@@ -3,7 +3,7 @@ layout: default
 title: Bianco Hills
 nav_order: 1
 permalink: /tutorialarchive/backupstrats/bianco/
-grand_parent: Tutorials
+grand_parent: Tutorial Archive
 parent: Backup Library
 ---
 **Episode** | **Strat (Fault) {Backup} + Video Link** | **Difficulty** | **Video Author**  
