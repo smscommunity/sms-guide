@@ -6,9 +6,10 @@ parent: Pinna Park
 grand_parent: Shines
 ---
 
-[EYG](/sms-guide/techniques/maneuvers/eyg/)
-
 # Pinna 3
+
+## [EYG Page](/sms-guide/techniques/maneuvers/eyg/)
+
 Pinna 3 is a highly technical level where you collect the red coins in the park.  
 
 *This level has a **two** version differences.* 
