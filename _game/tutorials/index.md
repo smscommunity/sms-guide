@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Tutorials
-permalink: /tutorials/
+title: Tutorial Archive
+permalink: /tutorialarchive/
 nav_order: 3
 has_children: true
 ---
 
-# Tutorials
+# Tutorial Archive
 {:no_toc}
 
-Index of external links to game tutorials.
+Index of external links to game tutorials, a catch all. Most are sorted already under Shines.
 
 ## Full-Game (Recommended)
 This is a set of all-in-one video playlists and shine-breakdown spreadsheets covering the whole game (Any% or 120 Shines). These ones are recommended when starting.
