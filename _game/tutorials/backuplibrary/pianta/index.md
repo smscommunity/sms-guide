@@ -2,9 +2,9 @@
 layout: default
 title: Pianta Village
 nav_order: 3
-permalink: /tutorials/backuplibrary/pianta/
-grand_parent: Tutorials
-parent: Backup Library
+permalink: /tutorialarchive/backupstrats/pianta/
+grand_parent: Tutorial Archive
+parent: Backup Strats
 ---
 **Episode** | **Strat (Fault) {Backup}** | **Difficulty** | **Video Author**  
 Ep. 5 | [Yoshi Skip (Fall down) {Exit area}](https://www.youtube.com/watch?v=OLvShBEg8F8) | Beginner | Noki Doki
