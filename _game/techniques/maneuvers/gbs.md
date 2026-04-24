@@ -94,10 +94,10 @@ This is the original setup for the skip, and still used by many today.
 * Now on the roof, you want to align Mario’s feet with [this position on the roof](https://smscommunity.github.io/sms-guide/assets/techniques/maneuvers/gbs/gbs4.png). It stands out via the dark horizontal roof texture.
 * Drop the coconut while the stick is neutral, then start holding forward to run into the coconut.
 * You will clip at the corner of the hut. Time a hover to hover up into the roof with Mario’s hat barely being visible.
-* The roof has a curve to it, needing you to reduce your speed to stay in line and not clip out of the bottom of the roof.
-* If you clip out above the roof, this means you had too much speed and needed to further reduce your speed by holding back more while hovering.
+* The roof has a curve to it, usually needing you to reduce your speed to stay in line and not clip out of the bottom or top of the roof.
+* If you clip out below the roof, this means you had too much speed and needed to further reduce your speed by holding back more while hovering.
 * This is a balancing act that you need to react to, that gets easier with practice.
-* One in the center of the roof, in the blender, release your hover and fall into the shine.
+* Once in the center of the roof, in the blender, release your hover and fall into the shine.
 
 
 ## *Other notable variants:*  
