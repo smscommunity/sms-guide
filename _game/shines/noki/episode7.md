@@ -12,7 +12,7 @@ Like the other episode seven shines, Noki 7 features a Shadow Mario (SM) chase s
 #### Beginner Strat
 {% include yt.html id="EkyD3UJG5FA" %}  
 
-#### Insta-Kill (Backflip/Orange Strat)  
+#### Insta-Kill (Backflip "Orange Strat")  
 {% include yt.html id="A7VL_Cd50W0" %}  
 
 #### Insta-Kill (Spinjump)  
