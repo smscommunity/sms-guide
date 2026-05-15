@@ -40,7 +40,7 @@ nav_order: 2
 [Video Example](https://www.youtube.com/watch?v=Ek3-OIBbd_s) of a near perfect tree throw  
 -*FoundYourGun*, 2023
 
-**RNG Spam Spray**
+**RNG Spam Spray "Orange Strat"**
 * Jump on the mirror silo on the right of the tree, jump off and spam spray the coconuts out of the tree. This has a large variable of RNG to it. It can result in the world record or can send the coconut flying into the water.
 
 [Video Example](https://www.youtube.com/watch?v=g_WcDRyC8fE) of a near perfect coconut RNG spam spray  
