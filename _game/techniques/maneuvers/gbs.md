@@ -20,7 +20,7 @@ nav_order: 2
 * From here, you can simply walk the coconut to the hut.
 
 **Grounded Throw** *(fast)*
-* Spray the coconut from the tree while on the ground, or climb up the tree and grab the coconut once you land on top of the leaves. If you climb the tree, run off and land on the ground.
+* Climb up the tree and grab the coconut once you land on top of the leaves. Run off and land on the ground.
 * Line your camera up with the boardwalk and do a small jump and throw the coconut at the peak of your jump.
 
 ### Intermediate
