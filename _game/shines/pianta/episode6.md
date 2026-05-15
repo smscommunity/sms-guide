@@ -21,12 +21,6 @@ A favorite [IL](https://smscommunity.github.io/sms-guide/info/il/) among many fo
 
 {% include gdrive.html id="1F30JboTg8nitT-noed6NPXHI5r4u7tpY" %}
 
-#### Easy Early Unlock #6
-*Beginner*  
-- Spray just left of the tree
-
-{% include gdrive.html id="1DCqSdJ8-LHPmlx3j8QYKXMQG5S2nLMoM" %}
-
 #### Around the Corner #5
 *Beginner*  
 - After you clean #4, dive rollout onto the slope and preserve your rollout momentum
@@ -34,6 +28,12 @@ A favorite [IL](https://smscommunity.github.io/sms-guide/info/il/) among many fo
 - Turn your camera as you run
 
 {% include gdrive.html id="1tWUbXivkyULlQOHLsfSF9mdqAM84Xm3G" %}
+
+#### Easy Early Unlock #6
+*Beginner*  
+- Spray just left of the tree
+
+{% include gdrive.html id="1DCqSdJ8-LHPmlx3j8QYKXMQG5S2nLMoM" %}
 
 #### Y-Cam Early #7
 *Beginner*  
