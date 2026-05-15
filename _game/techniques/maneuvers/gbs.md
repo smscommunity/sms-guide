@@ -25,11 +25,7 @@ nav_order: 2
 
 ### Intermediate
 
-**Tree Spray**
-* As you approach the tree, you can either rollout and hold R to spray the coconut down during the rollout, or you can Y-Cam during the rollout and spray the coconut down this way. From here you grab the coconut and preform a grounded jump-throw
-
 **Late/Safe Tree Throw**
-* A slightly harder strat then tree spray, but easier than normal tree throw.
 * Optimal movement from spawn is jumpdive, small rollout, spinjump dive into waterslide. Rollout as you approach the tree (small rollout to maximize waterslide distance) and spinjump dive onto the tree.
 * Line up your camera as you climb the tree [like this](https://smscommunity.github.io/sms-guide/assets/techniques/maneuvers/gbs/gbs1.png).
 * You can also hold B as you climb the tree to buffer a grab and immediately grab the coconut. You can also time a ground pound to grab the coconut faster, but it is harder.
