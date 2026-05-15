@@ -16,7 +16,7 @@ nav_order: 2
 ### Beginner
 
 **Walk the Coconut** *(slow)*
-* Spray the coconut from the tree while on the ground, or climb up the tree and grab the coconut once you land on top of the leaves.
+* Climb up the tree and grab the coconut once you land on top of the leaves.
 * From here, you can simply walk the coconut to the hut.
 
 **Grounded Throw** *(fast)*
