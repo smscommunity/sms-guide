@@ -7,6 +7,7 @@ grand_parent: Techniques
 nav_order: 5
 ---
 # Movie Skip
+*( guide by **lilGreenYoshi** and **anmaku0731** – [original](https://discord.com/channels/83214196182880256/1488427732332445777) )*  
 
 Movie skip, also known as Money skip, is an alternative to Honey skip that is often faster for beginners. Due to aspect ratio differences across the Wii/GCN version and 3DAS version of the game, the visual cues will be a tad different; however, the start of the trick is identical. 
 - Spray the m
