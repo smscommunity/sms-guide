@@ -39,4 +39,5 @@ Right-most position
 <img src="https://smscommunity.github.io/sms-guide/assets/techniques/maneuvers/movieskip/zz3dasmovieskipRightBoundTest2CircleMarked.png" width="600">  
 
 ### Texture Line-Up
+*( guide by **RedsMSR** )*  
 {% include yt.html id="2vCh6hIOcfg" %}  
