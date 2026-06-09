@@ -41,3 +41,7 @@ Right-most position
 ### Texture Line-Up
 *( guide by **RedsMSR** )*  
 {% include yt.html id="2vCh6hIOcfg" %}  
+
+### Outdated/YOLO setup 
+*( guide by **sbeve** )*  
+{% include yt.html id="ue7Ago9wCNQ" %}  
