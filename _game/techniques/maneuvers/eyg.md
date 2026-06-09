@@ -4,7 +4,7 @@ title: Early Yoshi-Go-Round (EYG)
 permalink: /techniques/maneuvers/eyg/
 parent: Maneuvers
 grand_parent: Techniques
-nav_order: 6
+nav_order: 7
 ---
 
 # Early Yoshi-Go-Round (EYG)
