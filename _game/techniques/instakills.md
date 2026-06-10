@@ -5,6 +5,7 @@ permalink: /techniques/instakills/
 parent: Techniques
 ---
 # Instakills (and Quick Kills)  
+*( guide by **Zeldocto** )*  
 
 **Instakills** are when you instantly down Shadow Mario with a *point-blank spam spray*, and there are many different setups for each kill in order to get enough speed and the right position in order to pull it off.  
 
