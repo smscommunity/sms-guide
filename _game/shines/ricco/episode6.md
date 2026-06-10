@@ -6,13 +6,15 @@ parent: Ricco Harbor
 grand_parent: Shines
 nav_order: 6
 ---
-# Ricco 6
+# Ricco 6  
+*( guide by **Zeldocto** )*  
 Ricco 6 is made up of two parts: the Entry and the Blooper Race.  
 
 <img src="/sms-guide/assets/shines/ricco/episode2/bloopermechanics.jpg">  
 
 ## Entry
-{% include yt.html id="RwKVvVVtiZo" %}
+{% include yt.html id="RwKVvVVtiZo" %}  
+*( video by **LotfySMS** )*  
 - Hoverslide to the right and fall off the dock between the wall and the small post
 - Hover breifly towards the red button, then dive and rollout off the log
 - Jump dive over the red button and press Y to orient towards the green blooper and ground pound
@@ -27,7 +29,8 @@ A very important tip to keep in mind is that Mario's hitbox does not tilt when t
 The Blooper Race can either be done clockwise or counter-clockwise. Clockwise is marginally safer, but is about 1s slower.
 ### Counter-Clockwise Route
 <img src="/sms-guide/assets/shines/ricco/episode6/ccwroute.png" width="700">
-{% include yt.html id="aksFqSaiyV8" %}
+{% include yt.html id="aksFqSaiyV8" %}  
+*( video by **FoundYourGun** )*  
 
 Follow the route shown above. There are multiple ways to approach the 6th coin. The route above goes left of the first pillar and right of the second pillar. 
 Alternatively you can go right of the first pillary and left of the second pillar, [shown here,](https://youtu.be/bJGvEVK-2kk) which is about 0.3s slower.
