@@ -7,7 +7,7 @@ grand_parent: Shines
 ---
 
 # Noki 3  
-
+*( guide by **Zeldocto** )*  
 Tips:
 
 - Try your best to preserve forward momentum
