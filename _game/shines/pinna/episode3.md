@@ -7,7 +7,7 @@ grand_parent: Shines
 ---
 
 # Pinna 3
-
+*( guide by **Zeldocto** )*  
 ## [EYG Page](/sms-guide/techniques/maneuvers/eyg/)
 
 Pinna 3 is a highly technical level where you collect the red coins in the park.  
@@ -35,7 +35,7 @@ To get through the entrance with a single slide requires some maneuvering betwee
 #### Go-Around
 *Beginner*  
 {% include yt.html id="RJhU8EtjKgg" %}  
-
+*( video by **Metacor** )*  
 - Waterslide to the awning, rollout and spinjump dive into a bounce off the awning
 - Hover and do a buffered landing spinjump out of the 1st coin
 - Hover at the peak of your spin and grab the 2nd coin
@@ -55,10 +55,12 @@ To get through the entrance with a single slide requires some maneuvering betwee
 #### Boat Hop (No Coin Clip)  
 *Intermediate*  
 {% include yt.html id="FwuSAFWHkkw" %}  
+*( video by **Jukatox** )*  
 
 #### Boat Hop  
 *Intermediate*  
 {% include yt.html id="yqQ4rBpiRCg" %}  
+*( video by **FoundYourGun** )*  
 
 - Waterslide to the awning, rollout and spinjump dive into a bounce off the awning
 - Hover and do a buffered landing spinjump out of the 1st coin
@@ -76,11 +78,13 @@ To get through the entrance with a single slide requires some maneuvering betwee
 #### TAS Strat    
 *Advanced*  
 - **JP**  
-{% include yt.html id="ih72PfgTrlQ" %}  
+{% include yt.html id="ih72PfgTrlQ" %}
+*( video by **spilledBeansEverywhere** )*  
 
 - **NTSC-U/PAL**  
 *You can run straight up the ramp past the electrokoopas, compared to having to zigzag on JP*  
 {% include yt.html id="SXlX0maWY6M" %}
+*( video by **DespinSR** )*  
 
 - Waterslide to the awning, rollout and spinjump dive into a bounce off the awning
 - Hover and do a buffered landing spinjump out of the 1st coin
