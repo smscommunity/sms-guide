@@ -6,6 +6,7 @@ parent: Bianco Hills
 grand_parent: Shines
 ---
 # Bianco 3
+*( guide by **Zeldocto** )*  
 Bianco 3 is made up of two parts: the Entry and the Secret. You should be comfortable with hoverslides, (jump) dive rollouts, spin jumps, sideflips, and triple jumps to have success with this shine.
 ## Entry
 Both the Beginner and Advanced Entry strats utilize a majority of the same movement. The one difference will be called out in the Advanced section.
@@ -25,12 +26,14 @@ Both the Beginner and Advanced Entry strats utilize a majority of the same movem
 - Hover up the steep section, then jump dive and rollout into the secret
 
 If you struggle with the Pole Wall Kick, you can spin jump into the cliff wall, then wall kick and hover to the cliff instead.
-{% include yt.html id="tglJP5itMAU" %}
+{% include yt.html id="tglJP5itMAU" %}  
+*( video by **jpep** )*  
 
 #### One-Slide
 *Advanced*  
 This strat differs from the beginner strat in how Mario passes through the doorway. Instead of a dive/rollout and jump/spray into dive, the entire sequence can be accomplished with a well-positioned and well-timed hoverslide. See timestampe 0:14 of the video below for where to begin the hoverslide.
-{% include yt.html id="5yFxfopfdI0" %}
+{% include yt.html id="5yFxfopfdI0" %}  
+*( video by **FoundYourGun** )*  
 ## Secret
 #### Triple Jump Dive
 *Beginner*  
@@ -50,3 +53,4 @@ This strat differs from the beginner strat in how Mario passes through the doorw
 - If you dove to the 3rd orange block, rollout up to the orange block
 - Perform dive rollouts across the green path, then finish the same as the beginner strat
 {% include yt.html id="gGP4RSuPUvc" %}
+*( video by **FoundYourGun** )*  
