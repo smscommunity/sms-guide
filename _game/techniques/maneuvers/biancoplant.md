@@ -6,7 +6,8 @@ parent: Maneuvers
 grand_parent: Techniques
 nav_order: 1
 ---
-# Bianco Plant
+# Bianco Plant  
+*( guide by **Zeldocto** )*  
 You have a few approaches to unlocking the plant that you can do:
 #### Normal Movement
 *Beginner*  
