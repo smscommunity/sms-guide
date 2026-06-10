@@ -6,7 +6,7 @@ parent: Ricco Harbor
 grand_parent: Shines
 nav_order: 4
 ---
-# Ricco 4
+# Ricco 4  
 Ricco 4 is made up two parts: the Entry and the Secret. Both have beginner and advanced strats that can be used for RTA.
 ## Entry
 The speed double/beyblade entry is nearly 2s faster than the normal entry.
@@ -24,12 +24,14 @@ The speed double/beyblade entry is nearly 2s faster than the normal entry.
 - Spin jump into the tower and wall kick off of it, then wall kick off the support structure
 - If high enough, dive into the secret, otherwise hover into it to avoid bonking
 
-{% include yt.html id="qbES-1fpez4" %}
+{% include yt.html id="qbES-1fpez4" %}  
+*( video by **frededish** )*  
 
 ## Secret
 The cycle are named based on which side of the large, second to last log the runner can land on.
 ### Beginner - Yellow Cycle
-{% include yt.html id="Ksr-H9dgGjA" %}
+{% include yt.html id="Ksr-H9dgGjA" %}  
+*( video by **shoutplenty** )*  
 
 This strat is **3s slower** than the fastest possible strat, with times of 33.15 safely + consistently, and around 32.80 optimally. It's also safe and easy enough for a beginner to pick up, as part of learning basic FLUDD-less movement. It still takes some hours to get down when starting out, but should click fairly soon and last you well into your career.
 
