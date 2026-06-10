@@ -6,6 +6,7 @@ parent: Pinna Park
 grand_parent: Shines
 ---
 # Pinna 5
+*( guide by **Zeldocto** )*  
 Pinna 5 is a shine not required for Any% completion due to [EYG](/sms-guide/techniques/maneuvers/eyg/); however, EYG can be quite intimidating for a new runner and it's not required for the standard any% route. Pinna 5 is an overall very simple level and highly recommended when starting out.
 
 #### Tree Triple
@@ -19,7 +20,7 @@ Pinna 5 is a shine not required for Any% completion due to [EYG](/sms-guide/tech
 - Jump to the platform just left of the mesh, then charge a beyblade and beyblade spin off its slope to land one of the ferris wheel cabins (if this beyblade is too hard for you, just do a normal buffered spin, it barely loses any time)
 - As you reach the top, charge another beyblade, then spinjump dive off the ferris wheel cabin and rollout into the shine.  
 {% include yt.html id="A_yQLnPvXXE" %}  
-
+*( video by **FoundYourGun** )*  
 
 #### Boat Beyblade
 *Advanced*  
@@ -32,3 +33,4 @@ Pinna 5 is a shine not required for Any% completion due to [EYG](/sms-guide/tech
 - The beyblade to the cabin is the same as it is in the beginner video.
 - As you reach the shine platform, do a backflip onto the shine platform, then do an extra dive into a ground pound, collecting the shine.  
 {% include yt.html id="X4YBjn8dELU" %}  
+*( video by **akane174** )*  
