@@ -14,11 +14,14 @@ Sirena 1 is one of the most memorable and creepy levels in the game. It's also a
     Video Explanation - Click for Details
   </summary> 
 {% include yt.html id="ADoBd7fwkTw" %}  
+*( video by **DutchJ** )*  
 </details>  
 
 #### Hut Strat  
 *Beginner*  
 {% include yt.html id="5S-K-sYrn-A" %}  
+*( video by **Noki Doki** )*  
 #### Aggro Strat  
 *Advanced*  
 {% include yt.html id="0HbAqa8hEMY" %}  
+*( video by **FoundYourGun** )*  
