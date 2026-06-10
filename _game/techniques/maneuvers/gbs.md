@@ -6,7 +6,8 @@ parent: Maneuvers
 grand_parent: Techniques
 nav_order: 2
 ---
-# Gelato Beach Skip *(GBS)* 
+# Gelato Beach Skip *(GBS)*  
+*( guide by **Zeldocto** )*  
 
 1. TOC
 {:toc}
