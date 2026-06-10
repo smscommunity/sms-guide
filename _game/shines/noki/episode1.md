@@ -20,7 +20,7 @@ Noki 1 is a movement intensive shine where you ascend the cliffs and fight Monty
   <summary markdown="span">
     Click for Details
   </summary>
-
+*( write-up by **schmittd** )*  
 The Cannon Mole shoots Goop Balls every 6.74 seconds, starting at 4.53 seconds. What we call “cycles” are determined by the Goop Ball shots between which the Cannon Mole first throws a Bomb. At a very high level, what we call 1st cycle occurs when the mole throws his first bomb after the 3rd set of Goop Balls, 2nd cycle occurs when the mole throws his first bomb after the 4th set of Goop Balls, and so on.
 
 However, within each cycle, there are three separate intervals which I will refer to as Fast, Normal, and Slow. I believe this is due to the timing of Mario entering the mole’s trigger zone compared with where the mole is within his Goop Ball cycle. If Mario enters just before or during the first or second Goop Ball being shot, a Fast cycle will be triggered. If Mario enters during or just after the third Goop Ball being shot, a Normal cycle will be triggered. If Mario enters more than roughly 2 seconds after the third Goop Ball is shot, a Slow cycle will be triggered.
