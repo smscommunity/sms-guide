@@ -8,9 +8,11 @@ nav_order: 3
 ---
 
 # Ricco 3
+*( guide by **Zeldocto** )*  
 Ricco 3 has a surprising RNG element: how quickly the crane moves. This can change the best way to approach the ending of the level.
 ## Beginner - Spin Jump
-{% include yt.html id="4OqNmNgyDyw" %}
+{% include yt.html id="4OqNmNgyDyw" %}  
+*( video by **Arle Nadja** )*  
 
 - Jump then dive, dive hop, and rollout while adjusting your position to the right
 - Spin jump dive to the edge of the boat, fall off, then spin jump dive onto the upper section
@@ -20,7 +22,8 @@ Ricco 3 has a surprising RNG element: how quickly the crane moves. This can chan
 - Continue hovering until Mario hangs from the cage. Climb towards the gate, flip it, then jump dive into the shine
 
 ## Advanced - Front Beyblade
-{% include yt.html id="cdAG3eJmUu8" %}
+{% include yt.html id="cdAG3eJmUu8" %}  
+*( video by **FoundYourGun** )*  
 
 - Perform the same entry movement as the beginner strat, but spin jump up to the upper section instead of spin jump dive
 - Beyblade off the sloped orange part of the boat, aiming towards the cage's gate
@@ -29,7 +32,8 @@ Ricco 3 has a surprising RNG element: how quickly the crane moves. This can chan
 
 ## Advanced - Back Beyblade
 This strat can be up to 0.7s faster than front beyblade and nearly 2s faster than beginner strat.
-{% include yt.html id="c1ia2Hx-fzg" %}
+{% include yt.html id="c1ia2Hx-fzg" %}  
+*( video by **FoundYourGun** )*  
 
 - Perform the same entry movement as the beginner strat
 - After the rollout, beyblade off the sloped orange part of the boat, aiming towards the cage's gate
