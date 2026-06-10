@@ -6,7 +6,7 @@ parent: Sirena Beach
 grand_parent: Shines
 ---
 # **Sirena 2**  
-
+*( guide by **lilGreenYoshi** )*  
 Sirena 2 is widely considered to be one of the hardest secrets in the game. You're going to want to practice this level a good amount to get the hang of it.
 
 Just like the other secret stages, there's 2 parts. The entry and the secret itself. this page will include videos and text descriptions for both seperatly.
@@ -23,6 +23,7 @@ Just like the other secret stages, there's 2 parts. The entry and the secret its
 - Hold down to turn around 180 degrees then go into Y cam, then look upward and spam spray the higher boos. 
 - Spinjump onto the platform closest to the secret entrance, then hold Digital R, then press A to backflip, then press B at the apex of the backflip to dive into the secret entrance (in some cases the boo position rng can end up being way to the sides of the secret entry, not giving a clear shot. If that happens, just sideflip then hover into the entrance).
 {% include yt.html id="2bSUhNBJypM" %}
+*( video by **lilGreenYoshi** )*  
 
 ### Intermediate
 #### Hoverslide into wallkicks
@@ -30,6 +31,7 @@ Just like the other secret stages, there's 2 parts. The entry and the secret its
 - The waterslide to the manager is the same as the beginner explanation.
 - Start a hoverslide then veer left, rollout onto the far left side of the plants, buffer spinjump off the far side of the plants while spraying, spinjump wallkick off the second floor railing, spinjump wallkick off the pole, then finally spinjump wallkick off the third floor railing to land in the secret entrance.
 {% include yt.html id="-2lAVm9ncbo" %}
+*( video by **lilGreenYoshi** )*  
 
 #### Boo Bounce into wallkicks
 - Start with a hoverdive rollout towards upright, then jump while spraying, when mario's height is higher than the ground above, dive and you'll waterslide.
@@ -39,6 +41,7 @@ Just like the other secret stages, there's 2 parts. The entry and the secret its
 - As you're about to bounce off the boo, charge a spin. This will make mario spin bounce off the boo, killing any chance of ledgegrabbing the second floor railing as mario cannot ledgegrab while spinning.
 - Spinjump wallkick off the second floor railing, spinjump wallkick off the pole, then finally wallkick dive off the third floor railing into the secret entrance.
 {% include yt.html id="uootZr0Klvc" %}
+*( video by **lilGreenYoshi** )*  
 
 ## Secret  
 ### Beginner
@@ -64,6 +67,7 @@ Just like the other secret stages, there's 2 parts. The entry and the secret its
 - After the second ground pound, center the camera, then spinjump dive (or sideflip dive) to the sandblock pyramid. As soon as mario's shadow is on the first block, ground pound to avoid bonking.
 - Climb up the sandblocks, jumpdive across the hole, rollout off the highest sandblock on the other side, then finally jumpdive into the shine.
  {% include yt.html id="z1KjkukEFg8" %}
+*( video by **lilGreenYoshi** )*  
 
 ### Intermediate
 - Start by doing a dive rollout as mario is spawning into the secret.
@@ -81,4 +85,4 @@ Just like the other secret stages, there's 2 parts. The entry and the secret its
 - While staying on the left or right side, turn the camera left or right. As the current cog side begins to get steep, sideflip then ground pound to the next side, centering the camera as you land from said ground pound.
 - As the current cog side you're now on begins to slope, jump, then dive into an instant momentum spin to the sandblock pyramid.
 - Spinjump dive then rollout off of the highest sandblock on the far side of the pyramid, then finally jumpdive to the shine.
-{% include yt.html id="wnFz7_SR_wA" %}  
+{% include yt.html id="wnFz7_SR_wA" %}
