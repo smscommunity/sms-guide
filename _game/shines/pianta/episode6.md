@@ -5,7 +5,8 @@ permalink: /shines/pianta/episode6/
 parent: Pianta Village
 grand_parent: Shines
 ---
-# Pianta 6
+# Pianta 6  
+*( guide by **Zeldocto** )*  
 Clean 10 Piantas covered in lava as fast as possible then return to the mayor and collect the shine.  
 A favorite [IL](https://smscommunity.github.io/sms-guide/info/il/) among many for having a high skill ceiling and many strat options.  
 
