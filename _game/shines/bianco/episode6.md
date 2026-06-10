@@ -6,6 +6,7 @@ parent: Bianco Hills
 grand_parent: Shines
 ---
 # Bianco 6
+*( guide by **Zeldocto** )*  
 Bianco 6 is made up of two parts: the Entry and the Secret. The Secret is then broken up into the Lower and Upper sections. You should be comfortable with hoverslides, (jump) dive rollouts, spin jumps, sideflips, and triple jumps to have success with this shine. The intermediate and advanced strats for this level require knowledge of glitchy wall kick dives (GWKDs) and insta-momentum spin jumps.
 ## Entry
 The entry is the same for every skill level, with the only major difference being whether you have enough speed to waterslide up the hill and over the bridge in a single slide or have to rollout and start a second slide over the bridge.
@@ -27,7 +28,8 @@ The entry is the same for every skill level, with the only major difference bein
 - Jump, (spam) spray, then dive into the water and slide through the bridge.
 - Note that the water must be on the white path before the bridge for the waterslide to work.
 
-{% include yt.html id="je66MezEBu8" %}
+{% include yt.html id="je66MezEBu8" %}  
+*( video by **FoundYourGun** )*  
 ## Lower Secret
 ### Beginner
 #### Second Momentum Spin
@@ -49,7 +51,8 @@ The entry is the same for every skill level, with the only major difference bein
 - Get out of y-cam before touching the wall. Wall kick and dive off the wall towards the yellow platform
 - Rollout along the yellow platform, then dive rollout again onto the elevator cube. Hold neutral and press B to stop Mario’s momentum
 
-{% include yt.html id="za9mG8atowQ" %}
+{% include yt.html id="za9mG8atowQ" %}  
+*( video by **FoundYourGun** )*  
 ### Advanced
 #### Speedspin
 - Follow the beginner strat until Mario ledgegrabs the first cube, aiming to ledgegrab the middle of the cube. Press L to center the camera
@@ -76,7 +79,8 @@ The strats that will be available to you at the upper portion of the secret will
 - Rollout onto the middle, left blue square, then spin jump dive to the back, center blue square
 - Rollout onto the red square, then dive rollout onto the green platform. Jump dive into the shine
 
-{% include yt.html id="za9mG8atowQ" %}
+{% include yt.html id="za9mG8atowQ" %}  
+*( video by **FoundYourGun** )*  
 ### Advanced
 #### Red Cycle
 - GWKD onto the yellow platform, rollout, then jump dive to the front, left red square
@@ -95,8 +99,10 @@ If you do Bianco 6R with rocket, its estimated to save around 3-6 seconds includ
 
 ### Entry
 
-{% include yt.html id="KBVG67mmPtA" %}
+{% include yt.html id="KBVG67mmPtA" %}  
+*( video by **ShadowMario27** )*  
 
 ### Secret 
 
 {% include yt.html id="m0whgLJ2zkU" %}
+*( video by **akane174** )*  
