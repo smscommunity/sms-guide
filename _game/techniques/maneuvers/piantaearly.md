@@ -7,7 +7,7 @@ grand_parent: Techniques
 nav_order: 3
 ---
 # Pianta Early
-
+*( guide by **Zeldocto** )*  
 Pianta Village's entrance is a red pipe high on top of the Shine Gate. This is difficult to climb for a casual without the use of either Yoshi (requires Pinna 4 shine) or a rocket (30 shines).
 
 #### No Momentum Spin, No Awning Jump, Spinjump + Y-Turn
