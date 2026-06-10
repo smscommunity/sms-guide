@@ -5,7 +5,8 @@ permalink: /techniques/signstrats/
 parent: Techniques
 ---
 
-# Sign Strats (Fast Piantissimo Text)
+# Sign Strats (Fast Piantissimo Text)  
+*( guide by **Zeldocto** )*  
 There is a .6 timesave (each time you do it) found where if you read a sign during a Piantissimo race, his text appears instantly. It saves time because Piantissimo doesn't stop moving while you read a sign.  
 *This trick has some nuance to it.*  
 
