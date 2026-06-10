@@ -6,7 +6,7 @@ parent: Pianta Village
 grand_parent: Shines
 ---
 # Pianta 1 
-
+*( guide by **Zeldocto** )*  
 Pianta 1 is a shine where you need to pull the tails of 3 Chomps, shooting them into a body of water to cool them off.  
 
 *This level has a [version difference](/sms-guide/game/versiondifferences)*  
