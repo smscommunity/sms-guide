@@ -6,7 +6,7 @@ parent: Pinna Park
 grand_parent: Shines
 ---
 # Pinna 2  
-
+*( guide by **Zeldocto** )*  
 Pinna 2 you skip Monty Mole's bomb fight (done in Noki 1) and do a straight forward secret that is cycle locked.  
 <i> [Unless you're TAS](https://youtu.be/0g05eemtAwo) </i>    
 
@@ -16,10 +16,12 @@ Dive correctly into Monty Mole right after he finishes either shooting bullets o
 #### Backflip 
 *Recommended*  
 {% include yt.html id="6HKmRT8A3kk" %}  
+*( video by **PumpsOverGains** )*  
 #### Sideflip
 {% include yt.html id="ovvys5XDMuY" %}  
 #### Spinjump
 {% include yt.html id="oBawNKk17N8" %}  
+*( video by **frededish** )*  
 ### The Secret  
 #### Safe  
 {% include yt.html id="ZbyUONkz2_0" %}  
