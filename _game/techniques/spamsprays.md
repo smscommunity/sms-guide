@@ -6,7 +6,7 @@ parent: Techniques
 nav_order: 3
 ---
 # Spam Sprays  
-
+*( guide by **Zeldocto** )*  
 Spam sprays are a technique that the game doesn't tell you about, and comes wildly in handy in many different situations.  
 
 ### The difference between Analog and Digital  
