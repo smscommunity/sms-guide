@@ -5,7 +5,8 @@ permalink: /techniques/gwkdh/
 parent: Techniques
 nav_order: 5
 ---
-# GWK/D/H
+# GWK/D/H  
+*( guide by **Zeldocto** )*  
 
 ## GWK
 The *glitchy wall kick* (GWK) is a wallkick that sends you in the **opposite** direction of the angle you **would have gone** with a normal wallkick. It is performed by pressing Y then A. You have a 2 frame window for these inputs. Press A on the frame after the Y press, or the frame after that. This is typically done by rolling your thumb from Y to A, easiest on the Gamecube controller due to the button placements.     
