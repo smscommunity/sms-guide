@@ -7,6 +7,7 @@ grand_parent: Shines
 ---
 
 # Sirena 5  
+*( guide by **Zeldocto** )*  
 Sirena 5 is another notorious level, since you only have a 34.3% chance of getting perfect RNG.  
 
 1. [Explanation](/sms-guide/shines/sirena/episode5/#video-explanation)
@@ -16,6 +17,7 @@ Sirena 5 is another notorious level, since you only have a 34.3% chance of getti
 
 #### Video Explanation
 {% include yt.html id="0_WZhr2ByyQ" %}  
+*( video by **Samura1Man** )*  
 
 Perfect cycles are: Fruit🍍, Not Fruit❌, Fruit🍍, Not Fruit❌, Fruit🍍. (if not going for [Cycle Skips](#cycle-skips))  
 
@@ -56,6 +58,7 @@ Key takeaway is fruit cycle is 70% until going to 3 health or below.
 
 #### Entering the Fight  
 {% include yt.html id="xURSkskvXWk" %}  
+*( video by **FoundYourGun** )*  
 
 <details markdown="block">
   <summary markdown="span">
@@ -64,10 +67,12 @@ Key takeaway is fruit cycle is 70% until going to 3 health or below.
 {: .text-gamma}
 There is a small area you are able to get a ground pound that instantly triggers the elevator as shown in the video.  
 <img src="/sms-guide/assets/shines/sirena/episode5/kbgptrigger.png">  
+*( screenshot by **inkstar** )*  
 </details>  
 
 #### The Fight  
 {% include yt.html id="Db7NxthMMOY" %}  
+*( video by **FoundYourGun** )*  
 
 The second the fight starts and you gain control of Mario, you notice FoundYourGun do a backflip dive into the center of the arena. This is a trick called **laugh skip** and saves ~2 seconds. This also makes the hitboxes for the purple buttons much larger (for some reason).  
 
