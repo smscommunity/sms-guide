@@ -5,7 +5,8 @@ permalink: /shines/pianta/episode5/
 parent: Pianta Village
 grand_parent: Shines
 ---
-# Pianta 5
+# Pianta 5  
+*( guide by **Zeldocto** )*  
 Pianta 5 is made up of two parts: the Entry and the Secret.
 
 ## Entry
