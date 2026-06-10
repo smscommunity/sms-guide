@@ -7,7 +7,7 @@ grand_parent: Shines
 nav_order: 3
 ---
 # Gelato 3
-
+*( guide by **Zeldocto** )*  
 Wiggler Ahoy! Full Steam Ahead!
 
 **Tips**  
@@ -18,12 +18,14 @@ Wiggler Ahoy! Full Steam Ahead!
 [Tutorial](https://youtu.be/DlBOC5jC1WA) *by AverageTrey* - [Tutorial](https://www.youtube.com/watch?v=RE-fUCuGjtk) *by Pogonateur*
 
 [Wiggler Frame Testing](https://docs.google.com/spreadsheets/d/1dQDnL2mDIVbrdzOoQqqS3jzrm_9UBNnaRDhFAxmnoE0/edit?gid=0#gid=0)  
-*by Oatflaker*  
+*( spreadsheet by **Oatflaker** )*  
 
 #### AEP/79/96
 - RTA Pattern  
-{% include yt.html id="0kHrRzKBn6g" %}  
+{% include yt.html id="0kHrRzKBn6g" %}
+*( video by **FoundYourGun** )*  
 
 #### 120 Shines
 - Linked Triangle (2x)  
 {% include yt.html id="L6pz8YUpzK0" %}  
+*( video by **akane174** )*  
