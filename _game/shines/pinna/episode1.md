@@ -6,7 +6,8 @@ parent: Pinna Park
 grand_parent: Shines
 ---
 
-# Pinna 1
+# Pinna 1  
+*( guide by **Zeldocto** )*  
 Pinna 1 is the roller coaster rocket fight with Mecha Bowser. It includes 2 cutscene skips, and several different rocket strats.
 
 ## Entrance
@@ -26,6 +27,7 @@ To get through the entrance with a single slide requires some maneuvering betwee
 
 ## The Park
 {% include yt.html id="msAc_51KlwI" %}  
+*( video by **FoundYourGun** )*  
 Notice that there is no intro cutscene to mash through when loading into the park. This means you can start moving Mario during the fade in.  
 
 Waterslide or hoverslide forward, taking care not to bonk on the poles or merry go round. Make sure you have a decent waterslide speed into this next part, a cutscene skip that saves about **a minute**.  
@@ -51,14 +53,17 @@ You want to aim to fire the rocket either right before or right after you pass t
 ### Beginner  
 #### No early 4th rocket  
 {% include yt.html id="x-k4Bjyv388" %}  
+*( video by **shoutplenty** )*  
 
 ### Intermediate
 #### Early 4th rocket grab **AFTER** 3rd  
-{% include yt.html id="msAc_51KlwI" %} 
+{% include yt.html id="msAc_51KlwI" %}  
+*( video by **FoundYourGun** )*  
 
 ### Advanced  
 #### Early 4th rocket grab **BEFORE** 3rd  
 {% include yt.html id="lXEtAqHKUlo" %}  
+*( video by **FoundYourGun** )*  
 
 ## Cutscene Skip #2  
 This cutscene skip saves even more, just over **2 MINUTES**, thus it is very important you get it. The visual cue is to pause the frame you see the explosions from the pieces that fall off of Mecha Bowser (you CAN pause a few frames before they are visible, but it is not recommended).  
