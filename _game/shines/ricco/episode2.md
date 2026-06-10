@@ -7,7 +7,8 @@ grand_parent: Shines
 nav_order: 2
 ---
 
-# Ricco 2
+# Ricco 2  
+*( guide by **Zeldocto** )*  
 Ricco 2 has two sections to it. The first section is the outside section, which has two strats, the beginner strats riding the Blooper, with the advanced strat , labeled Blooperless, taking the sewers over the fish market area. The second section is where a Pianta informs you on what spawns the shine- you must finish a blooper race. This has to be in under 45 seconds, with a secondary shine spawning from completing the race in under 40 seconds. 
 
 We are able to beat this threshold by quite a bit, even with beginner speedrunning technique, which is riding the Blooper. Alternatively, and optimally, there is a route, also known as “Blooperless”, which will see us climbing a wall and taking a route labeled below.
@@ -19,7 +20,7 @@ Starting out, it is not uncommon for beginners to do the Blooperless entry, but 
 ## Entry
 ### Beginner - Blooperful
 {% include yt.html id="iaWbBNLJVsE" %}
-
+*( video by **DespinSR** )*  
 - Upon starting this level, immediately turn the camera towards the bloopers as you load in, and prepare a hover-slide towards the dock.
 - Optimally, you want to time your hover in the water to be as close as possible before you end up swimming. If you are new to the game, do not worry about this too much, it will come with practice.
 - Once you get to the bridge, do a roll out to the Green Blooper. It should be noted that there is a possibility you bonk on the Pianta or umbrella, although this is uncommon.
@@ -47,7 +48,8 @@ The checkpoints for the blooper race can be viewed [here](https://bsky.app/profi
 </details>
 
 ### Beginner - Blooperful
-{% include yt.html id="04DI1Go9slk" %}
+{% include yt.html id="04DI1Go9slk" %}  
+*( video by **DutchJ** )*  
 
 - As you spawn, you have control of Mario. Pressing the B button about a half of a second before you hit the floor will give you a little distance towards the bloopers. You cannot do this too early, as the Pianta’s textbox will not spawn if Mario dives too far forward.
 - Begin the race, taking things as sharp as you can while also being cognizant of the orange blocks up ahead.
@@ -55,7 +57,8 @@ The checkpoints for the blooper race can be viewed [here](https://bsky.app/profi
 - The shine is now complete. You can repeat these exact instructions to complete Ricco 2 Hidden.
 
 ### Intermediate (Standard, Buffered Spin) - Blooperless
-{% include yt.html id="BW4DTmXYmhs" %}
+{% include yt.html id="BW4DTmXYmhs" %}  
+*( video by **LotfySMS** )*  
 - Hold left while entering the race. After talking to the pianta, hoverslide up left.
 - Do a full rollout to land on the ledge, then buffer a spinjump up right.
 - Hover to land on the small ledge, then hit a double jump and either hoverslide or spray and slide across the wall.
@@ -66,14 +69,16 @@ The checkpoints for the blooper race can be viewed [here](https://bsky.app/profi
 - Hoverslide to the end, fall off the wall, and hover to the shine position
 
 ### Intermediate (Alternate, Jesus Strat) - Blooperless
-{% include yt.html id="KjdAydNEmFU" %}
+{% include yt.html id="KjdAydNEmFU" %}  
+*( video by **Zeldocto** )*  
 These points will only cover the difference of the strat compared to above.
 - After watersliding and falling off the ledge where you would triple jump, instead you will switch to your nozzle then spam spray as you fall off the ledge.
 - Dive again to slide on the water, and fall off the ledge again across the water
 - Right before falling into the water, hover across then double jump dive. If you timed the hover correctly you will be coated in water. A backup can be to spray as you double jump.
 
 ### Intermediate (Alternate Start, GWKH) - Blooperless
-{% include yt.html id="EF9pEEC_m-g" %}
+{% include yt.html id="EF9pEEC_m-g" %}  
+*( video by **schmittd** )*  
 - Hold up right while entering the race. Talk to the pianta, jump dive into him, then triple jump
 - GWKH into the wall and hover onto the ledge. Jump on top of the wall and hoverslide across
 
