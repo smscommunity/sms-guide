@@ -6,7 +6,8 @@ parent: Maneuvers
 grand_parent: Techniques
 nav_order: 6
 ---
-# Yoshi Skip
+# Yoshi Skip  
+*( guide by **Zeldocto** )*  
 Yoshi Skip is an optional trick that many beginners go for along with [Gelato Beach Skip](/sms-guide/techniques/maneuvers/gbs/) (GBS). It doesn't save as much time as GBS (only ~25 seconds), but players will go for it since it lets you do the standard route with Pianta as the 3rd world after Gelato in Any% (No ACE). Pianta is one of the hardest worlds in the game, so this is beneficial.  
 
 **Video Tutorial** *by DutchJ*  
