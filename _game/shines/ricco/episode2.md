@@ -8,7 +8,6 @@ nav_order: 2
 ---
 
 # Ricco 2  
-*( guide by **Zeldocto** )*  
 Ricco 2 has two sections to it. The first section is the outside section, which has two strats, the beginner strats riding the Blooper, with the advanced strat , labeled Blooperless, taking the sewers over the fish market area. The second section is where a Pianta informs you on what spawns the shine- you must finish a blooper race. This has to be in under 45 seconds, with a secondary shine spawning from completing the race in under 40 seconds. 
 
 We are able to beat this threshold by quite a bit, even with beginner speedrunning technique, which is riding the Blooper. Alternatively, and optimally, there is a route, also known as “Blooperless”, which will see us climbing a wall and taking a route labeled below.
