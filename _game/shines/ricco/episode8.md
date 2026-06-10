@@ -8,7 +8,7 @@ nav_order: 8
 ---
 
 # Ricco 8 
-
+*( guide by **Zeldocto** )*  
 ### 120 Shines
 This might be the most infamous level in 120 Shines. Right at the end of the run in optimal routes and has the chance to just keep giving you other fruits instead of a durian. You must get Yoshi to eat the butterflies. He always will want a durian, and the only way to get a durian is from the fruit machine. Perform Ricco 5 movement until you get to the fruit machine. Ground pound the alternative parts of the machine until you get a durian. You can walk into the durian, spray the durian, or the fastest, kick the durian to get it to Yoshi.
 
@@ -41,8 +41,10 @@ Notes:
 Grab the turbo in the cage in the boat in front of you. Use it to go quickly grab the rocket under the helipad (where you fight Blooper in Ricco 5). Then grab a coconut up off the tree on the cliffside and put it in a spot where you can pick it back up. Rocket storage twice then grab the coconut, then sidestep off the ledge activating your rocket storage. Use Y-Cam if needed to adjust your angle. You will need to land on the platform with the caged Shine Sprite. Place the coconut while standing on the 5th row of dots on the platform's texture, and jump and grab the cage. Climb down into the coconut and it should clip you through.  
 
 {% include yt.html id="hNOd6v4dfiA" %}  
+*( video by **DespinSR** )*  
 
 ### All Episodes
 The same strat to grab the Shine as the 79/96 route, but a different approach to the coconut. The rocket nozzle is not there when you do Ricco in the All Episodes route, so you will need to go and grab the rocket nozzle high on the catwalk that is meant for Ricco 3 casual route.
 
 {% include yt.html id="nubc-xDULOU" %}  
+*( video by **akane174** )*  
