@@ -6,12 +6,12 @@ parent: Pinna Park
 grand_parent: Shines
 ---
 # Pinna 4
-
+*( guide by **invictusspiritus** )*  
 Pinna 4 is a commonly disliked shine. Water droplet RNG, Mario's position, and avoiding damage inflicted by the Snooza Koopas can all affect whether you can hit a successful one cycle.
 
 ### Video Explanation
 {% include yt.html id="9SrH_Mmepks?si=93HL5LWxNMJAbpN7&t=587" %} 
-
+*( video by **Samura1Man** )*  
 ### One cycle vs two cycle strats
 A "cycle" in Pinna 4 refers to when a player is forced to watch the "flower restoration/healing" cutscene until the large flower spawns the Shine Sprite.
 After any single Snooza Koopa is fully eliminated (disappears), the player will have a short window to act until the cutscene triggers.
@@ -35,19 +35,23 @@ After any single Snooza Koopa is fully eliminated (disappears), the player will 
 ### Strat Demos
 Watch these videos and make note of where these runners position Mario for each step.
 #### Two Cycle (3-2)
-{% include yt.html id="k9cLh19ybdA" %}
+{% include yt.html id="k9cLh19ybdA" %}  
+*( video by **DutchJ** )*  
 
 #### One Cycle (Right Side)  
 *Intermediate*  
-{% include yt.html id="Rh3IMEE-cI8" %}
+{% include yt.html id="Rh3IMEE-cI8" %}  
+*( video by **DespinSR** )*  
 
 #### One Cycle (Left Side)  
 *Intermediate, potentially faster*
-{% include yt.html id="y9XasrNZr24" %}
+{% include yt.html id="y9XasrNZr24" %}  
+*( video by **DespinSR** )*  
 
 #### One Cycle (Left Side, GP Damage Cancel)
 *Advanced*  
 {% include yt.html id="y_-TwELbUww" %}  
+*( video by **frededish** )*  
 
 *Final tips*
 - You can delay your groundpound on the first Snooza Koopa to give you more leniency in eliminating the remaining Koopas. This sacrifices speed for lower difficulty.
