@@ -6,7 +6,7 @@ parent: Pianta Village
 grand_parent: Shines
 ---
 # Pianta 5  
-*( guide by **Zeldocto** )*  
+*( guide by **schmittd11 & Zeldocto** )*  
 Pianta 5 is made up of two parts: the Entry and the Secret.
 
 ## Entry
