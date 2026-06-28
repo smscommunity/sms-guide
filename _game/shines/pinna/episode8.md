@@ -13,3 +13,6 @@ grand_parent: Shines
 
 #### Advanced 
 {% include yt.html id="i9mYDPZfNqQ" %}  
+
+#### Coin Map (For 100s)
+<img src="/sms-guide/assets/shines/pinna/episode8/pinnacoinmap.jpg">  
