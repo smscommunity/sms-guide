@@ -27,7 +27,7 @@ However, within each cycle, there are three separate intervals which I will refe
 
 For Fast and Normal cycles, the first bomb will always land on the same exact frame. However, for Slow cycles, for every frame that the Normal cycle is missed, the first bomb will be delayed by a frame. Speedrunners most typically enter the mole’s zone by ledgegrabbing the approximate location is shown below. The details of what frame ledgegrab trigger what cycle (and subsequent first bomb landing frame) are shown in the table below. The fastest human-viable cycle (for now) is the “Normal 1st” cycle which is why this has sometimes been referred to as “Maxed 1st” in the past. However, the TAS achieves the Fast 1st cycle and we may discover it to be human-viable one day.
 
-<img src="https://i.imgur.com/GS9IaoE.png" width="500">
+<img src="/sms-guide/assets/shines/noki/episode1/bombcycles.png" width="500">
 
 The fastest ledgegrab achieved by humans is a [21.11](https://www.youtube.com/watch?v=5vF7z8KVCSY)
 </details>  
