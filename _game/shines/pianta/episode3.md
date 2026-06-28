@@ -26,7 +26,7 @@ This strat loses roughly 2 seconds to the advanced strat.
 - (Jump) dive and rollout across the bridge following the pattern in the video below
 - Triple jump dive then rollout between the Piantas and stopping at this spot at the edge of the fiery goop
   
-<img src="https://i.imgur.com/Oc5X8uA.jpeg" width="500">
+<img src="/sms-guide/assets/shines/pianta/episode3/1.jpeg" width="500">
   
 - Allow the wind spirit to knock you forward into the goop, then jump dive, rollout, and jump dive onto the rail
 - Rollout onto the box and sideflip (or spinjump) onto the mushroom
