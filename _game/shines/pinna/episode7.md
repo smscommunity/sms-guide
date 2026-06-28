@@ -7,6 +7,7 @@ grand_parent: Shines
 ---
 
 # Pinna 7
+*( guide by **Dex513** )*  
 Like the other episode seven shines, Pinna 7 features a Shadow Mario (SM) chase sequence. The most useful technique to know for this shine is spam spraying. Every other SM has 100 health, but the one in this level has 150. So, be prepared to spray a little more than usual. Most players use the beginner strat as it is highly consistent due to having lenient timing and losing less than a second to the advanced strat.
 
 ## Entrance
@@ -20,7 +21,7 @@ Entering the park is the same as Pinna 1, 3, 7, and 8.
 #### One Slide
 -Tap jump, then dive.  
 -Instead of performing a rollout, bellyhop (press B) directly after which leads into a waterslide.  
-<img src="https://i.imgur.com/iIBtYwU.png">  
+<img src="/sms-guide/assets/shines/pinna/episode1/1.png">  
 To get through the entrance with a single slide requires some maneuvering between obstacles. The image above highlights two main points to avoid bonking off. The easiest way to do this is by first leaving a bit of space between Mario and the wall. After sliding past the forward-facing section of the wall, you can then hold the control stick forward and in toward the wall. Once Mario is sliding against the side you should be able to slide through freely without bonking. Notice that holding in towards the walls also help to avoid bonking on the further ahead wall and noki at the entrance.
 </details>  
 
@@ -30,13 +31,13 @@ Notice that there is no intro cutscene to mash through when loading into the par
 
 #### Left Side
 -Walk Mario forward to the spot shape on the ground.  
-<img src="https://i.imgur.com/PbnnIER.png">  
+<img src="/sms-guide/assets/shines/pinna/episode7/1.png">  
 -Once you reach this point, jump dive and rollout (make sure to jump dive over the stairs, as rolling out on them often results in bonking or instantly standing up, which loses a lot of speed).  
 -The timeframe to move the camera is lax and can be completed anytime from directly before jump diving until finishing the rollout.  
 -The camera angle required for this is to center it directly between the Electro-Koopa and railing of the Yoshi-Go-Round.  
 -After the rollout, continue walking directly behind SM.  
 -You should not need to change the camera much after this and can walk mostly in this straight line.  
-<img src="https://i.imgur.com/QTaAKYj.png">  
+<img src="/sms-guide/assets/shines/pinna/episode7/2.png">  
 -It is easiest to spam spray SM when they are in the air double jumping.  
 -It will likely take two or three well timed spam sprays to deplete SM's health due the 50 extra points.  
 -After SM completes the triple jump, they will be able to be downed.  
@@ -53,7 +54,7 @@ While the beginner strat is significantly easier, right side saves approximately
 
 #### Right Side
 -To begin this strat, have Mario walk to this shape on the ground.  
-<img src="https://i.imgur.com/ugZIxTc.png">  
+<img src="/sms-guide/assets/shines/pinna/episode7/3.png">  
 -Once you reach this point you can face directly toward SM and hoverslide on that path.  
 -SM will jump at the first pole of the awning and land near the third.  
 -Spam spray rollout SM after they land.  
