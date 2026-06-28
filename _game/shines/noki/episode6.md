@@ -54,6 +54,6 @@ Easier execution, more weird quirks
 At the end of the secret, many people fall issue to what is known as [floor cucking](https://ukikipedia.net/wiki/Floor_Cucking). Due to how the spinning cog is angled at the end before you grab the shine, it can cause you to clip through the end of the block if you arrive at the right time at the right place (right where most people arrive with True Green Cycle, the most popular RTA strat).  
 
 Looks familiar?  
-<img src="https://i.imgur.com/0eHLf2s.png">  
-<img src="https://i.imgur.com/PrtXzm1.png">  
+<img src="/sms-guide/assets/shines/noki/episode6/1.jpeg">  
+<img src="/sms-guide/assets/shines/noki/episode6/2.png">  
 Due to how the green peg is placed and the block's angle, you can have a danger to clip on this face of the cog. You can avoid this by avoiding the red square, by jumping from farther back/left/right, or with alternate movement.
