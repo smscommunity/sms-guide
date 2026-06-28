@@ -36,11 +36,11 @@ The chucksters always throw Mario directly opposite of the direction they are fa
 
 ### Early Cycle
 The final chuckster can stop at one of 6 nodes on the upper platform. These are shown below:
-<img src="https://i.imgur.com/dRb3psB.png" width="600">
+<img src="/sms-guide/assets/shines/pianta/episode5/1.png" width="600">
 
 The chuckster starts at the top left position and walks counter-clockwise continuously through the six nodes. When the chuckster begins his walking phase, a timer is set to a random value between 2.5 and 25 seconds. When this timer finishes, the chuckster will continue walking until he reaches the next node and then stop. Once the chuckster stops, he will wait for a random amount of time between 0.833 and 10 seconds. Then he will begin his walking phase again, and the process repeats continuously.
 
-To attain early cycle, you must talk to the final chuckster before he reaches the spot above. With nearly perfect execution, it is theoretically possible to achieve this without the final chuckster stopping at all. An example of this is shown [here.](https://i.imgur.com/8AOMuMy.mp4) This requires talking to the 2nd chuckster immediately, which can be done regardless of which direction the chuckster is facing on NTSC-U and NTSC-J because of their longer textboxes. However, due to PAL's short textboxes, the chuckster must be facing towards Mario, otherwise talking to the chuckster from behind will cause him to throw Mario an unintended direction.
+To attain early cycle, you must talk to the final chuckster before he reaches the spot above. With nearly perfect execution, it is theoretically possible to achieve this without the final chuckster stopping at all. An example of this is shown [here.](https://youtu.be/vIsv4VdLfpw) This requires talking to the 2nd chuckster immediately, which can be done regardless of which direction the chuckster is facing on NTSC-U and NTSC-J because of their longer textboxes. However, due to PAL's short textboxes, the chuckster must be facing towards Mario, otherwise talking to the chuckster from behind will cause him to throw Mario an unintended direction.
 #### **Chuckster Manipulation**
 While talking to a chuckster, any other chuckster that is moving stops in place. While stopped, their walking timers continue to tick down. This means that the longer you talk to a chuckster, the more likely future chucksters are to stop at their next nodes. A thorough explanation of chuckster manipulation can be seen here:
 
