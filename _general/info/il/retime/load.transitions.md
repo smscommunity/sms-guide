@@ -2,6 +2,7 @@
 layout: default
 title: Load Transitions
 permalink: /il/retime/load.transitions/
+nav_exclude: true
 grand_parent: Individual Levels
 parent: Retiming
 nav_order: 4
