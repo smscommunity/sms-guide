@@ -7,7 +7,7 @@ grand_parent: Shines
 ---
 # Bianco 2
 {: .no_toc }
-
+*( guide by **shoutplenty** )*  
 Bianco 2 demands special attention when learning because it has the most complex decision-making of any level in the game. The basic idea is to **approach** the lake as fast as possible, to be able to handle any pattern the **spider** (pondskater) throws at you and bounce off it, and to then know which cycle to go for for **windmill** wall-kicks (or riding the platform). Each of these sections is covered on a separate page. The **Petey** fight will be handled in a separate future section.
 
 ## Beginner Strategy
