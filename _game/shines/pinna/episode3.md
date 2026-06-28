@@ -27,7 +27,7 @@ Entering the park is the same as Pinna 1, 3, 7, and 8.
 #### One Slide
 -Tap jump, then dive.  
 -Instead of performing a rollout, bellyhop (press B) directly after which leads into a waterslide.  
-<img src="https://i.imgur.com/iIBtYwU.png">  
+<img src="/sms-guide/assets/shines/pinna/episode1/1.png">  
 To get through the entrance with a single slide requires some maneuvering between obstacles. The image above highlights two main points to avoid bonking off. The easiest way to do this is by first leaving a bit of space between Mario and the wall. After sliding past the forward-facing section of the wall, you can then hold the control stick forward and in toward the wall. Once Mario is sliding against the side you should be able to slide through freely without bonking. Notice that holding in towards the walls also help to avoid bonking on the further ahead wall and noki at the entrance.
 </details>  
 
@@ -105,7 +105,7 @@ To get through the entrance with a single slide requires some maneuvering betwee
     Manipulating the Electrokoopas - Click for Details
   </summary>
   You need to Y turn while grabbing the 5th coin in the same way each time, in order to manipulate the electrokoopas. They start moving the second they come onto screen. It is recommended to turn straight right, upright can change it.
-<img src="https://i.imgur.com/oioiNHI.jpeg" width=500> 
+<img src="/sms-guide/assets/shines/pinna/episode3/2.png" width=500> 
 </details>  
 
 There are some different variations you can do for the TAS Strat detailed below.  
@@ -114,7 +114,7 @@ There are some different variations you can do for the TAS Strat detailed below.
     Second Boat - Click for Details
   </summary>
  Second boat can be dismounted either **aggro** [(Tip of the Ship)](https://youtu.be/ih72PfgTrlQ?si=m4Q4PME65Ak76Txq&t=11) or **safe** [(Side of the Ship)](https://youtu.be/HKKxB632OTY?si=kIDRzalTagSwLxE2&t=10).
-<img src="https://i.imgur.com/A8GzxV7.png" width=500>  
+<img src="/sms-guide/assets/shines/pinna/episode3/3.png" width=500>  
 </details>  
 
 
@@ -123,6 +123,6 @@ There are some different variations you can do for the TAS Strat detailed below.
     Coin Clip - Click for Details
   </summary>  
   Coin Clip (7th coin) is a difficult trick that saves around **2.0s** and is largely feel based. The edges of the ramps (the wood) do not have collision, allowing you to clip inside these green grates.  
-  <img src="https://i.imgur.com/TH29lxn.png" width=500>  
+  <img src="/sms-guide/assets/shines/pinna/episode3/4.png" width=500>  
   Coin Clip can be done on [Left Side](https://youtu.be/GdkqnhZPNO4?si=cDnymqSKw5t_RPgI&t=19) or [Right Side](https://youtu.be/gEY-LOqHxXg?si=is31hPOO3LBYfLNB&t=21) (preference).  
 </details>  
