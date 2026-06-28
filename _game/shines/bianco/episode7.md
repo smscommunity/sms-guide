@@ -6,7 +6,7 @@ parent: Bianco Hills
 grand_parent: Shines
 ---
 # Bianco 7
-*( guide by **Zeldocto** )*  
+*( guide by **schmittd11** )*  
 Bianco 7 is a Shadow Mario (SM) Shine. You should be comfortable with hoverslides and spam sprays to have success with this shine.
 ### Beginner - No Quick Kill
 - Hold up and hoverslide from the start
