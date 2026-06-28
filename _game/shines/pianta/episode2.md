@@ -17,4 +17,4 @@ Pianta 2 is a race with Piantissimo.
 Using the setup found on the [Sign Strats](https://smscommunity.github.io/sms-guide/techniques/signstrats/) page, you can find the visual cue for where to stand after reading the sign.  
 
 Here is a visual cue for when to ground pound (the frame before you can control Mario)  
-<img src="https://i.imgur.com/YGJIGZz.png" width="500">
+<img src="/sms-guide/assets/shines/pianta/episode1/chomplettemap.png" width="500">
