@@ -26,7 +26,7 @@ Though it's tempting to crack this level on first visit since it's the 2nd shine
 * Diving onto the spider (also faster), since this gives extra speed.
 * Spinning in midair if it looks like we're falling short, though this is slower – it reduces Mario's gravity on *falling only*, so gives a little more air-time but isn't that useful.
 
-☼ \| The next most important thing is your **angle of approach onto the spider** – this has a big effect where you end up after the jump, and so the hover duration to the windmill. This tests your spatial awareness – to orient yourself, bear in mind the [imaginary line](https://i.imgur.com/KMTGnzV.png) from the (lake) entry-point to the corner in the back wall.
+☼ \| The next most important thing is your **angle of approach onto the spider** – this has a big effect where you end up after the jump, and so the hover duration to the windmill. This tests your spatial awareness – to orient yourself, bear in mind the [imaginary line](/sms-guide/assets/shines/bianco/episode2/1.png) from the (lake) entry-point to the corner in the back wall.
 
 Mario can travel along the left shore without influencing the spider, which is faster than air and water-based travel, so for fast execution, it helps to **enter the water at the point of the shore closest to the spider**.
 
@@ -58,7 +58,7 @@ This is the same as the normal movement option for starting a waterslide from a 
 Similarly to SSD: jump out of the water, hold digital R, then slide thumb from A to X. The hover takes a few more frames to come out, so these inputs must be somewhat fast.
 
 ### Spider Flowchart
-*Explained with a sample of 20 spider reactions from EquivocalGenius.*
+[*Explained with a sample of 20 spider reactions from EquivocalGenius.*](https://youtu.be/QIHO0jt8tes)
 
 The basic flow of a spider segment is recognising its position, doing a jump move accordingly, then recognising its new position and repeating. To try to keep the flowchart understandable, we'll explicitly specify decisions and optimal movement options (with video examples), then mention modifications.
 
@@ -68,7 +68,7 @@ The basic flow of a spider segment is recognising its position, doing a jump mov
 
 Next, we pick between three strategies, which will each get a section. From here on out, we'll split things up into "moves", each corresponding to a single jump, possible hover, and (re-)entry into the water. We pick the strategy depending on where the spider is.
 
-<img src="https://i.imgur.com/OMWPPkZ.png" width="400">
+<img src="/sms-guide/assets/shines/bianco/episode2/2.png" width="400">
 
 #### Zone A: Rushdown
 **Move 1**: **spin-jump-dive straight towards the spider**. This is the fastest overall option.
@@ -147,7 +147,7 @@ We'll take a look at each setup, with detailed inputs and cues. The first two se
 
 {% include yt.html id="6rWefa0lXn0" %}
 
-**Where to grab the alcove**: this [white area just right of centre](https://i.imgur.com/yui2MKg.png) is a good balance of safety and speed. The further right you grab, the faster and riskier the setup becomes - particularly after Mario's left hand exits the [dark region he's holding in this picture](https://i.imgur.com/yui2MKg.png). Left is easier and slower, but it stops working if Mario's left side crosses into the left half of the ledge.
+**Where to grab the alcove**: this [white area just right of centre](/sms-guide/assets/shines/bianco/episode2/3.png) is a good balance of safety and speed. The further right you grab, the faster and riskier the setup becomes - particularly after Mario's left hand exits the [dark region he's holding in this picture](/sms-guide/assets/shines/bianco/episode2/3.png). Left is easier and slower, but it stops working if Mario's left side crosses into the left half of the ledge.
 
 **When to start the wallkicks**: firstly, make sure to let the camera settle after the ledge-grab if you're looking for a visual cue. There are a couple of cues for when to start if you're too early, and when is too late, but you're often on time (it's a ~5s window) and can go right away.
 * **Early**: start as soon as Mario becomes fully occluded by the windmill. This means that the further right you are, the faster you'll start the kicks and the faster (by about the same amount) you'll enter the loading zone at the top.
@@ -171,7 +171,7 @@ We'll take a look at each setup, with detailed inputs and cues. The first two se
 
 {% include yt.html id="nAI9FiYxmiI" %}
 
-**Where to grab the alcove**: this [white area just left of center](https://i.imgur.com/yui2MKg.png).
+**Where to grab the alcove**: this [white area just left of center](/sms-guide/assets/shines/bianco/episode2/3.png).
 
 **When to start the wallkicks**: there aren't many good visuals for when is too late, but the 2 videos above loosely show the time window (7.5s – 50% of the time – at least). It overlaps with the right ledgegrab window by about 3 seconds.
 
@@ -197,16 +197,16 @@ After the sideflip, do 4 wall-kicks, then hover, turn around to get over the roo
 
 Knowing how to cause Petey to open his mouth is important for success in the fight. In order to trigger this reliably, you must stand to the side of him.
 
-![](https://i.imgur.com/TwfAl6V.png)
+![](/sms-guide/assets/shines/bianco/episode2/4.png)
 
 You want to stand as close to the right as possible in order to reduce the amount of time Petey takes to turn, but not too much to the right or Petey will swing his head. You want to line up Mario's legs on both sides of the dark green line on Petey's hand before he rises back up for the optimal positioning.
 
-![](https://i.imgur.com/dRVqCS2.png)
+![](/sms-guide/assets/shines/bianco/episode2/5.png)
 
 For this first hit, this is made more difficult since you need to clean the ground first, and get near the spot. There's an alternative visual cue that you can use to line Mario up. These 4 white bricks near Petey can be useful for lining you up properly. Look for the bottom corner closest to Petey for the optimal turn.
 
-![](https://i.imgur.com/NBiislR.png)
-![](https://i.imgur.com/0Ephs17.png)
+![](/sms-guide/assets/shines/bianco/episode2/6.png)
+![](/sms-guide/assets/shines/bianco/episode2/7.png)
 
 ### Petey Spam Sprays
 
@@ -224,19 +224,19 @@ It takes 2 full spam sprays to fill Petey's mouth (go for 3 to be safe in case y
 
 Start your backflip when Petey is almost finished turning, so that you are near the top of his head as he opens it to maximize your window for spam sprays.
 
-![](https://i.imgur.com/XEaw1oH.png)
-![](https://i.imgur.com/GW8BLnV.png)
+![](/sms-guide/assets/shines/bianco/episode2/8.png)
+![](/sms-guide/assets/shines/bianco/episode2/9.png)
 
 ### Shine Grab
 
 After the third ground pound, you will want to orient yourself so you're facing towards the two vines hanging down from the ceiling. Towards the middle of the screen, you'll notice another 4 white brick pattern in an L shape. Standing near it, on this brick, puts you in the perfect position for the shine.
 
-![](https://i.imgur.com/k0j19oi.png)
+![](/sms-guide/assets/shines/bianco/episode2/10.png)
 
 If you have perfect spam sprays, Petey will always disintegrate in the same spot. Look for this goop particle to vanish before you double jump hover to touch the lowest possible spot. See this image for proper positioning.
 
-![](https://i.imgur.com/yrk0pfP.png)
+![](/sms-guide/assets/shines/bianco/episode2/11.png)
 
 #### 120 Shines
 
-For 120 Shines, all you need to do is grab the windmill <img src="/sms-guide/assets/generaluse/M_Graffiti.png" width="20"> before you either ride it up or wallkick up. 
+For 120 Shines, all you need to do is grab the windmill <img src="/sms-guide/assets/generaluse/M_Graffiti.png" width="15"> before you either ride it up or wallkick up. 
