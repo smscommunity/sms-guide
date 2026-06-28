@@ -39,13 +39,13 @@ Spray on the way down. Pay attention to the blooper so you can see if the water 
 - Release the nose when the top of Mario's left ear passes the outer circle on the ground. The specific line to look for is indicated in green on the image above, taken 1 frame before nose release. This visual cue also works for 2nd nose pull.
  
 
-<p align="center"><img src="https://i.imgur.com/wT6RMGH.png" width="400"></p>
+<p align="center"><img src="/sms-guide/assets/shines/ricco/episode5/1.png" width="400"></p>
 
  - This visual cue requires the camera to be zoomed all the way in to work. If it isn't, use your index finger to push the C-stick forward while you are pulling the nose.
 
 ### Second Nose Pull
 
-<p align="center"><img src="https://i.imgur.com/6xFqmio.png" width="400"></p>
+<p align="center"><img src="/sms-guide/assets/shines/ricco/episode5/2.png" width="400"></p>
 
 - Stand facing the blooper so that Mario's feet are about halfway across the outer circle, indicated by the green line in the picture above.
 - Right as the tentacles slam down, tap A briefly to do a small jump, then dive. Hold down on the stick immediatly after diving.
@@ -54,7 +54,7 @@ Spray on the way down. Pay attention to the blooper so you can see if the water 
 
 ### Shine Grab
 
-<p align="center"><img src="https://i.imgur.com/I9Wg2Gx.png" width="400"></p>
+<p align="center"><img src="/sms-guide/assets/shines/ricco/episode5/3.png" width="400"></p>
 
 - Just as the Shine's eyes are about to become visible again during its rotation, input a hoverslide rollout, holding A for 5 frames or longer. The image above was taken 1 frame before Mario becomes actionnable again.
 -  For ILs, it is much easier to see the eyes of the Shine if it has not been collected already. To reset it to a non-collected state, reset the game and reenter the level from a fresh file.
