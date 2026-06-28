@@ -49,7 +49,7 @@ This is roughly 0.5 seconds faster than the Rope-Y strat
 {% include yt.html id="37h-M8R5CW8" %}
 ## Petey Fight
 Petey travels randomly between various nodes according to the map shown below. Petey always enters this area from Node N1.
-![Petey Map](/sms-guide/assets/shines/bianco/episode5/1.png)
+![Petey Map](/sms-guide/assets/shines/bianco/episode5/1.jpeg)
 Petey will stop at blue nodes and continue flying through red nodes. When Petey first enters the graph at N1, he’s not coming from any of the represented nodes, so they’re all equally likely. The path indicated by a red double arrow is twice as likely as the others unless it’s the path Petey just came from, in which case the blue single arrow path is twice as likely as the others. Petey can take 774 unique patterns with the fastest being roughly 59 seconds faster than the slowest. An average pattern will lose roughly 14.3 seconds to the fastest.
 
 When Petey reaches a blue node, he will stop and fly in mid-air. At this point, he can be sprayed down so you can fill him with water then ground pound his belly. This must be done 3 times to defeat Petey. In addition to RNG from Petey's movement, Petey has a 60% chance of throwing a tornado each time he lands. Each tornado causes roughly 2.5 seconds of timeloss. After Petey throws a tornado, stand at his side so that he immediately turns to face you and opens his mouth. 
