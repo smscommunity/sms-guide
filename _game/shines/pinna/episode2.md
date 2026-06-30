@@ -30,3 +30,6 @@ Dive correctly into Monty Mole right after he finishes either shooting bullets o
 *Risky and unnecessary in RTA because of cycle*  
 {% include yt.html id="h4Ada24XDzo" %}  
 *( video by **DespinSR** )*  
+## 120 Shines
+{% include yt.html id="09EzJgZ-fzQ" %}  
+*( video by **Pogonateur** )*  
