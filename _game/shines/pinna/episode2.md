@@ -15,8 +15,8 @@ Dive correctly into Monty Mole right after he finishes either shooting bullets o
 
 #### Backflip 
 *Recommended*  
-{% include yt.html id="6HKmRT8A3kk" %}  
-*( video by **PumpsOverGains** )*  
+{% include yt.html id="ywfc7waggKc" %}  
+*( video by **LotfySMS** )*  
 #### Sideflip
 {% include yt.html id="ovvys5XDMuY" %}  
 #### Spinjump
@@ -25,6 +25,8 @@ Dive correctly into Monty Mole right after he finishes either shooting bullets o
 ### The Secret  
 #### Safe  
 {% include yt.html id="ZbyUONkz2_0" %}  
+*( video by **Zeldocto** )*  
 #### Trampoline Skip 
 *Risky and unnecessary in RTA because of cycle*  
 {% include yt.html id="h4Ada24XDzo" %}  
+*( video by **DespinSR** )*  
