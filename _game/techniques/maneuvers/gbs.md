@@ -74,7 +74,7 @@ This is the original setup for the skip, and still used by many today.
 
 [Video Tutorial](https://www.youtube.com/watch?v=JPpC6Oh-h6s) *by shoutplenty*, 2023
 
-* As you approach the hut, do a small hop and throw the coconut at the peak of your jump. You want to jump when Mario reaches this point in the boardwalk.
+* As you approach the hut, do a full jump holding A and throw the coconut at the peak of your jump. You want to jump when Mario reaches [this point](https://smscommunity.github.io/sms-guide/assets/techniques/maneuvers/gbs/roofthrowvc.png) in the boardwalk.
 * Do a spin jump, and cancel it with a hover once you are at the same height as [this edge of the roof](https://smscommunity.github.io/sms-guide/assets/techniques/maneuvers/gbs/gbs3.png).
 * You will do an instant ledgegrab on this ledge of the roof. Do a short hop out of this, and dive and keep holding B to dive into and grab the coconut.
 * You can snap your camera with L either as you grab the coconut, or as you grab the ledge of the roof.  
