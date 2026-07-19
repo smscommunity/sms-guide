@@ -3,9 +3,12 @@ layout: default
 title: Boundaries
 permalink: /il/retime/boundary/
 grand_parent: Individual Levels
+nav_exclude: true
 parent: Retiming
 nav_order: 1
 ---
+
+# (Outdated, based on SGT)
 
 # Boundaries
 
