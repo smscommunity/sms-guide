@@ -91,7 +91,7 @@ The Korean version, identical to NTSC-U but it can run on JP consoles.
 
 <img src="/sms-guide/assets/info/versiondifferences/sms3das.jpeg" width="500"> 
 
-The limited-edition Nintendo Switch version, which also includes Super Mario 64 and Super Mario Galaxy. Saves almost 2 minutes (-01:55.12) to loads over Japanese, but is glitchy and has worse controls. All these factors make it less competitive.  
+The limited-edition Nintendo Switch version, which also includes Super Mario 64 and Super Mario Galaxy. Saves almost [2 minutes (-01:55.12)](https://docs.google.com/spreadsheets/d/1RapFLQCl6PpRQSTZMgKq8q6Tmmc2BxRazJQorPJ-3qQ/edit?gid=0#gid=0) to loads over Japanese GCN, but is glitchy and has worse controls. These factors make it less competitive.  
 
 <details markdown="block">
   <summary markdown="span">
