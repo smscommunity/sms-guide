@@ -10,7 +10,8 @@ The last level in the game, and a difficult one at that. Fire and spike platform
 
 #### Normal Corona 
 *Beginner*  
-Something to note, in this IL normally people don't do what is called "Kwan dive" at the blue coin platform 17-18 seconds in. Instead, people typically do a spraying triplejump here.  
+When you rollout off the spike platform before the one up, make sure you rollout and spray on the first half to put out the fire platform in the distance. You will miss if you rollout on the second half.
+Something to note, in this IL normally people don't do what is called "Kwan dive" at the blue coin platform 17-18 seconds in. Instead, people typically do a spraying triplejump here. Do a spam spray mid triple jump to ensure you put the fire platform out. It does not matter what way the spam spray goes, it will work.   
 {% include yt.html id="fZ8dHKCXFgA" %}  
 
 #### Fast Corona (Hoverslides)
