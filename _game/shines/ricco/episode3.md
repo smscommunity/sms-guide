@@ -22,23 +22,17 @@ Ricco 3 has a surprising RNG element: how quickly the crane moves. This can chan
 - If the crane position is not favorable, there are a few different things you can still do.  
 
 
-<details>
-  <summary>Unfavorable Crane Options - Click for Details</summary>
-  <h4>Unfavored Crane Dive</h4>
-  <p>
-    To pull this off, you need to dive onto the crane, fall off the edge for a couple frames, then hover.
-  </p>
-  {% include yt.html id="3rmpqakS2Ys" %}
-  <h4>Wall Slide</h4>
-  <p>
-    Similar to the unfavored crane dive, you want to hover after being in the falling animation for a couple frames.
-  </p>
-  {% include yt.html id="qnP-tgnHchM" %}
-  <h4>Hover Under</h4>
-  <p>
-    This method may require a little more practice to get the timing down.
-  </p>
-  {% include yt.html id="hQhB23aCYtc" %}
+<details markdown="block"> 
+  <summary markdown="span"> Unfavorable Crane Options - Click for Details </summary> 
+  **Unfavored Crane Dive**  
+  To pull this off, you need to dive onto the crane, fall off the edge for a couple frames, then hover.  
+  {% include yt.html id="3rmpqakS2Ys" %}  
+  **Wall Slide**  
+  Similar to the unfavored crane dive, you want to hover after being in the falling animation for a couple frames  
+  {% include yt.html id="qnP-tgnHchM" %}  
+  **Hover Under**  
+  This method may require a little more practice to get the timing down.  
+  {% include yt.html id="hQhB23aCYtc" %} 
 </details>
 
 - Continue hovering until Mario hangs from the cage. Climb towards the gate, flip it, then jump dive into the shine
