@@ -17,8 +17,23 @@ Ricco 3 has a surprising RNG element: how quickly the crane moves. This can chan
 - Jump then dive, dive hop, and rollout while adjusting your position to the right
 - Spin jump dive to the edge of the boat, fall off, then spin jump dive onto the upper section
 - Rollout, then spin jump and hover towards the crane
+
 - Depending on crane position, you can hover to the arm of the crane and dive onto it and slide off then hover
-- If the crane position is not favorable, spin jump and hover to the center of the crane. Then jump and spin towards the crane and hover when beneath it
+- If the crane position is not favorable, there are a few different things you can still do.
+  <details markdown="block">
+  <summary markdown="span">
+    Unfavorable Crane Options - Click to Expand
+  </summary>
+    ### unfavored Crane Dive
+    To pull this off, you need to dive onto the crane, fall off the edge for a couple frames, then hover.
+    {% include yt.html id="3rmpqakS2Ys" %}
+    ### Wall Slide
+    Similar to the unfavored crane dive, you want to hover after being in the falling animation for a couple frames
+    {% include yt.html id="qnP-tgnHchM" %}
+    ### Hover Under
+    This method may require a little more practice to get the timing down.
+    {% include yt.html id="hQhB23aCYtc" %}
+  </details>  
 - Continue hovering until Mario hangs from the cage. Climb towards the gate, flip it, then jump dive into the shine
 
 ## Advanced - Front Beyblade
