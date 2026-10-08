@@ -26,8 +26,8 @@ Rules are non-italicised and *guidelines (on best practices) are italicised*.
     7. **Fix Manta Splitting** is required for Sirena 1.
 
 3. **Timer**: all times must be provided by the **Quarter Frame Timer** (QFT) practice code, *with one exception:* You don't need the practice code when using vanilla IGT (like for Pianta 6/Ricco 2), you just need the Never Pause IGT practice code. Consult example videos to see where time starts and ends for a given level.  
-    1. **Retimes may be requested** by typing `/ticket create` in the SMS discord. The included video must be somewhat cropped (i.e. <5 mins long). Examples of common retime situations are ILs from full-game runs, other times around your recently achieved PB (due to old SGT being inaccurate, see section 3,b), or done without fast text by accident.
-    2. **Shine Get Timer** (SGT) practice code, version 2 or later (from Oct 2019) is no longer allowed for submissions as of 10/1/2026. The Shine Get Timer from Moonshine is acceptable as it displays the QFT time rounded to 2 decimal points.
+    1. **Retimes may be requested** by typing `/ticket create` in the SMS discord. The included video must be somewhat cropped (i.e. <5 mins long). Examples of common retime situations are: ILs performed in full-game runs, other players' times around your recently achieved PB (due to old SGT being inaccurate, see section 3,b), or done without fast text by accident. We know, many ILs have to be retimed.  
+    2. **Shine Get Timer** (SGT) practice code, including version 2 or later (from Oct 2019) is no longer allowed for submissions as of 10/1/2026. The Shine Get Timer from Moonshine is acceptable as it displays the QFT time rounded to 2 decimal points.  
     3. Times must use 2 decimal points rounded from the 3 decimal point QFT final time. This is because QFT code truncates instead of rounds, so the final time can be .001 off half the time. *e.x. 33.025 should be submitted as 33.03*
 
 4. **Video requirement**:
