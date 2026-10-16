@@ -2,7 +2,7 @@
 layout: default
 nav_exclude: true
 ---
-# SMS Wiki
+# PiantaPedia
 
 ### The best place to learn how to speedrun Super Mario Sunshine!  
 
