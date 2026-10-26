@@ -49,6 +49,12 @@ To submit to the official leaderboards, you will need to start on one of three f
 Setting up the file used for speedrunning without the introductory cutscenes.  
 
 **Practice Codes Guide**  
+
+**Moonshine Practice Mod**  
+[Homebrew](https://wii.hacks.guide/) your wii and install [Moonshine](https://github.com/panther03/moonshine).  
+⚠️ This software was vibecoded by longstanding community members, but also heavily tested to be vanilla-accurate. Still needs human review of the code.  
+
+**Via Nintendont/Gecko Codes**
 [Homebrew](https://wii.hacks.guide/) your wii and install [Nintendont](https://zint.ch/NintendontPackager/).  
 Check out our [in-depth guide](https://gct.zint.ch/guide.html) on installing practice codes.  
 
