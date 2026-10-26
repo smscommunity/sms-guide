@@ -48,6 +48,8 @@ To submit to the official leaderboards, you will need to start on one of three f
 [via GCMM (Wii)](https://www.speedrun.com/sms/guide/qeqcu) / [via Practice Codes (Wii + Emu)](https://www.speedrun.com/sms/guide/2alxp) / [via JKSV (Switch)](https://www.speedrun.com/sms/guides/fzqsa)  
 Setting up the file used for speedrunning without the introductory cutscenes.  
 
+## Practice
+
 **Practice Codes Guide**  
 
 **Moonshine Practice Mod**  
