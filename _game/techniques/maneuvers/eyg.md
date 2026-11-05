@@ -15,11 +15,11 @@ Due to the difficulty of this strategy, its usually recommended to just do Pinna
 and episode 6 as intended until you reach a low 1:2x time (Any% no ACE) as it only saves a little over a minute.  
 
 **Fruit Locations:**  
-<a href="/sms-guide/assets/techniques/maneuvers/eyg/PinnaBeachFruits.png" target="_blank">
-  <img src="/sms-guide/assets/techniques/maneuvers/eyg/PinnaBeachFruits.png" width="600">
+<a href="/assets/techniques/maneuvers/eyg/PinnaBeachFruits.png" target="_blank">
+  <img src="/assets/techniques/maneuvers/eyg/PinnaBeachFruits.png" width="600">
 </a>
 
-### [Tutorials Page](https://smscommunity.github.io/sms-guide/tutorials/)  
+### [Tutorials Page](/tutorials/)  
 *2-Stu is generally considered outdated, but some people find it easier. Feel free to experiment!*  
 
 ## Beginner  

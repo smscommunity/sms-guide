@@ -11,7 +11,7 @@ parent: Techniques
 
 **Quick kills** are when you otherwise down Shadow Mario with your *spray nozzle (usually from a distance)*.  
 
-Instakill/quick kill setups vary, and are described on each respective [Shines](/sms-guide/shines/) page. Since there is no where we can reasonably insert Delfino Shadow Mario tutorials (no shine involved), they will be on this page.  
+Instakill/quick kill setups vary, and are described on each respective [Shines](/shines/) page. Since there is no where we can reasonably insert Delfino Shadow Mario tutorials (no shine involved), they will be on this page.  
 
 ## Bianco Rising  
 
@@ -44,7 +44,7 @@ Instakill/quick kill setups vary, and are described on each respective [Shines](
   </summary>
 {: .text-gamma}
 The direction Shadow Mario runs is RNG if he chooses left or right. Left is optimal as the banana is very close. Luckily to the right still has a banana over under the fruit seller awnings, but still loses several seconds. The RNG is weighted as you approach Shadow Mario more directly from the side as shown in the image below.  
-<img src="/sms-guide/assets/techniques/instakills/yoshismtriggerrng.png">  
+<img src="/assets/techniques/instakills/yoshismtriggerrng.png">  
 </details>  
 
 #### Quick Kill
@@ -52,7 +52,7 @@ The direction Shadow Mario runs is RNG if he chooses left or right. Left is opti
 
 
 - This video is an IL, so they approach Shadow Mario rather aggressively here. For RTA, a suggestion would be to approach from further from the right.
-- Spray Shadow Mario while keeping your distance. Once he starts to line up with the tree, jump and do a couple [digital spam sprays](/sms-guide/techniques/spamsprays/) (analog spam sprays will angle further downwards, likely missing the banana).
+- Spray Shadow Mario while keeping your distance. Once he starts to line up with the tree, jump and do a couple [digital spam sprays](/techniques/spamsprays/) (analog spam sprays will angle further downwards, likely missing the banana).
 - Dive into your water and rollout, buffering a B grab into the banana if possible (or just dive into it while holding b).
 - Either run or throw the banana over to Yoshi depending on how close he is.
 - Do a spin jump off same spot in the grass texture to get a clean triple jump and eat the pineapple.

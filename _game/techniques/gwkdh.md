@@ -15,11 +15,11 @@ If you press Y before you wallslide, you override that reflection and it acts as
 
 ## GWKD
 The *glitchy wall kick dive* (GWKD) is the same as a **GWK** but you want to press B as well as A, giving you a dive.  
-Used in [Pianta 3 Advanced Strat](https://smscommunity.github.io/sms-guide/shines/pianta/episode3/#advanced---normal-boost-gwkd) and others.  
+Used in [Pianta 3 Advanced Strat](/shines/pianta/episode3/#advanced---normal-boost-gwkd) and others.  
 
 ## GWKH
 The *glitchy wall kick hover* (GWKH) is the same as a **GWK** but you cancel the Y-Cam immediately with a hover input. This is different compared to GWKD because you want to press R slightly later depending on the situation.  
-Used in [Bianco 2 Advanced Strat mounting the windmill](https://smscommunity.github.io/sms-guide/shines/bianco/episode2/#y-turn-wall-kicks) and others.  
+Used in [Bianco 2 Advanced Strat mounting the windmill](/shines/bianco/episode2/#y-turn-wall-kicks) and others.  
 
 Tutorial by DutchJ  
 {% include yt.html id="JZXoqc0Eywc" %}  

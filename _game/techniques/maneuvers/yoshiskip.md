@@ -8,7 +8,7 @@ nav_order: 6
 ---
 # Yoshi Skip  
 *( guide by **Zeldocto** )*  
-Yoshi Skip is an optional trick that many beginners go for along with [Gelato Beach Skip](/sms-guide/techniques/maneuvers/gbs/) (GBS). It doesn't save as much time as GBS (only ~25 seconds), but players will go for it since it lets you do the standard route with Pianta as the 3rd world after Gelato in Any% (No ACE). Pianta is one of the hardest worlds in the game, so this is beneficial.  
+Yoshi Skip is an optional trick that many beginners go for along with [Gelato Beach Skip](/techniques/maneuvers/gbs/) (GBS). It doesn't save as much time as GBS (only ~25 seconds), but players will go for it since it lets you do the standard route with Pianta as the 3rd world after Gelato in Any% (No ACE). Pianta is one of the hardest worlds in the game, so this is beneficial.  
 
 **Video Tutorial** *by DutchJ*  
 {% include yt.html id="-NMqyxOMC9o" %}
@@ -26,7 +26,7 @@ Yoshi Skip is an optional trick that many beginners go for along with [Gelato Be
 *Huff Setup*  
 - Walk into the tree at the spot shown in the picture below to clip into the tree:
 
-<img src="https://smscommunity.github.io/sms-guide/assets/techniques/maneuvers/yoshiskip/ys.gif" width="500">
+<img src="/assets/techniques/maneuvers/yoshiskip/ys.gif" width="500">
 
 - Briefly fall, then hover backwards to ledgegrab the mushroom in the red square.
 - Press B to wallslide, then shortly after Mario releases from the wall and starts falling, begin hovering.

@@ -15,4 +15,4 @@ Noki 5 is a race with Piantissimo.
 {% include yt.html id="NL7vDlxqFC4" %}  
 #### Spinjump  
 {% include yt.html id="ABAwt06qHCA" %}  
-You can see a combination of [Sign Strats](https://smscommunity.github.io/sms-guide/techniques/signstrats/) and a jumpdive bonk off of the pole. Using the setup found on the [Sign Strats](https://smscommunity.github.io/sms-guide/techniques/signstrats/) page, you can grab the shine and have fast text optimally this way.  
+You can see a combination of [Sign Strats](/techniques/signstrats/) and a jumpdive bonk off of the pole. Using the setup found on the [Sign Strats](/techniques/signstrats/) page, you can grab the shine and have fast text optimally this way.  

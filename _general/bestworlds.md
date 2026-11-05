@@ -15,7 +15,7 @@ nav_exclude: true
 6. Click on "Merge Subsplits" seen in the image below
 7. You now have your best world segments (you can also unmerge these at any time)
 
-<img src="/sms-guide/assets/setup/mergesubsplits.png">
+<img src="/assets/setup/mergesubsplits.png">
 
 To total the worlds, you have two options besides adding them up:  
 - Use the [world calculator](https://zeldocto.github.io/worldcalc/) by Zeldocto  

@@ -22,7 +22,7 @@ Pianta 5 is made up of two parts: the Entry and the Secret.
 - Spin jump and hover to the green spotted mushroom and perform yoshi skip
 </details>
 
-### [Yoshi Skip Page](/sms-guide/techniques/maneuvers/yoshiskip/)
+### [Yoshi Skip Page](/techniques/maneuvers/yoshiskip/)
 
 ## Secret
 
@@ -36,7 +36,7 @@ The chucksters always throw Mario directly opposite of the direction they are fa
 
 ### Early Cycle
 The final chuckster can stop at one of 6 nodes on the upper platform. These are shown below:
-<img src="/sms-guide/assets/shines/pianta/episode5/1.png" width="600">
+<img src="/assets/shines/pianta/episode5/1.png" width="600">
 
 The chuckster starts at the top left position and walks counter-clockwise continuously through the six nodes. When the chuckster begins his walking phase, a timer is set to a random value between 2.5 and 25 seconds. When this timer finishes, the chuckster will continue walking until he reaches the next node and then stop. Once the chuckster stops, he will wait for a random amount of time between 0.833 and 10 seconds. Then he will begin his walking phase again, and the process repeats continuously.
 

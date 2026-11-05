@@ -9,11 +9,11 @@ grand_parent: Shines
 *( guide by **Zeldocto** )*  
 Pianta 1 is a shine where you need to pull the tails of 3 Chomps, shooting them into a body of water to cool them off.  
 
-*This level has a [version difference](/sms-guide/game/versiondifferences)*  
+*This level has a [version difference](/game/versiondifferences)*  
 
 - You cannot put the chomplets out with your hover nozzle **immediately** on NTSC-U/PAL.  
 
-<img src="/sms-guide/assets/shines/pianta/episode1/chomplettemap.png">  
+<img src="/assets/shines/pianta/episode1/chomplettemap.png">  
 
 ### Normal 1st(A) Chomp Pattern  
 These are typical RTA strats for when the A Chomp goes down the blue Normal path, and varies mainly on what Chomp C does.  
@@ -97,21 +97,21 @@ Last but not least, always taking the middle path means there is no demand to re
 
 Let the chomp turn before grabbing it. The first time it turns, it will travel in a strict direction for 1.3 seconds before it turns a bit more. You need to grab the chomp after it has turned the first time and it's moving in this straight line, because it will set you up for a successful launch. Again, it moves in this line for 1.3 seconds, so there is plenty of time to make this window.
 
-<img src="/sms-guide/assets/shines/pianta/episode1/downbad1.png">  
+<img src="/assets/shines/pianta/episode1/downbad1.png">  
 
-<img src="/sms-guide/assets/shines/pianta/episode1/downbad2.png">  
+<img src="/assets/shines/pianta/episode1/downbad2.png">  
 
 ### Aiming the Chomp
 
 Given that you have grabbed the chomp correctly, you can accurately launch the chomp into the hot spring by aiming at this part of the wall:
 
-<img src="/sms-guide/assets/shines/pianta/episode1/downbad3.png">  
+<img src="/assets/shines/pianta/episode1/downbad3.png">  
 
 Notice the "T-tetromino" shape on the wall. Aim at the rightmost part of that shape. As long as the chomp has been grabbed correctly, there is a wide span of angle values that allow for a successful launch. The visual cue provided aims to help you land somewhere in between the span of good values. The lowest angle value I got to work was 58214, highest being 58884. This gives 671 good values, and there is likely even more leniency.
 
-<img src="/sms-guide/assets/shines/pianta/episode1/downbad4.png">  
+<img src="/assets/shines/pianta/episode1/downbad4.png">  
 
-<img src="/sms-guide/assets/shines/pianta/episode1/downbad5.png">  
+<img src="/assets/shines/pianta/episode1/downbad5.png">  
 
 </details>   
 

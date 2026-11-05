@@ -17,7 +17,7 @@ Pianta Village's entrance is a red pipe high on top of the Shine Gate. This is d
 - Jumpdive onto the yellow roof, rollout and jump
 - Hover across to the grass and spinjump wallkick hover up to the white ledge
 - Jump and do a landing spinjump, and press Y very shortly after your jump. *Not at the same time*
-  - Its important to finish spinning just before you land, so you are holding forward and let Mario run for at least one frame to have enough speed/height. [More details on spinjumps](/sms-guide/techniques/spinjumps/)
+  - Its important to finish spinning just before you land, so you are holding forward and let Mario run for at least one frame to have enough speed/height. [More details on spinjumps](/techniques/spinjumps/)
 - Right when you enter Y-Cam, hold left to turn and once you reach a 45° angle to the wall, press Y to exit Y-Cam then hold A to wallkick (or double tap A holding the second press, but using Y to exit Y-Cam provides the best muscle memory for infinite wallkicks
 - Hover backwards onto the Shine Gate
 - Jump and tap hover and fall into the pipe
@@ -47,7 +47,7 @@ Pianta Village's entrance is a red pipe high on top of the Shine Gate. This is d
 - Jumpdive onto the yellow roof, and do an instant momentum spinjump off the tip of the roof. Hover at the peak of your jump to avoid a ledgegrab on the white ledge.
   - *Alternatively, you can also simply wallkick off the white part of the shine gate.*
 - Jump and do a landing spinjump, and press Y very shortly after your jump. *Not at the same time*
-  - Its important to finish spinning just before you land, so you are holding forward and let Mario run for at least one frame to have enough speed/height. [More details on spinjumps](/sms-guide/techniques/spinjumps/)
+  - Its important to finish spinning just before you land, so you are holding forward and let Mario run for at least one frame to have enough speed/height. [More details on spinjumps](/techniques/spinjumps/)
 - Right when you enter Y-Cam, hold left to turn and once you reach a 45° angle to the wall, press Y to exit Y-Cam then hold A to wallkick (or double tap A holding the second press, but using Y to exit Y-Cam provides the best muscle memory for infinite wallkicks
 - Hover backwards onto the Shine Gate
 - Jump and tap hover and fall into the pipe

@@ -8,7 +8,7 @@ grand_parent: Shines
 # Pianta 6  
 *( guide by **Zeldocto** )*  
 Clean 10 Piantas covered in lava as fast as possible then return to the mayor and collect the shine.  
-A favorite [IL](https://smscommunity.github.io/sms-guide/info/il/) among many for having a high skill ceiling and many strat options.  
+A favorite [IL](/info/il/) among many for having a high skill ceiling and many strat options.  
 
 <details markdown="block">
   <summary markdown="span">
@@ -52,7 +52,7 @@ A favorite [IL](https://smscommunity.github.io/sms-guide/info/il/) among many fo
 #### Spin Spray #5  
 *Intermediate*  
 - Take time immediately to line your angle up to execute Over the Wall #6 while #5 finishes unlocking (good unlock RNG gives you less time to prepare)
-- Most common way to do this is run forward with the hover nozzle and press [Digital R](https://smscommunity.github.io/sms-guide/techniques/spamsprays/#the-difference-between-analog-and-digital) as you run off the slope of the grass
+- Most common way to do this is run forward with the hover nozzle and press [Digital R](/techniques/spamsprays/#the-difference-between-analog-and-digital) as you run off the slope of the grass
 - Right when you start hovering, press X (Keep holding Digital R)
 - Do a spinjump as you land, do a spam spray spinjump
 

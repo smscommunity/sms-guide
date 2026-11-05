@@ -17,28 +17,28 @@ SMS speedrunners play in 5 main disciplines.
 
 Beat the final boss starting from a fresh file, timed in real time. The requirement for unlocking the final boss is beating episode 7 in all 7 worlds (excluding the hub world). This usually involves collecting 44 shines.
 
-[Current Routes](/sms-guide/routes/#any-no-ace){: .btn }  
+[Current Routes](/routes/#any-no-ace){: .btn }  
 
 ### Skips
 The shines can be done in the intended order, except for 5 skips that are usually used:
 1. **Bianco 1 Skip**  
 The Bianco 2 shine is easily accessible in episode 1, so the Bianco 1 shine is easily skipped.
-2. **[Gelato Beach Skip](/sms-guide/techniques/maneuvers/gbs/) (GBS)**  
+2. **[Gelato Beach Skip](/techniques/maneuvers/gbs/) (GBS)**  
 Collecting the Gelato 8 shine during Episode 1 lets you access episode 7 right after, and so swaps episodes 1–7 in Gelato Beach with episodes 7–8, saving ~12 minutes. Alternatively, you can play episodes 1–7 as normal.
-3. **[Pianta Early](/sms-guide/techniques/maneuvers/piantaearly/)**  
+3. **[Pianta Early](/techniques/maneuvers/piantaearly/)**  
 Pianta Village can be accessed at any time using a couple of methods to climb to its entrance without rocket or Yoshi. This is usually done in Any%; alternatively, you can visit this world later, after unlocking either the rocket (requires 30 shines) or Yoshi (requires Pinna 4 shine).
-4. **[Yoshi Skip](/sms-guide/techniques/maneuvers/yoshiskip/)**  
+4. **[Yoshi Skip](/techniques/maneuvers/yoshiskip/)**  
 Pianta 5 as intended requires Yoshi to complete, but is usually done without Yoshi using this technique. Alternatively, do Pianta after unlocking Yoshi (requires Pinna 4 shine).
-5. **[Early Yoshi-Go-Round](/sms-guide/techniques/maneuvers/eyg/) (EYG)**  
+5. **[Early Yoshi-Go-Round](/techniques/maneuvers/eyg/) (EYG)**  
 Pinna 5 is usually skipped by accessing Pinna 6 secret from an earlier episode (usually 3 or 5), saving a little over a miunute if done on episode 3. Yoshi is used so this must be done after Pinna 4, which unlocks it. Alternatively, do Pinna 5–6 as intended.
 
 ## 120 Shines
 Any% (No ACE) with the additional requirement of collecting 120 shines (= 96 physical shines + 240 blue coins) and beating the final boss as the final shine.
 
-[Current Routes](/sms-guide/routes/#120-shines){: .btn }  
+[Current Routes](/routes/#120-shines){: .btn }  
 
 ## ILs
-Complete an individual level (single shine), timed using an in-game timer. The full guide for these is [here](/sms-guide/il/).
+Complete an individual level (single shine), timed using an in-game timer. The full guide for these is [here](/il/).
 
 ## Misc RTA Categories
 The other popular real-time categories are:
@@ -78,4 +78,4 @@ Starting from a completed Any% file, collect 240 blue coins and trade them all i
 
 ## Bingo
 SMS has a competitive bingo scene and biannual league; see the [**Discord**](https://sms.bingo/discord) and [**website**](https://sms.bingo).  
-Also see the [wiki page](/sms-guide/bingo/).
+Also see the [wiki page](/bingo/).

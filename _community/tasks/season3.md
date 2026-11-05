@@ -21,7 +21,7 @@ Goals:
 * Kill 3 Pokey Sprouts
 
 Checkpoints:  
-<img src="/sms-guide/assets/task/s03t01.jpg"/>  
+<img src="/assets/task/s03t01.jpg"/>  
   
 ## Task 2
 [Results Video](https://www.youtube.com/watch?v=XJRG1XwBVKQ) | [Original Post](https://www49.atwiki.jp/mario-sunshine/pages/57.html)  
@@ -50,7 +50,7 @@ Goals:
 * Break 3 Wooden Boxes  
   
 Checkpoints:  
-<img src="/sms-guide/assets/task/s03t03-1.png"/> <img src="/sms-guide/assets/task/s03t03-2.png"/> <img src="/sms-guide/assets/task/s03t03-3.png"/>  
+<img src="/assets/task/s03t03-1.png"/> <img src="/assets/task/s03t03-2.png"/> <img src="/assets/task/s03t03-3.png"/>  
 Restrictions:  
 If more than one box is broken at once, it is only counted as 1 box.
 
@@ -94,7 +94,7 @@ Goals:
 * Touch all 3 checkpoints  
   
 Checkpoints:  
-<img src="/sms-guide/assets/task/s03t06-1.png"/> <img src="/sms-guide/assets/task/s03t06-2.png"/> <img src="/sms-guide/assets/task/s03t06-3.png"/>  
+<img src="/assets/task/s03t06-1.png"/> <img src="/assets/task/s03t06-2.png"/> <img src="/assets/task/s03t06-3.png"/>  
 
 ## Task 7
 [Results Video](https://www.youtube.com/watch?v=I6FJ3xZH-SA) | [Original Post](https://www49.atwiki.jp/mario-sunshine/pages/62.html)  
@@ -142,7 +142,7 @@ Restrictions:
 **End:** The moment the air gauge appears.  
 Goal: 
 * Touch both checkpoints, in order:  
-<img src="/sms-guide/assets/task/s03t10-1.png"/> <img src="/sms-guide/assets/task/s03t10-2.png"/>  
+<img src="/assets/task/s03t10-1.png"/> <img src="/assets/task/s03t10-2.png"/>  
 * Complete bingo (3 in a row, horizontal, diagonal, or vertical)  
 1	2	3  
 4	5	6  
@@ -167,7 +167,7 @@ Goals:
 * Collect 1 Yellow Coin  
   
 Checkpoints:  
-<img src="/sms-guide/assets/task/s03t11-1.png"/> <img src="/sms-guide/assets/task/s03t11-2.png"/> <img src="/sms-guide/assets/task/s03t11-3.png"/>  <img src="/sms-guide/assets/task/s03t11-4.png"/>  
+<img src="/assets/task/s03t11-1.png"/> <img src="/assets/task/s03t11-2.png"/> <img src="/assets/task/s03t11-3.png"/>  <img src="/assets/task/s03t11-4.png"/>  
 Clarification:  
 * Each boat counts as a separate checkpoint  
   

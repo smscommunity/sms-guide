@@ -13,7 +13,7 @@ has_toc: false
 
 ## General
 
-[Version Differences](https://smscommunity.github.io/sms-guide/game/versiondifferences){: .btn }  
+[Version Differences](/game/versiondifferences){: .btn }  
 Up to date and detailed breakdown of the overall differences between game versions.
 
 [Item Index](https://docs.google.com/spreadsheets/d/1lci2OALBqboBs_JT7IaXJfBXa-LbVpMcDZTDKALm160/edit?usp=sharing){: .btn }  

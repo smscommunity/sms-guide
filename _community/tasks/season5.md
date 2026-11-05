@@ -17,7 +17,7 @@ http://gct.zint.ch/　ここに新しいFade-in Timerを使えば、提出の時
   
   
 ## Task 1 
-### (Available: 2018-11-04 -> Deadline: 2018-11-10) | [Results Video](https://www.youtube.com/watch?v=dP0_qMy_v80) | [Leaderboard](/sms-guide/assets/task/s05t01-0.png)  
+### (Available: 2018-11-04 -> Deadline: 2018-11-10) | [Results Video](https://www.youtube.com/watch?v=dP0_qMy_v80) | [Leaderboard](/assets/task/s05t01-0.png)  
 **Level:** Bianco 4  
 **Start:** Level fade in  
 **End:** Stand on platform where Petey Piranha sleeps in Episode 5.  
@@ -25,7 +25,7 @@ Must complete these three goals:
 - Collect 4 Red Coins  
 - Collect at least 1 Rocket or Turbo nozzle (Unlock nozzles beforehand)  
 - Stand on 2 locations:   
-<img src="/sms-guide/assets/task/s05t01-1.png"/>  <img src="/sms-guide/assets/task/s05t01-2.png"/>  <img src="/sms-guide/assets/task/s05t01-3.png"/>  <img src="/sms-guide/assets/task/s05t01-4.png"/>  
+<img src="/assets/task/s05t01-1.png"/>  <img src="/assets/task/s05t01-2.png"/>  <img src="/assets/task/s05t01-3.png"/>  <img src="/assets/task/s05t01-4.png"/>  
   
 場所：　ビアンコヒルズ　（ストーリー４）  
 測定開始： 暗転が開け始めた瞬間  
@@ -36,14 +36,14 @@ Must complete these three goals:
   
   
 ## Task 2 
-### (Available: 2018-11-11 -> Deadline: 2018-11-17) | [Results Video](https://www.youtube.com/watch?v=18Mv7DnMVj4) | [Leaderboard](/sms-guide/assets/task/s05t02-0.png)   
+### (Available: 2018-11-11 -> Deadline: 2018-11-17) | [Results Video](https://www.youtube.com/watch?v=18Mv7DnMVj4) | [Leaderboard](/assets/task/s05t02-0.png)   
 **Level:** Delfino Plaza  
 **Start:** Fade in on post-Bowser file, spawn in front of sewer cap.  
 -Must be directly after selecting the file or collecting a delfino shine.  
 -Practice codes exit area is banned because it gives early control of Mario.  
 **End:** Enter any of the 7 worlds (Can also enter pachinko, beach pipe, tall grass, or Corona, **nothing else**)  
 **Goal:** Complete bingo (Get a row or column of 3, diagonals allowed)  
-<img src="/sms-guide/assets/task/s05t02-1.png"/>   A1: <img src="/sms-guide/assets/task/s05t02-2.png"/>  A3: <img src="/sms-guide/assets/task/s05t02-3.png"/>  
+<img src="/assets/task/s05t02-1.png"/>   A1: <img src="/assets/task/s05t02-2.png"/>  A3: <img src="/assets/task/s05t02-3.png"/>  
 **Specifications:**  
 B3: Poster must spawn a coin  
   
@@ -51,12 +51,12 @@ B3: Poster must spawn a coin
 測定開始： 暗転が開け始めた瞬間。プラクチスコードのコースから出るのはだめよ。この助教でマリオがもっと早く動けるんです。ファイルを選ぶのとデルフィーノのシャインを取得するの後ではいいです。  
 測定終了：ほかのレヴェルに入る（ビアンコ、リコ、マンマ、ピンナ、シレナ、マーレ、モンテ、コロナ、そして何となくパチンコとピンナとマンマの近くにパイプもいいです)  
 条件１：ビンゴを１例揃える（縦、横、斜め可）  
-<img src="/sms-guide/assets/task/s05t02-1-jp.png"/>  
+<img src="/assets/task/s05t02-1-jp.png"/>  
 制限：  
 B3:ポスターのコインが出なきゃいけない  
   
 ## Task 3 
-### (Available: 2018-11-18 -> Deadline: 2018-11-24) [Results Video](https://www.youtube.com/watch?v=XH5kDBhiLiI) | [Leaderboard](/sms-guide/assets/task/s05t03-0.png)  
+### (Available: 2018-11-18 -> Deadline: 2018-11-24) [Results Video](https://www.youtube.com/watch?v=XH5kDBhiLiI) | [Leaderboard](/assets/task/s05t03-0.png)  
 **Level:** Pianta 6  
 **Start:** Start of level  
 **End:** Stand on the nose of the Pianta Statue  
@@ -95,7 +95,7 @@ B3:ポスターのコインが出なきゃいけない
 ータイマーは止まってはいけません  
   
 ## Task 4 
-### (Available: 2018-11-25 -> Deadline: 2018-12-01) [Results Video](https://www.youtube.com/watch?v=BT7wWCL09hs) | [Leaderboard](/sms-guide/assets/task/s05t04-0.png)  
+### (Available: 2018-11-25 -> Deadline: 2018-12-01) [Results Video](https://www.youtube.com/watch?v=BT7wWCL09hs) | [Leaderboard](/assets/task/s05t04-0.png)  
 **Level:** Ricco 4  
 **Start:** Level fade in  
 **End:** Take damage from the goop water in front of ricco tower  
@@ -120,7 +120,7 @@ B3:ポスターのコインが出なきゃいけない
 制限:下水道に入ってはいけません  
   
 ## Task 5 
-### (Available: 2018-12-02 -> Deadline: 2018-12-15) [Results Video](https://www.youtube.com/watch?v=eA5AmxVI6wo) | [Leaderboard](/sms-guide/assets/task/s05t05-0.png)  
+### (Available: 2018-12-02 -> Deadline: 2018-12-15) [Results Video](https://www.youtube.com/watch?v=eA5AmxVI6wo) | [Leaderboard](/assets/task/s05t05-0.png)  
 **Level:** Gelato 8  
 **Start:** Level fade-in  
 **End:** Once 30 points are collected  
@@ -148,7 +148,7 @@ B3:ポスターのコインが出なきゃいけない
 ー同じスイカを３本以上破壊してはいけません  
   
 ## Task 6 
-### (Available: 2018-12-16 -> Deadline: 2018-12-22) [Results Video](https://www.youtube.com/watch?v=FhfxES8f-TQ) | [Leaderboard](/sms-guide/assets/task/s05t06-0.png)  
+### (Available: 2018-12-16 -> Deadline: 2018-12-22) [Results Video](https://www.youtube.com/watch?v=FhfxES8f-TQ) | [Leaderboard](/assets/task/s05t06-0.png)  
 **Level:** Noki 1  
 **Start:** Level Fade-in  
 **End:** Completion of last objective  
@@ -158,11 +158,11 @@ B3:ポスターのコインが出なきゃいけない
 -Hit 2 Checkpoints  
   
 Checkpoints:  
-<img src="/sms-guide/assets/task/s05t06-1.png"/>  <img src="/sms-guide/assets/task/s05t06-2.png"/>  <img src="/sms-guide/assets/task/s05t06-3.png"/>  
+<img src="/assets/task/s05t06-1.png"/>  <img src="/assets/task/s05t06-2.png"/>  <img src="/assets/task/s05t06-3.png"/>  
 **Restrictions:** Damage must be taken from at least 2 different sources (e.g. Goop damage and Poison Water damage)  
 **Clarifications:** Checkpoint 3 is completed when you spray the spring  
 Ruins Triggers:  
-<img src="/sms-guide/assets/task/s05t06-4.png"/>  
+<img src="/assets/task/s05t06-4.png"/>  
   
 場所：　マーレのいりえ　（ストーリー１）  
 測定開始： 暗転が開け始めた瞬間  
@@ -178,14 +178,14 @@ Ruins Triggers:
 ー条件２：2つ以上の方法でダメージを受ける（例えば毒水と汚れ）  
   
 ## Task 7 
-### (Available: 2018-12-23 -> Deadline: 2018-12-29) [Results Video](https://www.youtube.com/watch?v=hdotzOCZJB4) | [Leaderboard](/sms-guide/assets/task/s05t07-0.png)  
+### (Available: 2018-12-23 -> Deadline: 2018-12-29) [Results Video](https://www.youtube.com/watch?v=hdotzOCZJB4) | [Leaderboard](/assets/task/s05t07-0.png)  
 **Level:** Pinna 5  
 **Start:** Level Fade-in  
 **End:** Flip the grate with the large Electro-Koopa on it  
 **Goals:**  
 1) Collect 4 Blue Coins  
 2) Touch 1 Checkpoint:  
-<img src="/sms-guide/assets/task/s05t07-1.png"/>  <img src="/sms-guide/assets/task/s05t07-2.png"/>  
+<img src="/assets/task/s05t07-1.png"/>  <img src="/assets/task/s05t07-2.png"/>  
 3) Complete 1 Activity:  
   
     - Hold a fruit  
@@ -202,7 +202,7 @@ Ruins Triggers:
 ーNPCを２人踏む  
   
 ## Task 8 
-### (Available: 2018-12-30 -> Deadline: 2019-01-05) [Results Video](https://www.youtube.com/watch?v=2tcf_Mg2cz8) | [Leaderboard](/sms-guide/assets/task/s05t08-0.png)  
+### (Available: 2018-12-30 -> Deadline: 2019-01-05) [Results Video](https://www.youtube.com/watch?v=2tcf_Mg2cz8) | [Leaderboard](/assets/task/s05t08-0.png)  
 **Level:** Sirena 8  
 **Start:** Press the Red Coin button  
 **End:** Break an attic exit  
@@ -212,7 +212,7 @@ Goals:
     -  Break 1 attic exit tile (End tile does not count)  
 Sprayables: Blue Shine painting, Boo painting, "Dolpic" poster, Lamps  
 **Note:** Sprayables must be completely sprayed. Lamp must spawn a coin (Blue coin is OK).  
-<img src="/sms-guide/assets/task/s05t08-1.png"/>  <img src="/sms-guide/assets/task/s05t08-2.png"/>  <img src="/sms-guide/assets/task/s05t08-3.png"/>  <img src="/sms-guide/assets/task/s05t08-4.png"/>  
+<img src="/assets/task/s05t08-1.png"/>  <img src="/assets/task/s05t08-2.png"/>  <img src="/assets/task/s05t08-3.png"/>  <img src="/assets/task/s05t08-4.png"/>  
   
 場所：　シレナビーチ　（ストーリー8）  
 測定開始：赤スイッチを押す  
@@ -224,7 +224,7 @@ Sprayables: Blue Shine painting, Boo painting, "Dolpic" poster, Lamps
 完全に水をかけなきゃいけません。ランプならコインが出なきゃいけません。青も黄もいいです。  
   
 ## Task 9 
-### (Available: 2019-01-06 -> Deadline: 2019-01-12) [Results Video](https://www.youtube.com/watch?v=CUqz6sJcGZo) | [Leaderboard](/sms-guide/assets/task/s05t09-0.png)  
+### (Available: 2019-01-06 -> Deadline: 2019-01-12) [Results Video](https://www.youtube.com/watch?v=CUqz6sJcGZo) | [Leaderboard](/assets/task/s05t09-0.png)  
 **Level:** Airstrip Reds  
 **Start:** Press the Red Coin button  
 **End:** Get eaten by a Cheep Cheep OR take damage from a Cheep Cheep  
@@ -252,7 +252,7 @@ Sprayables: Blue Shine painting, Boo painting, "Dolpic" poster, Lamps
 制限：赤スイッチを押す前にノゼルを選んでもいいだけど、ほかの準備はだめです。  
   
 ## Task 10 
-### (Available: 2019-01-13 -> Deadline: 2019-01-19) [Results Video](https://www.youtube.com/watch?v=RmvN67p4c0U) | [Leaderboard](/sms-guide/assets/task/s05t10-0.png)  
+### (Available: 2019-01-13 -> Deadline: 2019-01-19) [Results Video](https://www.youtube.com/watch?v=RmvN67p4c0U) | [Leaderboard](/assets/task/s05t10-0.png)  
 **Level:** Pinna 6 Secret (With FLUDD, hover nozzle only)  
 **Start:** Level fade-in  
 **End:** Touch the moving orange block before 30 seconds is up.  
@@ -267,7 +267,7 @@ Sprayables: Blue Shine painting, Boo painting, "Dolpic" poster, Lamps
     - Points will only be awarded for one wallkick under each arch.  
     - Points will only be awarded for wallkicking and standing on each block once.  
 End:  
-<img src="/sms-guide/assets/task/s05t10-1.png"/>  
+<img src="/assets/task/s05t10-1.png"/>  
   
 場所：ピンナパーク　（ストーリー６のヒミツ,ホバーノズルで）  
 測定開始：暗転が開け始めた瞬間  

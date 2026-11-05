@@ -16,6 +16,6 @@ grand_parent: Shines
 
 #### Coin Map (For 100s)
 
-<a href="/sms-guide/assets/shines/pinna/episode8/pinnacoinmap.jpg" target="_blank">
-  <img src="/sms-guide/assets/shines/pinna/episode8/pinnacoinmap.jpg" width="600">
+<a href="/assets/shines/pinna/episode8/pinnacoinmap.jpg" target="_blank">
+  <img src="/assets/shines/pinna/episode8/pinnacoinmap.jpg" width="600">
 </a>

@@ -14,7 +14,7 @@ This wiki setup is still **a draft**, so do bear in mind things that you find ch
 
 First, make a GitHub account, then create a fork of the main repository. On this fork, you will have full editing powers and can try out stuff without it impacting the main site.  
 **Edit** the site [here](https://github.com/smscommunity/sms-guide/)  
-**View** the site [here](https://smscommunity.github.io/sms-guide/)  
+**View** the site [here](https://wiki.sunmar.io/)  
 
 If you want to instead edit the site using a tool like VS Code, you will need to clone the repository and set it up for local development. Follow the short guide in the README for more information.
 
@@ -69,17 +69,17 @@ Line 2 of the multiline block.
 
 6\. URLs are given by `[link name](link address)`, like [this](https://www.speedrun.com/sms). Images are embedded by `![alt text](image address)`, like:
 
-![](/sms-guide/assets/task/s05t10-1.png)
+![](/assets/task/s05t10-1.png)
 
 See the section below on how to upload images into the wiki itself to be stored locally.  
 
 Markdown by default renders large images that are left-aligned, but html can be used to refine that with a maximum width and centre-alignment, e.g.
 
 ```html
-<p align="center"><img src="/sms-guide/assets/task/s05t10-1.png" width="300"></p>
+<p align="center"><img src="/assets/task/s05t10-1.png" width="300"></p>
 ```
 
-<p align="center"><img src="/sms-guide/assets/task/s05t10-1.png" width="300"></p>
+<p align="center"><img src="/assets/task/s05t10-1.png" width="300"></p>
 
 7\. Indentation of lines can only be done manually by pasting in special whitespace characters:  
     *This line is indented by 4 en-spaces.*
@@ -88,9 +88,9 @@ Don't indent anything by 4 or more normal spaces--it'll trigger a multiline code
 
 ### Embedding local images
 - It is better to store images for the wiki inside the wiki's files itself, instead of uploading them to an external service like Imgur. This will avoid links breaking at some point in the future if the owner or the service deletes them.  
-- Local images must be stored in a folder without an underscore in order to be accessible on the published version of the wiki. The folder `/sms-guide/assets/` has been created for this purpose.  
+- Local images must be stored in a folder without an underscore in order to be accessible on the published version of the wiki. The folder `/assets/` has been created for this purpose.  
 - In order to better organize images in the `assets` folder, subfolders should be created for each page or group of pages. To make a new folder, you must temporarily make a new text file. In the file name field, type the desired folder name with a forward slash at the end, and the new folder will pop in. Then just name the temporary file something like `temp.md`. Upload your images to the new folder, then delete the temporary file.  
-- Images must be linked to with their absolute path, starting with the repo name `/sms-guide`.  
+- Images must be linked to with their absolute path, starting with `/assets/` (for example `/assets/task/s05t10-1.png`).  
 - **Important**: Images will look like they're not working in the GitHub editor's "preview" tab, but they will work on the published wiki. Don't change the path to get them to work in the preview tab, because that will probably break the published version.  
 
 

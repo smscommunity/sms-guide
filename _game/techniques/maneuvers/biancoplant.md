@@ -40,7 +40,7 @@ Saves ~0.5s over 2014 TAS Movement
 - Again, hover as you become high enough to get onto the roof, and dive onto the yellow roof
 - When you rollout, hold A for a long rollout, making sure to avoid this part of the roof to keep your rollout from being eaten:
 
-<img src="/sms-guide/assets/techniques/maneuvers/biancoplant/scumbagroof.png" width="600">
+<img src="/assets/techniques/maneuvers/biancoplant/scumbagroof.png" width="600">
 
 - As you land on the red roof, press A+Y to jump and enter Y-Cam, and start spraying just above the horizon, so you spray the plant early
 - Slowly aim up as you fall, keeping the stream of water hitting the plant

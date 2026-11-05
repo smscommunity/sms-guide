@@ -36,7 +36,7 @@ The Intermediate strat adds the grass-slide at the start of the level and a side
 #### Grass-Slide
 - At the start of the level, turn the camera slightly to the right, then hold up and hoverslide
 - Aim the hoverslide for the section of grass shown below, the last part which is not raised above the path;this section of grass:  
-<img src="/sms-guide/assets/shines/bianco/episode4/1.png" width=500>  
+<img src="/assets/shines/bianco/episode4/1.png" width=500>  
 - Slide onto the grass, then aim for the spot mentioned above where the grass wall dips back slightly
 - Buffer a hover and slide off the grass wall. Holding up-right, briefly hover back towards this spot on the grass
 - As Mario lands back on the grass, spin jump towards the white wall and hover onto it
@@ -51,8 +51,8 @@ As seen in the IL WR, easier to do than the GWKH but guesstimated to lose a fram
 
 #### Glitchy Wall-Kick Hover
 - Upon landing on the middle section of the final building, spin jump towards the left pillar
-- [GWKH](https://smscommunity.github.io/sms-guide/techniques/gwkdh/) by first rolling your thumb from Y to A to GWK onto the roof of the pillar
-- Finish the GWKH by briefly hovering after performing the GWK. The hover must come at least 1-2 frames after the GWK, otherwise you will do a regular wall kick with [Y-Storage](https://smscommunity.github.io/sms-guide/techniques/ystorage/) instead of a GWKH, which looks like [this.](https://youtu.be/NvD3OIPn4oQ)
+- [GWKH](/techniques/gwkdh/) by first rolling your thumb from Y to A to GWK onto the roof of the pillar
+- Finish the GWKH by briefly hovering after performing the GWK. The hover must come at least 1-2 frames after the GWK, otherwise you will do a regular wall kick with [Y-Storage](/techniques/ystorage/) instead of a GWKH, which looks like [this.](https://youtu.be/NvD3OIPn4oQ)
 - If you do a regular wall kick following an attempted GWKH, hover backwards onto the left pillar. Tap L while hovering to remove the y-cam storage that would otherwise occur when Mario lands.
 - Finish the level the same as the Beginner strat
 {% include yt.html id="nIY431bQL-w" %}
@@ -61,7 +61,7 @@ As seen in the IL WR, easier to do than the GWKH but guesstimated to lose a fram
 The Advanced strat, known as Rope Speedspin, adds an insta-momentum spin jump off the final roof before the last rope, which can save up to 1.64 seconds, but comes with the risk of rolling out off the roof.
 #### Rope Speedspin
 - After collecting the 8th red coin, jump dive into the roof of the right pillar, aiming for this spot on the roof:  
-<img src="/sms-guide/assets/shines/bianco/episode4/2.png" width=500>  
+<img src="/assets/shines/bianco/episode4/2.png" width=500>  
 - Perform an insta-momentum spin to the right, following the path of the rope
 - Briefly hover to exit the spin and fall onto the rope
 - Jump dive off the rope, ground pound just before landing back on it, then jump dive off it again into the shine

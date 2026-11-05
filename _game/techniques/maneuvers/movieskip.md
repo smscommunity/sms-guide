@@ -23,9 +23,9 @@ Movie skip, also known as Money skip, is an alternative to Honey skip that is of
 - Savewarp with the blue coin textbox
 
 Left-most position  
-<img src="https://smscommunity.github.io/sms-guide/assets/techniques/maneuvers/movieskip/zWiiGCNmovieskipLeftBoundCircleMarked.png" width="600">  
+<img src="/assets/techniques/maneuvers/movieskip/zWiiGCNmovieskipLeftBoundCircleMarked.png" width="600">  
 Right-most position  
-<img src="https://smscommunity.github.io/sms-guide/assets/techniques/maneuvers/movieskip/zWiiGCNmovieskipRightBoundCircleMarked.png" width="600">  
+<img src="/assets/techniques/maneuvers/movieskip/zWiiGCNmovieskipRightBoundCircleMarked.png" width="600">  
 
 #### 3DAS Visual Cues
 - Line up the transition line between the dark part of the wall and the light part of the wall between the stick-out portion of the Q in Acqua
@@ -34,9 +34,9 @@ Right-most position
 - Savewarp with the blue coin textbox
 
 Left-most position  
-<img src="https://smscommunity.github.io/sms-guide/assets/techniques/maneuvers/movieskip/zz3dasmovieskipLeftBoundTest17CircleMarked.png" width="600">  
+<img src="/assets/techniques/maneuvers/movieskip/zz3dasmovieskipLeftBoundTest17CircleMarked.png" width="600">  
 Right-most position  
-<img src="https://smscommunity.github.io/sms-guide/assets/techniques/maneuvers/movieskip/zz3dasmovieskipRightBoundTest2CircleMarked.png" width="600">  
+<img src="/assets/techniques/maneuvers/movieskip/zz3dasmovieskipRightBoundTest2CircleMarked.png" width="600">  
 
 ### Alternative Texture Line-Up
 *( guide by **RedsMSR** )*  

@@ -7,7 +7,7 @@ grand_parent: Shines
 ---
 # Pinna 5
 *( guide by **Zeldocto** )*  
-Pinna 5 is a shine not required for Any% completion due to [EYG](/sms-guide/techniques/maneuvers/eyg/); however, EYG can be quite intimidating for a new runner and it's not required for the standard any% route. Pinna 5 is an overall very simple level and highly recommended when starting out.
+Pinna 5 is a shine not required for Any% completion due to [EYG](/techniques/maneuvers/eyg/); however, EYG can be quite intimidating for a new runner and it's not required for the standard any% route. Pinna 5 is an overall very simple level and highly recommended when starting out.
 
 #### Tree Triple
 *Beginner*  

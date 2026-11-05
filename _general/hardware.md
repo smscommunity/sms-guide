@@ -7,7 +7,7 @@ nav_order: 1
 ---
 # Recommended Hardware
 
-<i> For software to record your speedruns, check out our [tools](https://smscommunity.github.io/sms-guide/tools#speedrun-tools) page under speedrun tools. </i>  
+<i> For software to record your speedruns, check out our [tools](/tools#speedrun-tools) page under speedrun tools. </i>  
 
 There are **four** options you have to capture your game when playing on console. These are ordered from best to worst quality.  
 1. You can use component cables if your capture card allows for it, or if you have a Retrotink 5X.
@@ -62,13 +62,13 @@ There are **four** options you have to capture your game when playing on console
 ## Peripherals
 
 ### Controllers
-[Smash 4 Gamecube Controller](https://smscommunity.github.io/sms-guide/assets/general/hardware/smash4gccex.jpeg){: .btn }  
+[Smash 4 Gamecube Controller](/assets/general/hardware/smash4gccex.jpeg){: .btn }  
 <i> **$30-$60** Highly recommended to find a refurbished or good quality one on ebay, best budget controller. Note the flaming Smash logo as the identifier. </i>  
 
-[Smash Ultimate Gamecube Controller](https://smscommunity.github.io/sms-guide/assets/general/hardware/smashultgccex.png){: .btn }  
+[Smash Ultimate Gamecube Controller](/assets/general/hardware/smashultgccex.png){: .btn }  
 <i> **$50-$90** More expensive but can be bought new, different stick box deadzones make this strongly preference based. </i>  
 
-[PHOB GameCube Controller](https://smscommunity.github.io/sms-guide/assets/general/hardware/phobmoboex.png){: .btn }  
+[PHOB GameCube Controller](/assets/general/hardware/phobmoboex.png){: .btn }  
 <i> **$20-$250+** Can buy the motherboard for cheap, or buy a preassembled controller from a community seller. Adds a hall-effect stick, button remapping, snapback filtering, and calibration. </i>  
 
 ### Memory Cards

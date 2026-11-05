@@ -45,7 +45,7 @@ Controller input visualizer.
 
 ### Emulator
 [Dolphin Emulator](https://dolphin-emu.org/download/){: .btn }  
-[\[Settings Guide\]](https://smscommunity.github.io/sms-guide/setup/emu)  
+[\[Settings Guide\]](/setup/emu)  
 The only emulator used to play SMS on PC. *Use the latest beta version; never use the stable version.*  
 
 ## Speedrun Tools
@@ -64,7 +64,7 @@ Standard streaming software.
 **OBS Settings**  
 - Frame rate should be set to either 29.97 or 59.94 to reduce dropped/repeated frames. *Not 30/60fps*  
 - Multiple audio tracks are useful in seperating discord, microphone, or music audio from the gameplay audio. [Tutorial Here](https://www.youtube.com/watch?v=h1MjrylqbTc).  
-- Check out the tutorial on [Replay Buffer](https://smscommunity.github.io/sms-guide/info/video-tools/#recording-short-videos) to avoid continuously recording when practicing or doing ILs.  
+- Check out the tutorial on [Replay Buffer](/info/video-tools/#recording-short-videos) to avoid continuously recording when practicing or doing ILs.  
 
 [Kushview Element](https://github.com/kushview/Element){: .btn }  
 Audio plugin host for microphone sound processing; example plugins [here](https://www.reaper.fm/reaplugs/).
@@ -94,7 +94,7 @@ Tool to instantly and lossless trim, crop, and convert videos, and edit audio tr
 [Avidemux](https://avidemux.sourceforge.net/download.html){: .btn }  
 Tool to retime and frame-analyze ILs and full runs.  
 
-*Find more of our video tools and in-depth explanations [here](https://smscommunity.github.io/sms-guide/info/video-tools/).*
+*Find more of our video tools and in-depth explanations [here](/info/video-tools/).*
 
 ### Video Downloaders  
 [yt-dlp](https://github.com/yt-dlp/yt-dlp){: .btn }  
@@ -120,7 +120,7 @@ Tools for analyzing speedruns.
 Split hosting website that lets you compare segments, combine splits to see best world segments, see extra details, and host races.  
 
 [Any% Best World Total Calculator](https://zeldocto.github.io/worldcalc/){: .btn }  
-A tool by Zeldocto to convert your best world segments ([obtained from therun.gg](https://smscommunity.github.io/sms-guide/setup/bestworlds/)) into a total time.
+A tool by Zeldocto to convert your best world segments ([obtained from therun.gg](/setup/bestworlds/)) into a total time.
 
 [Petey Pattern Tool](https://naosanpoyo.github.io/PeteyPattern/){: .btn }  
 A tool by naosan to analyze the probability of a Bianco 5 Petey pattern.

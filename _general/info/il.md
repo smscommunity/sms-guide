@@ -27,7 +27,7 @@ SMS has leaderboards on this spreadsheet for various individual-level–based ca
 First, **join** the sheet by messaging one of the admins mentioned on the sheet's front page on Discord with your Google account's email address. Be warned that **the name on your Google account will be clearly visible in the sheet's activity**. Once given access, you can freely edit the space at the end of each sheet – take out a row (column in the case of RTA Strat ILs) on any sheet you want by typing in your name, and now, you can enter your times. A mod will later protect your row so only you and the mods can edit it.
 
 ### Sheet Rules
-[ILs Sheet Rules](/sms-guide/info/il/rules/){: .btn }
+[ILs Sheet Rules](/info/il/rules/){: .btn }
 
 Please read the rules of the IL spreadsheet at this link. These rules apply to the main tab, **ILs**; other tabs loosely abide by these but their rules are informal and have some deviations. Check example videos from the sheet you're interested in and ask in the Discord's #help channel if still unclear.
 
@@ -42,7 +42,7 @@ Here's the installation guide. Please make sure to follow it exactly – particu
 - (console) **your Homebrew installation did everything mentioned in the [linked guide](https://wii.guide)**;
 - (console) **you're using [Nintendont 6.498 (Sept 2021) or later](https://zint.ch/NintendontPackager)** *(6.489 is also known to work well but earlier/later versions often don't)*;
 - (emulator) **you're using a [recent (2020 or later) beta version of Dolphin](https://dolphin-emu.org/download/)**.
-- (emulator) **your settings match our setup guide found [here](/sms-guide/setup/emu)**
+- (emulator) **your settings match our setup guide found [here](/setup/emu)**
 
 ILs in SMS are less accessible in (mostly) requiring cheat codes and hacked Wiis, but this is necessary practically. Having to retime every IL from video is an unmanageable amount of work that sets back the accessibility (and popularity) of doing ILs far more. Having fast resets is also a substantial buff to how much they can get optimised, and like the previous point, how enjoyable and healthy they are to play, learn with and compete in.
 
@@ -54,14 +54,14 @@ Make sure your time is formatted as `4.51` or `16.30` or `1:39.22`. This is diff
 ### Video?
 All top 3 times (as well as specific setup-intensive levels as noted in their columns) must have a linked video. Video is otherwise optional, but highly encouraged. Let me explain why...
 
-The cost of recording an IL video for someone who's able to record an Any% run is very small. See [this section](/sms-guide/info/video-tools/#recording-short-videos) to judge for yourself. The benefit is that you contribute to a collection of videos that can be used by everyone to learn strats, time strats, and get a feel for what level of play corresponds to what times. Videos also legitimise your runs and show respect for the competition, particularly when they rank highly for a specific level or you've reached a high overall level in points ranking.
+The cost of recording an IL video for someone who's able to record an Any% run is very small. See [this section](/info/video-tools/#recording-short-videos) to judge for yourself. The benefit is that you contribute to a collection of videos that can be used by everyone to learn strats, time strats, and get a feel for what level of play corresponds to what times. Videos also legitimise your runs and show respect for the competition, particularly when they rank highly for a specific level or you've reached a high overall level in points ranking.
 
-[Video Tools Guide](/sms-guide/info/video-tools/){: .btn }
+[Video Tools Guide](/info/video-tools/){: .btn }
 
 Everybody should check this out to find out what options are available for recording videos of ILs, as well as cropping, frame-analysing/retiming and downloading them. YouTube submissions are preferred, though Twitch clips are fine if that's simpler for you. Twitter is allowed but discouraged. These preferences are due to how easy it is to frame-advance and download videos, as well as Twitter's uncontrollable viewer-side video hyper-compression.
 
 ### Links
-Hyperlinks are used to link videos for IL submissions; right-click a cell, then **Insert Link** (or ctrl+k). If you replace a time with video with one without video, check that the link is gone (possibly right-click, then **Remove Link**). Make sure to check [rules #4 and #5](/sms-guide/info/il/rules/) for the rules and guidelines the video must/should conform to.
+Hyperlinks are used to link videos for IL submissions; right-click a cell, then **Insert Link** (or ctrl+k). If you replace a time with video with one without video, check that the link is gone (possibly right-click, then **Remove Link**). Make sure to check [rules #4 and #5](/info/il/rules/) for the rules and guidelines the video must/should conform to.
 
 If you're struggling to link a video (e.g. the link keeps getting recoloured black and not counted in your video count despite being there), try selecting the cell, menuing into *Format > Number > Plain Text*, then ctrl+k and click *Apply* – this is a known workaround for buggy link detection.
 
@@ -73,4 +73,4 @@ Adding a comment is our process of easily alerting the mods to update your newly
 
 ### IGT
 
-By default, all stated times for ILs must match the time shown in-game with the *Shine Get Timer* cheat code. However, you're allowed to submit times without the timer, e.g. from a full-game run, to be retimed by a mod; type `/ticket create [insert topic]` in any channel in the discord. Such submissions must be accompanied by a *cropped* (not timestamped) video, for ease of verification. If you're interested in learning how to retime your own videos, see [here](/sms-guide/info/retime/). The times are frame-counted and/or adjusted for loads/text.
+By default, all stated times for ILs must match the time shown in-game with the *Shine Get Timer* cheat code. However, you're allowed to submit times without the timer, e.g. from a full-game run, to be retimed by a mod; type `/ticket create [insert topic]` in any channel in the discord. Such submissions must be accompanied by a *cropped* (not timestamped) video, for ease of verification. If you're interested in learning how to retime your own videos, see [here](/info/retime/). The times are frame-counted and/or adjusted for loads/text.

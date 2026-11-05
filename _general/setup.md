@@ -17,16 +17,16 @@ In order to submit to the [official leaderboards](https://www.speedrun.com/sms),
 - Nintendo Wii/Gamecube
 - Nintendo Switch/Switch2
 
-[**Recommended Hardware**](/sms-guide/setup/hardware)
+[**Recommended Hardware**](/setup/hardware)
 
 These emulators are allowed for times slower than the threshold defined in the [Category Rules](https://www.speedrun.com/sms?h=Any-gcn-no-ace&rules=category&x=n2y3r8do-j845md4n.gq7on0vl-ylqxgz78.1gn4rz8l):
 
 - Dolphin Emulator (PC or other systems)
 - Nintendont (Wii)
 
-[**Emulator Guide**](/sms-guide/setup/emu)
+[**Emulator Guide**](/setup/emu)
 
-There are small and large differences between the versions which will affect your speedruns. Find the full list of differences in our [version differences](https://smscommunity.github.io/sms-guide/game/versiondifferences) page.
+There are small and large differences between the versions which will affect your speedruns. Find the full list of differences in our [version differences](/game/versiondifferences) page.
 
 ## Leaderboard Verification
 In order to have your run verified on our official leaderboards, there are rules:

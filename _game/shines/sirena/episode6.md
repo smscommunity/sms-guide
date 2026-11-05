@@ -13,7 +13,7 @@ grand_parent: Shines
 
 ### Version difference explanation
 
-<img src="/sms-guide/assets/shines/sirena/episode6/s6_version_diff.png">
+<img src="/assets/shines/sirena/episode6/s6_version_diff.png">
 
 Translations of deleted tweets:  
 "The dirt information is stored in image format.

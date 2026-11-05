@@ -9,7 +9,7 @@ nav_exclude: true
 
 There are a few types of "theoretical fastest times" for an RTA speedrun. This will explain the three main types using Any% as an example, since it has the most documentation and effort put into it.  
 ### 1. Tool-Assisted Speedrun (TAS)  
-"What is the fastest time this game can physically be completed, if you could control exactly what inputs go into it down to the millisecond?" This is explored using *TAS* input: slowing the game down using an emulator and refining the inputs, then playing it back at full speed. The current TAS record is **1:05:47**, and you can watch it **[here](https://www.youtube.com/watch?v=igm67ZABQgE)**, and the full collection of TAS videos **[here](https://smscommunity.github.io/sms-guide/game/misc/#tases)**.  
+"What is the fastest time this game can physically be completed, if you could control exactly what inputs go into it down to the millisecond?" This is explored using *TAS* input: slowing the game down using an emulator and refining the inputs, then playing it back at full speed. The current TAS record is **1:05:47**, and you can watch it **[here](https://www.youtube.com/watch?v=igm67ZABQgE)**, and the full collection of TAS videos **[here](/game/misc/#tases)**.  
 
 ### 2. Best Theoretical Time (BTT) and Community Sum of Best Segments (SoB)
 While this run is technically more feasible than the TAS run since all the inputs are being performed in real time, it still is completely unrealistic for a human to achieve. This is because the longer a run is, the more difficult it is to play consistently enough to match your best segment of all time for each shine. RNG adds even more variance, and as a result, top-level runners can only expect to play just under 2 minutes slower than their sum of best.  

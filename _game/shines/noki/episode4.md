@@ -21,14 +21,14 @@ Eely-Mouth. A formidable foe. Learn how to clean his teeth and when to bait him,
 When the level starts, Mario will begin to **sink towards the Eel**
   * Don't Hover before reaching the Eel - *doing so will just needlessly delay the fight from starting*
   * While falling down, make sure to grab one of the Air Bubbles to refill F.L.U.D.D's tank;  
-    I'd recommend grabbing the [first one on the left side](/sms-guide/assets/shines/noki/episode4/1.jpeg) for 6 tooth  
-    I'd recommend grabbing the [first one on the right side](/sms-guide/assets/shines/noki/episode4/2.jpeg) for 5 tooth  
+    I'd recommend grabbing the [first one on the left side](/assets/shines/noki/episode4/1.jpeg) for 6 tooth  
+    I'd recommend grabbing the [first one on the right side](/assets/shines/noki/episode4/2.jpeg) for 5 tooth  
         Position Mario above the Bubble, slightly towards the bottom, once you hit it, hold Forward on the Control Stick    
         *remember to not hover - just swim Mario into the bubble*
-  * After you refill your tank, position Mario above the center of the Eel's mouth - *favoring [slightly towards the top side](/sms-guide/assets/shines/noki/episode4/3.jpeg)*
+  * After you refill your tank, position Mario above the center of the Eel's mouth - *favoring [slightly towards the top side](/assets/shines/noki/episode4/3.jpeg)*
  
 Once the **Eel starts to spin**: *Take note of its spinning direction, and Y-Turn accordingly*  
-<img src="/sms-guide/assets/shines/noki/episode4/4.png">
+<img src="/assets/shines/noki/episode4/4.png">
  
 Once the **Eel begins to scream**: Hold Hover until its mouth is nearly open  
 *holding slightly backwards will help to clean multiple teeth with your hover*
@@ -39,7 +39,7 @@ Enter Y-Cam and **clean off the center 4 teeth** - starting with the left tooth,
 Hover as needed to remain high enough to not be eaten by the Eel and **clean the 5th tooth**
  
 **Gold Tooth**  
-<img src="/sms-guide/assets/shines/noki/episode4/5.png" width=500>
+<img src="/assets/shines/noki/episode4/5.png" width=500>
 
 The Gold Tooth is located on the right side of the Female half of the Eel - *the side with eyelashes instead of eyebrows*   
 *this tooth has similar properties to a center tooth, allowing you to clean it off without the eel beginning to spin*
@@ -69,10 +69,10 @@ If you did this correctly then Mario should've taken damage from the tooth while
 Mario sinks slower while above the center of the Eel's Chamber, so try to go towards the outer walls as fast as possible  
 *try not to hover, as this will just cause you to have to sink extra distance*
  
-**Shine Get**: *[alternative angle](/sms-guide/assets/shines/noki/episode4/6.jpeg)*  
-<img src="/sms-guide/assets/shines/noki/episode4/7.jpeg" width=500>  
+**Shine Get**: *[alternative angle](/assets/shines/noki/episode4/6.jpeg)*  
+<img src="/assets/shines/noki/episode4/7.jpeg" width=500>  
 Spawns to the right of the small stalagmite - *shown in the picture above*  
-The shine spawn is on the left side of what looks to be a Square with a large dot inside of it, *[as seen here](/sms-guide/assets/shines/noki/episode4/8.jpeg)*  
+The shine spawn is on the left side of what looks to be a Square with a large dot inside of it, *[as seen here](/assets/shines/noki/episode4/8.jpeg)*  
    
 **Reasons for the Eel going down**
   * if you get eaten
@@ -99,7 +99,7 @@ The shine spawn is on the left side of what looks to be a Square with a large do
 
 Hitboxes:  
 
-<img src="/sms-guide/assets/shines/noki/episode4/eelteeth1.png">  
-<img src="/sms-guide/assets/shines/noki/episode4/eelteeth2.png">  
-<img src="/sms-guide/assets/shines/noki/episode4/eelteeth3.png">  
-<img src="/sms-guide/assets/shines/noki/episode4/eelteeth4.png">  
+<img src="/assets/shines/noki/episode4/eelteeth1.png">  
+<img src="/assets/shines/noki/episode4/eelteeth2.png">  
+<img src="/assets/shines/noki/episode4/eelteeth3.png">  
+<img src="/assets/shines/noki/episode4/eelteeth4.png">  

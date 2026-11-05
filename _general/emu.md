@@ -28,7 +28,7 @@ Synchronize GPU Thread: On (Stops crashes from long play sessions, this may no l
 Leave all of the other options Undetermined (box within a box)  
 - These options will use your current Dolphin Settings (DON'T uncheck them! Doing so will force all of these options to be turned off - likely causing Dolphin to lag significantly)
 
-<img src="/sms-guide/assets/setup/emu/1.png">  
+<img src="/assets/setup/emu/1.png">  
 
 **Configuration**  
 
@@ -36,7 +36,7 @@ Enable Dual Core: On (Doesn't actually 'speedup' the game, just makes Emulation 
 Enable Cheats: Off (For Runs), On (For Practice)  
 Auto Update: Don't Update (I'd recommend keeping the Dolphin version you use for Runs the same)  
 
-<img src="/sms-guide/assets/setup/emu/2.png">  
+<img src="/assets/setup/emu/2.png">  
 
 **Interface**  
 
@@ -45,20 +45,20 @@ Pause on Focus Loss: Off (Having this option 'On' will pause the game if you Alt
 Show On-Screen Display Messages: Off (Hides the yellow text from appearing at the top left of the screen)
 Always Hide Mouse Cursor: On (If you're using Region/Desktop Capture for stream)  
 
-<img src="/sms-guide/assets/setup/emu/3.png">  
+<img src="/assets/setup/emu/3.png">  
 
 **Audio**
 
 I've never experienced an issue with audio in dolphin, so these options may be irrelevant  
 (I also skipped 'Paths', 'GameCube', and 'Wii', as these options wont matter)  
 
-<img src="/sms-guide/assets/setup/emu/4.png">  
+<img src="/assets/setup/emu/4.png">  
 
 **Advanced**  
 
 Everything on Default, using "JIT Recompiler (recommended)", I haven't had the need to test the other Engines as they're listed as slower. The other options are likely to break the game, or make gameplay speed not comparable to console.  
 
-<img src="/sms-guide/assets/setup/emu/5.png">  
+<img src="/assets/setup/emu/5.png">  
 
 **Graphics - General**  
 *(Most of the Gameplay Fixes are found in the Graphics Options)*  
@@ -73,7 +73,7 @@ Shader Compilation: Synchronous (Ubershaders)
   - if this doesn't fix it for you, then you may also need 'Compile Shaders Before Starting' to be Enabled.
 *Keep in mind, if you're on a low spec computer, this has a chance to cause a lot of lag*
 
-<img src="/sms-guide/assets/setup/emu/6.png">  
+<img src="/assets/setup/emu/6.png">  
 
 **Enhancements**  
 
@@ -87,9 +87,9 @@ Force Texture Filtering: Off
 Disable Copy Filter: Off (Likely irrelevant)  
 Force 24-Bit Color: On (Mostly creates less blocky shadows)
 - Note: this might cause issues with Visual Cue setups when switching to console
-- eg. Honey Skip \\\ On: [🔗](/sms-guide/assets/setup/emu/efbon.jpeg) | Off: [🔗](/sms-guide/assets/setup/emu/efboff.jpeg)
+- eg. Honey Skip \\\ On: [🔗](/assets/setup/emu/efbon.jpeg) | Off: [🔗](/assets/setup/emu/efboff.jpeg)
 
-<img src="/sms-guide/assets/setup/emu/7.png">  
+<img src="/assets/setup/emu/7.png">  
 
 **Hacks**  
 
@@ -104,7 +104,7 @@ Save Texture Cache to State: On
 Fast Depth Caluculation & Vertex Rounding & Disable Bounding Box: Off
 - I have these settings off for emulation accuracy, but It's likely not required
 
-<img src="/sms-guide/assets/setup/emu/8.png">  
+<img src="/assets/setup/emu/8.png">  
 
 **Advanced**  
 
@@ -112,4 +112,4 @@ Advanced Options mostly don't affect Speedrunning
 Enable Progressive Scan: On - Useful for PAL Runners  
 Backend Multithreading: On - Could help poor performance issues (only available with Vulkan)  
 
-<img src="/sms-guide/assets/setup/emu/9.png">  
+<img src="/assets/setup/emu/9.png">  
